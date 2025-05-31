@@ -5,7 +5,7 @@ http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43894
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png" group-title="FR| FRANCE FHD HD",FR| TF1 FHD
 http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43895
@@ -13,9 +13,23 @@ http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43895
 http://genco.ovh/amidevous/7cXkf9Up6f0hZHd/43896
 #EXTINF:-1 tvg-id="TF1plus1.fr_1" tvg-name="FR| TF1 +1 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png" group-title="FR| FRANCE FHD HD",FR| TF1 +1 FHD
 http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43898
+#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 (France tv)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 2  (France tv)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 3 (France tv)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3  (France tv)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ FHD
+https://vavoo.to/live2/play/2641610486.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NDg3MTc3NjM1MzgsXCJ2YWxpZFVudGlsXCI6MTc0ODcxODk2MzUzOCxcInV1aWRcIjpcIkpwTHMyNEhxVGM2SGRXWXpBSDRINDVOSUs2NnRSSHV1L2hKdENNMEhOVzA9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjg5Ljg2LjE1NS4zXCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjJcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJHcGI5MXdEUENSYkxyZHlSNGNHS2twa2tpb2FqZVdYeTRxZVJuNW9UNEEzcEFyeTdnUE1keHl1bjRNbDRzUXNCNDl5YmZQSnd1VVZ6UDhuK2RSWENrT3ZNVGZKeC9RZndGQnJMZnpEUWZGdnhKZ0VrMGpwellxN3FBbHdJN0JQOERUdUVuSzJaWDlXazEvUGY3ZUFMbEVxeE9paGprTXV3bE1XYkxRWEd6R3M9In0=User-Agent=VAVOO/1.51
+#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ HD
+https://vavoo.to/live2/play/2641610486.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NDg3MTc3NjM1MzgsXCJ2YWxpZFVudGlsXCI6MTc0ODcxODk2MzUzOCxcInV1aWRcIjpcIkpwTHMyNEhxVGM2SGRXWXpBSDRINDVOSUs2NnRSSHV1L2hKdENNMEhOVzA9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjg5Ljg2LjE1NS4zXCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjJcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJHcGI5MXdEUENSYkxyZHlSNGNHS2twa2tpb2FqZVdYeTRxZVJuNW9UNEEzcEFyeTdnUE1keHl1bjRNbDRzUXNCNDl5YmZQSnd1VVZ6UDhuK2RSWENrT3ZNVGZKeC9RZndGQnJMZnpEUWZGdnhKZ0VrMGpwellxN3FBbHdJN0JQOERUdUVuSzJaWDlXazEvUGY3ZUFMbEVxeE9paGprTXV3bE1XYkxRWEd6R3M9In0=User-Agent=VAVOO/1.51
 #EXTINF:-1 tvg-id="laune.be" tvg-name="FR| la Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/2560px-RTBF_La_Une_logo.svg.png" group-title="FR| FRANCE FHD HD",FR| La une
-#KODIPROP:contentlookup=Falso
-#KODIPROP:mimetype=application/trash+xml
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
