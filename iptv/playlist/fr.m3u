@@ -18,7 +18,7 @@ http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43898
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+http://69.64.57.208/france2/mono.m3u8
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 3 (France tv)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3  (France tv)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
