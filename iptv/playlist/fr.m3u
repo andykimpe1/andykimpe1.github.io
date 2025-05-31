@@ -13,9 +13,9 @@ https://andykimpe1.github.io/iptv/streams/fr/france2proxy.m3u8|User-Agent=Mozill
 https://andykimpe1.github.io/iptv/streams/fr/france3proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ HD
 plugin://plugin.video.BauBauVavoo/?action=&group=France&name=CANAL
-#EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 5
+#EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-#EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png" group-title="FR| FRANCE FHD HD",FR| M6
+#EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png" group-title="FR| FRANCE FHD HD",FR| M6 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
@@ -23,6 +23,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 #EXTINF:-1 tvg-id="_1" tvg-name="FR| ARTE FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png" group-title="FR| FRANCE FHD HD",FR| ARTE FHD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+#EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/w9hd.png" group-title="FR| FRANCE FHD HD",FR| W9 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
 #EXTINF:-1 tvg-id="laune.be" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
