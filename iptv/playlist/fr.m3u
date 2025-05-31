@@ -8,11 +8,11 @@ http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43894
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png" group-title="FR| FRANCE FHD HD",FR| TF1 FHD
-http://genco.ovh/amidevous/7cXkf9Up6f0hZHd/43895
+http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43895
 #EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png" group-title="FR| FRANCE FHD HD",FR| TF1 HD
 http://genco.ovh/amidevous/7cXkf9Up6f0hZHd/43896
 #EXTINF:-1 tvg-id="TF1plus1.fr_1" tvg-name="FR| TF1 +1 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png" group-title="FR| FRANCE FHD HD",FR| TF1 +1 FHD
-http://genco.ovh/amidevous/7cXkf9Up6f0hZHd/43898
+http://genco.ovh/Dq6RUypKqz5h8BW/C7d9X7czzVWgwFm/43898
 #EXTINF:-1 tvg-id="laune.be" tvg-name="FR| la Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/2560px-RTBF_La_Une_logo.svg.png" group-title="FR| FRANCE FHD HD",FR| La une
 #KODIPROP:contentlookup=Falso
 #KODIPROP:mimetype=application/trash+xml
