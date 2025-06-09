@@ -7,11 +7,11 @@ https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 https://andykimpe.ovh/tf1.php/index.m3u8
-#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (France TV)
+#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (France TV)
 https://andykimpe.ovh/france2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (kool.to)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (kool.to)
+#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (kool.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (kool.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/876169338/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 HD (vavoo.to)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 HD (vavoo.to)
+#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 HD (vavoo.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3118025835/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV Geo)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
 https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
