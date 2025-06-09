@@ -1,6 +1,16 @@
 <?php
+$ch1 = curl_init();
+curl_setopt($ch1, CURLOPT_URL, "http://www.veesta.com/p5/index.php?q=https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_3/hls_fr3/index.m3u8&hl=c1");
+curl_setopt($ch1, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch1, CURLOPT_HEADER, 0);
+curl_setopt($ch1, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0");
+curl_setopt($ch1,CURLOPT_SSL_VERIFYPEER, false);
+$res1 = curl_exec($ch1);
+curl_close($ch1);
+$urlpath = parse_url($res1, PHP_URL_PATH);
+$urlpath = str_replace("index.m3u8", "", $urlpath);
 
-$dest_host = "simulcast-p.ftven.fr/ZXhwPTE3NDg3NDA2OTV+YWNsPSUyZip+aG1hYz03YjVkYjc2NGIxZjVkZTE1MjE0OTU4OTA1NTg3NzY3YTkxODA3MjMwNTViNmRhYTUxNmJlYmE2ZDMyMjkxNzk4/simulcast/France_3/hls_fr3/";
+$dest_host = "simulcast-p.ftven.fr/" . $urlpath . "";
 
 
 
