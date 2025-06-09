@@ -15,7 +15,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/8761693
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3118025835/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8
+https://andykimpe1.github.io/iptv/streams/fr/france3proxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV Geo Lock)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
 https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8
@@ -29,7 +29,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france5.m3u8
+https://andykimpe1.github.io/iptv/streams/fr/france5proxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png" group-title="FR| FRANCE FHD HD",FR| M6 FHD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3813068770/index.m3u8
