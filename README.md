@@ -11,4 +11,4 @@ https://andykimpe1.github.io/iptv/playlist/fr-vlc.m3u
 
 epg
 
-http://genco.ovh:8080/c/xmltv.xml
+http://genco.ovh/c/xmltv.xml
