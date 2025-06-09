@@ -1,8 +1,17 @@
 <?php
 
-$dest_host = "simulcast-p.ftven.fr/ZXhwPTE3NDg3NDQyOTF+YWNsPSUyZip+aG1hYz1iOTFjZGFkYTU3MmI0Y2Q0ZGExY2U0MjkyNmRhZTllOGQ2YWUwZjUyNjdlNWVhMzZjYTljYmNlMzQ0OTg1Mzk0/simulcast/France_2/hls_fr2/";
+$ch1 = curl_init();
+curl_setopt($ch1, CURLOPT_URL, "http://www.veesta.com/p5/index.php?q=https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_2/hls_fr2/index.m3u8&hl=c1");
+curl_setopt($ch1, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch1, CURLOPT_HEADER, 0);
+curl_setopt($ch1, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0");
+curl_setopt($ch1,CURLOPT_SSL_VERIFYPEER, false);
+$res1 = curl_exec($ch1);
+curl_close($ch1);
+$urlpath = parse_url($res1, PHP_URL_PATH);
+$urlpath = str_replace("index.m3u8", "", $urlpath);
 
-
+$dest_host = "simulcast-p.ftven.fr/" . $urlpath . "";
 
 $proxy_base_url = '/';
 
@@ -63,8 +72,9 @@ if( sizeof($_POST) > 0 )
 
 $res = curl_exec($ch);
 curl_close($ch);
-$res = str_replace("https://simulcast-p.ftven.fr/keys/hls.key", "https://exehukal.myhostpoint.ch/hls.key", $res);
-$res = str_replace("France_2", "http://www.veesta.com/p5/index.php?q=https%3A%2F%2Fsimulcast-p.ftven.fr%2FZXhwPTE3NDg3NDQyOTF%2BYWNsPSUyZip%2BaG1hYz1iOTFjZGFkYTU3MmI0Y2Q0ZGExY2U0MjkyNmRhZTllOGQ2YWUwZjUyNjdlNWVhMzZjYTljYmNlMzQ0OTg1Mzk0%2Fsimulcast%2FFrance_2%2Fhls_fr2%2FFrance_2", $res);
+$res = str_replace("https://simulcast-p.ftven.fr/keys/hls.key", "http://www.veesta.com/p5/index.php?q=https://simulcast-p.ftven.fr/keys/hls.key&hl=c1", $res);
+//https://exehukal.myhostpoint.ch/hls.key
+$res = str_replace("France_2", "http://www.veesta.com/p5/index.php?q=https://" . urlencode($dest_host) . "France_2", $res);
 $res = str_replace(".ts", ".ts&hl=c1", $res);
 
 /* parse response */
