@@ -9,58 +9,68 @@ https://andykimpe.ovh/tf1.php/index.m3u8
 https://andykimpe1.github.io/iptv/streams/fr/france2proxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (kool.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (kool.to)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/876169338/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/876169338/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 HD (vavoo.to)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3118025835/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3118025835/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV Geo Lock)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 HD (France TV Geo Lock)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 HD (France TV)
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.sx)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ FHD (daddylive.sx)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png" group-title="FR| FRANCE FHD HD",FR| M6 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3813068770/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="_1" tvg-name="FR| ARTE FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png" group-title="FR| FRANCE FHD HD",FR| ARTE FHD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/w9hd.png" group-title="FR| FRANCE FHD HD",FR| W9 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3385549986/index.m3u8
 
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 116" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 116
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-116.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 117" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 117
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-117.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 118" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 118
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-118.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 119" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 119
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-119.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 120" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 120
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-120.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 121" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 121
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="stream 122" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 122
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-122.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/675a0d49/9024ee3d.isml/.mpd
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2866202423/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 1" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2216013927/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/1024436493/index.m3u8
