@@ -72,8 +72,8 @@ if( sizeof($_POST) > 0 )
 
 $res = curl_exec($ch);
 curl_close($ch);
-$res = str_replace("https://simulcast-p.ftven.fr/keys/hls.key", "https://exehukal.myhostpoint.ch/hls.key", $res);
-$res = str_replace("France_2", "http://www.veesta.com/p5/index.php?q=https%3A%2F%2Fsimulcast-p.ftven.fr%2FZXhwPTE3NDg3NDQyOTF%2BYWNsPSUyZip%2BaG1hYz1iOTFjZGFkYTU3MmI0Y2Q0ZGExY2U0MjkyNmRhZTllOGQ2YWUwZjUyNjdlNWVhMzZjYTljYmNlMzQ0OTg1Mzk0%2Fsimulcast%2FFrance_2%2Fhls_fr2%2FFrance_2", $res);
+$res = str_replace("https://simulcast-p.ftven.fr/keys/hls.key", "http://www.veesta.com/p5/index.php?q=https://simulcast-p.ftven.fr/keys/hls.key&hl=c1", $res);
+$res = str_replace("France_4", "http://www.veesta.com/p5/index.php?q=https://" . urlencode($dest_host) . "France_4", $res);
 $res = str_replace(".ts", ".ts&hl=c1", $res);
 
 /* parse response */
