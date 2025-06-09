@@ -25,7 +25,7 @@ https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/franc
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-id="_1" tvg-name="FR| ARTE FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png" group-title="FR| FRANCE FHD HD",FR| ARTE FHD
+#EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png" group-title="FR| FRANCE FHD HD",FR| ARTE FHD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 #EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/w9hd.png" group-title="FR| FRANCE FHD HD",FR| W9 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
