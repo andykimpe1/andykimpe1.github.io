@@ -6,17 +6,13 @@ https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-https://andykimpe.ovh/tf1.php/index.m3u8
+https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (France TV)
 https://andykimpe1.github.io/iptv/streams/fr/france2proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV Geo)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
 https://andykimpe1.github.io/iptv/streams/fr/france3proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-
-
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV Geo)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 4 FHD (France TV)
 https://andykimpe1.github.io/iptv/streams/fr/france4proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
-
-
 #EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD
 https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png" group-title="FR| FRANCE FHD HD",FR| M6 FHD
