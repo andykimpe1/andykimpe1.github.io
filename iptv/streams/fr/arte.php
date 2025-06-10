@@ -73,7 +73,7 @@ if( sizeof($_POST) > 0 )
 $res = curl_exec($ch);
 curl_close($ch);
 $res = str_replace("https://simulcast-p.ftven.fr/keys/hls.key", "http://www.veesta.com/p5/index.php?q=https://simulcast-p.ftven.fr/keys/hls.key&hl=c1", $res);
-$res = str_replace("France_2", "http://www.veesta.com/p5/index.php?q=https://" . urlencode($dest_host) . "France_2", $res);
+$res = str_replace("Arte", "http://www.veesta.com/p5/index.php?q=https://" . urlencode($dest_host) . "Arte", $res);
 $res = str_replace(".ts", ".ts&hl=c1", $res);
 
 /* parse response */
