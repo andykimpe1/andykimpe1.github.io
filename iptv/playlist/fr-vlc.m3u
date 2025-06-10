@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="_1" tvg-name="=FR= FRANCE TNT =FR=" tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="FR| FRANCE FHD HD",=FR= FRANCE TNT =FR=
 https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
@@ -15,16 +16,16 @@ https://andykimpe1.github.io/iptv/streams/fr/france3proxy.m3u8
 #EXTINF:-1 tvg-id="France4.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 4 FHD (France TV)
 https://andykimpe1.github.io/iptv/streams/fr/france4proxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD
+#EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD (France TV)
 https://andykimpe1.github.io/iptv/streams/fr/france5proxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| M6 FHD
+#EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| M6 FHD (kool.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3813068770/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| ARTE FHD
+#EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| ARTE FHD (France TV)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| W9 FHD
+#EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| W9 FHD (kool.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3385549986/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
@@ -54,38 +55,53 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1  tvg-id="T18.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" group-title="FR| FRANCE TNT",FR| T18 HD (dailymotion.com)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1  tvg-id="Nova19.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCVpiAI6h-w5636sV9quSqHutYZ9HLff4iA&s" group-title="FR| FRANCE TNT",FR| Nova 19
+#EXTINF:-1  tvg-id="Nova19.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCVpiAI6h-w5636sV9quSqHutYZ9HLff4iA&s" group-title="FR| FRANCE TNT",FR| Nova 19 (semptembre 2025)
 https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr_1" tvg-name="FR| TF1 Series Films HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FR| FRANCE TNT",FR| TF1 Series Films HD (TF1+)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="LEquipe21.fr_1" tvg-name="FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FR| FRANCE TNT",FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="6ter.fr_1" tvg-name="FR| 6Ter FHD (kool.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" group-title="FR| FRANCE TNT",FR| 6Ter FHD (kool.to)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2645506972/index.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr_1" tvg-name="FR| RMC STORY FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (rmcbfmplay.com)
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr_1" tvg-name="FR| RMC Decouverte FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC Decouverte FHD (rmcbfmplay.com)
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr_1" tvg-name="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.sx)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ FHD (daddylive.sx)
+#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.sx)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.sx)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20hd.png" group-title="FR| CINEMA FHD HD",FR| CANAL+ HD
+#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 116" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 116
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 1 FHD (daddylive.sx)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.sx)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-116.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 117" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 117
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 2 FHD (daddylive.sx)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (daddylive.sx)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-117.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 118" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 118
+#EXTINF:-1 tvg-id="" tvg-name="stream 118" tvg-logo="" group-title="FR| SPORTS",stream 118
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-118.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 119" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 119
+#EXTINF:-1 tvg-id="" tvg-name="stream 119" tvg-logo="" group-title="FR| SPORTS",stream 119
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-119.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 120" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 120
+#EXTINF:-1 tvg-id="" tvg-name="stream 120" tvg-logo="" group-title="FR| SPORTS",stream 120
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-120.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 121" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 121
+#EXTINF:-1 tvg-id="" tvg-name="stream 121" tvg-logo="" group-title="FR| SPORTS",stream 121
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 122" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 122
+#EXTINF:-1 tvg-id="" tvg-name="stream 122" tvg-logo="" group-title="FR| SPORTS",stream 122
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-122.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
