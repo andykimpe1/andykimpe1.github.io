@@ -42,7 +42,7 @@ https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a38
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8
+https://andykimpe1.github.io/iptv/streams/fr/arteproxy.m3u8
 #EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
