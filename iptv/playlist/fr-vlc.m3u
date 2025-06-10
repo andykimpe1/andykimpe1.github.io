@@ -23,7 +23,7 @@ https://andykimpe1.github.io/iptv/streams/fr/france5proxy.m3u8
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3813068770/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| ARTE FHD (France TV)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/arte.m3u8
+https://andykimpe1.github.io/iptv/streams/fr/arteproxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| W9 FHD (kool.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3385549986/index.m3u8
