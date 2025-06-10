@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-id="_1" tvg-name="=FR= FRANCE TNT =FR=" tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="FR| FRANCE TNT",=FR= FRANCE TNT =FR=
 https://github.com/Paradise-91/ParaTV/raw/main/assets/indisponible/indisponible.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" group-title="FR| FRANCE TNT",FR| TF1 HD (TF1+)
