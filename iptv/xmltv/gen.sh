@@ -13,3 +13,25 @@ cd ~/.wg++
 wget https://andykimpe1.github.io/iptv/xmltv/config/TF1.xml -O WebGrab++.config.xml
 ./run.net.sh
 wget https://andykimpe1.github.io/iptv/xmltv/config/France2.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France3.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France4.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France5.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/M6.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/Arte.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/LCP.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/W9.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/TMC.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/TFX.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/GULLI.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/BFMTV.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/CNEWS.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/LCI.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/CSTAR.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/T18.xml -O WebGrab++.config.xml
+#wget https://andykimpe1.github.io/iptv/xmltv/config/Nova19.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/TF1SERIESFILMS.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/LACHAINELEQUIPE.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/6TER.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/RMCSTORY.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/RMCDECOUVERTE.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/Cherie25.xml -O WebGrab++.config.xml
