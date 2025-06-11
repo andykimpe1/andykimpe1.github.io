@@ -8,5 +8,5 @@
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">LCP</channel
+  <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">LCP</channel>
 </settings>
