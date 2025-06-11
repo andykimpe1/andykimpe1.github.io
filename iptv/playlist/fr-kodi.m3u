@@ -10,11 +10,11 @@ https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/tf1plus/tf1.m3
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 2 FHD (France TV)
 https://andykimpe.ovh/france2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 3 FHD (France TV)
-https://andykimpe1.github.io/iptv/streams/fr/france3proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
-https://andykimpe1.github.io/iptv/streams/fr/france4proxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+#EXTINF:-1 tvg-id="France4.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
+https://andykimpe.ovh/france4.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE TNT",FR| FRANCE 5 FHD (France TV)
-https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/france5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,7 +22,7 @@ https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/francetv/franc
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 #EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
-https://andykimpe1.github.io/iptv/streams/fr/arteproxy.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://andykimpe.ovh/arte.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
