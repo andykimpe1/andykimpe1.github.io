@@ -8,5 +8,5 @@
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France 3">France 3</channel>
+  <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">France 3</channel>
 </settings>
