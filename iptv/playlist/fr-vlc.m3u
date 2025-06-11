@@ -23,6 +23,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/3813068
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| M6 FHD (vavoo.to)
 https://vavoo.to/play/3813068770/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| M6 HD (vavoo.to)
 https://vavoo.to/play/688242401/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
