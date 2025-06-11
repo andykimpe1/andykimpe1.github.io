@@ -10,5 +10,5 @@ wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
 cd ~/.wg++
 ./install.sh
-wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/TF1.xml -O WebGrab++.config.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/TF1.xml -O WebGrab++.config.xml
 ./run.net.sh
