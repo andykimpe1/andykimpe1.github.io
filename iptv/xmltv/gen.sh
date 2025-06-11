@@ -12,3 +12,4 @@ cd ~/.wg++
 ./install.sh
 wget https://andykimpe1.github.io/iptv/xmltv/config/TF1.xml -O WebGrab++.config.xml
 ./run.net.sh
+wget https://andykimpe1.github.io/iptv/xmltv/config/France2.xml -O WebGrab++.config.xml
