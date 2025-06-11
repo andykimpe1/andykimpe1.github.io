@@ -7,47 +7,47 @@
 https://andykimpe.ovh/tf1.php/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 2 FHD (France TV)
 https://andykimpe.ovh/france2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 3 FHD (France TV)
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 3 FHD (France TV)
 https://andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="France4.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
 https://andykimpe.ovh/france4.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE TNT",FR| FRANCE 5 FHD (France TV)
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE TNT",FR| FRANCE 5 FHD (France TV)
 https://andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
 https://andykimpe.ovh/arte.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr_1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
 https://andykimpe.ovh/lcpps.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="W9.fr_1" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:-1 tvg-id="TMC.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1  tvg-id="Gulli.fr_1" tvg-name="FR| Gulli (gulli.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" group-title="FRANCE",FR| Gulli (gulli.fr)
+#EXTINF:-1  tvg-id="Gulli.fr" tvg-name="FR| Gulli (gulli.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" group-title="FRANCE",FR| Gulli (gulli.fr)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
-#EXTINF:-1  tvg-id="BFMTV.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FR| FRANCE TNT",FR| BFM TV FHD (rmcbfmplay.com)
+#EXTINF:-1  tvg-id="BFMTV.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FR| FRANCE TNT",FR| BFM TV FHD (rmcbfmplay.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
