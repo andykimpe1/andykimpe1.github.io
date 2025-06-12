@@ -9,7 +9,7 @@ https://andykimpe.ovh/tf1.php/index.m3u8
 https://andykimpe.ovh/france2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| FRANCE TNT",FR| FRANCE 3 FHD (France TV)
 https://andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| FRANCE 4 FHD (France TV)
 https://andykimpe.ovh/france4.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 FHD (France TV)" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png" group-title="FR| FRANCE TNT",FR| FRANCE 5 FHD (France TV)
 https://andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
