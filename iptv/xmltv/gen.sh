@@ -16,7 +16,7 @@ rm -f guide.xml
 tv_grab_fr_telerama --config-file $HOME/config.conf --output guide.xml --days 7
 sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
 sed -i "s|C4.api.telerama.fr|France2.fr|g" guide.xml
-sed -i "s|C80.api.telerama.fr|France2.fr|g" guide.xml
+sed -i "s|C80.api.telerama.fr|France3.f|g" guide.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
