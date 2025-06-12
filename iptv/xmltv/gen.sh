@@ -22,6 +22,9 @@ sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
 sed -i "s|C4.api.telerama.fr|France2.fr|g" guide.xml
 sed -i "s|C80.api.telerama.fr|France3.fr|g" guide.xml
 sed -i "s|C78.api.telerama.fr|France4.fr|g" guide.xml
+sed -i "s|C47.api.telerama.fr|France5.fr|g" guide.xml
+sed -i "s|C118.api.telerama.fr|M6.fr|g" guide.xml
+sed -i "s|C111.api.telerama.fr|ARTE.fr|g" guide.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
