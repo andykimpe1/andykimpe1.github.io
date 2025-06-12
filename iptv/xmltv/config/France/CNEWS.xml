@@ -8,5 +8,5 @@
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="sfr.fr" site_id="481" xmltv_id="BFMTV.fr">BFM TV</channel>
+  <channel update="i" site="sfr.fr" site_id="226" xmltv_id="CNews.fr">CNews</channel>
 </settings>
