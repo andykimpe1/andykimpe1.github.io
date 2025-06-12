@@ -1,17 +1,25 @@
 #!/bin/bash
-cd
+cd $HOME
 sudo apt-get update
 sudo apt upgrade -y
 sudo apt-get -y install dos2unix git ssh net-tools wget nano unzip xmltv
 sudo apt-get -y install dotnet-runtime-7.0
 sudo apt-get -y install dotnet-runtime-8.0
-rm -rf ~/.wg++ ~/WebGrabPlus_V5.3_install.tar.gz
+rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
 sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
 sudo chmod +x /usr/bin/tv_grab_fr_telerama
-wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O config.conf
+rm -rf $HOME/andykimpe1.github.io $HOME/config.conf 
+git clone git@github.com:andykimpe1/andykimpe1.github.io.git
+cd $HOME/andykimpe1.github.io/iptv/xmltv/
+wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O $HOME/config.conf
 rm -f guide.xml
-tv_grab_fr_telerama --config-file config.conf --output guide.xml --days 7
+tv_grab_fr_telerama --config-file $HOME/config.conf --output guide.xml --days 7
 sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
+sed -i "s|C4.api.telerama.fr|France2.fr|g" guide.xml
+cd $HOME/andykimpe1.github.io
+git add --all *
+git commit -a -m "update epg"
+git push origin main
 exit
 wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
