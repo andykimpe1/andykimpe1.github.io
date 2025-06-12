@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TF1.fr">
+    <display-name lang="fr">TF1</display-name>
+    <url>http://www.sfr.fr</url>
+  </channel>
+  <programme start="20250612001500 +0000" stop="20250612011000 +0000" channel="TF1.fr">
+    <title lang="fr">Night Shift</title>
+    <desc lang="fr">Des feux d'artifice ont provoqué une explosion pendant un concert. TC et Topher interviennent aussitôt pour s'occuper des blessés. Syd rentre d'Afghanistan.(n)</desc>
+  </programme>
+  <programme start="20250612011000 +0000" stop="20250612040000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+  </programme>
+  <programme start="20250612040000 +0000" stop="20250612045500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <desc lang="fr">Thomas et ses amis (ST) / Les Minijusticiers (ST) / Paw Patrol, la Pat'Patrouille - (ST).(n)</desc>
+  </programme>
+  <programme start="20250612045500 +0000" stop="20250612073500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+  </programme>
+  <programme start="20250612073500 +0000" stop="20250612083000 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20250612083000 +0000" stop="20250612090000 +0000" channel="TF1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+    <desc lang="fr">Katie se confie à Bill sur ses émotions face à sa nouvelle relation. Paris met en garde Hope : elle doit s'éloigner de Thomas.(n)</desc>
+  </programme>
+  <programme start="20250612090000 +0000" stop="20250612094500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+  </programme>
+  <programme start="20250612094500 +0000" stop="20250612095000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250612095000 +0000" stop="20250612105500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+  </programme>
+  <programme start="20250612105500 +0000" stop="20250612110000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250612110000 +0000" stop="20250612115000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20250612115000 +0000" stop="20250612115500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250612115500 +0000" stop="20250612120000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250612120000 +0000" stop="20250612122500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Chloé emble aller mieux, mais cache un secret très inquiétant. Ariane et la juge font le bilan, tandis que Yolande conseille Barbara sur la vie de couple.(n)</desc>
+  </programme>
+  <programme start="20250612122500 +0000" stop="20250612140000 +0000" channel="TF1.fr">
+    <title lang="fr">Nightmare in the Desert</title>
+    <desc lang="fr">Une jeune femme, qui pense enfin pouvoir oublier son passé et démarrer une nouvelle vie, se retrouve à lutter pour sa survie dans le désert.(n)</desc>
+  </programme>
+  <programme start="20250612140000 +0000" stop="20250612153000 +0000" channel="TF1.fr">
+    <title lang="fr">Le monstre de Davenwood</title>
+    <desc lang="fr">Une brillante journaliste est envoyée dans sa ville natale pour écrire un article sur la disparition d'une jeune femme. Mais la femme disparue n'est autre que sa meilleure amie.(n)</desc>
+  </programme>
+  <programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="TF1.fr">
+    <title lang="fr">Familles nombreuses : la vie en XXL</title>
+    <desc lang="fr">Bienvenue dans le quotidien de ces familles où tout est XXL !(n)</desc>
+  </programme>
+  <programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="TF1.fr">
+    <title lang="fr">Familles nombreuses : la vie en XXL</title>
+    <desc lang="fr">Bienvenue dans le quotidien de ces familles où tout est XXL !(n)</desc>
+  </programme>
+  <programme start="20250612163000 +0000" stop="20250612171000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">A l'Institut, Gaspard n'hésite pas à gâcher la fête. De son côté, Mattéo prend son mal en patience. Au Double A, Coline se rafraîchit la mémoire.(n)</desc>
+  </programme>
+  <programme start="20250612171000 +0000" stop="20250612175500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Raphaëlle se remémore un souvenir qui change tout. Avant l'opération d'Alex, ses proches font bonne figure malgré l'appréhension. Martial drague ouvertement Gloria.(n)</desc>
+  </programme>
+  <programme start="20250612175500 +0000" stop="20250612180000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250612180000 +0000" stop="20250612184500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20250612184500 +0000" stop="20250612185000 +0000" channel="TF1.fr">
+    <title lang="fr">Le goût du détail</title>
+  </programme>
+  <programme start="20250612185000 +0000" stop="20250612190000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250612190000 +0000" stop="20250612191000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250612191000 +0000" stop="20250612201500 +0000" channel="TF1.fr">
+    <title lang="fr">HPI</title>
+    <desc lang="fr">Ayant eu des mauvaises nouvelles de son père, Morgane prend le train pour Boulogne. Durant le trajet, elle suspecte l'enlèvement d'un passager.(n)</desc>
+  </programme>
+  <programme start="20250612201500 +0000" stop="20250612212000 +0000" channel="TF1.fr">
+    <title lang="fr">HPI</title>
+    <desc lang="fr">L'enquête sur la mort d'un homme, retrouvé poignardé, oblige Morgane à travailler à nouveau avec Adam Karadec, malgré leurs tensions récentes.(n)</desc>
+  </programme>
+  <programme start="20250612212000 +0000" stop="20250612212500 +0000" channel="TF1.fr">
+    <title lang="fr">Eurodreams</title>
+    <desc lang="fr">Tous les lundis et jeudis après le prime-time, découvrez les six numéros gagnants et le N Dream et tentez de gagner jusqu'à 20 000 euros par mois pendant trente ans.(n)</desc>
+  </programme>
+  <programme start="20250612212500 +0000" stop="20250612223000 +0000" channel="TF1.fr">
+    <title lang="fr">HPI</title>
+    <desc lang="fr">Une médium signale une future agression à la police avant d'être elle-même tuée. Morgane et Karadec mènent l'enquête, pendant que Daphné explore le paranormal.(n)</desc>
+  </programme>
+  <programme start="20250612223000 +0000" stop="20250612233000 +0000" channel="TF1.fr">
+    <title lang="fr">Balthazar</title>
+    <desc lang="fr">Alexandre est de retour dans la vie de son frère. Pour forcer celui-ci à entrer dans son jeu, il a kidnappé Camille et lui fait subir une lente agonie.(n)</desc>
+  </programme>
+  <programme start="20250612233000 +0000" stop="20250613003500 +0000" channel="TF1.fr">
+    <title lang="fr">Balthazar</title>
+    <desc lang="fr">Lors de sa première autopsie depuis son retour à l'IML, Balthazar découvre une bombe dans le corps de la défunte, une vieille dame sans histoires.(n)</desc>
+  </programme>
+  <programme start="20250613003500 +0000" stop="20250613013000 +0000" channel="TF1.fr">
+    <title lang="fr">Balthazar</title>
+    <desc lang="fr">Balthazar et la police enquêtent sur la disparition mystérieuse de six retraités qui voyageaient en autocar. Tous les éléments de l'affaire semblent surnaturels.(n)</desc>
+  </programme>
+  <programme start="20250613013000 +0000" stop="20250613040000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+  </programme>
+  <programme start="20250613040000 +0000" stop="20250613045500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <desc lang="fr">Thomas et ses amis (ST) / Les Minijusticiers (ST) / Paw Patrol, la Pat'Patrouille - (ST).(n)</desc>
+  </programme>
+  <programme start="20250613045500 +0000" stop="20250613073500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+  </programme>
+  <programme start="20250613073500 +0000" stop="20250613083000 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20250613083000 +0000" stop="20250613090000 +0000" channel="TF1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+    <desc lang="fr">Le 4 juillet, chez les Forrester, la fête bat son plein.(n)</desc>
+  </programme>
+  <programme start="20250613090000 +0000" stop="20250613094500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+  </programme>
+  <programme start="20250613094500 +0000" stop="20250613095000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250613095000 +0000" stop="20250613105500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+  </programme>
+  <programme start="20250613105500 +0000" stop="20250613110000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250613110000 +0000" stop="20250613115000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20250613115000 +0000" stop="20250613115500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250613115500 +0000" stop="20250613120000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250613120000 +0000" stop="20250613122500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">A l'heure du baccalauréat, une nouvelle pourrait déconcentrer Thomas. Au Mistral, Louis découvre qu'il est le jouet d'une tendre machination.(n)</desc>
+  </programme>
+  <programme start="20250613122500 +0000" stop="20250613140000 +0000" channel="TF1.fr">
+    <title lang="fr">Une soirée en enfer</title>
+    <desc lang="fr">Après une tentative d'enlèvement quelques semaines plus tôt, une mère autorise toutefois sa fille à assister au bal de fin d'année. Mais l'adolescente et ses amies sont kidnappées.(n)</desc>
+  </programme>
+  <programme start="20250613140000 +0000" stop="20250613153000 +0000" channel="TF1.fr">
+    <title lang="fr">Nuit de terreur pour la baby-sitter</title>
+    <desc lang="fr">Une infirmière au chômage est embauchée pour s'occuper d'un petit garçon diabétique. Elle ignore qu'un tueur en série sévit dans le quartier.(n)</desc>
+  </programme>
+  <programme start="20250613153000 +0000" stop="20250613160000 +0000" channel="TF1.fr">
+    <title lang="fr">Familles nombreuses : la vie en XXL</title>
+    <desc lang="fr">Bienvenue dans le quotidien de ces familles où tout est XXL !(n)</desc>
+  </programme>
+  <programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="TF1.fr">
+    <title lang="fr">Familles nombreuses : la vie en XXL</title>
+    <desc lang="fr">Bienvenue dans le quotidien de ces familles où tout est XXL !(n)</desc>
+  </programme>
+  <programme start="20250613163000 +0000" stop="20250613171000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">En cuisine, Anaïs, Billie et Emi remettent le couvert. En service, Coline fait honneur à Stanislas. Pour sa part, Jasmine trouve sa madeleine de Proust.(n)</desc>
+  </programme>
+  <programme start="20250613171000 +0000" stop="20250613175500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Aaron refuse de croire Simon quand il apprend la vérité. Marianne organise le retour d'un membre de la famille. Soizic s'en prend à Martial devant l'hôpital.(n)</desc>
+  </programme>
+  <programme start="20250613175500 +0000" stop="20250613180000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250613180000 +0000" stop="20250613184500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20250613184500 +0000" stop="20250613185000 +0000" channel="TF1.fr">
+    <title lang="fr">Super Loto</title>
+  </programme>
+  <programme start="20250613185000 +0000" stop="20250613185500 +0000" channel="TF1.fr">
+    <title lang="fr">My Million</title>
+  </programme>
+  <programme start="20250613185500 +0000" stop="20250613190000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250613190000 +0000" stop="20250613191000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250613191000 +0000" stop="20250613214000 +0000" channel="TF1.fr">
+    <title lang="fr">Mask Singer</title>
+    <desc lang="fr">Pour cette émission spéciale "karaoké", "Mask Singer" accueille un enquêteur mystère qui sera démasqué après une performance unique et rejoindra Kev Adams, Chantal Ladesou, Elodie Poux et Laurent Ruquier pour investiguer à leurs côtés. Les autres célébrités toujours en lice s'affrontent sur les plus grands tubes de karaoké pour gagner leur place en demi-finale.(n)</desc>
+  </programme>
+  <programme start="20250613214000 +0000" stop="20250613223500 +0000" channel="TF1.fr">
+    <title lang="fr">Mask Singer, l'enquête continue</title>
+    <desc lang="fr">Dans le cadre de cette septième saison, l'enquête continue traditionnellement en deuxième partie de soirée dans le Bureau de Laurent Ruquier. L'hôte y reçoit les personnalités démasquées durant le prime et revient, avec eux, sur cette expérience incroyable, évoquant notamment leur préparation vocale ou encore le secret à garder.(n)</desc>
+  </programme>
+  <programme start="20250613223500 +0000" stop="20250613224000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage de l'EuroMillions</title>
+  </programme>
+  <programme start="20250613224000 +0000" stop="20250613235000 +0000" channel="TF1.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <desc lang="fr">Karine Ferri et Christophe Beaugrand sont les maîtres de cérémonie pour ce nouveau bêtisier. Au programme : les fous rires les plus mémorables de la saison, des gaffes déjà inoubliables, des lapsus incontrôlés, et tous ces moments inattendus qui ont fait exploser de rire les plateaux télé.(n)</desc>
+  </programme>
+  <programme start="20250613235000 +0000" stop="20250614010500 +0000" channel="TF1.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <desc lang="fr">De nombreuses surprises sont au programme, et notamment un bêtisier des "Tuche", lors de leur passage au journal de 20h pour la présentation du film "God Save the Tuche". Et côté sport, place au rire avec un bêtisier du foot. Kylian Mbappé, Ousmane Dembélé et Adil Rami réservent des moments hors caméras hilarants.(n)</desc>
+  </programme>
+  <programme start="20250614010500 +0000" stop="20250614040000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+  </programme>
+  <programme start="20250614040000 +0000" stop="20250614090000 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20250614090000 +0000" stop="20250614094500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20250614094500 +0000" stop="20250614095000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250614095000 +0000" stop="20250614105000 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+  </programme>
+  <programme start="20250614105000 +0000" stop="20250614105500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250614105500 +0000" stop="20250614110000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250614110000 +0000" stop="20250614114000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20250614114000 +0000" stop="20250614125000 +0000" channel="TF1.fr">
+    <title lang="fr">Reportages découverte</title>
+    <desc lang="fr">En quelques années, la seconde main est entrée dans les habitudes de consommation. Le marché pèse désormais plus de 7 milliards d'euros. Des vêtements des meubles, des jouets, de l'électroménager, du matériel de ski, tout, ou presque, peut prétendre à une seconde vie et les "anti-gaspi" sont de plus en plus nombreux à faire du recyclage un juteux business.(n)</desc>
+  </programme>
+  <programme start="20250614125000 +0000" stop="20250614141000 +0000" channel="TF1.fr">
+    <title lang="fr">Reportages découverte</title>
+    <desc lang="fr">C'est un métal précieux, issu des entrailles de la terre, une monnaie d'échange parmi les plus anciennes de l'humanité : l'or. Indestructible, il résiste quand toutes les autres valeurs s'écroulent. En 2023, un kilo d'or vaut 55 000 euros, c'est presque deux fois plus qu'il y a quatre ans. Une valeur refuge dans une période de crise.(n)</desc>
+  </programme>
+  <programme start="20250614141000 +0000" stop="20250614155000 +0000" channel="TF1.fr">
+    <title lang="fr">Les Docs du week-end</title>
+    <desc lang="fr">Alliant confort, modernité et enjeux écologiques, les "écoconstructions" séduisent de plus en plus de Français, manifestement ravis de réaliser des économies tout en profitant de maisons "propres". Rénovation de "passoire thermiques", maisons sans chauffage ou fabriquées en matériaux surprenants, zoom sur ces méthodes qui permettent de faire baisser les factures d'énergie.(n)</desc>
+  </programme>
+  <programme start="20250614155000 +0000" stop="20250614170000 +0000" channel="TF1.fr">
+    <title lang="fr">50mn Inside l'actu</title>
+    <desc lang="fr">50' Inside, c'est toute l'actualité des stars résumée, chaque samedi. Le rendez-vous glamour pour retrouver toujours plus de news, d'interviews, d'actualité people en France et à l'étranger, de destinations de rêve et de reportages exclusifs au bout du monde pour partir à la rencontre de vos personnalités préférées et vous faire découvrir leurs repaires secrets.(n)</desc>
+  </programme>
+  <programme start="20250614170000 +0000" stop="20250614175000 +0000" channel="TF1.fr">
+    <title lang="fr">50mn Inside le mag</title>
+    <desc lang="fr">50' Inside, c'est toute l'actualité des stars résumée, chaque samedi. Le rendez-vous glamour pour retrouver toujours plus de news, d'interviews, d'actualité people en France et à l'étranger, de destinations de rêve et de reportages exclusifs au bout du monde pour partir à la rencontre de vos personnalités préférées et vous faire découvrir leurs repaires secrets.(n)</desc>
+  </programme>
+  <programme start="20250614175000 +0000" stop="20250614175500 +0000" channel="TF1.fr">
+    <title lang="fr">Première sélection</title>
+  </programme>
+  <programme start="20250614175500 +0000" stop="20250614180000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250614180000 +0000" stop="20250614184500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20250614184500 +0000" stop="20250614185000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage du Loto</title>
+  </programme>
+  <programme start="20250614185000 +0000" stop="20250614190000 +0000" channel="TF1.fr">
+    <title lang="fr">Quotidien express</title>
+  </programme>
+  <programme start="20250614190000 +0000" stop="20250614191000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250614191000 +0000" stop="20250614214000 +0000" channel="TF1.fr">
+    <title lang="fr">Le dernier cercle</title>
+    <desc lang="fr">50 candidats s'affrontent sur une série de questions. Mais seul l'un d'entre eux pourra entrer dans "Le dernier cercle" et tenter de remporter la somme de 50 000 euros.(n)</desc>
+  </programme>
+  <programme start="20250614214000 +0000" stop="20250614234000 +0000" channel="TF1.fr">
+    <title lang="fr">Vendredi, tout est Booder</title>
+    <desc lang="fr">Les personnalités du paysage audiovisuel français craignent cette invitation qu'ils ne peuvent refuser en dépit des risques de se retrouver dans les images drôles des zappings durant des années. En effet, ces célébrités savent qu'Arthur s'apprête à les placer dans des situations aussi incongrues qu'hilarantes.(n)</desc>
+  </programme>
+  <programme start="20250614234000 +0000" stop="20250615040000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+  </programme>
+  <programme start="20250615040000 +0000" stop="20250615080500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20250615080500 +0000" stop="20250615090000 +0000" channel="TF1.fr">
+    <title lang="fr">Automoto</title>
+    <desc lang="fr">Pour sa 50ème saison, le magazine automobile leader vous donne rendez-vous chaque dimanche sur sa base d'essai pour tester les voitures de sport et mettre à l'épreuve toutes les nouveautés, sans concession ! Avec Jean-Pierre Gagick aux commandes, vibrez avec les événements marquants qui rythment le calendrier auto, Goodwood Festival of Speed, Pebble Beach Concours d'Elegance, le Mondial de l'Automobile à Paris... Automoto, c'est aussi l'immanquable Rendez-Vous moto de Bader Benlekehal, des Enquêtes pour comprendre un univers au cœur des transformations de notre monde, des Grands Formats pour rencontrer ceux qui font l'histoire, et des Routes Extraordinaires pour s'évader loin, ou en France, en auto ou à moto.(n)</desc>
+  </programme>
+  <programme start="20250615090000 +0000" stop="20250615095000 +0000" channel="TF1.fr">
+    <title lang="fr">Téléfoot</title>
+    <desc lang="fr">Chaque dimanche, retrouvez le meilleur du football. Grégoire Margotton à la présentation du magazine historique, sera accompagné du champion du monde Bixente Lizarazu ancien international français ou de Rio Mavuba, ancien international français et champion de France avec Lille. A leurs côtés, les journalistes Thomas Mekhiche et Sévérine Parlakou complètent l'équipe.(n)</desc>
+  </programme>
+  <programme start="20250615095000 +0000" stop="20250615105000 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+  </programme>
+  <programme start="20250615105000 +0000" stop="20250615105500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20250615105500 +0000" stop="20250615110000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250615110000 +0000" stop="20250615114000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20250615114000 +0000" stop="20250615125000 +0000" channel="TF1.fr">
+    <title lang="fr">Grands reportages</title>
+    <desc lang="fr">Un sujet qui met en avant des Françaises et des Français qui se donnent les moyens pour atteindre des objectifs parfois fous et ainsi vivre leurs rêves.(n)</desc>
+  </programme>
+  <programme start="20250615125000 +0000" stop="20250615141000 +0000" channel="TF1.fr">
+    <title lang="fr">Reportages découverte</title>
+    <desc lang="fr">Chaque jour, les Français sont harcelés par des centres d'appels prêts à tout pour les convaincre de mettre la main au portefeuille et parfois pour les arnaquer. Pendant plusieurs mois, une équipe a suivi le combat de victimes qui se sont fait escroquer et tentent d'obtenir justice.(n)</desc>
+  </programme>
+  <programme start="20250615141000 +0000" stop="20250615152000 +0000" channel="TF1.fr">
+    <title lang="fr">Les Docs du week-end</title>
+    <desc lang="fr">En France, de nombreuses zones situées à la campagne sont qualifiées de déserts médicaux en raison de l'absence de médecins. Dans les départements et régions frappés par ce phénomène, les habitants comptent sur le SAMU, lui-même fortement dépendant des services d'urgences d'hôpitaux parfois débordés...(n)</desc>
+  </programme>
+  <programme start="20250615152000 +0000" stop="20250615162000 +0000" channel="TF1.fr">
+    <title lang="fr">Sept à huit Life</title>
+    <desc lang="fr">Sept à Huit Life privilégie la proximité et traite des sujets au plus près de la vie quotidienne des Français.(n)</desc>
+  </programme>
+  <programme start="20250615162000 +0000" stop="20250615175000 +0000" channel="TF1.fr">
+    <title lang="fr">Sept à huit</title>
+    <desc lang="fr">Harry Roselmack continue à couvrir les temps forts de l'actualité.(n)</desc>
+  </programme>
+  <programme start="20250615175000 +0000" stop="20250615175500 +0000" channel="TF1.fr">
+    <title lang="fr">Les nouveaux modèles</title>
+    <desc lang="fr">Chaque épisode met en lumière un projet porté par un citoyen à travers un mot clé (impact, transition, mobilité durable, inclusion).(n)</desc>
+  </programme>
+  <programme start="20250615175500 +0000" stop="20250615180000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250615180000 +0000" stop="20250615184500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20250615184500 +0000" stop="20250615185000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250615185000 +0000" stop="20250615205500 +0000" channel="TF1.fr">
+    <title lang="fr">Football : Coupe du monde des clubs de la FIFA</title>
+    <desc lang="fr">Organisée du 15 juin au 13 juillet aux Etats-Unis, la nouvelle formule de la Coupe du monde des clubs réunit désormais 32 clubs au lieu de sept, venus des six confédérations continentales. Pour son entrée en lice dans la compétition mondiale, le Paris-SG, vainqueur de la Ligue des Champions, défie l'Atlético Madrid, au Rose Bowl de Pasadena, en Californie. Dans ce groupe B, les hommes de Luis Enrique voisinent également avec les Brésiliens de Botafogo, qu'ils défieront dans quatre jours toujours à Pasadena, et les Sounders de Seattle leur dernier adversaire, le 22 juin, qui aura l'avantage d'évoluer à domicile au Lumen Field.(n)</desc>
+  </programme>
+  <programme start="20250615205500 +0000" stop="20250615214000 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <desc lang="fr">Quatre Américains sont enlevés pendant leurs vacances à la Barbade. Pour les retrouver, le BAU enquête avec une unité d'élite dirigée par Jack Garrett.(n)</desc>
+  </programme>
+  <programme start="20250615214000 +0000" stop="20250615223500 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <desc lang="fr">Le BAU enquête sur trois meurtres, dont les auteurs proclament qu'au moment des faits, ils ont été attaqués par un monstre griffu.(n)</desc>
+  </programme>
+  <programme start="20250615223500 +0000" stop="20250615232000 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <desc lang="fr">Lorsque l'épouse d'un député disparaît, le BAU s'intéresse aux adversaires et ennemis du politicien. L'enquête est complexe et les pistes nombreuses.(n)</desc>
+  </programme>
+  <programme start="20250615232000 +0000" stop="20250616040000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+  </programme>
+  <programme start="20250616040000 +0000" stop="20250616045500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20250616045500 +0000" stop="20250616073500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+  </programme>
+  <programme start="20250616073500 +0000" stop="20250616083000 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20250616083000 +0000" stop="20250616090000 +0000" channel="TF1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+    <desc lang="fr">Poppy réalise qu'elle est en sérieuse concurrence avec Katie. Hope est bouleversée lorsqu'Eric lève son verre en l'honneur de Paris et Thomas.(n)</desc>
+  </programme>
+  <programme start="20250616090000 +0000" stop="20250616094500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+  </programme>
+  <programme start="20250616094500 +0000" stop="20250616095000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+  </programme>
+  <programme start="20250616095000 +0000" stop="20250616105500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.(n)</desc>
+  </programme>
+  <programme start="20250616105500 +0000" stop="20250616110000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+  </programme>
+  <programme start="20250616110000 +0000" stop="20250616115000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20250616115000 +0000" stop="20250616115500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+  </programme>
+  <programme start="20250616115500 +0000" stop="20250616120000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250616120000 +0000" stop="20250616122500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Luna part à la recherche de Chloé qui a disparu. Ariane fait son retour au commissariat. Thomas enquête sur un homme qui intrigue le quartier.(n)</desc>
+  </programme>
+  <programme start="20250616122500 +0000" stop="20250616141000 +0000" channel="TF1.fr">
+    <title lang="fr">Secrets en pays Amish</title>
+    <desc lang="fr">Une jeune femme se voit contrainte de quitter la communauté amish où elle a trouvé refuge pour partir à la recherche de sa fille, kidnappée sous ses yeux.(n)</desc>
+  </programme>
+  <programme start="20250616141000 +0000" stop="20250616160000 +0000" channel="TF1.fr">
+    <title lang="fr">Dirty Dancing</title>
+    <desc lang="fr">Une adolescente américaine, venue passer quelques jours dans un camp de vacances avec ses parents, découvre la vie et l'amour sur fond de danses endiablées.(n)</desc>
+  </programme>
+  <programme start="20250616160000 +0000" stop="20250616163000 +0000" channel="TF1.fr">
+    <title lang="fr">Tout pour la lumière</title>
+    <desc lang="fr">De retour au Studio Lumière après vingt ans, Victoria retrouve les lieux tandis que Solenn, une ancienne élève, prend Maddie, la nouvelle recrue, sous son aile.(n)</desc>
+  </programme>
+  <programme start="20250616163000 +0000" stop="20250616171000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">Pour les examens, Clotilde ne fait pas cadeaux. A l'Institut, Vic occupe le devant de la scène. Dans les vestiaires, Tom pousse le bouchon un peu loin.(n)</desc>
+  </programme>
+  <programme start="20250616171000 +0000" stop="20250616175500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Les enquêteurs pensent à un agresseur qu'ils ont déjà arrêté par le passé. Le retour d'un ex-amour trouble Jordan. Marianne s'intéresse aux ragots de Saint-Clair.(n)</desc>
+  </programme>
+  <programme start="20250616175500 +0000" stop="20250616180000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250616180000 +0000" stop="20250616184500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20250616184500 +0000" stop="20250616185000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage du Loto</title>
+  </programme>
+  <programme start="20250616185000 +0000" stop="20250616190000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+  </programme>
+  <programme start="20250616190000 +0000" stop="20250616191000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20250616191000 +0000" stop="20250616200500 +0000" channel="TF1.fr">
+    <title lang="fr">Le remplaçant</title>
+    <desc lang="fr">Dès la tombée de la nuit, Tristan disparaît, tandis qu'en journée, fatigué et nerveux, il décroche de plus en plus. Nicolas décide de le suivre pour en avoir le coeur net.(n)</desc>
+  </programme>
+  <programme start="20250616200500 +0000" stop="20250616211500 +0000" channel="TF1.fr">
+    <title lang="fr">Le remplaçant</title>
+    <desc lang="fr">Le jour où Jules et Sofia découvrent que la mère de Sofia est la maîtresse du père de Jules, leur belle amitié explose. Nicolas semble dépassé par la situation.(n)</desc>
+  </programme>
+  <programme start="20250616211500 +0000" stop="20250616215500 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <desc lang="fr">L'équipe vient en aide à une personne victime depuis quelque temps de violences domestiques. Mais elle se retrouve elle-même sur le banc des accusés.(n)</desc>
+  </programme>
+  <programme start="20250616215500 +0000" stop="20250616220000 +0000" channel="TF1.fr">
+    <title lang="fr">Eurodreams</title>
+    <desc lang="fr">Tous les lundis et jeudis après le prime-time, découvrez les six numéros gagnants et le N Dream et tentez de gagner jusqu'à 20 000 euros par mois pendant trente ans.(n)</desc>
+  </programme>
+  <programme start="20250616220000 +0000" stop="20250616225500 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <desc lang="fr">Une jeune fille a été assassinée. Benson et Stabler démarrent illico leur enquête et réalisent toute la complexité de cette affaire hors norme.(n)</desc>
+  </programme>
+  <programme start="20250616225500 +0000" stop="20250616234000 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <desc lang="fr">Un homme est accusé d'utiliser l'application de rencontre qu'il a créée pour violer des femmes. L'expérience de Velasco en tant que détective est mise à l'épreuve.(n)</desc>
+  </programme>
+  <programme start="20250616234000 +0000" stop="20250617004000 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <desc lang="fr">Velasco apprend que trois jeunes filles de sa ville natale ont été victimes de trafic humain et emmenées à New York. Il sollicite l'aide de Benson pour les retrouver.(n)</desc>
+  </programme>
+</tv>
