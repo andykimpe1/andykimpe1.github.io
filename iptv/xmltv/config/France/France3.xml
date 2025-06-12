@@ -6,7 +6,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>6</timespan>
+  <timespan>4</timespan>
   <update>f</update>
   <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">France 3</channel>
 </settings>
