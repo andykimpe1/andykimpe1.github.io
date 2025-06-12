@@ -9,6 +9,7 @@ rm -rf ~/.wg++ ~/WebGrabPlus_V5.3_install.tar.gz
 sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
 sudo chmod +x /usr/bin/tv_grab_fr_telerama
 wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O config.conf
+rm -f guide.xml
 tv_grab_fr_telerama --config-file config.conf --output guide.xml --days 7
 sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
 exit
