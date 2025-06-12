@@ -1,7 +1,7 @@
 #!/bin/bash
 cd $HOME
 FILE=$HOME/installepg    
-if [ -f $FILE ]; then
+if [ ! -f $FILE ]; then
    sudo apt-get update
    sudo apt upgrade -y
    sudo apt-get -y install dos2unix git ssh net-tools wget nano unzip xmltv
