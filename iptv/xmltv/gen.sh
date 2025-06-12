@@ -10,8 +10,8 @@ wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
 cd ~/.wg++
 ./install.sh
-wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
-chmod +x /usr/bin/tv_grab_fr_telerama
+sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
+sudo chmod +x /usr/bin/tv_grab_fr_telerama
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip
 wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 unzip SiteIniPack_current.zip
