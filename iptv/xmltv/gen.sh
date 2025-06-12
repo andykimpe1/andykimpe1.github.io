@@ -6,12 +6,16 @@ sudo apt-get -y install dos2unix git ssh net-tools wget nano unzip xmltv
 sudo apt-get -y install dotnet-runtime-7.0
 sudo apt-get -y install dotnet-runtime-8.0
 rm -rf ~/.wg++ ~/WebGrabPlus_V5.3_install.tar.gz
+sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
+sudo chmod +x /usr/bin/tv_grab_fr_telerama
+wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O config.conf
+tv_grab_fr_telerama --config-file config.conf --output guide.xml --days 7
+sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
+exit
 wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
 cd ~/.wg++
 ./install.sh
-sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
-sudo chmod +x /usr/bin/tv_grab_fr_telerama
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip
 wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 unzip SiteIniPack_current.zip
