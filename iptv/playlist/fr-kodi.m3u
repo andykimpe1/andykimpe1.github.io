@@ -150,13 +150,13 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-118.php
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 4 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 4 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 HD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 5 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 5 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 HD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -174,7 +174,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-497.php
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 8 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 8 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 HD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -186,7 +186,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-499.php
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 10 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 10 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 HD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -198,7 +198,7 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-119.php
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT live 2 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT live 2 FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT live 2 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT live 2 HD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
