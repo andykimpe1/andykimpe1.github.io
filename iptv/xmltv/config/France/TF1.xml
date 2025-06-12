@@ -8,6 +8,6 @@
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">TF1</channel>
- 
+  <!--<channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">TF1</channel>-->
+  <channel update="i" site="telerama.fr" site_id="tf1,192" xmltv_id="TF1.f">TF1</channel>
 </settings>
