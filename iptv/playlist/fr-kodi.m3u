@@ -13,13 +13,13 @@ https://andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows
 https://andykimpe.ovh/france4.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| FRANCE TNT",FR| FRANCE 5 FHD (France TV)
 https://andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
 https://andykimpe.ovh/arte.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
 https://andykimpe.ovh/lcpps.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
@@ -150,10 +150,6 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-118.php
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 4 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
@@ -208,12 +204,18 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-120.php
-#EXTINF:-1 tvg-id="" tvg-name="stream 122" tvg-logo="" group-title="FR| CINEMA FHD HD",stream 122
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Sport FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Foot FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Foot FHD (daddylive.dad)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
 #EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
