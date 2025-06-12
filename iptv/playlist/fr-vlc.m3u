@@ -85,32 +85,58 @@ https://andykimpe.ovh/cherie25.php/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.sx)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.sx)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-121.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 1 FHD (daddylive.sx)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.sx)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-116.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 1 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 2 FHD (daddylive.sx)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (daddylive.sx)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-117.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 2 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 118" tvg-logo="" group-title="FR| SPORTS",stream 118
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-118.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 3 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 3 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-118.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 119" tvg-logo="" group-title="FR| SPORTS",stream 119
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-119.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 4 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 120" tvg-logo="" group-title="FR| SPORTS",stream 120
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-120.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 5 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-495.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 121" tvg-logo="" group-title="FR| SPORTS",stream 121
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 6 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 6 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-496.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
-#EXTINF:-1 tvg-id="" tvg-name="stream 122" tvg-logo="" group-title="FR| SPORTS",stream 122
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-122.php
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 7 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 7 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-497.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 8 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-498.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 9 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 9 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-499.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 10 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-500.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT 1 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-119.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT live 2 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT live 2 FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-120.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Sport FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Foot FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Foot FHD (daddylive.dad)
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2866202423/index.m3u8
