@@ -7,7 +7,7 @@ if [ -f $FILE ]; then
    sudo apt-get -y install dos2unix git ssh net-tools wget nano unzip xmltv
    sudo apt-get -y install dotnet-runtime-7.0
    sudo apt-get -y install dotnet-runtime-8.0
-   touch $HOME
+   touch $FILE
 fi
 rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
 sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
