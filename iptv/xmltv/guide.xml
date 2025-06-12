@@ -489,4 +489,646 @@
     <title lang="fr">New York Unité Spéciale</title>
     <desc lang="fr">Velasco apprend que trois jeunes filles de sa ville natale ont été victimes de trafic humain et emmenées à New York. Il sollicite l'aide de Benson pour les retrouver.(n)</desc>
   </programme>
+  <channel id="France2.fr">
+    <display-name lang="fr">France 2</display-name>
+    <url>http://www.sfr.fr</url>
+  </channel>
+  <programme start="20250612001500 +0000" stop="20250612011000 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Aujourd'hui, Faustine Bollaert accueille des mères qui débattent d'un sujet tabou : elles reconnaissent avoir un préféré parmi leurs enfants.(n)</desc>
+  </programme>
+  <programme start="20250612011000 +0000" stop="20250612011500 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250612011500 +0000" stop="20250612023000 +0000" channel="France2.fr">
+    <title lang="fr">Emissions religieuses</title>
+  </programme>
+  <programme start="20250612023000 +0000" stop="20250612024500 +0000" channel="France2.fr">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Au Pérou, le long de la côte pacifique, les réserves en eau s'amenuisent, c'est au sommet des montagnes que se dessine une solution.(n)</desc>
+  </programme>
+  <programme start="20250612024500 +0000" stop="20250612030000 +0000" channel="France2.fr">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Une découverte de la bambouseraie d'Anduze dans les Cévennes, composé de 240 variétés de bambou, et des incroyables possibilités qu'offre ce végétal d'avenir.(n)</desc>
+  </programme>
+  <programme start="20250612030000 +0000" stop="20250612035000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250612035000 +0000" stop="20250612040000 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250612040000 +0000" stop="20250612043500 +0000" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20250612043500 +0000" stop="20250612060000 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250612060000 +0000" stop="20250612063000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20250612063000 +0000" stop="20250612073500 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250612073500 +0000" stop="20250612080000 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20250612080000 +0000" stop="20250612083500 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles à votre service</title>
+  </programme>
+  <programme start="20250612083500 +0000" stop="20250612084000 +0000" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20250612084000 +0000" stop="20250612084500 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250612084500 +0000" stop="20250612092500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250612092500 +0000" stop="20250612095500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250612095500 +0000" stop="20250612105500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250612105500 +0000" stop="20250612110000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250612110000 +0000" stop="20250612114000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20250612114000 +0000" stop="20250612114500 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250612114500 +0000" stop="20250612115500 +0000" channel="France2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20250612115500 +0000" stop="20250612130500 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Les témoins du jour de Faustine Bollaert reviennent sur un souvenir douloureux, celui de l'annulation de leur mariage.(n)</desc>
+  </programme>
+  <programme start="20250612130500 +0000" stop="20250612142000 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Les trois invitées de Faustine Bollaert ont décidé de briser l'omerta et témoignent des violences qu'elles ont subi de la part de leur ex-conjoint.(n)</desc>
+  </programme>
+  <programme start="20250612142000 +0000" stop="20250612151000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250612151000 +0000" stop="20250612155500 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250612155500 +0000" stop="20250612160000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20250612160000 +0000" stop="20250612164000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20250612164000 +0000" stop="20250612171000 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250612171000 +0000" stop="20250612175500 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250612175500 +0000" stop="20250612180000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250612180000 +0000" stop="20250612185000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20250612185000 +0000" stop="20250612185800 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250612185800 +0000" stop="20250612185900 +0000" channel="France2.fr">
+    <title lang="fr">Ma maison de A à Z</title>
+  </programme>
+  <programme start="20250612185900 +0000" stop="20250612190000 +0000" channel="France2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20250612190000 +0000" stop="20250612191300 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250612191300 +0000" stop="20250612210000 +0000" channel="France2.fr">
+    <title lang="fr">Envoyé spécial</title>
+    <desc lang="fr">Au sommaire : "Dette : faut-il taxer nos retraités ? ". - "Israël : ces soldats qui refusent la guerre". Depuis le début de l'année, 20% des 300 000 réservistes de Tsahal n'ont pas répondu à l'appel au combat. - "Migrants expulsés, la fin du rêve américain".(n)</desc>
+  </programme>
+  <programme start="20250612210000 +0000" stop="20250612221500 +0000" channel="France2.fr">
+    <title lang="fr">Complément d'enquête</title>
+    <desc lang="fr">Une bataille à la fois commerciale et culturelle oppose deux camps à couteaux tirés : d'un côté, il y a les pro-viande, représentés par des lobbies au service de toute une filière. De l'autre, se retrouvent les défenseurs d'une alimentation végétale, au nom du bien-être animal, de l'environnement et de la santé.(n)</desc>
+  </programme>
+  <programme start="20250612221500 +0000" stop="20250612224000 +0000" channel="France2.fr">
+    <title lang="fr">Nous, les Européens</title>
+    <desc lang="fr">Atteinte contre des civils ou des bâtiments civils, mauvais traitements des prisonniers de guerre, situation des enfants ukrainiens déportés en Russie : il y a aujourd'hui en Ukraine plus de 120 000 enquêtes ouvertes pour crimes de guerre. Jamais aucun conflit n'a donné lieu à autant d'investigations dans un délai si rapide.(n)</desc>
+  </programme>
+  <programme start="20250612224000 +0000" stop="20250612232500 +0000" channel="France2.fr">
+    <title lang="fr">13h15, le dimanche...</title>
+    <desc lang="fr">"13h15 le dimanche" dévoile la face cachée de la Tour d'Argent, l'un des plus vieux restaurants de Paris, entre ambitions, histoires d'amour et secrets de famille.(n)</desc>
+  </programme>
+  <programme start="20250612232500 +0000" stop="20250613002000 +0000" channel="France2.fr">
+    <title lang="fr">13h15, le samedi...</title>
+  </programme>
+  <programme start="20250613002000 +0000" stop="20250613021000 +0000" channel="France2.fr">
+    <title lang="fr">Nus et culottés</title>
+    <desc lang="fr">Nus et sans un sou, Nans et Mouts partent d'une petite île au large de Cannes pour organiser un concert en montgolfière au-dessus du mythique Mont-Saint-Michel.(n)</desc>
+  </programme>
+  <programme start="20250613021000 +0000" stop="20250613021500 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250613021500 +0000" stop="20250613024000 +0000" channel="France2.fr">
+    <title lang="fr">Valencia, ville lumière</title>
+    <desc lang="fr">Loin des sentiers battus, un voyage à la découverte du patrimoine culturel et des beautés cachées d'une ville dynamique et chargée d'Histoire.(n)</desc>
+  </programme>
+  <programme start="20250613024000 +0000" stop="20250613025000 +0000" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20250613025000 +0000" stop="20250613030000 +0000" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20250613030000 +0000" stop="20250613035000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250613035000 +0000" stop="20250613040000 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250613040000 +0000" stop="20250613043500 +0000" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20250613043500 +0000" stop="20250613060000 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250613060000 +0000" stop="20250613063000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20250613063000 +0000" stop="20250613073500 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250613073500 +0000" stop="20250613080000 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20250613080000 +0000" stop="20250613083500 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles à votre service</title>
+  </programme>
+  <programme start="20250613083500 +0000" stop="20250613084000 +0000" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20250613084000 +0000" stop="20250613084500 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250613084500 +0000" stop="20250613092500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250613092500 +0000" stop="20250613095500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250613095500 +0000" stop="20250613105500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250613105500 +0000" stop="20250613110000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250613110000 +0000" stop="20250613114000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20250613114000 +0000" stop="20250613114500 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250613114500 +0000" stop="20250613115500 +0000" channel="France2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20250613115500 +0000" stop="20250613130500 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Les six invités de Faustine Bollaert témoignent de la complicité amicale ou amoureuse qui les lie dans leur vie privée et professionnelle.(n)</desc>
+  </programme>
+  <programme start="20250613130500 +0000" stop="20250613142000 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Entourée d'experts, Faustine Bollaert reçoit aujourd'hui quatre femmes qui ont perdu leur voix et qui ont le courage de s'exprimer sur le plateau.(n)</desc>
+  </programme>
+  <programme start="20250613142000 +0000" stop="20250613151000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250613151000 +0000" stop="20250613155500 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250613155500 +0000" stop="20250613160000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20250613160000 +0000" stop="20250613164000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20250613164000 +0000" stop="20250613171000 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250613171000 +0000" stop="20250613175500 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250613175500 +0000" stop="20250613180000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250613180000 +0000" stop="20250613183500 +0000" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20250613183500 +0000" stop="20250613185000 +0000" channel="France2.fr">
+    <title lang="fr">20h30 le vendredi</title>
+  </programme>
+  <programme start="20250613185000 +0000" stop="20250613185700 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250613185700 +0000" stop="20250613190000 +0000" channel="France2.fr">
+    <title lang="fr">Sur la route du Tour</title>
+    <desc lang="fr">Programme Court Parrainé en lien avec FTP - Annonceur AIR BNB - Prod Exe COMITE.(n)</desc>
+  </programme>
+  <programme start="20250613190000 +0000" stop="20250613191000 +0000" channel="France2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20250613191000 +0000" stop="20250613191100 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250613191100 +0000" stop="20250613204500 +0000" channel="France2.fr">
+    <title lang="fr">A l'instinct</title>
+    <desc lang="fr">Un an après un accident de car mortel, la soeur du conducteur périt au même endroit. Les enquêteurs établissent un lien avec des séances d'hypnose suspectes.(n)</desc>
+  </programme>
+  <programme start="20250613204500 +0000" stop="20250613222500 +0000" channel="France2.fr">
+    <title lang="fr">Capitaine Marleau</title>
+    <desc lang="fr">A "La Nouvelle Eve", un célèbre cabaret parisien, une strip-teaseuse baptisée Sunlight a mystérieusement disparu. La capitaine Marleau mène l'enquête.(n)</desc>
+  </programme>
+  <programme start="20250613222500 +0000" stop="20250613231500 +0000" channel="France2.fr">
+    <title lang="fr">Planète Rap</title>
+    <desc lang="fr">On ne présente plus MC Solaar, l'artiste qui a contribué à introduire le rap en France. "Qui sème le vent récolte le tempo", "Prose combat", "Paradisiaque", ses trois premiers albums, parus dans les années 1990, sont devenus des classiques. En 2024, l'artiste était de retour avec "Triptyque", trois albums ambitieux.(n)</desc>
+  </programme>
+  <programme start="20250613231500 +0000" stop="20250614002000 +0000" channel="France2.fr">
+    <title lang="fr">Basique, le concert</title>
+    <desc lang="fr">Après plus de cinquante ans de carrière et quinze albums studio, Alain Chamfort livrait en décembre 2024, son dernier album "L'Impermanence". Il vient le défendre sur le plateau de "Basique, le concert" en interprétant ses nouveaux titres, comme "Tout s'arrange à la fin", ou encore "L'Apocalypse heureuse", mais aussi, ses plus grands succès.(n)</desc>
+  </programme>
+  <programme start="20250614002000 +0000" stop="20250614014000 +0000" channel="France2.fr">
+    <title lang="fr">La manière forte</title>
+    <desc lang="fr">Un policier à la retraite reprend du service pour enquêter sur une série de meurtres. Il doit faire équipe avec une jeune policière aux méthodes et principes opposés aux siens.(n)</desc>
+  </programme>
+  <programme start="20250614014000 +0000" stop="20250614024000 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Les six invités de Faustine Bollaert témoignent de la complicité amicale ou amoureuse qui les lie dans leur vie privée et professionnelle.(n)</desc>
+  </programme>
+  <programme start="20250614024000 +0000" stop="20250614024100 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250614024100 +0000" stop="20250614025500 +0000" channel="France2.fr">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Les trognes ou arbres têtards sont les noms qui qualifient les arbres dont la tête a été coupé dans leur jeune âge.(n)</desc>
+  </programme>
+  <programme start="20250614025500 +0000" stop="20250614030500 +0000" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20250614030500 +0000" stop="20250614040000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250614040000 +0000" stop="20250614043000 +0000" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20250614043000 +0000" stop="20250614060000 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250614060000 +0000" stop="20250614063000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20250614063000 +0000" stop="20250614072600 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Alors que le Festival de Cannes touche à sa fin, Charlotte Lipinska, la chroniqueuse cinéma de l'émission, est en duplex depuis les coulisses de l'événement et livre au petit matin les indiscrétions de la nuit et le programme du jour.(n)</desc>
+  </programme>
+  <programme start="20250614072600 +0000" stop="20250614084000 +0000" channel="France2.fr">
+    <title lang="fr">Bel et bien</title>
+  </programme>
+  <programme start="20250614084000 +0000" stop="20250614085000 +0000" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20250614085000 +0000" stop="20250614093000 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250614093000 +0000" stop="20250614095500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250614095500 +0000" stop="20250614105500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250614105500 +0000" stop="20250614110000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250614110000 +0000" stop="20250614112000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20250614112000 +0000" stop="20250614115500 +0000" channel="France2.fr">
+    <title lang="fr">13h15, le samedi...</title>
+  </programme>
+  <programme start="20250614115500 +0000" stop="20250614120000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250614120000 +0000" stop="20250614120500 +0000" channel="France2.fr">
+    <title lang="fr">C'est bon à savoir</title>
+  </programme>
+  <programme start="20250614120500 +0000" stop="20250614130000 +0000" channel="France2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">En mai 2021, Valentin Marcone a abattu son patron et un collègue à la scierie des Plantiers, dans les Cévennes. Après une traque de quatre jours, il s'est rendu. En janvier 2024, il a été condamné à 30 ans de réclusion criminelle, dont 20 ans de sûreté.(n)</desc>
+  </programme>
+  <programme start="20250614130000 +0000" stop="20250614140000 +0000" channel="France2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Entre 1989 et 1999, Didier Tallineau a tué deux femmes et tenté d'en tuer une autre . Condamné à 30 ans de réclusion en 2002, il a été libéré en 2004 pour raisons médicales, puis réincarcéré en 2005. Il est décédé en prison en 2006.(n)</desc>
+  </programme>
+  <programme start="20250614140000 +0000" stop="20250614145500 +0000" channel="France2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Le 10 septembre 2012, une femme tue son mari de trois balles dans le dos. Elle s'appelle Jacqueline Sauvage. Pour justifier cet acte terrible, elle explique que son mari la battait, elle et ses enfants, depuis plus de 20 ans. Elle devient alors le symbole des femmes battues et déclenche une large mobilisation. Mais la justice va-t-elle pour autant être plus clémente ?(n)</desc>
+  </programme>
+  <programme start="20250614145500 +0000" stop="20250614155000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250614155000 +0000" stop="20250614160000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20250614160000 +0000" stop="20250614163500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20250614163500 +0000" stop="20250614171000 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250614171000 +0000" stop="20250614175500 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250614175500 +0000" stop="20250614180000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250614180000 +0000" stop="20250614183500 +0000" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20250614183500 +0000" stop="20250614185500 +0000" channel="France2.fr">
+    <title lang="fr">20h30 le samedi</title>
+  </programme>
+  <programme start="20250614185500 +0000" stop="20250614190000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250614190000 +0000" stop="20250614191000 +0000" channel="France2.fr">
+    <title lang="fr">Vestiaires</title>
+  </programme>
+  <programme start="20250614191000 +0000" stop="20250614212500 +0000" channel="France2.fr">
+    <title lang="fr">La grande soirée du bêtisier</title>
+    <desc lang="fr">Installé à bord d'une péniche sur la Seine, Bruno Guillon embarque pour une balade au coeur de Paris entre rire et détente. Il revient sur les moments les plus hilarants de l'année, feuillette les archives de "L'Ecole des fans" ou d'"Intervilles" et évoque la mythique "guerre" de fous rires entre José Garcia et Antoine de Caunes.(n)</desc>
+  </programme>
+  <programme start="20250614212500 +0000" stop="20250614232500 +0000" channel="France2.fr">
+    <title lang="fr">Quelle époque !</title>
+  </programme>
+  <programme start="20250614232500 +0000" stop="20250614233000 +0000" channel="France2.fr">
+    <title lang="fr">Météo 2</title>
+  </programme>
+  <programme start="20250614233000 +0000" stop="20250615002500 +0000" channel="France2.fr">
+    <title lang="fr">Les enfants de la télé</title>
+    <desc lang="fr">Laurence Boccolini revient pour une nouvelle saison qui promet d'être riche en surprises et casseroles. Chaque dimanche, des personnalités viendront autour de la table des enfants de la télé pour partager leurs souvenirs, leurs anecdotes et moments télévisuels les plus drôles et amusants.(n)</desc>
+  </programme>
+  <programme start="20250615002500 +0000" stop="20250615010500 +0000" channel="France2.fr">
+    <title lang="fr">Les Enfants de la télé, la suite</title>
+    <desc lang="fr">Laurence Boccolini revient pour une nouvelle saison qui promet d'être riche en surprises et casseroles. Chaque dimanche, des personnalités viendront autour de la table des enfants de la télé pour partager leurs souvenirs, leurs anecdotes et moments télévisuels les plus drôles et amusants.(n)</desc>
+  </programme>
+  <programme start="20250615010500 +0000" stop="20250615015000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250615015000 +0000" stop="20250615023000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250615023000 +0000" stop="20250615030000 +0000" channel="France2.fr">
+    <title lang="fr">Florence dans le regard des Médicis</title>
+    <desc lang="fr">A la Renaissance, l'histoire de Florence est indissociable de celle des Médicis, puissante famille dont l'influence sur la politique et les arts s'est révélée décisive.(n)</desc>
+  </programme>
+  <programme start="20250615030000 +0000" stop="20250615030500 +0000" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+    <desc lang="fr">Voyage à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.(n)</desc>
+  </programme>
+  <programme start="20250615030500 +0000" stop="20250615040000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250615040000 +0000" stop="20250615044500 +0000" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20250615044500 +0000" stop="20250615060500 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250615060500 +0000" stop="20250615061500 +0000" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20250615061500 +0000" stop="20250615063000 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">A l'occasion du Festival de Cannes, Charlotte Lipinska, la chroniqueuse cinéma de l'émission, est en duplex à 08h40 depuis les coulisses de l'événement et livre au petit matin les indiscrétions de la nuit et le programme du jour. Elle part également à la rencontre de ceux qui font les films et de ceux qui les aiment.(n)</desc>
+  </programme>
+  <programme start="20250615063000 +0000" stop="20250615064500 +0000" channel="France2.fr">
+    <title lang="fr">Sagesses bouddhistes</title>
+  </programme>
+  <programme start="20250615064500 +0000" stop="20250615071500 +0000" channel="France2.fr">
+    <title lang="fr">Islam</title>
+  </programme>
+  <programme start="20250615071500 +0000" stop="20250615080000 +0000" channel="France2.fr">
+    <title lang="fr">A l'origine</title>
+  </programme>
+  <programme start="20250615080000 +0000" stop="20250615083000 +0000" channel="France2.fr">
+    <title lang="fr">Présence protestante</title>
+  </programme>
+  <programme start="20250615083000 +0000" stop="20250615090000 +0000" channel="France2.fr">
+    <title lang="fr">Le jour du Seigneur</title>
+    <desc lang="fr">A l'occasion du 80e anniversaire de la fin de la Seconde Guerre mondiale, David Milliat reçoit Jérôme Cordelier, journaliste et auteur d'ouvrages historiques. Dans un contexte où les idéologies extrêmes réapparaissent, le magazine revient sur la nécessité de cultiver la mémoire de ce conflit et de la transmettre aux jeunes générations.(n)</desc>
+  </programme>
+  <programme start="20250615090000 +0000" stop="20250615095500 +0000" channel="France2.fr">
+    <title lang="fr">Messe</title>
+    <desc lang="fr">Célébrée depuis l'église Saints-Martin-et-Adèle à Orp-le-Grand (Belgique). Prédicateur : abbé Pierre Hannosset. Président : abbé Michel Beya, curé.(n)</desc>
+  </programme>
+  <programme start="20250615095500 +0000" stop="20250615100000 +0000" channel="France2.fr">
+    <title lang="fr">Parole inattendue</title>
+  </programme>
+  <programme start="20250615100000 +0000" stop="20250615105500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250615105500 +0000" stop="20250615110000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250615110000 +0000" stop="20250615112000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20250615112000 +0000" stop="20250615121500 +0000" channel="France2.fr">
+    <title lang="fr">13h15, le dimanche...</title>
+  </programme>
+  <programme start="20250615121500 +0000" stop="20250615122000 +0000" channel="France2.fr">
+    <title lang="fr">C'est bon à savoir</title>
+  </programme>
+  <programme start="20250615122000 +0000" stop="20250615131000 +0000" channel="France2.fr">
+    <title lang="fr">13h15, le dimanche...</title>
+  </programme>
+  <programme start="20250615131000 +0000" stop="20250615140500 +0000" channel="France2.fr">
+    <title lang="fr">Familles de légende</title>
+  </programme>
+  <programme start="20250615140500 +0000" stop="20250615160500 +0000" channel="France2.fr">
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+  <programme start="20250615160500 +0000" stop="20250615171000 +0000" channel="France2.fr">
+    <title lang="fr">Les enfants de la télé</title>
+  </programme>
+  <programme start="20250615171000 +0000" stop="20250615175500 +0000" channel="France2.fr">
+    <title lang="fr">Les Enfants de la télé, la suite</title>
+  </programme>
+  <programme start="20250615175500 +0000" stop="20250615175600 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250615175600 +0000" stop="20250615183000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20250615183000 +0000" stop="20250615190000 +0000" channel="France2.fr">
+    <title lang="fr">20h30, le dimanche</title>
+  </programme>
+  <programme start="20250615190000 +0000" stop="20250615190500 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250615190500 +0000" stop="20250615190600 +0000" channel="France2.fr">
+    <title lang="fr">Les loges</title>
+    <desc lang="fr">Programme Parrainé par SCHMIDT Prodiit par 3EME ŒIL PRODUCTION pour 7 épisodes Avenant N°1 pour 4 épisodes a relivrer incluant nouvel habillage FTV pour rediffusions et reprenant des existants.(n)</desc>
+  </programme>
+  <programme start="20250615190600 +0000" stop="20250615191000 +0000" channel="France2.fr">
+    <title lang="fr">Oh ! Biz'Art</title>
+  </programme>
+  <programme start="20250615191000 +0000" stop="20250615205500 +0000" channel="France2.fr">
+    <title lang="fr">Les enfants des autres</title>
+    <desc lang="fr">Une professeure sans enfant tombe amoureuse d'un père célibataire et s'attache émotionnellement à sa fille de 4 ans, prenant le risque de souffrir.(n)</desc>
+  </programme>
+  <programme start="20250615205500 +0000" stop="20250615223500 +0000" channel="France2.fr">
+    <title lang="fr">Madeleine Collins</title>
+    <desc lang="fr">Une femme mène une double vie entre la Suisse et la France, jonglant avec deux compagnons et deux familles en prétextant des déplacements professionnels.(n)</desc>
+  </programme>
+  <programme start="20250615223500 +0000" stop="20250615224000 +0000" channel="France2.fr">
+    <title lang="fr">Le pitch cinéma</title>
+  </programme>
+  <programme start="20250615224000 +0000" stop="20250615234800 +0000" channel="France2.fr">
+    <title lang="fr">Histoires courtes</title>
+  </programme>
+  <programme start="20250615234800 +0000" stop="20250615235000 +0000" channel="France2.fr">
+    <title lang="fr">Météo 2</title>
+  </programme>
+  <programme start="20250615235000 +0000" stop="20250616011500 +0000" channel="France2.fr">
+    <title lang="fr">Une confession</title>
+    <desc lang="fr">Une gendarme pugnace et téméraire est appelée pour enquêter sur la mort d'une jeune femme tombée du haut d'une falaise sous les yeux de son mari.(n)</desc>
+  </programme>
+  <programme start="20250616011500 +0000" stop="20250616025000 +0000" channel="France2.fr">
+    <title lang="fr">Flair de famille</title>
+    <desc lang="fr">François, commissaire de la brigade criminelle à Abbeville, et Caroline, sa soeur capitaine fraîchement débarquée de Paris, enquêtent ensemble sur un meurtre.(n)</desc>
+  </programme>
+  <programme start="20250616025000 +0000" stop="20250616030000 +0000" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20250616030000 +0000" stop="20250616035000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20250616035000 +0000" stop="20250616040000 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250616040000 +0000" stop="20250616043500 +0000" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20250616043500 +0000" stop="20250616060000 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250616060000 +0000" stop="20250616063000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20250616063000 +0000" stop="20250616073500 +0000" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20250616073500 +0000" stop="20250616080000 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20250616080000 +0000" stop="20250616083500 +0000" channel="France2.fr">
+    <title lang="fr">La maison des Maternelles à votre service</title>
+  </programme>
+  <programme start="20250616083500 +0000" stop="20250616084000 +0000" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20250616084000 +0000" stop="20250616084500 +0000" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20250616084500 +0000" stop="20250616092500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250616092500 +0000" stop="20250616095500 +0000" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20250616095500 +0000" stop="20250616105500 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Quiz de culture générale au cours duquel 6 candidats vont tenter chaque jour de déloger le champion en titre (qui accumule les gains d¿émission en émission) et de prendre sa place. C¿est le champion en titre qui choisit le thème des questions en finale.(n)</desc>
+  </programme>
+  <programme start="20250616105500 +0000" stop="20250616110000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250616110000 +0000" stop="20250616114000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20250616114000 +0000" stop="20250616114500 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250616114500 +0000" stop="20250616115500 +0000" channel="France2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20250616115500 +0000" stop="20250616130500 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20250616130500 +0000" stop="20250616141500 +0000" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20250616141500 +0000" stop="20250616150500 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250616150500 +0000" stop="20250616155500 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+  </programme>
+  <programme start="20250616155500 +0000" stop="20250616160000 +0000" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20250616160000 +0000" stop="20250616164000 +0000" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20250616164000 +0000" stop="20250616171000 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250616171000 +0000" stop="20250616175500 +0000" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20250616175500 +0000" stop="20250616180000 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250616180000 +0000" stop="20250616185000 +0000" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20250616185000 +0000" stop="20250616185200 +0000" channel="France2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20250616185200 +0000" stop="20250616185500 +0000" channel="France2.fr">
+    <title lang="fr">Image du jour</title>
+  </programme>
+  <programme start="20250616185500 +0000" stop="20250616185800 +0000" channel="France2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20250616185800 +0000" stop="20250616190000 +0000" channel="France2.fr">
+    <title lang="fr">Ma maison de A à Z</title>
+  </programme>
+  <programme start="20250616190000 +0000" stop="20250616191000 +0000" channel="France2.fr">
+    <title lang="fr">Mot de passe : le duel</title>
+  </programme>
+  <programme start="20250616191000 +0000" stop="20250616201000 +0000" channel="France2.fr">
+    <title lang="fr">Meurtres au paradis</title>
+    <desc lang="fr">Mervin est sur le point de rentrer chez lui, mais il se retrouve au centre d'une enquête pour meurtre lorsqu'un corps est découvert dans sa cabane.(n)</desc>
+  </programme>
+  <programme start="20250616201000 +0000" stop="20250616211000 +0000" channel="France2.fr">
+    <title lang="fr">Meurtres au paradis</title>
+    <desc lang="fr">Marlon reçoit un mystérieux appel téléphonique de son ancien patron, qui semble gravement blessé alors qu'il le supplie de l'aider.(n)</desc>
+  </programme>
+  <programme start="20250616211000 +0000" stop="20250616220500 +0000" channel="France2.fr">
+    <title lang="fr">Meurtres au paradis</title>
+    <desc lang="fr">Neville Parker apprend qu'une femme a été retrouvée, seule dans un ascenseur, un couteau planté dans le coeur, dans un hôtel de Sainte-Marie.(n)</desc>
+  </programme>
+  <programme start="20250616220500 +0000" stop="20250616230500 +0000" channel="France2.fr">
+    <title lang="fr">Meurtres au paradis</title>
+    <desc lang="fr">Un homme de la région est abattu dans sa villa. Il attendait la visite d'une Anglaise connue sur une application de rencontres. Mervin et son équipe enquêtent.(n)</desc>
+  </programme>
+  <programme start="20250616230500 +0000" stop="20250616231000 +0000" channel="France2.fr">
+    <title lang="fr">Expression directe</title>
+  </programme>
+  <programme start="20250616231000 +0000" stop="20250617001500 +0000" channel="France2.fr">
+    <title lang="fr">Meurtres au paradis</title>
+    <desc lang="fr">Le commissaire Selwyn Patterson fête ses 50 ans de service. La journée prend un tournant inattendu lorsqu'il est blessé par balle et transporté d'urgence à l'hôpital.(n)</desc>
+  </programme>
 </tv>
