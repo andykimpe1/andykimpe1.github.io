@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd $HOME
 FILE=$HOME/installepg    
 if [ ! -f $FILE ]; then
