@@ -35,83 +35,83 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://github.com/Paradise-91/ParaTV/raw/refs/heads/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1  tvg-id="Gulli.fr" tvg-name="FR| Gulli (gulli.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" group-title="FRANCE",FR| Gulli (gulli.fr)
+#EXTINF:-1  tvg-id="Gulli.fr" tvg-name="FR| Gulli (gulli.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" group-title="FRANCE",FR| Gulli (gulli.fr)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
-#EXTINF:-1  tvg-id="BFMTV.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FR| FRANCE TNT",FR| BFM TV FHD (rmcbfmplay.com)
+#EXTINF:-1  tvg-id="BFMTV.fr" tvg-name="FR| BFM TV FHD (rmcbfmplay.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" group-title="FR| FRANCE TNT",FR| BFM TV FHD (rmcbfmplay.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1  tvg-id="CNews.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FR| FRANCE TNT",FR| C NEWS FHD (canalplus.com)
+#EXTINF:-1  tvg-id="CNews.fr" tvg-name="FR| C NEWS FHD (canalplus.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" group-title="FR| FRANCE TNT",FR| C NEWS FHD (canalplus.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-#EXTINF:-1  tvg-id="LCI.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" group-title="FR| FRANCE TNT",FR| LCI  HD (TF1+)
+#EXTINF:-1  tvg-id="LCI.fr" tvg-name="FR| LCI  HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" group-title="FR| FRANCE TNT",FR| LCI  HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1  tvg-id="FranceInfo.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" group-title="FR| FRANCE TNT",FR| France Info FHD (France TV)
+#EXTINF:-1  tvg-id="FranceInfo.fr" tvg-name="FR| France Info FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" group-title="FR| FRANCE TNT",FR| France Info FHD (France TV)
 https://andykimpe.ovh/franceinfo.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1  tvg-id="CStar.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" group-title="FR| FRANCE TNT",FR| CStar FHD (dailymotion.com)
+#EXTINF:-1  tvg-id="CStar.fr" tvg-name="FR| CStar FHD (dailymotion.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" group-title="FR| FRANCE TNT",FR| CStar FHD (dailymotion.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1  tvg-id="T18.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" group-title="FR| FRANCE TNT",FR| T18 HD (dailymotion.com)
+#EXTINF:-1  tvg-id="T18.fr" tvg-name="FR| T18 HD (dailymotion.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" group-title="FR| FRANCE TNT",FR| T18 HD (dailymotion.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1  tvg-id="Nova19.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCVpiAI6h-w5636sV9quSqHutYZ9HLff4iA&s" group-title="FR| FRANCE TNT",FR| Nova 19 (semptembre 2025)
+#EXTINF:-1  tvg-id="Nova19.fr" tvg-name="FR| Nova 19 (semptembre 2025)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCVpiAI6h-w5636sV9quSqHutYZ9HLff4iA&s" group-title="FR| FRANCE TNT",FR| Nova 19 (semptembre 2025)
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR| TF1 Series Films HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FR| FRANCE TNT",FR| TF1 Series Films HD (TF1+)
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR| TF1 Series Films HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" group-title="FR| FRANCE TNT",FR| TF1 Series Films HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FR| FRANCE TNT",FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" group-title="FR| FRANCE TNT",FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR| 6Ter FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" group-title="FR| FRANCE TNT",FR| 6Ter FHD (M6+)
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR| 6Ter FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" group-title="FR| FRANCE TNT",FR| 6Ter FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="FR| RMC STORY FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (rmcbfmplay.com)
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="FR| RMC STORY FHD (rmcbfmplay.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (rmcbfmplay.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR| RMC Decouverte FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC Decouverte FHD (rmcbfmplay.com)
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR| RMC Decouverte FHD (rmcbfmplay.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| FRANCE TNT",FR| RMC Decouverte FHD (rmcbfmplay.com)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
