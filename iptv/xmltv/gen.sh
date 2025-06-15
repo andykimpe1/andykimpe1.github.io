@@ -35,6 +35,8 @@ cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
 git push origin main
+cd $HOME
+rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
 exit
 wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
