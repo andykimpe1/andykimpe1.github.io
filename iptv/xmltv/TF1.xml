@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="https://api.telerama.fr" source-data-url="https://api.telerama.fr" generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/">
+  <channel id="C192.api.telerama.fr">
+    <display-name>FR| TF1 HD (TF1+)</display-name>
+    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" />
+  </channel>
+  <programme start="20250615014000 +0200" stop="20250615060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">260</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615060000 +0200" stop="20250615100500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">245</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615100500 +0200" stop="20250615110000 +0200" channel="C192.api.telerama.fr">
+    <title>Automoto</title>
+    <desc lang="fr">Le rendez-vous hebdomadaire des passionnés d'automobile avec des essais chronométrés, des tests des nouveautés, des enquêtes sur les sujets brûlants, ou des découvertes de routes extraordinaires françaises.</desc>
+    <category lang="fr">sports mécaniques</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/12/bc8f812b9aa94aa09a29965bf6ce312d.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615110000 +0200" stop="20250615115000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléfoot</title>
+    <desc lang="fr">Chaque dimanche, Grégoire Margotton donne rendez-vous pour le meilleur du football mondial en compagnie des consultants qui continuent d'apporter leur expertise pour décrypter l'actualité du football : le champion du monde Bixente Lizarazu, et Rio Mavuba, ancien international français et champion de France avec Lille. A leurs côtés, les journalistes Thomas Mekhiche et Sévérine Parlakou complètent l'équipe.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/15/4759ed010eef4b44aabf1782c8abfab2.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615115000 +0200" stop="20250615125000 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Emission du 15 juin 2025 - Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par...</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615125000 +0200" stop="20250615125500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615125500 +0200" stop="20250615130000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Météo du dimanche 15 juin 2025 à 12h47 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du dimanche 15 juin 2025 à 12h47 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615130000 +0200" stop="20250615134000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">" JT 13h WE " du dimanche 15 juin 2025. Le samedi et dimanche, la rédaction de TF1 propose "LE 13H" un rendez-vous d'information qui met en exergue l'actualité régionale, nationale et internationale présenté par Anne-Claire Coudray ou Audrey Crespo-Mara, sa joker.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615134000 +0200" stop="20250615145000 +0200" channel="C192.api.telerama.fr">
+    <title>Grands reportages</title>
+    <sub-title>Vivons nos rêves !</sub-title>
+    <desc lang="fr">Un sujet qui met en avant des Françaises et des Français qui se donnent les moyens pour atteindre des objectifs parfois fous et ainsi vivre leurs rêves.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/cb1c523fda3d47f7a216212ba7220af6.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615145000 +0200" stop="20250615161000 +0200" channel="C192.api.telerama.fr">
+    <title>Reportages découverte</title>
+    <sub-title>Danger : les arnaques au bout du fil</sub-title>
+    <desc lang="fr">Chaque jour, les Français sont harcelés par des centres d'appels prêts à tout pour les convaincre de mettre la main au portefeuille et parfois pour les arnaquer. Pendant plusieurs mois, une équipe a suivi le combat de victimes qui se sont fait escroquer et tentent d'obtenir justice.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/02/3575bec1f3984adb89a3a5993f31dba0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615161000 +0200" stop="20250615172000 +0200" channel="C192.api.telerama.fr">
+    <title>Les Docs du week-end</title>
+    <sub-title>Urgences vitales pour le SAMU de campagne</sub-title>
+    <desc lang="fr">En France, de nombreuses zones situées à la campagne sont qualifiées de déserts médicaux en raison de l'absence de médecins. Dans les départements et régions frappés par ce phénomène, les habitants comptent sur le SAMU, lui-même fortement dépendant des services d'urgences d'hôpitaux parfois débordés...</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/cdbf786e-a1d5-4a13-8ac3-94e5cec83b66.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615172000 +0200" stop="20250615182000 +0200" channel="C192.api.telerama.fr">
+    <title>Sept à huit Life</title>
+    <desc lang="fr">Emission du 15 juin 2025 - Retrouvez l'intégralité de Sept à Huit Life, magazine de l'information présenté par Harry Roselmack tous les dimanches soir.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/05/7b403504cadd326fb3c771f46320edf233c450ba.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615182000 +0200" stop="20250615195000 +0200" channel="C192.api.telerama.fr">
+    <title>Sept à huit</title>
+    <desc lang="fr">Emission du 15 juin 2025 - Retrouvez l'intégralité de Sept à Huit, magazine de l'information présenté par Harry Roselmack tous les dimanches soir.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/25/2372c8ff9b864d71accf1efe4ea9d47c.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615195000 +0200" stop="20250615195500 +0200" channel="C192.api.telerama.fr">
+    <title>Les nouveaux modèles</title>
+    <desc lang="fr">Ce sont des sportifs de haut niveau, des collégiennes, des bénévoles ou des entrepreneurs à impact. Découvrez les portraits inspirants de citoyens et citoyennes engagés dans la transformation du monde. A travers la question "Quel mot, plus que n'importe quel autre, vous pousse à agir aujourd'hui ?", ils construisent ensemble de nouveaux modèles de société.</desc>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/25/baceb3f09e494bedba5c082d754fde54.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615195500 +0200" stop="20250615200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615200000 +0200" stop="20250615204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">" JT 20h WE " du dimanche 15 juin 2025. Du vendredi au dimanche, la rédaction de TF1 propose "LE 20H" un rendez-vous d'information exposant avec clarté l'actualité française et internationale présentée par Anne-Claire Coudray ou Audrey Crespo-Mara, sa joker.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615204500 +0200" stop="20250615205000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Météo du dimanche 15 juin 2025 à 20h39 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du dimanche 15 juin 2025 à 20h39 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615205000 +0200" stop="20250615225500 +0200" channel="C192.api.telerama.fr">
+    <title>Football : Coupe du monde des clubs de la FIFA</title>
+    <desc lang="fr">Organisée du 15 juin au 13 juillet aux Etats-Unis, la nouvelle formule de la Coupe du monde des clubs réunit 32 clubs venus des six confédérations continentales. Pour son entrée en lice dans la compétition mondiale, le Paris-SG, vainqueur de la Ligue des champions, défie l'Atlético Madrid, au Rose Bowl de Pasadena, en Californie.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/02/b1f68bd64d1241bcb0cad3315baa21e9.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615225500 +0200" stop="20250615234000 +0200" channel="C192.api.telerama.fr">
+    <title>Esprits criminels</title>
+    <sub-title>Touristes en danger</sub-title>
+    <desc lang="fr">Saison:10 - Episode:19 - Quatre membres d'une famille américaine sont enlevés à la Barbade où ils viennent juste d'arriver pour leurs vacances. Deux équipes collaborent sur cette enquête, : celle de la BAU, avec à sa tête Hotchner, et celle de Jack Garrett, qui dirige une unité spécialisée dans les crimes impliquant des Américains à l'étranger. Cette affaire n'est pas sans en rappeler deux autres, étudiées par la BAU au cours des années écoulées, l'une à Aruba et l'autre en Floride. Une fois sur place, les enquêteurs comprennent que le ravisseur n'est autre qu'un homme se faisant passer pour un chauffeur de navette qui gagne ainsi la confiance des familles sans éveiller le moindre soupçon...</desc>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a4cc0c977d3f4b5195c9e3297f689994.jpg" />
+    <episode-num system="xmltv_ns">9.18.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250615234000 +0200" stop="20250616003500 +0200" channel="C192.api.telerama.fr">
+    <title>Esprits criminels</title>
+    <sub-title>Peurs enfantines</sub-title>
+    <desc lang="fr">Saison:10 - Episode:21 - Larry Merrin, Daniel Karras et Christine McNeil ont tous les trois été arrêtés pour meurtre. Cette femme et ces deux hommes, qui ne se connaissent pas, racontent la même histoire. Après avoir senti une odeur de sauge brûlée, ils se sont sentis mal puis ont été attaqués par un monstre griffu. Dans les trois affaires, les victimes sont des proches des assassins. Pour les profilers du BAU, ces trois personnes étaient probablement sous l'emprise d'un hallucinogène lorsqu'elles sont passées à l'acte. La personne qui est à l'origine de leur état est recherchée. Elles partagent également un autre point commun : toutes ont été adoptées en 1985...</desc>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/a0d6cc4092d645f7a4af648b4fb042b1.jpg" />
+    <episode-num system="xmltv_ns">9.20.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616003500 +0200" stop="20250616012000 +0200" channel="C192.api.telerama.fr">
+    <title>Esprits criminels</title>
+    <sub-title>L'échiquier politique</sub-title>
+    <desc lang="fr">Saison:10 - Episode:18 - Sophie Troy, l'épouse de Benjamin Troy, membre du Congrès, a disparu. Il s'agit très certainement d'un enlèvement. L'équipe du BAU est rapidement sollicitée parce que l'élu compte de nombreux ennemis. Les agents conseillent à toute la famille Troy d'accepter une protection policière constante tant que Sophie n'aura pas été retrouvée. Sont concernés Dinah, la maman de Troy, et Paul, son frère, qui vient de quitter le centre hospitalier où il avait été admis pour une cure de désintoxication. L'enquête est complexe et l'équipe met tout en oeuvre pour retrouver Sophie. Les enquêteurss prennent chaque piste très au sérieux...</desc>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/a0d6cc4092d645f7a4af648b4fb042b1.jpg" />
+    <episode-num system="xmltv_ns">9.17.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616012000 +0200" stop="20250616060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">280</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616060000 +0200" stop="20250616065500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616065500 +0200" stop="20250616093500 +0200" channel="C192.api.telerama.fr">
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/128fa56830524d74b7f2d31aa4cccf26.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616093500 +0200" stop="20250616103000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616103000 +0200" stop="20250616110000 +0200" channel="C192.api.telerama.fr">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Poppy réalise qu'elle est en sérieuse concurrence avec Katie. Hope est bouleversée lorsqu'Eric lève son verre en l'honneur de Paris et Thomas.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/ab390480a18b451fa3d39077a8070f35.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616110000 +0200" stop="20250616114500 +0200" channel="C192.api.telerama.fr">
+    <title>Les Feux de l'amour</title>
+    <desc lang="fr">La famille Abbott, installée à Genoa City, dans le Wisconsin, possède une immense fortune et une gigantesque entreprise. Les luttes de pouvoir, trahisons au sein même du clan sont monnaie courante. Leur ennemi de toujours, l'industriel Victor Newman, ne fait rien pour leur faciliter la tâche, bien au contraire. D'alliances en ruptures, les illusions de chacun se heurtent à l'hostilité, à la jalousie et à la haine des autres. Entre amour et pouvoir, le choix est souvent celui de la puissance. Un Soap Opera mondialement célèbre, produit et diffusé depuis plus de quarante ans aux Etats-Unis ! A ce jour, une trentaine de pays différents diffusent le feuilleton chaque jour, et c'est en France que le feuilleton réalise ses meilleures audiences, juste derrière les Etats-Unis.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/79aeb6440b0e4862ab0b433035876550.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616114500 +0200" stop="20250616115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616115000 +0200" stop="20250616125500 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616125500 +0200" stop="20250616130000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616130000 +0200" stop="20250616135000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">" JT 13h Semaine " du lundi 16 juin 2025. Du lundi au vendredi, la rédaction de TF1 propose "LE 13H" un rendez-vous d'information sur l'actualité régionale, nationale et internationale présenté par Marie-Sophie Lacarrau ou Jaques Legros, son joker. "LE 13H" met en valeur les régions de France depuis près de 50 ans à travers de nombreux reportages, documentaires et duplex.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616135000 +0200" stop="20250616135500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616135500 +0200" stop="20250616140000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616140000 +0200" stop="20250616142500 +0200" channel="C192.api.telerama.fr">
+    <title>Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Chloé disparaît au moment où elle doit s'expliquer sur une situation dramatique. Luna décide de la retrouver. Au commissariat, le retour d'Ariane est accueilli en grande pompe par ses coéquipiers. Au Mistral, Thomas tente de recueillir des informations sur un homme dont le quartier parle beaucoup trop...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/d1ce171964e7499391f404963d479d80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616142500 +0200" stop="20250616161000 +0200" channel="C192.api.telerama.fr">
+    <title>Secrets en pays Amish</title>
+    <desc lang="fr">Après des années passées à se chercher et à tenter de trouver sa voie, Lena a fini par trouver la paix intérieure en s'installant dans une communauté amish où elle coule désormais des jours heureux. Mais la jeune femme voit sa vie basculer lorsque sa fille Miriam est kidnappée en pleine nuit sous ses yeux par des inconnus. Déterminée à retrouver sa trace, Lena se voit alors contrainte de quitter sa communauté pour partir à sa recherche. Incapable de s'en sortir seule, elle demande de l'aide à un ami amish qui a lui aussi quitté la communauté des années plus tôt et qui est désormais une star des réseaux sociaux...</desc>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/47a487dc1dce4f17a11807aad5d66360.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616161000 +0200" stop="20250616180000 +0200" channel="C192.api.telerama.fr">
+    <title>Dirty Dancing</title>
+    <desc lang="fr">Durant l'été 1963, le docteur Jack Houseman quitte New York pour passer trois semaines dans un club de vacances avec sa femme Marjorie et ses deux filles. La cadette, Frances, dite Baby, s'ennuie à mourir, jusqu'au soir où une promenade l'entraîne vers les bâtiments réservés au personnel. Elle y découvre un spectacle étrange. Sur une musique tonitruante et entre des cascades de bière, les moniteurs s'exercent à une danse frénétique, la "Dirty Dancing", c'est-à-dire le mambo. Johnny Castle, le plus aguerri de ces danseurs sensuels et athlétiques, repère vite les qualités gestuelles et physiques de la jeune fille, dont il a par ailleurs reconnu le charme au premier coup d'oeil...</desc>
+    <date>1987</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/bf6cd74a98bf400abe27dd70ea882509.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250616180000 +0200" stop="20250616183000 +0200" channel="C192.api.telerama.fr">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Le Studio Lumière fait sa rentrée tandis que vingt ans après son départ, l'ancienne star, Victoria, y fait un retour remarqué. En coaching de danse, Solenn, une ancienne élève, prend Maddie, une nouvelle, sous son aile...</desc>
+    <date>2025</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250616183000 +0200" stop="20250616191000 +0200" channel="C192.api.telerama.fr">
+    <title>Ici tout commence</title>
+    <desc lang="fr">Saison:5 - Episode:1198 - Pour les examens, Clotilde ne fait pas cadeaux. A l'Institut, Vic occupe le devant de la scène. Dans les vestiaires, Tom pousse le bouchon un peu loin.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/25/bc9a4b16910fcab9137fd3e3ad183d7e9b121540_89E4D7197634DA5A77AB4E3659A63C10.jpg" />
+    <episode-num system="xmltv_ns">4.1197.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616191000 +0200" stop="20250616195500 +0200" channel="C192.api.telerama.fr">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:8 - Episode:1966 - Les enquêteurs pensent à un agresseur qu'ils ont déjà arrêté par le passé. Le retour d'un ex-amour trouble Jordan. Marianne s'intéresse aux ragots de Saint-Clair.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/a38c31ad93511b4f10a5c9bf0e502e16cab7d716_0CB6B72D976D814E63DA378960E3D397.jpg" />
+    <episode-num system="xmltv_ns">7.1965.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616195500 +0200" stop="20250616200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616200000 +0200" stop="20250616204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">" JT 20h Semaine " du lundi 16 juin 2025 à 19h58. Grand rendez-vous de l'actualité, le " LE 20H " est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore...</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616204500 +0200" stop="20250616205000 +0200" channel="C192.api.telerama.fr">
+    <title>Tirage du Loto</title>
+    <desc lang="fr">Résultat Loto, retrouvez le tirage du Loto (FDJ) du lundi 16 juin 2025 à 20h43. Découvrez les 5 numéros gagnants ainsi que le numéro chance de ce tirage du Loto de la Française des Jeux.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/a42efa546fe947c0b2ebf0c0f42256d0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616205000 +0200" stop="20250616210000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616210000 +0200" stop="20250616211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Météo du lundi 16 juin 2025 à 20h53 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du lundi 16 juin 2025 à 20h53 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616211000 +0200" stop="20250616220500 +0200" channel="C192.api.telerama.fr">
+    <title>Le remplaçant</title>
+    <sub-title>Déclassé</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - Toutes les nuits, Tristan disparaît. Et tous les jours, il ingurgite quantité de boissons énergisantes pour tenir le coup en classe. De plus en plus nerveux et agressif, Tristan affiche tous les symptômes du décrochage scolaire. Outrepassant largement son rôle de professeur, Nicolas Valeyre décide de suivre l'adolescent, pour tenter de découvrir à quelles activités nocturnes il s'adonne. Heureusement, il peut aussi compter sur ses nouveaux collègues de ce lycée brestois où il a été nommé, et sur son ami Antoine Maclou...</desc>
+    <date>2025</date>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/03/1541582c8f824e67b021bb59284fedeb.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616220500 +0200" stop="20250616231500 +0200" channel="C192.api.telerama.fr">
+    <title>Le remplaçant</title>
+    <sub-title>Inséparables</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - Le jour où Jules et Sofia découvrent que la mère de Sofia est la maîtresse du père de Jules, leur belle amitié explose. Une fois n'est pas coutume, Nicolas, champion de la réconciliation, semble dépassé par la situation...</desc>
+    <date>2025</date>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/21/1b6174dfb4504b51a7da9e05ce7a272a.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616231500 +0200" stop="20250616235500 +0200" channel="C192.api.telerama.fr">
+    <title>New York Unité Spéciale</title>
+    <sub-title>Un dernier round</sub-title>
+    <desc lang="fr">Saison:23 - Episode:22 - Delia est battue et violée par son mari depuis dix ans, mais la justice ne fait pas grand-chose pour elle. Les enquêteurs de l'unité spéciale tentent de l'aider et de faire condamner son mari pour agression sexuelle. Un soir, Rollins et Olivia reçoivent un appel : Delia a poignardé son mari. En dépit des réticences de Benson, Rollins demande à Barba de défendre l'accusée. Il va donc affronter Carisi au tribunal...</desc>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/02/d856bf6affe74f3e9cd66f7a56f9b19b.jpg" />
+    <episode-num system="xmltv_ns">22.21.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616235500 +0200" stop="20250617000000 +0200" channel="C192.api.telerama.fr">
+    <title>Eurodreams</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/14/9e5c442912e240eca2d18a7474c8c021.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617000000 +0200" stop="20250617005500 +0200" channel="C192.api.telerama.fr">
+    <title>New York Unité Spéciale</title>
+    <sub-title>Tic Tac Boum</sub-title>
+    <desc lang="fr">Saison:24 - Episode:1 - Après avoir assisté à l'exécution de la jeune Ava, l'inspecteur Cosgrove travaille main dans la main avec l'unité spéciale, convaincu que Sirenko exploite sexuellement plusieurs jeunes filles mineures. Benson réussit à faire parler la jeune Nicole, 14 ans, et lui promet de la protéger. Petit à petit, ils parviennent à remonter la piste de Sirenko et comprennent vite qu'il a l'intention de faire exploser une bombe à grande portée en plein New York. Ils parviennent in extremis à faire évacuer l'hôtel-cible juste avant son explosion, mais Sirenko prend des personnes en otage dans un grand magasin...</desc>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/405462c2c9404f19bedc0f425578578f.jpg" />
+    <episode-num system="xmltv_ns">23.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617005500 +0200" stop="20250617014000 +0200" channel="C192.api.telerama.fr">
+    <title>New York Unité Spéciale</title>
+    <sub-title>Une soirée ensemble</sub-title>
+    <desc lang="fr">Saison:23 - Episode:16 - Le patron d'un société d'informatique qui met en ligne des applications de rencontre est accusé de viol par une employée, avec qui il était entré en contact grâce à ses propres algorithmes. La marraine de la jeune femme, directrice financière de la même société, profite des remous occasionnés par cette affaire pour débaucher des employés et détourner des ressources pour créer sa propre application...</desc>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/cb287b0e49864d30a99cea4928f01b79.jpg" />
+    <episode-num system="xmltv_ns">22.15.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617014000 +0200" stop="20250617024000 +0200" channel="C192.api.telerama.fr">
+    <title>New York Unité Spéciale</title>
+    <sub-title>Il était une fille</sub-title>
+    <desc lang="fr">Saison:23 - Episode:17 - Velasco est contacté par le prêtre qui l'avait aidé quand il était jeune : trois jeunes filles ont disparu de sa paroisse, et il soupçonne qu'elles aient été enlevées par des passeurs qui devaient les faire immigrer illégalement à New York. L'équipe découvre le corps carbonisé de l'une d'elles, et met tout en oeuvre pour démanteler le réseau, qui semble avoir des complices haut-placés...</desc>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/52c6c9fb013a4b709ff69cb2497ca641.jpg" />
+    <episode-num system="xmltv_ns">22.16.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617024000 +0200" stop="20250617060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">200</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617060000 +0200" stop="20250617065500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617065500 +0200" stop="20250617093500 +0200" channel="C192.api.telerama.fr">
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/128fa56830524d74b7f2d31aa4cccf26.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617093500 +0200" stop="20250617103000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617103000 +0200" stop="20250617110000 +0200" channel="C192.api.telerama.fr">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Paris fait part de ses plans à Ridge et Brooke. Pendant ce temps, Finn, préoccupé par sa famille, trouve un réconfort inattendu auprès de Hope.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/ab390480a18b451fa3d39077a8070f35.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617110000 +0200" stop="20250617114500 +0200" channel="C192.api.telerama.fr">
+    <title>Les Feux de l'amour</title>
+    <desc lang="fr">La famille Abbott, installée à Genoa City, dans le Wisconsin, possède une immense fortune et une gigantesque entreprise. Les luttes de pouvoir, trahisons au sein même du clan sont monnaie courante. Leur ennemi de toujours, l'industriel Victor Newman, ne fait rien pour leur faciliter la tâche, bien au contraire. D'alliances en ruptures, les illusions de chacun se heurtent à l'hostilité, à la jalousie et à la haine des autres. Entre amour et pouvoir, le choix est souvent celui de la puissance. Un Soap Opera mondialement célèbre, produit et diffusé depuis plus de quarante ans aux Etats-Unis ! A ce jour, une trentaine de pays différents diffusent le feuilleton chaque jour, et c'est en France que le feuilleton réalise ses meilleures audiences, juste derrière les Etats-Unis.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/79aeb6440b0e4862ab0b433035876550.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617114500 +0200" stop="20250617115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617115000 +0200" stop="20250617125500 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617125500 +0200" stop="20250617130000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617130000 +0200" stop="20250617135000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">" JT 13h Semaine " du mardi 17 juin 2025. Du lundi au vendredi, la rédaction de TF1 propose "LE 13H" un rendez-vous d'information sur l'actualité régionale, nationale et internationale présenté par Marie-Sophie Lacarrau ou Jaques Legros, son joker. "LE 13H" met en valeur les régions de France depuis près de 50 ans à travers de nombreux reportages, documentaires et duplex.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617135000 +0200" stop="20250617135500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617135500 +0200" stop="20250617140000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617140000 +0200" stop="20250617142500 +0200" channel="C192.api.telerama.fr">
+    <title>Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Chloé disparaît au moment où elle doit s'expliquer sur une situation dramatique. Luna décide de la retrouver. Au commissariat, le retour d'Ariane est accueilli en grande pompe par ses coéquipiers. Au Mistral, Thomas tente de recueillir des informations sur un homme dont le quartier parle beaucoup trop...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/d1ce171964e7499391f404963d479d80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617142500 +0200" stop="20250617161000 +0200" channel="C192.api.telerama.fr">
+    <title>Piégée sur le yacht d'un milliardaire</title>
+    <desc lang="fr">Lauren, qui vient de quitter son fiancé et son travail, décide de prendre un nouveau départ dans la vie. Elle rejoint l'équipage d'un yacht luxueux, dont fait partie sa meilleure amie Naomi, le temps d'une croisière où elle espère se changer les idées et faire le point sur ses projets d'avenir. Elle n'avait pas prévu de rencontrer le séduisant Mark Barron, passager VIP et milliardaire. Encouragée par ses amies et collègues, elle baisse sa garde et se laisse séduire. Mais le beau Mark n'est pas aussi vertueux qu'il en a l'air et la croisière paradisiaque va vite tourner au cauchemar...</desc>
+    <category lang="fr">téléfilm de suspense</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/81cd98bc223744baa7dfaa0a8e5bfcb2.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617161000 +0200" stop="20250617180000 +0200" channel="C192.api.telerama.fr">
+    <title>Le diable s'habille en Prada</title>
+    <desc lang="fr">Andy vient de terminer des études de journaliste. A la recherche d'un premier emploi, elle se présente pour un entretien à la rédaction du célèbre magazine de mode "Runway", dirigé d'une main de fer par la tyrannique Miranda Priestly qui a, dit-on, le pouvoir de faire et de défaire la mode aux quatre coins du globe. Or, Andy, très gauche et mal fagotée, est à mille lieues de cet univers impitoyable pour lequel elle n'éprouve aucun intérêt. Après un premier contact catastrophique, la jeune femme, à son grand étonnement, est engagée comme assistante de la fameuse Miranda. Elle ignore en quoi consiste ce poste a priori prestigieux...</desc>
+    <date>2006</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/ecc0e5bcbd6846e59007b0b64cc726a8.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250617180000 +0200" stop="20250617183000 +0200" channel="C192.api.telerama.fr">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Des révélations troublantes retardent le départ de Victoria. Solenn s'inquiète du retour de sa soeur pendant que Sultana et Noah se disputent la colocation.</desc>
+    <date>2025</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250617183000 +0200" stop="20250617191000 +0200" channel="C192.api.telerama.fr">
+    <title>Ici tout commence</title>
+    <desc lang="fr">Saison:5 - Episode:1199 - A l'Institut, Coline fait passer le mot. Pour Vic, le retour à l'école est plus compliqué que prévu. De son côté, Milan propose à Zoé de faire les choses à sa façon.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/25/bc9a4b16910fcab9137fd3e3ad183d7e9b121540_89E4D7197634DA5A77AB4E3659A63C10.jpg" />
+    <episode-num system="xmltv_ns">4.1198.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617191000 +0200" stop="20250617195500 +0200" channel="C192.api.telerama.fr">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:8 - Episode:1967 - Adam en apprend plus sur le passé amoureux de Gloria. Violette se méfie des retrouvailles entre Jordan et son ex. Michaël surprend Lilou en mauvaise position.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/a38c31ad93511b4f10a5c9bf0e502e16cab7d716_0CB6B72D976D814E63DA378960E3D397.jpg" />
+    <episode-num system="xmltv_ns">7.1966.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617195500 +0200" stop="20250617200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617200000 +0200" stop="20250617204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">" JT 20h Semaine " du mardi 17 juin 2025 à 19h58. Grand rendez-vous de l'actualité, le " LE 20H " est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore...</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617204500 +0200" stop="20250617205000 +0200" channel="C192.api.telerama.fr">
+    <title>My Million</title>
+    <desc lang="fr">Résultat My Million, retrouvez le code gagnant du tirage My Million (FDJ) du mardi 17 juin 2025 à 20h47. Découvrez sans plus attendre si vous êtes l'heureux possesseur du bulletin gagnant My Million de la Française des Jeux !</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/24/fef9c14e39f2833be606e73bd0fe50b3a071ad6e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617205000 +0200" stop="20250617210000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617210000 +0200" stop="20250617211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Météo du mardi 17 juin 2025 à 20h56 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du mardi 17 juin 2025 à 20h56 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617211000 +0200" stop="20250617234000 +0200" channel="C192.api.telerama.fr">
+    <title>Koh-Lanta</title>
+    <sub-title>La revanche des 4 Terres</sub-title>
+    <desc lang="fr">Suite aux éliminations de Maxime et Noémie, il ne reste plus que six aventuriers encore en lice pour la victoire finale : Jérôme, seul rescapé de la tribu du Sud, Claire, ultime représentante de la tribu du Nord, Maël et Jérôme de la tribu de l'Ouest, et Gaëlle et Céline de la tribu de l'Est.</desc>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/30/d9c3a38d8f4c4aa881f7bd7722e4adcb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617234000 +0200" stop="20250618003500 +0200" channel="C192.api.telerama.fr">
+    <title>Les secrets de Koh-Lanta</title>
+    <desc lang="fr">Denis Brogniart dévoile tous les secrets de "Koh Lanta". Pour l'accompagner chaque semaine, il reçoit deux candidats emblématiques, qui ont marqué l'histoire de cette incroyable aventure. Au programme de cette deuxième partie de soirée inédite : des jeux, des quizz, de la bonne humeur, des séquences drôles et des immersions dans les secrets de fabrication de ce programme culte.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/646600966fa6498d9d8808ab742e38ec.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618003500 +0200" stop="20250618014700 +0200" channel="C192.api.telerama.fr">
+    <title>Une famille en or</title>
+    <sub-title>Lambolez vs Truffier</sub-title>
+    <desc lang="fr">Camille Combal reçoit les Lambolez et les Truffier, qui vont tout faire pour remporter le titre de "Famille en or" et repartir avec la cagnotte. Florian, le capitaine de la famille Lambolez, est venu avec sa conjointe Jenna et trois autres membres de sa famille. Originaires de région parisienne, Martin et la famille Truffier comptent bien repartir avec la cagnotte.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">72</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/29/30883241d697005cc830aa2a3fedc9472df200c0_B15769D68D2EA090EEAFAF55865FFB0C.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618014700 +0200" stop="20250618015000 +0200" channel="C192.api.telerama.fr">
+    <title>Tirage de l'EuroMillions</title>
+    <desc lang="fr">Consultez les derniers résultats d'EuroMillions ainsi que les codes gagnants My Million. Découvrez les 5 numéros gagnants et les 2 bonnes étoiles d'EuroMillions mais aussi les codes gagnants My Million des derniers tirages !</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c895cf0897e742f68f90f5071dcac0f3.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618015000 +0200" stop="20250618060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">250</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618060000 +0200" stop="20250618065500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618065500 +0200" stop="20250618093500 +0200" channel="C192.api.telerama.fr">
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/128fa56830524d74b7f2d31aa4cccf26.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618093500 +0200" stop="20250618103000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618103000 +0200" stop="20250618110000 +0200" channel="C192.api.telerama.fr">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Finn réconforte Hope, lui rappelant qu'elle mérite mieux que Thomas. Alors que Thomas et Paris préparent leur mariage, Hope est perdue entre ses sentiments et ses doutes.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/ab390480a18b451fa3d39077a8070f35.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618110000 +0200" stop="20250618114500 +0200" channel="C192.api.telerama.fr">
+    <title>Les Feux de l'amour</title>
+    <desc lang="fr">La famille Abbott, installée à Genoa City, dans le Wisconsin, possède une immense fortune et une gigantesque entreprise. Les luttes de pouvoir, trahisons au sein même du clan sont monnaie courante. Leur ennemi de toujours, l'industriel Victor Newman, ne fait rien pour leur faciliter la tâche, bien au contraire. D'alliances en ruptures, les illusions de chacun se heurtent à l'hostilité, à la jalousie et à la haine des autres. Entre amour et pouvoir, le choix est souvent celui de la puissance. Un Soap Opera mondialement célèbre, produit et diffusé depuis plus de quarante ans aux Etats-Unis ! A ce jour, une trentaine de pays différents diffusent le feuilleton chaque jour, et c'est en France que le feuilleton réalise ses meilleures audiences, juste derrière les Etats-Unis.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/79aeb6440b0e4862ab0b433035876550.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618114500 +0200" stop="20250618115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618115000 +0200" stop="20250618125500 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618125500 +0200" stop="20250618130000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618130000 +0200" stop="20250618135000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">" JT 13h Semaine " du mercredi 18 juin 2025. Du lundi au vendredi, la rédaction de TF1 propose "LE 13H" un rendez-vous d'information sur l'actualité régionale, nationale et internationale présenté par Marie-Sophie Lacarrau ou Jaques Legros, son joker. "LE 13H" met en valeur les régions de France depuis près de 50 ans à travers de nombreux reportages, documentaires et duplex.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618135000 +0200" stop="20250618135500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618135500 +0200" stop="20250618140000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618140000 +0200" stop="20250618142500 +0200" channel="C192.api.telerama.fr">
+    <title>Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Malgré le danger, Luna récolte un précieux indice qui la met sur la trace de Chloé. De son côté, Thomas profite d'un moment de détente qui pourrait bien le faire changer d'avis sur les fréquentations de Riva. Les vacances d'été de la famille Boher approchent, mais elles prennent un tour inattendu...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/d1ce171964e7499391f404963d479d80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618142500 +0200" stop="20250618160000 +0200" channel="C192.api.telerama.fr">
+    <title>Je sais que ma fille est vivante</title>
+    <desc lang="fr">Erica, 15 ans, disparaît après une partie de bowling avec son meilleur ami. Au cours de l'année, elle avait déjà fugué trois fois, ce qui dissuade la police de mobiliser de grands moyens pour la trouver. Mais bientôt, les forces de l'ordre découvrent que plusieurs autres jeunes femmes ont également disparu dans la région. La police soupçonne un tueur en série qui est arrêté peu après et qui avoue les meurtres, dont celui d'Erica. Mais la mère de la jeune femme reste convaincue que sa fille n'est pas morte. Au cours du procès de son agresseur présumé, Erica réapparait bien vivante trois ans après sa disparition. L'enquête révèle bientôt qu'elle vivait tout près de chez sa mère, cachée dans la maison de son petit ami plus âgé...</desc>
+    <category lang="fr">téléfilm d'horreur</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/7182b151313948e4abd29444e9832cfd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618160000 +0200" stop="20250618173000 +0200" channel="C192.api.telerama.fr">
+    <title>Des voisines presque parfaites</title>
+    <desc lang="fr">Ella et sa fille, Lucy, emménagent dans la maison prêtée par la famille Robinson, dans le cadre d'un projet de solidarité. La disparition de Marie Robinson, puis celle de Lucy précipitent les deux familles dans la tourmente. Mark Robinson est blessé et les deux mères partent à la recherche de leurs filles...</desc>
+    <category lang="fr">téléfilm de suspense</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/29/cfd2f937351998fac00513a34fa7ee9ed8e2c1e9_F3F7D36FE9F1D33AC9C378F7010F5F02.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618173000 +0200" stop="20250618180000 +0200" channel="C192.api.telerama.fr">
+    <title>Familles nombreuses : la vie en XXL</title>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/07/20/b72f5883fd0e4828a7c6342ee3a5ce2e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618180000 +0200" stop="20250618183000 +0200" channel="C192.api.telerama.fr">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Au Studio Lumière, Victoria découvre des éléments concernant sa mère. Sultana paie cher les conséquences de ses actes. Entre Eden et Mohamed, Baya ne sait pas sur quel pied danser.</desc>
+    <date>2025</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250618183000 +0200" stop="20250618191000 +0200" channel="C192.api.telerama.fr">
+    <title>Ici tout commence</title>
+    <desc lang="fr">Saison:5 - Episode:1200 - Pour Bérénice, entre Stanislas et Coline, il y a anguille sous roche. A la loge, Lionel tombe sur un os. De son côté, Malik s'énerve pour trois fois rien.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/25/bc9a4b16910fcab9137fd3e3ad183d7e9b121540_89E4D7197634DA5A77AB4E3659A63C10.jpg" />
+    <episode-num system="xmltv_ns">4.1199.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618191000 +0200" stop="20250618195500 +0200" channel="C192.api.telerama.fr">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:8 - Episode:1968 - Martin réalise que les agressions sont en lien avec son passé. Marine se démène pour rendre Fred jaloux. Contre toute attente, Lilou fait bonne impression à Michaël.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/a38c31ad93511b4f10a5c9bf0e502e16cab7d716_0CB6B72D976D814E63DA378960E3D397.jpg" />
+    <episode-num system="xmltv_ns">7.1967.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618195500 +0200" stop="20250618200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618200000 +0200" stop="20250618204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">" JT 20h Semaine " du mercredi 18 juin 2025 à 19h58. Grand rendez-vous de l'actualité, le " LE 20H " est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore...</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618204500 +0200" stop="20250618205000 +0200" channel="C192.api.telerama.fr">
+    <title>Tirage du Loto</title>
+    <desc lang="fr">Résultat Loto, retrouvez le tirage du Loto (FDJ) du mercredi 18 juin 2025 à 20h41. Découvrez les 5 numéros gagnants ainsi que le numéro chance de ce tirage du Loto de la Française des Jeux.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/a42efa546fe947c0b2ebf0c0f42256d0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618205000 +0200" stop="20250618210000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618210000 +0200" stop="20250618211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Météo du mercredi 18 juin 2025 à 20h50 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du mercredi 18 juin 2025 à 20h50 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618211000 +0200" stop="20250618221000 +0200" channel="C192.api.telerama.fr">
+    <title>Grey's Anatomy</title>
+    <sub-title>Le laveur de vitres</sub-title>
+    <desc lang="fr">Saison:21 - Episode:15 - La plateforme d'un laveur de vitres a percuté une fenêtre de l'hôpital suite à un violent coup de vent et s'y est encastré, mettant à rude épreuve les capacités de l'équipe du Grey Sloan. En mauvaise posture et piégée par son harnais, la victime a finalement pu être secourue par les pompiers avant d'être prise en charge par le personnel médical, contraint d'intervenir d'urgence pour stopper un saignement inquiétant au niveau du cou. Pendant ce temps, Blue et Simone se disputent au sujet de leurs conditions de vie, tandis que Lucas s'efforce d'impressionner Catherine pendant son service...</desc>
+    <date>2024</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/1e952e5186a549258811f5ba7bcb0be2.jpg" />
+    <episode-num system="xmltv_ns">20.14.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618221000 +0200" stop="20250618230000 +0200" channel="C192.api.telerama.fr">
+    <title>Grey's Anatomy</title>
+    <sub-title>La petite exploratrice</sub-title>
+    <desc lang="fr">Saison:21 - Episode:16 - Amelia pratique une opération du cerveau à haut risque sur un jeune patient, Winston et Jules sont en désaccord sur la manière de traiter la famille d'un patient traumatisé et Jo et Link peine avec l'organisation du mariage...</desc>
+    <date>2024</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/7426dd0068d64549bef482480b001bda.jpg" />
+    <episode-num system="xmltv_ns">20.15.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618230000 +0200" stop="20250618235500 +0200" channel="C192.api.telerama.fr">
+    <title>Grey's Anatomy : Station 19</title>
+    <sub-title>La cérémonie dans les bois</sub-title>
+    <desc lang="fr">Saison:7 - Episode:7 - Les membres de l'équipe répondent à un appel dans un parc local, mais à leur arrivée, la tribu Tulalip remet en place leurs idées préconçues. Pendant ce temps, Maya fait face à son passé et prend conscience à quel point sa relation avec son frère affecte sa famille ; Carina se défend face à la mère d'une ancienne patiente.</desc>
+    <date>2024</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/1d20874e1a77418a933fbbac462d8642.jpg" />
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618235500 +0200" stop="20250619004000 +0200" channel="C192.api.telerama.fr">
+    <title>Grey's Anatomy : Station 19</title>
+    <sub-title>Entre deux mondes</sub-title>
+    <desc lang="fr">Saison:7 - Episode:8 - La station 19 utilise sa clinique pour soigner les demandeurs d'asile qui ont été transportés en bus depuis l'extérieur de l'Etat. Natasha reçoit la visite de sa soeur tandis que Vic reçoit des nouvelles surprenantes...</desc>
+    <date>2024</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/ecf9d388ca42471694b9e452e1793d34.jpg" />
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619004000 +0200" stop="20250619013500 +0200" channel="C192.api.telerama.fr">
+    <title>Night Shift</title>
+    <sub-title>Rien n'est impossible</sub-title>
+    <desc lang="fr">Saison:3 - Episode:8 - La mère de Topher est admise aux urgences avec des symptômes inquiétants. Son état s'aggrave soudainement et toute l'équipe est à pied d'oeuvre pour tenter de la sauver. Pendant ce temps, Jordan et Scott s'occupent d'un patient dont le traitement nécessite l'utilisation d'une machine sophistiquée. Quand l'engin tombe en panne, ils font appel à la nouvelle petite amie de TC, qui travaille pour la société qui fabrique ce type d'appareil...</desc>
+    <date>2016</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/69f29fb63f4c460686969c00122fb308.jpg" />
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619013500 +0200" stop="20250619022000 +0200" channel="C192.api.telerama.fr">
+    <title>Night Shift</title>
+    <sub-title>Sous le choc</sub-title>
+    <desc lang="fr">Saison:3 - Episode:9 - Une bombe vient d'exploser à l'extérieur de l'hôpital. TC, Topher et Drew s'occupent des blessés et transfèrent les cas les plus compliqués dans des établissements proches. TC réalise soudain qu'il connaît peut-être la personne à l'origine de cet attentat. Alors que la confusion la plus absolue règne au sein de l'hôpital, les infirmiers décident de se mettre en grève...</desc>
+    <date>2016</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/dbd69650ecec44f78277ff91007fa2fc.jpg" />
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619022000 +0200" stop="20250619031500 +0200" channel="C192.api.telerama.fr">
+    <title>The Night Shift</title>
+    <sub-title>L'heure des choix</sub-title>
+    <desc lang="fr">Saison:3 - Episode:10 - Un jeune homme a été écrasé par une grue sur un chantier de construction. A leur arrivée sur les lieux, Paul et TC ne peuvent que constater la mort de l'adolescent. Mais ils sont aussitôt interpellés par un autre garçon qui leur explique qu'un de ses amis, témoin du drame, est tombé dans une fosse contenant du gravier. TC se jette dans le trou pour tenter de sauver la victime avant qu'elle ne soit ensevelie sous les gravats. Pendant ce temps, Paul envoie un échantillon du sang du jeune homme décédé, dans l'espoir qu'il soit compatible et qu'un de ses poumons puisse être prélevé pour sauver Brianna...</desc>
+    <date>2016</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/28310c8f658c46d3b2adbbffdb3ff322.jpg" />
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619031500 +0200" stop="20250619060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">165</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619060000 +0200" stop="20250619065500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619065500 +0200" stop="20250619093500 +0200" channel="C192.api.telerama.fr">
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/128fa56830524d74b7f2d31aa4cccf26.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619093500 +0200" stop="20250619103000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619103000 +0200" stop="20250619110000 +0200" channel="C192.api.telerama.fr">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Brooke donne un précieux conseil à Hope pour éviter de répéter les erreurs du passé. Parallèlement, Steffy et Finn échangent un baiser brûlant.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/ab390480a18b451fa3d39077a8070f35.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619110000 +0200" stop="20250619114500 +0200" channel="C192.api.telerama.fr">
+    <title>Les Feux de l'amour</title>
+    <desc lang="fr">Episode du 19 juin 2025 - Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/79aeb6440b0e4862ab0b433035876550.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619114500 +0200" stop="20250619115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619115000 +0200" stop="20250619125500 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619125500 +0200" stop="20250619130000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619130000 +0200" stop="20250619135000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">" JT 13h Semaine " du jeudi 19 juin 2025. Du lundi au vendredi, la rédaction de TF1 propose "LE 13H" un rendez-vous d'information sur l'actualité régionale, nationale et internationale présenté par Marie-Sophie Lacarrau ou Jaques Legros, son joker. "LE 13H" met en valeur les régions de France depuis près de 50 ans à travers de nombreux reportages, documentaires et duplex.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619135000 +0200" stop="20250619135500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619135500 +0200" stop="20250619140000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619140000 +0200" stop="20250619142500 +0200" channel="C192.api.telerama.fr">
+    <title>Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Inquiète, Babeth alarme Patrick sur la disparition de Luna, mais il ne se montre pas très réceptif. De retour au cabinet Kepler, Apolline doit faire face à ses responsabilités. Yolande décide de rendre service à Mirta, qui pourrait pourtant vite déchanter...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/d1ce171964e7499391f404963d479d80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619142500 +0200" stop="20250619160000 +0200" channel="C192.api.telerama.fr">
+    <title>VC Andrews, la saga Cutler : Les promesses de l'aurore</title>
+    <desc lang="fr">Dawn est une jeune lycéenne qui a grandi avec son grand-frère, Jimmy, et ses parents, Ormand et Sally Longchamp. La famille déménage en Virginie suite au changement d'emploi d'Ormand. Dans son nouveau lycée, Dawn se met à dos Clara Jean, la riche héritière de la famille Cutler, les propriétaires d'un grand hôtel de la région. Elle attire, en revanche, toute l'attention de Philip, le frère de Clara Jean. Malgré les protestations de ses parents, Dawn commence à fréquenter Philip...</desc>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/683bce530d194ddaa6077b861c0102a4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619160000 +0200" stop="20250619173000 +0200" channel="C192.api.telerama.fr">
+    <title>VC Andrews, la saga Cutler : Les secrets de l'aube</title>
+    <desc lang="fr">Dawn arrive à New York pour étudier à l'école d'arts et de musique Sarah Bernhardt. Elle est logée chez Agnes, une connaissance de sa grand-mère, où elle partage sa chambre avec une autre étudiante, Trisha. Elles deviennent tout de suite amies. Jimmy passe voir Dawn pour lui annoncer qu'il s'est enrôlé dans l'armée et part en Europe. Dawn intègre le cours de Michael Sutton, un célèbre chanteur qui se produit à Broadway...</desc>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/384290065dbb4f18bda49f37a1af085c.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250619173000 +0200" stop="20250619180000 +0200" channel="C192.api.telerama.fr">
+    <title>Familles nombreuses : la vie en XXL</title>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/07/20/b72f5883fd0e4828a7c6342ee3a5ce2e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619180000 +0200" stop="20250619183000 +0200" channel="C192.api.telerama.fr">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Des révélations viennent préciser l'enquête de Victoria. Noah entre en guerre avec Tess, l'influenceuse. L'arrivée d'un nouveau serveur ne passe pas inaperçue au bar d'Eric.</desc>
+    <date>2025</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250619183000 +0200" stop="20250619191000 +0200" channel="C192.api.telerama.fr">
+    <title>Ici tout commence</title>
+    <desc lang="fr">Saison:5 - Episode:1201 - En pleine épreuve, Gaspard fait grand bruit. A l'Atelier, Jude saisit la balle au bond. Aux examens, Malik et Maya cuisinent à deux vitesses.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/25/bc9a4b16910fcab9137fd3e3ad183d7e9b121540_89E4D7197634DA5A77AB4E3659A63C10.jpg" />
+    <episode-num system="xmltv_ns">4.1200.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619191000 +0200" stop="20250619195500 +0200" channel="C192.api.telerama.fr">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:8 - Episode:1969 - Le suspect principal se rend à l'hôpital Saint-Clair. Gloria préfère cacher la vérité à Adam. Pour les cofiançailles, William réserve un lieu sans consulter personne.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/a38c31ad93511b4f10a5c9bf0e502e16cab7d716_0CB6B72D976D814E63DA378960E3D397.jpg" />
+    <episode-num system="xmltv_ns">7.1968.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619195500 +0200" stop="20250619200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619200000 +0200" stop="20250619204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">" JT 20h Semaine " du jeudi 19 juin 2025 à 19h58. Grand rendez-vous de l'actualité, le " LE 20H " est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore...</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619204500 +0200" stop="20250619205000 +0200" channel="C192.api.telerama.fr">
+    <title>Le goût du détail</title>
+    <sub-title>Porc noir de Bigorre</sub-title>
+    <desc lang="fr">Ils sont pêcheurs, éleveurs, maraîchers, confiseurs, fromagers : leur point commun ? Ils ont le goût du détail, ce tour de main, ce regard avisé, cette expertise ancienne retrouvée qui fait toute la différence. Chaque semaine, ces artisans du goût délivrent le secret de leur savoir-faire.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/1adca5102ee34e40847f0539d844e466.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619205000 +0200" stop="20250619210000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619210000 +0200" stop="20250619211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619211000 +0200" stop="20250619221000 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>Symétrie radiale</sub-title>
+    <desc lang="fr">Saison:3 - Episode:1 - Morgane a décidé de quitter la police et a repris un emploi de femme de ménage. Elle a coupé les ponts avec tous ses anciens collègues qui ont pourtant essayé maintes fois de la contacter. Un an plus tard, Morgane devient détective privé. Elle est engagée par Emilie Fontaine, une de personnes chez qui elle fait le ménage, pour découvrir qui est à l'origine de mystérieux événements qui la tourmentent. Morgane résout rapidement cette première enquête : la plupart des problèmes d'Emilie ne sont que le fruit de simples coïncidences. Malheureusement, l'affaire se complique lorsque la détective découvre le corps sans vie de sa cliente...</desc>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/807261813af64991a9d77f795e9dbbc2.jpg" />
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250619221000 +0200" stop="20250619231500 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>18 carats</sub-title>
+    <desc lang="fr">Saison:3 - Episode:2 - La situation est très tendue pour Morgane. En effet, elle se retrouve en prison, accusée d'un meurtre qu'elle n'a pourtant pas commis. C'est une totale incompréhension pour elle, mais elle doit tout de même trouver des solutions pour s'en sortir. Malgré sa présence derrière les barreaux, il faut bien qu'elle s'adapte à ses nouvelles conditions. Ce n'est pas simple pour elle, mais avec sa volonté hors du commun, elle essaye malgré tout de résoudre l'enquête de derrière les barreaux. Pour cela, elle sollicite l'aide de Karadec, mais également du reste de la DIPJ pour parvenir à réussir à prouver son innocence...</desc>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/525239449b374638bdf2120822b5e395.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250619231500 +0200" stop="20250620002500 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>Décalage horaire</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - De retour au sein de l'équipe, Morgane est appelée pour résoudre le meurtre de Naïma, 20 ans, star montante du rap, assassinée en pleine ascension. Elle avance de façon prudente et s'adapte à un environnement particulier : un père tyrannique, un manager véreux, des guetteurs, autres dealeurs et autant de fusillades. Morgane va devoir se sortir de ce tourbillon infernal en renouant le lien avec Karadec, car elle n'a pas d'autre choix...</desc>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2e1590c285b74479be361ab9f7e08e12.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250620002500 +0200" stop="20250620003000 +0200" channel="C192.api.telerama.fr">
+    <title>Eurodreams</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/14/9e5c442912e240eca2d18a7474c8c021.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620003000 +0200" stop="20250620014000 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>Loi de Benford</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - A peine réveillée de sa nuit passée avec Timothée, Morgane est appelée sur une scène de crime : Yvan Desfard est retrouvé mort sur le bord d'une route. L'enquête prend une sacrée tournure lorsque toute l'équipe découvre que la victime appartenait à une communauté d'ermites vivant ensemble au sein d'un ashram. Après avoir essayé de prendre ses distances avec Timothée, Morgane retombe une nouvelle fois dans ses bras.</desc>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/7c9b8752765f4aeb832d2885f7b97889.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250620014000 +0200" stop="20250620025000 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>Recto-verso</sub-title>
+    <desc lang="fr">Saison:4 - Episode:1 - La grossesse de Morgane bouleverse son quotidien, mais elle doit tout de même reprendre le travail. Une situation loin d'être simple puisqu'elle doit se concentrer sur ses affaires tout en écoutant son corps pour ne pas avoir de complications. C'est alors qu'Alexandra Collet, mère au foyer de 42 ans, est retrouvée morte par son mari. Un décès dans des circonstances étranges pour cette femme qui avait dédié sa vie à son fils malentendant. L'enquête prend une tournure inattendue quand les enquêteurs découvrent que la victime menait une double vie de dealeuse...</desc>
+    <date>2024</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d5447121634747868609bf59c45084a2.jpg" />
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250620025000 +0200" stop="20250620035500 +0200" channel="C192.api.telerama.fr">
+    <title>HPI</title>
+    <sub-title>ISO 8601</sub-title>
+    <desc lang="fr">Saison:4 - Episode:2 - A l'hôpital pour passer son échographie, Morgane est appelée sur une scène de crime : le docteur Bubé a été assassiné à coup d'extincteur dans son cabinet. L'état de la victime laisse deviner la violence de l'agression. L'enquête révèle rapidement que des militants antispécistes pourraient bien être impliqués dans cet épouvantable carnage. Morgane va devoir percer le mystère de ce meurtre aux côtés de Karadec, qui s'apprête à quitter la brigade, et du commandant Prigent, son successeur. Une tâche à la hauteur de ses capacités, mais qui semble bien plus compliquée qu'elle n'en a l'air...</desc>
+    <date>2024</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d5447121634747868609bf59c45084a2.jpg" />
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250620035500 +0200" stop="20250620060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620060000 +0200" stop="20250620065500 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Une émission jeunesse qui propose les meilleures séries de dessins animés du moment.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620065500 +0200" stop="20250620093500 +0200" channel="C192.api.telerama.fr">
+    <title>Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 9h30, présenté par Bruce Toussaint et sa bande chroniqueurs.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/128fa56830524d74b7f2d31aa4cccf26.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620093500 +0200" stop="20250620103000 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620103000 +0200" stop="20250620110000 +0200" channel="C192.api.telerama.fr">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Poppy et Luna profitent des avantages d'appartenir à la famille Spencer. Parallèlement, le sac à dos de Tom est retrouvé dans un placard à Il Giardino.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/ab390480a18b451fa3d39077a8070f35.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620110000 +0200" stop="20250620114500 +0200" channel="C192.api.telerama.fr">
+    <title>Les Feux de l'amour</title>
+    <desc lang="fr">La famille Abbott, installée à Genoa City, dans le Wisconsin, possède une immense fortune et une gigantesque entreprise. Les luttes de pouvoir, trahisons au sein même du clan sont monnaie courante. Leur ennemi de toujours, l'industriel Victor Newman, ne fait rien pour leur faciliter la tâche, bien au contraire. D'alliances en ruptures, les illusions de chacun se heurtent à l'hostilité, à la jalousie et à la haine des autres. Entre amour et pouvoir, le choix est souvent celui de la puissance. Un Soap Opera mondialement célèbre, produit et diffusé depuis plus de quarante ans aux Etats-Unis ! A ce jour, une trentaine de pays différents diffusent le feuilleton chaque jour, et c'est en France que le feuilleton réalise ses meilleures audiences, juste derrière les Etats-Unis.</desc>
+    <category lang="fr">feuilleton sentimental</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/79aeb6440b0e4862ab0b433035876550.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620114500 +0200" stop="20250620115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620115000 +0200" stop="20250620125500 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620125500 +0200" stop="20250620130000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620130000 +0200" stop="20250620135000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620135000 +0200" stop="20250620135500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620135500 +0200" stop="20250620140000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620140000 +0200" stop="20250620142500 +0200" channel="C192.api.telerama.fr">
+    <title>Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Luna et Chloé sont en mauvaise posture. Babeth et un allié inattendu leur portent secours. Dévasté par des révélations, Ulysse s'effondre. Thomas peine au bac.</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/27/d1ce171964e7499391f404963d479d80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620142500 +0200" stop="20250620160000 +0200" channel="C192.api.telerama.fr">
+    <title>VC Andrews, la saga Cutler : L'enfant du crépuscule</title>
+    <desc lang="fr">Dawn et Michael se rapprochent rapidement et commencent à sortir ensemble en secret. Dawn se retrouve enceinte et l'annonce à Michael, qui paraît ravi au premier abord et lui promet qu'ils vont se marier. Mais elle découvre rapidement que Michael a pris la fuite et est rentré en Angleterre. Sous le choc, elle ne voit pas une voiture qui la heurte et se retrouve hospitalisée. Lillian lui rend visite à l'hôpital et lui annonce qu'elle l'a désinscrite de l'école et l'envoie dans sa maison d'enfance, les Meadows, avec ses deux soeurs, Emily et Charlotte, où elle pourra mener sa grossesse à terme...</desc>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/0f8857fedd2c481f88acf24b7c8531b5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250620160000 +0200" stop="20250620173000 +0200" channel="C192.api.telerama.fr">
+    <title>VC Andrews, la saga Cutler : Les démons de la nuit</title>
+    <desc lang="fr">Christie, la fille de Dawn, fête son seizième anniversaire. Ses parents lui organisent une superbe fête en présence de tous ses amis et sa famille. Quelques heures avant la fête, Dawn révèle à Christie que leur famille est touchée par une malédiction depuis plusieurs générations et qu'elle doit être prudente. Pendant la fête, Philip se montre particulièrement tactile et insistant avec Dawn. Betty Ann découvre le repère secret de Philip, dans le sous-sol de l'hôtel, où il entrepose des photos et des affaires appartenant à Dawn. Elle détruit tout. Fou de rage, Philip s'en prend d'abord à elle, puis à Jimmy, parti réparer la chaudière au sous-sol...</desc>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/7a1d9bf0bccb409da60d9bc725db5ddb.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250620173000 +0200" stop="20250620180000 +0200" channel="C192.api.telerama.fr">
+    <title>Familles nombreuses : la vie en XXL</title>
+    <desc lang="fr">La famille Galli est de retour avec une surprise à annoncer. Cette saison est aussi l'occasion de rencontrer les Augoyard, ou encore les Nguyen et leurs douze enfants.</desc>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/07/20/b72f5883fd0e4828a7c6342ee3a5ce2e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620180000 +0200" stop="20250620183000 +0200" channel="C192.api.telerama.fr">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Victoria met la main sur une preuve savamment dissimulée. Lors des évaluations, certains élèves sont séduits par l'école buissonnière. Sultana, elle, fait une découverte glaçante.</desc>
+    <date>2025</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250620183000 +0200" stop="20250620191000 +0200" channel="C192.api.telerama.fr">
+    <title>Ici tout commence</title>
+    <desc lang="fr">Saison:5 - Episode:1202 - A l'Institut, Stanislas donne de la voix. De son côté, Vic fait la sourde oreille. A l'internat, Mattéo, Gary et Thelma décident de faire la loi.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/25/bc9a4b16910fcab9137fd3e3ad183d7e9b121540_89E4D7197634DA5A77AB4E3659A63C10.jpg" />
+    <episode-num system="xmltv_ns">4.1201.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620191000 +0200" stop="20250620195500 +0200" channel="C192.api.telerama.fr">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:8 - Episode:1970 - Raphaëlle craque face aux révélations de Martin. Malgré elle, Roxane s'approprie la bague de fiançailles destinée à Manon. Martial retourne la situation à son avantage.</desc>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/a38c31ad93511b4f10a5c9bf0e502e16cab7d716_0CB6B72D976D814E63DA378960E3D397.jpg" />
+    <episode-num system="xmltv_ns">7.1969.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250620195500 +0200" stop="20250620200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620200000 +0200" stop="20250620204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">Le journal télévisé présente les faits marquants et les événements essentiels de l'actualité nationale et internationale, tout en mettant en valeur l'actualité régionale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620204500 +0200" stop="20250620205000 +0200" channel="C192.api.telerama.fr">
+    <title>My Million</title>
+    <desc lang="fr">Au menu, les derniers résultats d'EuroMillions ainsi que les codes gagnants My Million, avec les 5 numéros gagnants et les 2 bonnes étoiles de la loterie.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/24/fef9c14e39f2833be606e73bd0fe50b3a071ad6e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620205000 +0200" stop="20250620210000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620210000 +0200" stop="20250620211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620211000 +0200" stop="20250620234000 +0200" channel="C192.api.telerama.fr">
+    <title>Mask Singer</title>
+    <desc lang="fr">Après une nouvelle série de duels palpitants, deux autres candidats ont été invités à plier bagage. Le Burger a fini par être démasqué, et le public a pu découvrir que c'est Arnaud Ducret qui se cachait sous ce costume original. Autre candidate dont l'identité a été révélée : la judokate Romane Dicko, alias le Panda Roux.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/611b0635e1004bfa9b5af26c95cb2a51.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620234000 +0200" stop="20250621003700 +0200" channel="C192.api.telerama.fr">
+    <title>Mask Singer, l'enquête continue</title>
+    <desc lang="fr">Après de nouveaux duels très disputés, le Bureau de Laurent Ruquier accueille les personnalités démasquées au cours de l'ultime épreuve et les interroge sur cette expérience incroyable : leur préparation vocale, le secret, le choix de leur costume, leurs prestations scéniques ainsi que les anecdotes en coulisses.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">57</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/19/9d7b4f9f3ba94d62ab92afa2c64167ee.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621003700 +0200" stop="20250621004000 +0200" channel="C192.api.telerama.fr">
+    <title>Tirage de l'EuroMillions</title>
+    <category lang="fr">loterie</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c895cf0897e742f68f90f5071dcac0f3.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621004000 +0200" stop="20250621060000 +0200" channel="C192.api.telerama.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">320</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/b385797197cd44d397d2f0a0a5deb3e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621060000 +0200" stop="20250621110000 +0200" channel="C192.api.telerama.fr">
+    <title>TFou</title>
+    <desc lang="fr">Molang / Mighty Express (ST) / Barbapapa en Famille (ST) / Azuro &amp; la brigade des dragons (ST) / Santiago des mers (ST) / Dora (ST) / Paw Patrol, la Pat'Patrouille (ST) / Les schtroumpfs (ST) / Oum le dauphin blanc (ST) / Miraculous - Les aventures de Ladybug et Chat Noir (ST - AD)</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="hours">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/10/6e1c3ab223154bcbbc6661efbc4842b7.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621110000 +0200" stop="20250621114500 +0200" channel="C192.api.telerama.fr">
+    <title>Téléshopping samedi</title>
+    <desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/10/3d0ad365e38e4bf49869ff9af6a71079.jpeg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621114500 +0200" stop="20250621115000 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621115000 +0200" stop="20250621125000 +0200" channel="C192.api.telerama.fr">
+    <title>Les douze coups de midi</title>
+    <desc lang="fr">Du 16 au 22 juin 2025, "Les 12 Coups de Midi" s'engage contre le cancer, pour la troisième année consécutive, aux côtés de Gustave Roussy et de la Fondation ARC. Durant cette semaine, pour chaque bonne réponse, 5 000 euros seront ajoutés à une cagnotte destinée à soutenir la recherche contre le cancer.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/06/ab1a04160dcc45719a78b6334c1ff938.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621125000 +0200" stop="20250621125500 +0200" channel="C192.api.telerama.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621125500 +0200" stop="20250621130000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621130000 +0200" stop="20250621134000 +0200" channel="C192.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/28/34e7fe68fc944378a4c43a65c3a69750.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621134000 +0200" stop="20250621145000 +0200" channel="C192.api.telerama.fr">
+    <title>Reportages découverte</title>
+    <sub-title>La guerre du silence</sub-title>
+    <desc lang="fr">Un Français sur trois souffrirait du bruit. Si la loi est censée les protéger, en réalité, les victimes de nuisances sonores doivent lutter pour que la situation change.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/21/fdd93054003d4338a13145f3d0a55170.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621145000 +0200" stop="20250621161000 +0200" channel="C192.api.telerama.fr">
+    <title>Reportages découverte</title>
+    <sub-title>Voisins, administration, mairie ! Querelles en tous genres</sub-title>
+    <desc lang="fr">Partout en France, des femmes et des hommes mènent des combats que l'on pourrait considérer comme perdus d'avance, de vrais combats de David contre Goliath.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/08/574aba6d1c6b4b308d4b9ca6c43310eb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621161000 +0200" stop="20250621175000 +0200" channel="C192.api.telerama.fr">
+    <title>Les Docs du week-end</title>
+    <sub-title>Hellfest et Burning Man : au coeur des festivals les plus fous du monde</sub-title>
+    <desc lang="fr">Ils font partie des festivals les plus fous du monde : le Hellfest, en France, et le Burning Man, qui se déroule dans le désert du Nevada. Le plus grand festival de musique métal au monde d'un côté et de l'autre, un gigantesque rassemblement mi-hippie, mi-techno, en plein désert du Nevada. Dans les deux cas, une fête non-stop.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/15/c1db8a5ed9e94bb2b43a4185e2fa5283.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250621175000 +0200" stop="20250621190000 +0200" channel="C192.api.telerama.fr">
+    <title>50mn Inside l'actu</title>
+    <sub-title>L'actu</sub-title>
+    <desc lang="fr">Chaque samedi, Isabelle Ithurburu propose des news, de l'actualité people, des reportages dans l'intimité des stars mais aussi de découvrir des repaires secrets et des destinations de rêve au bout du monde.</desc>
+    <category lang="fr">magazine du show-biz</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/12/71c92c68f8d84dd2958bf80ed34bfaf6.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621190000 +0200" stop="20250621195000 +0200" channel="C192.api.telerama.fr">
+    <title>50mn Inside le mag</title>
+    <sub-title>Le mag</sub-title>
+    <desc lang="fr">Chaque semaine, Isabelle Ithurburu reçoit une personnalité du monde du cinéma, de la chanson, du théâtre. Et s'invite dans l'univers des stars à travers des news, l'actualité des people et des reportages dans l'intimité des célébrités.</desc>
+    <category lang="fr">magazine du show-biz</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/12/71c92c68f8d84dd2958bf80ed34bfaf6.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621195000 +0200" stop="20250621195500 +0200" channel="C192.api.telerama.fr">
+    <title>Première sélection</title>
+    <desc lang="fr">Les footballeuses de l'équipe de France féminine de football se remémorent leur toute première sélection chez les Bleues.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/694d90e18f154ed1b46e7f9ec4d43850.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621195500 +0200" stop="20250621200000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621200000 +0200" stop="20250621204500 +0200" channel="C192.api.telerama.fr">
+    <title>JT 20h</title>
+    <desc lang="fr">Le journal télévisé présente les faits marquants et les événements essentiels de l'actualité nationale et internationale, tout en mettant en valeur l'actualité régionale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/22/388a6c415fb97a21abc31ec383ef83887d4df5a8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621204500 +0200" stop="20250621205000 +0200" channel="C192.api.telerama.fr">
+    <title>Tirage du Loto</title>
+    <desc lang="fr">Les derniers résultats des Loto. Tous les lundi, mercredi et samedi vers 20h35, Jean-Pierre Foucault, Elsa Fayer, Christophe Beaugrand, Karine Ferri ou Iris Mittenaere présentent les résultats des tirages officiels du Loto avec les cinq numéros gagnants ainsi que le numéro chance des derniers tirages.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/a42efa546fe947c0b2ebf0c0f42256d0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621205000 +0200" stop="20250621210000 +0200" channel="C192.api.telerama.fr">
+    <title>Quotidien express</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/20/59c432c9cf9d472c90b5597df871e263.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621210000 +0200" stop="20250621211000 +0200" channel="C192.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/08/9428434462f3c09d9ec45063ddf9077bca4c444e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621211000 +0200" stop="20250621224000 +0200" channel="C192.api.telerama.fr">
+    <title>Le grand quiz</title>
+    <sub-title>Le Grand Quiz du Q.I. : Serez-vous HPI ?</sub-title>
+    <desc lang="fr">Afin d'évaluer le Q.I des familles et déterminer s'ils sont HPI, 150 personnes réparties en trois groupes distincts, enfants, parents, et grands-parents, répondent à une série de 54 questions, portant sur six catégories. Chaque tranche d'âge sera soutenue par deux invités, qui en profiteront pour se tester eux aussi.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/d35197fa9c724514a197de11ecd3ab85.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621224000 +0200" stop="20250621234000 +0200" channel="C192.api.telerama.fr">
+    <title>Le grand quiz</title>
+    <sub-title>Le Grand Quiz du Q.I. : Serez-vous HPI ?</sub-title>
+    <desc lang="fr">Les trois meilleurs candidats, le top du top de chaque catégorie, se qualifient pour la grande finale, qui désignera le meilleur des meilleurs de la soirée.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/08/70cd1ba8548b4b69994cefa621d04d82.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621234000 +0200" stop="20250622014000 +0200" channel="C192.api.telerama.fr">
+    <title>Vendredi, tout est Booder</title>
+    <desc lang="fr">Les personnalités du paysage audiovisuel français redoutent cette invitation qu'ils ne peuvent refuser en dépit des risques encourus : se retrouver dans les images drôles des zappings durant des années. En effet, les invités n'ignorent pas que Booder, animateur de cette émission culte, s'apprête à les placer dans des situations aussi incongrues qu'hilarantes.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/74373d8a918b496081830c628d8cbb44.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
