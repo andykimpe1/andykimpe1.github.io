@@ -1,5 +1,4 @@
-  <channel id="C4.api.telerama.fr">
-  <programme start="20250615012500 +0200" stop="20250615012600 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615012500 +0200" stop="20250615012600 +0200" channel="France2.fr">
     <title>Météo 2</title>
     <desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -9,7 +8,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615012600 +0200" stop="20250615035000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615012600 +0200" stop="20250615035000 +0200" channel="France2.fr">
     <title>Laurent Gerra, l'anniversaire-événement</title>
     <desc lang="fr">Laurent Gerra célèbre ses 35 ans de carrière au Théâtre Marigny, aux côtés de Stéphane Bern. Au fil de la soirée, des personnalités qu'il a imitées, taquinées et admirées viennent célébrer cet anniversaire. Certaines lui ont même réservé des surprises, pour faire de ce moment une fête mémorable, ponctuée de rires et d'émotion.</desc>
     <category lang="fr">divertissement-humour</category>
@@ -20,7 +19,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615035000 +0200" stop="20250615043000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615035000 +0200" stop="20250615043000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -31,7 +30,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615043000 +0200" stop="20250615050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615043000 +0200" stop="20250615050000 +0200" channel="France2.fr">
     <title>Florence dans le regard des Médicis</title>
     <desc lang="fr">Berceau de la Renaissance, Florence a vu naître des artistes qui façonneront l'art, l'architecture et la littérature à partir du 13e siècle jusqu'à nos jours. Ces génies de l'humanité réunis en un même lieu et à la même époque ont un dénominateur commun, une même clé : Les Médicis...</desc>
     <category lang="fr">documentaire culture</category>
@@ -42,7 +41,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615050000 +0200" stop="20250615050500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615050000 +0200" stop="20250615050500 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Tunisie : Douz</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -54,7 +53,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615050500 +0200" stop="20250615060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615050500 +0200" stop="20250615060000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -64,7 +63,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615060000 +0200" stop="20250615064500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615060000 +0200" stop="20250615064500 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -75,7 +74,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615064500 +0200" stop="20250615080500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615064500 +0200" stop="20250615080500 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -86,7 +85,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615080500 +0200" stop="20250615081500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615080500 +0200" stop="20250615081500 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -97,7 +96,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615081500 +0200" stop="20250615083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615081500 +0200" stop="20250615083000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">A l'occasion du Festival de Cannes, Charlotte Lipinska, la chroniqueuse cinéma de l'émission, est en duplex à 08h40 depuis les coulisses de l'événement et livre au petit matin les indiscrétions de la nuit et le programme du jour. Elle part également à la rencontre de ceux qui font les films et de ceux qui les aiment.</desc>
     <category lang="fr">magazine de services</category>
@@ -108,7 +107,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615083000 +0200" stop="20250615084500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615083000 +0200" stop="20250615084500 +0200" channel="France2.fr">
     <title>Sagesses bouddhistes</title>
     <sub-title>Questions au Bouddha - présentation du Sutta Nipata</sub-title>
     <desc lang="fr">L'actualité et la pratique du bouddhisme en France.</desc>
@@ -119,7 +118,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615084500 +0200" stop="20250615091500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615084500 +0200" stop="20250615091500 +0200" channel="France2.fr">
     <title>Islam</title>
     <sub-title>Ecoles privées musulmanes</sub-title>
     <desc lang="fr">Trente minutes consacrées à la religion musulmane et à l'Islam en France.</desc>
@@ -130,7 +129,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615091500 +0200" stop="20250615100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615091500 +0200" stop="20250615100000 +0200" channel="France2.fr">
     <title>A l'origine</title>
     <sub-title>Histoires : La Kabbale : "Loi orale et secrète"</sub-title>
     <desc lang="fr">Histoire et spiritualité du judaïsme.</desc>
@@ -141,7 +140,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615100000 +0200" stop="20250615103000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615100000 +0200" stop="20250615103000 +0200" channel="France2.fr">
     <title>Présence protestante</title>
     <sub-title>Dietrich Bonhoeffer, le courage d'une conviction</sub-title>
     <category lang="fr">magazine religieux</category>
@@ -151,7 +150,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615103000 +0200" stop="20250615110000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615103000 +0200" stop="20250615110000 +0200" channel="France2.fr">
     <title>Le jour du Seigneur</title>
     <sub-title>Guerre 39-45, pourquoi continuer à "faire mémoire" ?</sub-title>
     <desc lang="fr">A l'occasion du 80e anniversaire de la fin de la Seconde Guerre mondiale, David Milliat reçoit Jérôme Cordelier, journaliste et auteur d'ouvrages historiques. Dans un contexte où les idéologies extrêmes réapparaissent, le magazine revient sur la nécessité de cultiver la mémoire de ce conflit et de la transmettre aux jeunes générations.</desc>
@@ -162,7 +161,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615110000 +0200" stop="20250615115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615110000 +0200" stop="20250615115500 +0200" channel="France2.fr">
     <title>Messe</title>
     <desc lang="fr">Célébrée depuis l'église Saints-Martin-et-Adèle à Orp-le-Grand (Belgique). Prédicateur : abbé Pierre Hannosset. Président : abbé Michel Beya, curé.</desc>
     <category lang="fr">emission religieuse</category>
@@ -173,7 +172,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615115500 +0200" stop="20250615120000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615115500 +0200" stop="20250615120000 +0200" channel="France2.fr">
     <title>Parole inattendue</title>
     <desc lang="fr">Une personnalité s'exprime au sujet de sa foi et de sa spiritualité.</desc>
     <category lang="fr">magazine religieux</category>
@@ -183,7 +182,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615120000 +0200" stop="20250615125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615120000 +0200" stop="20250615125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -193,7 +192,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615125500 +0200" stop="20250615130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615125500 +0200" stop="20250615130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -203,7 +202,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615130000 +0200" stop="20250615132000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615130000 +0200" stop="20250615132000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -214,7 +213,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615132000 +0200" stop="20250615142000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615132000 +0200" stop="20250615142000 +0200" channel="France2.fr">
     <title>13h15, le dimanche...</title>
     <sub-title>Rose Valland, l'héroïne de l'ombre (Episodes 1 &amp; 2/4)</sub-title>
     <category lang="fr">magazine d'information</category>
@@ -224,7 +223,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615142000 +0200" stop="20250615142100 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615142000 +0200" stop="20250615142100 +0200" channel="France2.fr">
     <title>13h15, le dimanche...</title>
     <sub-title>Rose Valland, l'héroïne de l'ombre (Episodes 3 &amp; 4/4)</sub-title>
     <category lang="fr">magazine d'information</category>
@@ -234,7 +233,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615142100 +0200" stop="20250615151000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615142100 +0200" stop="20250615151000 +0200" channel="France2.fr">
     <title>C'est bon à savoir</title>
     <sub-title>Le régime méditerranéen, un véritable mode de vie ?</sub-title>
     <desc lang="fr">"C'est bon à savoir" décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
@@ -245,7 +244,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615151000 +0200" stop="20250615160500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615151000 +0200" stop="20250615160500 +0200" channel="France2.fr">
     <title>Familles de légende</title>
     <sub-title>Famille Bras, les chefs de l'Aubrac</sub-title>
     <desc lang="fr">Chez les Bras, la cuisine est une affaire de famille. Initié par sa mère, Michel Bras s'est fait une place aux côtés des plus grands cuisiniers du XXe siècle. Une passion transmise à son fils aîné, Sébastien. Le berceau de la famille Bras est un territoire de plateaux déserts, l'Aubrac.</desc>
@@ -256,7 +255,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615160500 +0200" stop="20250615180500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615160500 +0200" stop="20250615180500 +0200" channel="France2.fr">
     <title>Un dimanche à la campagne</title>
     <desc lang="fr">L'animateur et producteur Laurent Ruquier, l'actrice de cinéma et de théâtre Caroline Anglade et la chanteuse et musicienne américaine Melody Gardot sont les invités de Frédéric Lopez pour cette parenthèse propice aux confidences.</desc>
     <category lang="fr">talk-show</category>
@@ -266,7 +265,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615180500 +0200" stop="20250615191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615180500 +0200" stop="20250615191000 +0200" channel="France2.fr">
     <title>Les enfants de la télé</title>
     <desc lang="fr">Au programme de ce moment convivial d'humeur et d'humour, un savant mélange de séquences cultes, de fous rires, d'images drôles et émouvantes. L'occasion de revoir avec plaisir les images qui ont fait les belles heures de la télévision.</desc>
     <category lang="fr">divertissement</category>
@@ -276,7 +275,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615191000 +0200" stop="20250615195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615191000 +0200" stop="20250615195500 +0200" channel="France2.fr">
     <title>Les Enfants de la télé, la suite</title>
     <desc lang="fr">Au programme de ce moment convivial d'humeur et d'humour, un savant mélange de séquences cultes, de fous rires, d'images drôles et émouvantes. L'occasion de revoir avec plaisir les images qui ont fait les belles heures de la télévision.</desc>
     <category lang="fr">divertissement</category>
@@ -286,7 +285,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615195500 +0200" stop="20250615195600 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615195500 +0200" stop="20250615195600 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -296,7 +295,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615195600 +0200" stop="20250615203000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615195600 +0200" stop="20250615203000 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -307,7 +306,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615203000 +0200" stop="20250615210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615203000 +0200" stop="20250615210000 +0200" channel="France2.fr">
     <title>20h30, le dimanche</title>
     <sub-title>Sting</sub-title>
     <desc lang="fr">Le célèbre chanteur-bassiste de The Police remonte sur scène pour la comédie musicale "The Last Ship", un spectacle qui rend hommage à ses origines modestes et à la ville qui l'a vu naître : Wallsend près de Newcastle, où mineurs et chantiers navals faisaient jadis vivre la région.</desc>
@@ -318,7 +317,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615210000 +0200" stop="20250615210500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615210000 +0200" stop="20250615210500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -328,7 +327,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615210500 +0200" stop="20250615210600 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615210500 +0200" stop="20250615210600 +0200" channel="France2.fr">
     <title>Les loges</title>
     <sub-title>Eddy de Pretto</sub-title>
     <desc lang="fr">Programme Parrainé par SCHMIDT Prodiit par 3EME ŒIL PRODUCTION pour 7 épisodes Avenant N°1 pour 4 épisodes a relivrer incluant nouvel habillage FTV pour rediffusions et reprenant des existants</desc>
@@ -339,7 +338,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615210600 +0200" stop="20250615211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615210600 +0200" stop="20250615211000 +0200" channel="France2.fr">
     <title>Oh ! Biz'Art</title>
     <sub-title>La corde</sub-title>
     <desc lang="fr">Un rendez-vous sur le thème de la culture artistique pour les curieux, un petit plaisir pour les érudits, ou encore une découverte pour les plus jeunes.</desc>
@@ -350,7 +349,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250615211000 +0200" stop="20250615225500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615211000 +0200" stop="20250615225500 +0200" channel="France2.fr">
     <title>Les enfants des autres</title>
     <desc lang="fr">A 40 ans, Rachel est une femme comblée, que ce soit professionnellement, avec son emploi de professeur dans un lycée, ou personnellement. Jusqu'au jour où elle tombe amoureuse d'Ali, père célibataire d'une petite Leila, âgée de 4 ans. Rachel s'attache et tombe sous le charme de l'enfant. Elle ne tarde pas à s'en occuper comme si c'était la sienne et commence à ressentir des sentiments forts pour la petite fille. Mais cet amour comporte des risques puisque l'affection qu'elle lui porte peut vite se heurter à un mur si jamais le couple est amené à rompre. A ce moment-là, elle perdra alors aussi ce lien avec Leila...</desc>
     <date>2022</date>
@@ -366,7 +365,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250615225500 +0200" stop="20250616003500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250615225500 +0200" stop="20250616003500 +0200" channel="France2.fr">
     <title>Madeleine Collins</title>
     <desc lang="fr">Judith mène une vie pleine de secrets entre Melvil, chef d'orchestre, et leurs deux enfants en France, et Abdel, avec lequel elle élève une petite fille en Suisse. Grâce à son métier d'interprète, elle prétexte des voyages professionnels afin de s'échapper de l'un ou de l'autre. Avec Melvin, c'est une femme dévouée, les cheveux attachés, qui s'occupe des deux garçons plus âgés. Lorsqu'elle part en Suisse, elle se transforme en une toute autre personne, les cheveux détachés, bien plus active et vivante, prenant soin de la petite Ninon. Mais, avec le temps qui passe, ses mensonges deviennent de plus en plus difficiles à dissimuler...</desc>
     <date>2021</date>
@@ -381,7 +380,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250616003500 +0200" stop="20250616004000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616003500 +0200" stop="20250616004000 +0200" channel="France2.fr">
     <title>Le pitch cinéma</title>
     <desc lang="fr">Ce magazine est consacré au septième art – le cinéma et à l'actualité qui s'y rattache.</desc>
     <category lang="fr">magazine du cinéma</category>
@@ -391,7 +390,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616004000 +0200" stop="20250616014800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616004000 +0200" stop="20250616014800 +0200" channel="France2.fr">
     <title>Histoires courtes</title>
     <sub-title>L'été des festivals : Champs Elysées Film Festival 2025</sub-title>
     <desc lang="fr">Une sélection de courts métrages français et internationaux liés par un thème.</desc>
@@ -402,7 +401,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616014800 +0200" stop="20250616015000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616014800 +0200" stop="20250616015000 +0200" channel="France2.fr">
     <title>Météo 2</title>
     <desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -412,7 +411,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616015000 +0200" stop="20250616031500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616015000 +0200" stop="20250616031500 +0200" channel="France2.fr">
     <title>Une confession</title>
     <desc lang="fr">En Provence, de nos jours. Clarisse, la trentaine, gendarme pugnace et téméraire, est chargée d'enquêter sur la mort de Maud Duberry. Celle-ci est tombée du haut d'une falaise sous les yeux de son mari, Jean Duberry, la cinquantaine, qui n'a rien pu faire. L'affaire est rapidement classée en accident. Mais une semaine plus tard, un mystérieux témoin affirme avoir vu Jean pousser sa femme. Contre l'avis de sa hiérarchie, Clarisse décide de reprendre ses investigations. Elle est prête à tout pour percer à jour les secrets de Jean Duberry, homme au charme vénéneux, et faire la lumière sur cette affaire étrange. Jean est-il vraiment innocent ?...</desc>
     <category lang="fr">téléfilm policier</category>
@@ -425,7 +424,7 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme start="20250616031500 +0200" stop="20250616045000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616031500 +0200" stop="20250616045000 +0200" channel="France2.fr">
     <title>Flair de famille</title>
     <sub-title>Rouge sang</sub-title>
     <desc lang="fr">Saison:1 - Episode:1 - Quand on annonce à François Flament, commissaire d'une antenne de la brigade criminelle à Abbeville, et à Caroline, sa soeur capitaine fraîchement débarquée de Paris, qu'une jeune femme a été retrouvée morte, baignant dans son sang, dans la plus belle serre d'une exploitation agricole, ils ne se doutent pas que cette enquête va les mener au coeur d'une tragédie familiale. Cette première enquête qu'ils mènent de conserve ébranle fortement François et Caroline dans leur relation fraternelle. Ensemble, ils rejouent ce qui les a soudés et séparés, ce qui fonde leur complicité, leur amour mais aussi la jalousie, le ressentiment, voire le désir de vengeance qu'ils ressentent parfois...</desc>
@@ -442,7 +441,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250616045000 +0200" stop="20250616050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616045000 +0200" stop="20250616050000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Tunisie : Douz</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -454,7 +453,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616050000 +0200" stop="20250616055000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616050000 +0200" stop="20250616055000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -464,7 +463,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616055000 +0200" stop="20250616060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616055000 +0200" stop="20250616060000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -474,7 +473,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616060000 +0200" stop="20250616063500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616060000 +0200" stop="20250616063500 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -485,7 +484,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616063500 +0200" stop="20250616080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616063500 +0200" stop="20250616080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -496,7 +495,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616080000 +0200" stop="20250616083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616080000 +0200" stop="20250616083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -507,7 +506,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616083000 +0200" stop="20250616093500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616083000 +0200" stop="20250616093500 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -518,7 +517,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616093500 +0200" stop="20250616100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616093500 +0200" stop="20250616100000 +0200" channel="France2.fr">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
     <category lang="fr">magazine de société</category>
@@ -528,7 +527,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616100000 +0200" stop="20250616103500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616100000 +0200" stop="20250616103500 +0200" channel="France2.fr">
     <title>La maison des Maternelles à votre service</title>
     <desc lang="fr">De nombreuses rubriques font le tour de l'actualité de la petite enfance, de la famille et de la parentalité, en compagnie de professionnels de l'enfance, de témoins et d'experts. Des conseils au jour le jour, des décryptages et des tests de produits destinés aux plus petits complètent le dispositif.</desc>
     <category lang="fr">magazine de société</category>
@@ -538,7 +537,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616103500 +0200" stop="20250616104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616103500 +0200" stop="20250616104000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>Produits solaires : comment bien les choisir et les utiliser ?</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -549,7 +548,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616104000 +0200" stop="20250616104500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616104000 +0200" stop="20250616104500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -559,7 +558,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616104500 +0200" stop="20250616112500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616104500 +0200" stop="20250616112500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -569,7 +568,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616112500 +0200" stop="20250616115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616112500 +0200" stop="20250616115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -579,7 +578,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616115500 +0200" stop="20250616125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616115500 +0200" stop="20250616125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Quiz de culture générale au cours duquel 6 candidats vont tenter chaque jour de déloger le champion en titre (qui accumule les gains d¿émission en émission) et de prendre sa place. C¿est le champion en titre qui choisit le thème des questions en finale.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -589,7 +588,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616125500 +0200" stop="20250616130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616125500 +0200" stop="20250616130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -599,7 +598,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616130000 +0200" stop="20250616134000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616130000 +0200" stop="20250616134000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -610,7 +609,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616134000 +0200" stop="20250616134500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616134000 +0200" stop="20250616134500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -620,7 +619,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616134500 +0200" stop="20250616135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616134500 +0200" stop="20250616135500 +0200" channel="France2.fr">
     <title>La p'tite librairie</title>
     <sub-title>Testament à l'anglaise, de Jonathan Coe</sub-title>
     <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
@@ -631,7 +630,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616135500 +0200" stop="20250616150500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616135500 +0200" stop="20250616150500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Policier, journaliste, avocat : l'affaire qui a bouleversé leur vie</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -642,7 +641,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616150500 +0200" stop="20250616161500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616150500 +0200" stop="20250616161500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Guet-apens, détournement d'avion, attaque terroriste : ils ont eu la peur de leur vie !</sub-title>
     <desc lang="fr">Faustine Bollaert reçoit sur le plateau 4 témoins qui ont vu leur dernière heure arriver, et ce souvenir reste encore très ancré en eux. Tarik a empêché le détournement d'un avion ! Lou-Anne, droguée, on a tenté de la kidnapper ! Lors de l'attaque terroriste du musée du Bardo de Tunis, Maryline et Yvon sont sur place et vivent ce cauchemar de l'intérieur. Cela n'arrive pas qu'aux autres…</desc>
@@ -653,7 +652,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616161500 +0200" stop="20250616170500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616161500 +0200" stop="20250616170500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -663,7 +662,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616170500 +0200" stop="20250616175500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616170500 +0200" stop="20250616175500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -673,7 +672,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616175500 +0200" stop="20250616180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616175500 +0200" stop="20250616180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -683,7 +682,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616180000 +0200" stop="20250616184000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616180000 +0200" stop="20250616184000 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -693,7 +692,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616184000 +0200" stop="20250616191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616184000 +0200" stop="20250616191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -703,7 +702,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616191000 +0200" stop="20250616195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616191000 +0200" stop="20250616195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -713,7 +712,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616195500 +0200" stop="20250616200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616195500 +0200" stop="20250616200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -723,7 +722,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616200000 +0200" stop="20250616205000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616200000 +0200" stop="20250616205000 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -734,7 +733,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616205000 +0200" stop="20250616205200 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616205000 +0200" stop="20250616205200 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -744,7 +743,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616205200 +0200" stop="20250616205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616205200 +0200" stop="20250616205500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -755,7 +754,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616205500 +0200" stop="20250616205800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616205500 +0200" stop="20250616205800 +0200" channel="France2.fr">
     <title>Basique, l'essentiel de la musique</title>
     <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
     <category lang="fr">magazine musical</category>
@@ -765,7 +764,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616205800 +0200" stop="20250616210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616205800 +0200" stop="20250616210000 +0200" channel="France2.fr">
     <title>Ma maison de A à Z</title>
     <sub-title>Installer un portail coulissant</sub-title>
     <desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
@@ -776,7 +775,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616210000 +0200" stop="20250616211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616210000 +0200" stop="20250616211000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -786,7 +785,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616211000 +0200" stop="20250616221000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616211000 +0200" stop="20250616221000 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>Sous la carapace</sub-title>
     <desc lang="fr">Saison:14 - Episode:8 - Mervin est sur le point de rentrer chez lui, mais il se retrouve au centre d'une enquête pour meurtre lorsqu'un corps est découvert dans sa cabane. Alors que Mervin clame son innocence, l'équipe n'arrive pas à comprendre comment la victime s'est retrouvée à l'intérieur d'un bâtiment fermé à clé et ne présentant aucun signe d'effraction. L'identité de la femme reste mystérieuse, jusqu'à ce qu'ils découvrent qu'elle travaillait bénévolement pour une organisation caritative locale de protection des tortues, et les soupçons se portent sur ses collègues. Pendant ce temps, Selwyn est confronté à sa décision la plus difficile, et il annonce à Mervin une nouvelle personnelle qui bouleverse tout...</desc>
@@ -803,7 +802,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250616221000 +0200" stop="20250616231000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616221000 +0200" stop="20250616231000 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>Question d'avenir</sub-title>
     <desc lang="fr">Saison:13 - Episode:5 - Marlon reçoit un mystérieux appel téléphonique de son ancien patron, qui semble gravement blessé alors qu'il le supplie de l'aider. Il s'agit d'un rappel de son passé criminel et de quelqu'un à qui il n'a pas parlé depuis qu'il est entré dans la police. Lorsque Marlon se précipite, il est horrifié de constater que son ancien patron est mort, après avoir été abattu. Et le seul témoin est un perroquet... Marlon est déterminé à résoudre l'affaire, insistant sur le fait que, bien que son ancien patron ait trempé dans la criminalité, il n'était pas un mauvais gars. Mais lorsque l'équipe découvre deux suspects potentiels, elle est frustrée de se retrouver dans une impasse...</desc>
@@ -820,7 +819,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20250616231000 +0200" stop="20250617000500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250616231000 +0200" stop="20250617000500 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>La liste de souhaits</sub-title>
     <desc lang="fr">Saison:13 - Episode:6 - Alors que Neville se prépare psychologiquement à revoir son ex, Zoé, il est informé qu'un meurtre a été perpétré dans un hôtel de Sainte-Marie : une femme a été retrouvée seule dans un ascenseur, un couteau planté dans le coeur. Le tueur n'a eu que quelques secondes pour entrer dans l'ascenseur en marche, l'assassiner, et en ressortir. On apprend que Cora, la victime, se sachant mourante, avait une liste de souhaits dont le premier était de venir à Sainte-Marie avec son mari, Joe, leur fille enceinte, Holly, et le mari de celle-ci, Sam. Mais alors pourquoi Sainte-Marie ne figure-t-elle pas sur la liste de Cora ?...</desc>
@@ -836,7 +835,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617000500 +0200" stop="20250617010500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617000500 +0200" stop="20250617010500 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>Arnaque amoureuse</sub-title>
     <desc lang="fr">Saison:14 - Episode:6 - Danielle arrive tout droit d'Angleterre pour rencontrer en chair et en os, pour la première fois, Kristion, un homme qu'elle a connu sur une application de rencontres. Alors qu'elle arrive à l'aéroport, celui-ci l'appelle en vidéo. Mais, en pleine conversation, un homme fait irruption chez Kristion, le menaçant avec une arme. Lorsque Danielle arrive chez lui, il est trop tard, son amant a été abattu d'une balle. Pendant que l'équipe enquête, Selwyn fait la passation de poste auprès de son successeur, un jeune technocrate arrogant...</desc>
@@ -853,7 +852,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617010500 +0200" stop="20250617011000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617010500 +0200" stop="20250617011000 +0200" channel="France2.fr">
     <title>Expression directe</title>
     <sub-title>FA-FP 1</sub-title>
     <desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
@@ -864,7 +863,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617011000 +0200" stop="20250617021500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617011000 +0200" stop="20250617021500 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>Une vie gâchee</sub-title>
     <desc lang="fr">Saison:13 - Episode:1 - Le commissaire Selwyn Patterson fête ses 50 ans de service au Yacht Club, mais la journée prend un tournant inattendu lorsqu'il est blessé par balle et transporté d'urgence à l'hôpital. L'équipe met ses émotions de côté et fait tout ce qu'elle peut pour retrouver l'homme accusé d'avoir tiré sur Selwyn. Mais au fur et à mesure qu'ils en apprennent plus sur l'agresseur, les membres du groupe restent perplexe : l'homme semble n'avoir aucun lien avec Selwyn. Alors pourquoi essayer de l'assassiner?...</desc>
@@ -881,7 +880,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617021500 +0200" stop="20250617031000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617021500 +0200" stop="20250617031000 +0200" channel="France2.fr">
     <title>Meurtres au paradis</title>
     <sub-title>Carton plein</sub-title>
     <desc lang="fr">Saison:13 - Episode:2 - Nancy, une Anglaise installée à Sainte-Marie depuis 28 ans, est retrouvée morte, l'abdomen transpercé d'un coup d'aiguille à tricoter dans le jardin de sa maison de retraite. Quelques minutes auparavant, elle quittait précipitamment la salle d'activités où se tenait une partie de bingo endiablée qui rassemblait tous les autres occupants des lieux. La résidence étant sécurisée, un rôdeur n'avait vraisemblablement pas pu s'introduire dans le jardin. Mais qui étaient les proches de Nancy présents ? Le directeur, qui s'avère avoir été son assistant durant des années ? Sa cousine, fraîchement débarquée d'Angleterre, qui n'est peut-être pas sa cousine ? Sa fille adoptive, qu'elle a tendance à surprotéger ?...</desc>
@@ -899,7 +898,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20250617031000 +0200" stop="20250617040800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617031000 +0200" stop="20250617040800 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Policier, journaliste, avocat : l'affaire qui a bouleversé leur vie</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -911,7 +910,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617040800 +0200" stop="20250617041000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617040800 +0200" stop="20250617041000 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -922,7 +921,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617041000 +0200" stop="20250617044500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617041000 +0200" stop="20250617044500 +0200" channel="France2.fr">
     <title>Séville la mauresque</title>
     <desc lang="fr">Une exploration de la ville de Séville, dans le sud de l'Espagne, riche d'un patrimoine architectural exceptionnel et d'une histoire passionnante.</desc>
     <category lang="fr">documentaire voyage</category>
@@ -932,7 +931,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617044500 +0200" stop="20250617045000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617044500 +0200" stop="20250617045000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>République tchèque</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -944,7 +943,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617045000 +0200" stop="20250617050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617045000 +0200" stop="20250617050000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Cambodge</sub-title>
     <desc lang="fr">A la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -956,7 +955,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617050000 +0200" stop="20250617055000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617050000 +0200" stop="20250617055000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Quiz de culture générale au cours duquel 6 candidats vont tenter chaque jour de déloger le champion en titre (qui accumule les gains d¿émission en émission) et de prendre sa place. C¿est le champion en titre qui choisit le thème des questions en finale.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -966,7 +965,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617055000 +0200" stop="20250617060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617055000 +0200" stop="20250617060000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -976,7 +975,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617060000 +0200" stop="20250617064500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617060000 +0200" stop="20250617064500 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -987,7 +986,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617064500 +0200" stop="20250617080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617064500 +0200" stop="20250617080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -998,7 +997,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617080000 +0200" stop="20250617083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617080000 +0200" stop="20250617083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -1009,7 +1008,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617083000 +0200" stop="20250617094100 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617083000 +0200" stop="20250617094100 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -1020,7 +1019,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617094100 +0200" stop="20250617100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617094100 +0200" stop="20250617100000 +0200" channel="France2.fr">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
     <category lang="fr">magazine de société</category>
@@ -1030,7 +1029,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617100000 +0200" stop="20250617103500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617100000 +0200" stop="20250617103500 +0200" channel="France2.fr">
     <title>La maison des Maternelles à votre service</title>
     <desc lang="fr">De nombreuses rubriques font le tour de l'actualité de la petite enfance, de la famille et de la parentalité, en compagnie de professionnels de l'enfance, de témoins et d'experts. Des conseils au jour le jour, des décryptages et des tests de produits destinés aux plus petits complètent le dispositif.</desc>
     <category lang="fr">magazine de société</category>
@@ -1040,7 +1039,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617103500 +0200" stop="20250617104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617103500 +0200" stop="20250617104000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>Nanoparticules : où sont-elles et comment s'en protéger ?</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -1051,7 +1050,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617104000 +0200" stop="20250617104500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617104000 +0200" stop="20250617104500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -1061,7 +1060,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617104500 +0200" stop="20250617112500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617104500 +0200" stop="20250617112500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1071,7 +1070,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617112500 +0200" stop="20250617115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617112500 +0200" stop="20250617115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1081,7 +1080,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617115500 +0200" stop="20250617125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617115500 +0200" stop="20250617125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1091,7 +1090,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617125500 +0200" stop="20250617130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617125500 +0200" stop="20250617130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1101,7 +1100,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617130000 +0200" stop="20250617134000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617130000 +0200" stop="20250617134000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -1112,7 +1111,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617134000 +0200" stop="20250617134500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617134000 +0200" stop="20250617134500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1122,7 +1121,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617134500 +0200" stop="20250617134900 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617134500 +0200" stop="20250617134900 +0200" channel="France2.fr">
     <title>La p'tite librairie</title>
     <sub-title>"Mémoires de la vie de Henriette", de Sylvie de Molière</sub-title>
     <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
@@ -1133,7 +1132,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617134900 +0200" stop="20250617135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617134900 +0200" stop="20250617135500 +0200" channel="France2.fr">
     <title>Expression directe</title>
     <sub-title>Medef</sub-title>
     <desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
@@ -1144,7 +1143,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617135500 +0200" stop="20250617150500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617135500 +0200" stop="20250617150500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Un 3ème enfant... et leur couple a volé en éclats !</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -1155,7 +1154,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617150500 +0200" stop="20250617161500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617150500 +0200" stop="20250617161500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Disparition : leur fille a perdu la vie pendant un séjour à l'étranger</sub-title>
     <desc lang="fr">Ils ont traversé la pire des épreuves. Leur enfant a disparu pendant un voyage à l'autre bout du monde… un voyage qui s'annonçait idyllique et qui a viré au cauchemar absolu. En août 2019, la fille de Sébastien, Nora, a disparu en Malaisie alors qu'ils venaient d'arriver pour des vacances en famille. En raison de son handicap mental, les parents...</desc>
@@ -1166,7 +1165,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617161500 +0200" stop="20250617171000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617161500 +0200" stop="20250617171000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1176,7 +1175,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617171000 +0200" stop="20250617175500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617171000 +0200" stop="20250617175500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1186,7 +1185,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617175500 +0200" stop="20250617180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617175500 +0200" stop="20250617180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1196,7 +1195,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617180000 +0200" stop="20250617184000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617180000 +0200" stop="20250617184000 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1206,7 +1205,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617184000 +0200" stop="20250617191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617184000 +0200" stop="20250617191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1216,7 +1215,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617191000 +0200" stop="20250617195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617191000 +0200" stop="20250617195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1226,7 +1225,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617195500 +0200" stop="20250617200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617195500 +0200" stop="20250617200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1236,7 +1235,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617200000 +0200" stop="20250617205000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617200000 +0200" stop="20250617205000 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -1247,7 +1246,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617205000 +0200" stop="20250617205200 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617205000 +0200" stop="20250617205200 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1257,7 +1256,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617205200 +0200" stop="20250617205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617205200 +0200" stop="20250617205500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France Musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -1268,7 +1267,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617205500 +0200" stop="20250617205800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617205500 +0200" stop="20250617205800 +0200" channel="France2.fr">
     <title>Basique, l'essentiel de la musique</title>
     <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
     <category lang="fr">magazine musical</category>
@@ -1278,7 +1277,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617205800 +0200" stop="20250617210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617205800 +0200" stop="20250617210000 +0200" channel="France2.fr">
     <title>Ma maison de A à Z</title>
     <sub-title>Fixer une gouttière en zinc</sub-title>
     <desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
@@ -1289,7 +1288,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617210000 +0200" stop="20250617211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617210000 +0200" stop="20250617211000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1299,7 +1298,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617211000 +0200" stop="20250617225500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617211000 +0200" stop="20250617225500 +0200" channel="France2.fr">
     <title>Sommes-nous tous racistes ?</title>
     <desc lang="fr">Vous entrez dans une salle d'attente. Devant vous, quatre chaises. Les deux chaises du milieu sont occupées par un homme blanc et un homme noir habillés de la même manière : de quel côté allez-vous vous asseoir ? Dans cette émission, cinquante volontaires participent à des expériences similaires pour faire comprendre les mécanismes inconscients des comportements discriminants.</desc>
     <category lang="fr">emission spéciale</category>
@@ -1310,7 +1309,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250617225500 +0200" stop="20250618004000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250617225500 +0200" stop="20250618004000 +0200" channel="France2.fr">
     <title>Noirs en France</title>
     <desc lang="fr">Qu'y a-t-il de commun entre les Noirs français ? Pas grand-chose, hormis leur couleur de peau et le racisme dont ils sont victimes. Pour la première fois, le film "Noirs en France" donne la parole aux Français noirs de tous âges et de tous horizons, connus ou inconnus du grand public. Raconté par l'écrivain Alain Mabanckou, ce documentaire retrace leurs histoires faites de préjugés et de stéréotypes, mais traversées aussi d'espoir et de fierté. Ces noirs en France construisent une histoire en constante transformation. Avec la participation de Yannick Noah, Maïly Koudou, Maboula Soumahoro, Soprano, Ibrahima Bouillaud, Jean-Pascal Zadi, Pap Ndiaye, Kathy Laurent Pourcel, Karine Baste-Regis, Didier Vieillot, ou encore Laetitia Helouet.</desc>
     <category lang="fr">documentaire société</category>
@@ -1323,7 +1322,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250618004000 +0200" stop="20250618021000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618004000 +0200" stop="20250618021000 +0200" channel="France2.fr">
     <title>Je ne suis pas chinetoque - Histoire du racisme anti-asiatique</title>
     <desc lang="fr">Les Français d'origine asiatique subissent des insultes dès la cour de l'école. Renvoyés à leur couleur de peau, désignés comme un seul groupe, leurs histoires et parcours familiaux si différents sont souvent ignorés. Ces stéréotypes raciaux profondément ancrés dans la société, la journaliste Emilie Tran Nguyen y a été confrontée. Née d'une mère française d'origine algérienne et d'un père vietnamien, Emilie a grandi à Clermont-Ferrand, où ses parents tenaient un restaurant asiatique. Une triple culture qui n'a pas toujours été simple à appréhender. En enquêtant jusque dans sa propre famille, Emilie a voulu comprendre comment on en était arrivé là et pourquoi les premières générations ont si longtemps gardé le silence.</desc>
     <category lang="fr">documentaire société</category>
@@ -1336,7 +1335,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250618021000 +0200" stop="20250618035500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618021000 +0200" stop="20250618035500 +0200" channel="France2.fr">
     <title>Un dimanche à la campagne</title>
     <desc lang="fr">L'animateur et producteur Laurent Ruquier, l'actrice de cinéma et de théâtre Caroline Anglade et la chanteuse et musicienne américaine Melody Gardot sont les invités de Frédéric Lopez pour cette parenthèse propice aux confidences.</desc>
     <category lang="fr">talk-show</category>
@@ -1347,7 +1346,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618035500 +0200" stop="20250618044000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618035500 +0200" stop="20250618044000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1358,7 +1357,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618044000 +0200" stop="20250618044500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618044000 +0200" stop="20250618044500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -1369,7 +1368,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618044500 +0200" stop="20250618045000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618044500 +0200" stop="20250618045000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Vietnam</sub-title>
     <desc lang="fr">A la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -1381,7 +1380,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618045000 +0200" stop="20250618050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618045000 +0200" stop="20250618050000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Egypte : Louxor</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -1392,7 +1391,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618050000 +0200" stop="20250618055000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618050000 +0200" stop="20250618055000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1402,7 +1401,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618055000 +0200" stop="20250618060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618055000 +0200" stop="20250618060000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1412,7 +1411,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618060000 +0200" stop="20250618064000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618060000 +0200" stop="20250618064000 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -1423,7 +1422,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618064000 +0200" stop="20250618080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618064000 +0200" stop="20250618080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -1434,7 +1433,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618080000 +0200" stop="20250618083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618080000 +0200" stop="20250618083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -1445,7 +1444,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618083000 +0200" stop="20250618093600 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618083000 +0200" stop="20250618093600 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -1456,7 +1455,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618093600 +0200" stop="20250618100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618093600 +0200" stop="20250618100000 +0200" channel="France2.fr">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
     <category lang="fr">magazine de société</category>
@@ -1466,7 +1465,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618100000 +0200" stop="20250618103500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618100000 +0200" stop="20250618103500 +0200" channel="France2.fr">
     <title>La maison des Maternelles à votre service</title>
     <desc lang="fr">De nombreuses rubriques font le tour de l'actualité de la petite enfance, de la famille et de la parentalité, en compagnie de professionnels de l'enfance, de témoins et d'experts. Des conseils au jour le jour, des décryptages et des tests de produits destinés aux plus petits complètent le dispositif.</desc>
     <category lang="fr">magazine de société</category>
@@ -1476,7 +1475,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618103500 +0200" stop="20250618104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618103500 +0200" stop="20250618104000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>Rappels de produits alimentaires : ce que vous devez savoir</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -1487,7 +1486,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618104000 +0200" stop="20250618104500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618104000 +0200" stop="20250618104500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -1497,7 +1496,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618104500 +0200" stop="20250618112500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618104500 +0200" stop="20250618112500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1507,7 +1506,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618112500 +0200" stop="20250618115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618112500 +0200" stop="20250618115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1517,7 +1516,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618115500 +0200" stop="20250618125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618115500 +0200" stop="20250618125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Quiz de culture générale au cours duquel 6 candidats vont tenter chaque jour de déloger le champion en titre (qui accumule les gains d¿émission en émission) et de prendre sa place. C¿est le champion en titre qui choisit le thème des questions en finale.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1527,7 +1526,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618125500 +0200" stop="20250618130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618125500 +0200" stop="20250618130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1537,7 +1536,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618130000 +0200" stop="20250618134000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618130000 +0200" stop="20250618134000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -1548,7 +1547,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618134000 +0200" stop="20250618134500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618134000 +0200" stop="20250618134500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1558,7 +1557,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618134500 +0200" stop="20250618135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618134500 +0200" stop="20250618135500 +0200" channel="France2.fr">
     <title>La p'tite librairie</title>
     <sub-title>Ripley Bogle, de Robert McLiam Wilson</sub-title>
     <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
@@ -1569,7 +1568,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618135500 +0200" stop="20250618150500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618135500 +0200" stop="20250618150500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Elles ont tout fait pour avoir un bébé, pourtant rien ne s'est passé comme prévu quand il est arrivé...</sub-title>
     <desc lang="fr">Faustine Bollaert reçoit pour cet épisode de "Ça commence aujourd'hui" des invités qui ont tout tenté pour concevoir un bébé, mais dont le parcours ne s'est pas déroulé comme ils l'avaient espéré.Cindy Fabre, ex-miss France, nous raconte son parcours en PMA et le temps qu'il lui a fallu pour tisser un lien avec son bébé suite aux différents trau...</desc>
@@ -1580,7 +1579,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618150500 +0200" stop="20250618162000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618150500 +0200" stop="20250618162000 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Des vacances paradisiaques qui ont mal tourné</sub-title>
     <desc lang="fr">C'est en famille ou en couple qu'ils avaient organisé ce voyage à l'autre bout du monde, mais ils ne savaient pas que ces vacances se transformeraient en cauchemar… Faustine Bollaert reçoit 6 invités sur le plateau qui ont vécu l'enfer au paradis. Magalie et Jorge nous racontent l'incendie qui est survenu pendant leur voyage sur l'île de Rhodes....</desc>
@@ -1591,7 +1590,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618162000 +0200" stop="20250618171000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618162000 +0200" stop="20250618171000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1601,7 +1600,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618171000 +0200" stop="20250618175500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618171000 +0200" stop="20250618175500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1611,7 +1610,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618175500 +0200" stop="20250618180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618175500 +0200" stop="20250618180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -1621,7 +1620,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618180000 +0200" stop="20250618184000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618180000 +0200" stop="20250618184000 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1631,7 +1630,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618184000 +0200" stop="20250618191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618184000 +0200" stop="20250618191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1641,7 +1640,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618191000 +0200" stop="20250618195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618191000 +0200" stop="20250618195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1651,7 +1650,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618195500 +0200" stop="20250618200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618195500 +0200" stop="20250618200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1661,7 +1660,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618200000 +0200" stop="20250618205000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618200000 +0200" stop="20250618205000 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -1672,7 +1671,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618205000 +0200" stop="20250618205200 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618205000 +0200" stop="20250618205200 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1682,7 +1681,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618205200 +0200" stop="20250618205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618205200 +0200" stop="20250618205500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France Musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -1693,7 +1692,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618205500 +0200" stop="20250618205800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618205500 +0200" stop="20250618205800 +0200" channel="France2.fr">
     <title>Basique, l'essentiel de la musique</title>
     <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
     <category lang="fr">magazine musical</category>
@@ -1703,7 +1702,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618205800 +0200" stop="20250618210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618205800 +0200" stop="20250618210000 +0200" channel="France2.fr">
     <title>Ma maison de A à Z</title>
     <sub-title>Poser un wc suspendu</sub-title>
     <desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
@@ -1714,7 +1713,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618210000 +0200" stop="20250618211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618210000 +0200" stop="20250618211000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1724,7 +1723,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250618211000 +0200" stop="20250618221000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618211000 +0200" stop="20250618221000 +0200" channel="France2.fr">
     <title>Une amitié dangereuse</title>
     <desc lang="fr">Saison:1 - Episode:1 - Après son mariage avec le duc de Luynes, conseiller du roi Louis XIII, Marie de Rohan, une jeune femme vive et libre d'esprit, est introduite à la cour auprès de la reine Anne d'Autriche. Elle se lie d'amitié avec la jeune souveraine, timide et prude, délaissée par son époux depuis leur nuit de noces. Marie va tout faire pour réunir le couple royal...</desc>
     <date>2024</date>
@@ -1738,7 +1737,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20250618221000 +0200" stop="20250618230500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618221000 +0200" stop="20250618230500 +0200" channel="France2.fr">
     <title>Une amitié dangereuse</title>
     <desc lang="fr">Saison:1 - Episode:2 - Anne d'Autriche a suivi les conseils de Marie, et le couple royal s'est retrouvé. La reine tombe rapidement enceinte. La nouvelle de sa grossesse ravit presque toute la cour. Le roi décide de partir en guerre contre les protestants et, durant son absence, la reine a un accident et perd son enfant. Marie est considérée comme responsable et le roi, furieux, la fait chasser du palais. A son retour, le roi se rapproche de sa mère et la situation avec Anne est à nouveau en péril. Marie est prête à tout pour retourner auprès de son amie pour l'aider...</desc>
     <date>2024</date>
@@ -1752,7 +1751,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20250618230500 +0200" stop="20250619001000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250618230500 +0200" stop="20250619001000 +0200" channel="France2.fr">
     <title>Justice en France</title>
     <sub-title>Cambrai - Correctionnelles collégiales</sub-title>
     <desc lang="fr">Cette audience filmée au tribunal judiciaire de Cambrai illustre la complexité que représente la notion d'abus de faiblesse. Un couple âgé d'une soixantaine d'années comparaît pour abus de faiblesse et pour un faux testament. Elle est accusée avec son mari, d'avoir profité de l'état de faiblesse de sa mère pour trafiquer ses comptes. Le but : déshériter les petits-enfants. Ils encourent trois ans de prison et 375 000 euros d'amende. Ce film suit les grandes étapes de leur procès.</desc>
@@ -1763,7 +1762,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619001000 +0200" stop="20250619005500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619001000 +0200" stop="20250619005500 +0200" channel="France2.fr">
     <title>Justice en France</title>
     <sub-title>Juge affaire familiale de Cahors et Beauvais</sub-title>
     <desc lang="fr">Souvent, le juge aux affaires familiales doit protéger et préserver les enfants en cas de séparation des parents. Pension alimentaire, autorité parentale, lieu de résidence : le juge doit trancher ce qui, dans un divorce, déchire la famille. Le devenir, l'intérêt capital de l'enfant, est au centre de la mission, au quotidien, de la justice civile. Au tribunal judiciaire de Beauvais, la famille est au coeur de la justice. Au tribunal de Cahors, ce sont des audiences d'adoption qui sont filmées. Elles révèlent un autre chapitre de ce droit protecteur pour que les enfants entrent officiellement dans une famille unie. Contrairement à d'autres audiences et malgré la lourdeur de la tâche du juge, cette justice qui se rend dans une ambiance apaisée.</desc>
@@ -1775,7 +1774,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619005500 +0200" stop="20250619014000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619005500 +0200" stop="20250619014000 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Valentin Marcone, la traque</sub-title>
     <desc lang="fr">En mai 2021, Valentin Marcone a abattu son patron et un collègue à la scierie des Plantiers, dans les Cévennes. Après une traque de quatre jours, il s'est rendu. En janvier 2024, il a été condamné à 30 ans de réclusion criminelle, dont 20 ans de sûreté.</desc>
@@ -1787,7 +1786,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619014000 +0200" stop="20250619023000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619014000 +0200" stop="20250619023000 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Didier Tallineau, itinéraire d'un criminel en série</sub-title>
     <desc lang="fr">Entre 1989 et 1999, Didier Tallineau a tué deux femmes et tenté d'en tuer une autre . Condamné à 30 ans de réclusion en 2002, il a été libéré en 2004 pour raisons médicales, puis réincarcéré en 2005. Il est décédé en prison en 2006.</desc>
@@ -1799,7 +1798,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619023000 +0200" stop="20250619031800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619023000 +0200" stop="20250619031800 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Jacqueline Sauvage , légitime défense ?</sub-title>
     <desc lang="fr">Le 10 septembre 2012, une femme tue son mari de trois balles dans le dos. Elle s'appelle Jacqueline Sauvage. Pour justifier cet acte terrible, elle explique que son mari la battait, elle et ses enfants, depuis plus de 20 ans. Elle devient alors le symbole des femmes battues et déclenche une large mobilisation. Mais la justice va-t-elle pour autant être plus clémente ?</desc>
@@ -1811,7 +1810,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619031800 +0200" stop="20250619032000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619031800 +0200" stop="20250619032000 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -1822,7 +1821,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619032000 +0200" stop="20250619042000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619032000 +0200" stop="20250619042000 +0200" channel="France2.fr">
     <title>Emissions religieuses</title>
     <desc lang="fr">Rediffusion des émissions religieuses du dimanche précédent.</desc>
     <category lang="fr">magazine religieux</category>
@@ -1832,7 +1831,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619042000 +0200" stop="20250619045000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619042000 +0200" stop="20250619045000 +0200" channel="France2.fr">
     <title>De Palma à Sóller dans les pas de Miró</title>
     <desc lang="fr">Joan Miró s'est installé sur l'île de Majorque en 1956. Le musée de la gare de Sóller et la Fondation Pilar et Joan Miró de Palma rendent hommage au peintre.</desc>
     <category lang="fr">documentaire culture</category>
@@ -1843,7 +1842,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619045000 +0200" stop="20250619050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619045000 +0200" stop="20250619050000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Japon : Okayama</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -1854,7 +1853,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619050000 +0200" stop="20250619055000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619050000 +0200" stop="20250619055000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Quiz de culture générale au cours duquel 6 candidats vont tenter chaque jour de déloger le champion en titre (qui accumule les gains d¿émission en émission) et de prendre sa place. C¿est le champion en titre qui choisit le thème des questions en finale.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1864,7 +1863,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619055000 +0200" stop="20250619060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619055000 +0200" stop="20250619060000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1874,7 +1873,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619060000 +0200" stop="20250619063500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619060000 +0200" stop="20250619063500 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -1885,7 +1884,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619063500 +0200" stop="20250619080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619063500 +0200" stop="20250619080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -1896,7 +1895,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619080000 +0200" stop="20250619083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619080000 +0200" stop="20250619083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -1907,7 +1906,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619083000 +0200" stop="20250619093500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619083000 +0200" stop="20250619093500 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -1918,7 +1917,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619093500 +0200" stop="20250619100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619093500 +0200" stop="20250619100000 +0200" channel="France2.fr">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
     <category lang="fr">magazine de société</category>
@@ -1928,7 +1927,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619100000 +0200" stop="20250619103500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619100000 +0200" stop="20250619103500 +0200" channel="France2.fr">
     <title>La maison des Maternelles à votre service</title>
     <desc lang="fr">De nombreuses rubriques font le tour de l'actualité de la petite enfance, de la famille et de la parentalité, en compagnie de professionnels de l'enfance, de témoins et d'experts. Des conseils au jour le jour, des décryptages et des tests de produits destinés aux plus petits complètent le dispositif.</desc>
     <category lang="fr">magazine de société</category>
@@ -1938,7 +1937,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619103500 +0200" stop="20250619104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619103500 +0200" stop="20250619104000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>L'assurance habitation est-elle obligatoire ?</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -1949,7 +1948,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619104000 +0200" stop="20250619104500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619104000 +0200" stop="20250619104500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -1959,7 +1958,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619104500 +0200" stop="20250619112500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619104500 +0200" stop="20250619112500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1969,7 +1968,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619112500 +0200" stop="20250619115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619112500 +0200" stop="20250619115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1979,7 +1978,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619115500 +0200" stop="20250619125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619115500 +0200" stop="20250619125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -1989,7 +1988,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619125500 +0200" stop="20250619130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619125500 +0200" stop="20250619130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -1999,7 +1998,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619130000 +0200" stop="20250619134000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619130000 +0200" stop="20250619134000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -2010,7 +2009,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619134000 +0200" stop="20250619134500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619134000 +0200" stop="20250619134500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2020,7 +2019,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619134500 +0200" stop="20250619135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619134500 +0200" stop="20250619135500 +0200" channel="France2.fr">
     <title>La p'tite librairie</title>
     <sub-title>Les Ambassadeurs, de Henry James</sub-title>
     <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
@@ -2031,7 +2030,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619135500 +0200" stop="20250619150500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619135500 +0200" stop="20250619150500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Infidélité : une découverte choc !</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -2042,7 +2041,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619150500 +0200" stop="20250619162000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619150500 +0200" stop="20250619162000 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Ce séjour qui ne s'est pas du tout passé comme prévu !</sub-title>
     <desc lang="fr">Nos invités ont enchainé galère sur galère ! Ils nous racontent leurs péripéties, bien loin du voyage de rêve qu'ils avaient imaginé.</desc>
@@ -2053,7 +2052,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619162000 +0200" stop="20250619171000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619162000 +0200" stop="20250619171000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2063,7 +2062,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619171000 +0200" stop="20250619175500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619171000 +0200" stop="20250619175500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2073,7 +2072,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619175500 +0200" stop="20250619180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619175500 +0200" stop="20250619180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2083,7 +2082,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619180000 +0200" stop="20250619184000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619180000 +0200" stop="20250619184000 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2093,7 +2092,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619184000 +0200" stop="20250619191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619184000 +0200" stop="20250619191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2103,7 +2102,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619191000 +0200" stop="20250619195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619191000 +0200" stop="20250619195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2113,7 +2112,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619195500 +0200" stop="20250619200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619195500 +0200" stop="20250619200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2123,7 +2122,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619200000 +0200" stop="20250619205000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619200000 +0200" stop="20250619205000 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -2134,7 +2133,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619205000 +0200" stop="20250619205200 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619205000 +0200" stop="20250619205200 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2144,7 +2143,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619205200 +0200" stop="20250619205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619205200 +0200" stop="20250619205500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France Musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -2155,7 +2154,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619205500 +0200" stop="20250619205800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619205500 +0200" stop="20250619205800 +0200" channel="France2.fr">
     <title>Basique, l'essentiel de la musique</title>
     <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
     <category lang="fr">magazine musical</category>
@@ -2165,7 +2164,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619205800 +0200" stop="20250619210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619205800 +0200" stop="20250619210000 +0200" channel="France2.fr">
     <title>Ma maison de A à Z</title>
     <sub-title>Réadapter un dressing</sub-title>
     <desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
@@ -2176,7 +2175,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619210000 +0200" stop="20250619211600 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619210000 +0200" stop="20250619211600 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2186,7 +2185,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619211600 +0200" stop="20250619230000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619211600 +0200" stop="20250619230000 +0200" channel="France2.fr">
     <title>Envoyé spécial</title>
     <desc lang="fr">Chaque semaine, une série de reportages évoque l'actualité. Tous les thèmes de société sont abordés, pour livrer un regard sur tout ce qui peut préoccuper ou intéresser les téléspectateurs. Du logement à la santé, de la politique au sport, en allant au plus près du terrain, les reporters offrent une vision actuelle.</desc>
     <category lang="fr">magazine d'information</category>
@@ -2196,7 +2195,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250619230000 +0200" stop="20250620001000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250619230000 +0200" stop="20250620001000 +0200" channel="France2.fr">
     <title>Complément d'enquête</title>
     <desc lang="fr">Chaque semaine, le magazine propose un sujet de société, proche de l'actualité. Le thème, traité en profondeur, est décliné sous des angles multiples pour une compréhension globale des enjeux associés. Reportages, enquêtes, témoignages et analyses en plateau alimentent l'émission, tournée en extérieur, sur des lieux en rapport avec le sujet.</desc>
     <category lang="fr">magazine d'information</category>
@@ -2206,7 +2205,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620001000 +0200" stop="20250620004000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620001000 +0200" stop="20250620004000 +0200" channel="France2.fr">
     <title>Nous, les Européens</title>
     <sub-title>Rencontres, mariages : on va s'aimer !</sub-title>
     <desc lang="fr">Comment s'aime-t-on en Europe aujourd'hui ? Qu'est-ce qui a changé en matière de rencontres, de couple, de sexualité ces dernières années ? Enquête en Grèce et dans un EHPAD de Bruxelles avant de rencontrer Marie Bergström, sociologue à l'Institut national d'études démographiques (INED), spécialiste des nouvelles pratiques de la jeunesse.</desc>
@@ -2217,7 +2216,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620004000 +0200" stop="20250620013000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620004000 +0200" stop="20250620013000 +0200" channel="France2.fr">
     <title>13h15, le dimanche...</title>
     <sub-title>Rose Valland, l'héroïne de l'ombre (Episodes 1 &amp; 2/4)</sub-title>
     <category lang="fr">magazine d'information</category>
@@ -2228,7 +2227,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620013000 +0200" stop="20250620022000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620013000 +0200" stop="20250620022000 +0200" channel="France2.fr">
     <title>13h15, le dimanche...</title>
     <sub-title>Rose Valland, l'héroïne de l'ombre (Episodes 3 &amp; 4/4)</sub-title>
     <category lang="fr">magazine d'information</category>
@@ -2239,7 +2238,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620022000 +0200" stop="20250620024800 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620022000 +0200" stop="20250620024800 +0200" channel="France2.fr">
     <title>13h15, le samedi...</title>
     <desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
     <category lang="fr">magazine d'actualité</category>
@@ -2250,7 +2249,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620024800 +0200" stop="20250620025000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620024800 +0200" stop="20250620025000 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -2261,7 +2260,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620025000 +0200" stop="20250620033500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620025000 +0200" stop="20250620033500 +0200" channel="France2.fr">
     <title>Familles de légende</title>
     <sub-title>Famille Bras, les chefs de l'Aubrac</sub-title>
     <desc lang="fr">Chez les Bras, la cuisine est une affaire de famille. Initié par sa mère, Michel Bras s'est fait une place aux côtés des plus grands cuisiniers du XXe siècle. Une passion transmise à son fils aîné, Sébastien. Le berceau de la famille Bras est un territoire de plateaux déserts, l'Aubrac.</desc>
@@ -2273,7 +2272,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620033500 +0200" stop="20250620043500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620033500 +0200" stop="20250620043500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Infidélité : une découverte choc !</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -2285,7 +2284,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620043500 +0200" stop="20250620044500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620043500 +0200" stop="20250620044500 +0200" channel="France2.fr">
     <title>Courant d'art</title>
     <sub-title>Modernité plurielle</sub-title>
     <desc lang="fr">Les arts n'ont-ils pas pour mission de conquérir la modernité ou se doivent-ils plutôt de la questionner afin de l'appréhender sous toutes ses formes ?</desc>
@@ -2296,7 +2295,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620044500 +0200" stop="20250620045500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620044500 +0200" stop="20250620045500 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Sénégal - Casamance - Ziguinchor</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -2307,7 +2306,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620045500 +0200" stop="20250620050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620045500 +0200" stop="20250620050000 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>Sénégal : Casamance, Cap Skirring</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -2318,7 +2317,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620050000 +0200" stop="20250620055000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620050000 +0200" stop="20250620055000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2328,7 +2327,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620055000 +0200" stop="20250620060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620055000 +0200" stop="20250620060000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2338,7 +2337,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620060000 +0200" stop="20250620063500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620060000 +0200" stop="20250620063500 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -2349,7 +2348,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620063500 +0200" stop="20250620080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620063500 +0200" stop="20250620080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -2360,7 +2359,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620080000 +0200" stop="20250620083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620080000 +0200" stop="20250620083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -2371,7 +2370,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620083000 +0200" stop="20250620093500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620083000 +0200" stop="20250620093500 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -2382,7 +2381,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620093500 +0200" stop="20250620100000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620093500 +0200" stop="20250620100000 +0200" channel="France2.fr">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
     <category lang="fr">magazine de société</category>
@@ -2392,7 +2391,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620100000 +0200" stop="20250620103500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620100000 +0200" stop="20250620103500 +0200" channel="France2.fr">
     <title>La maison des Maternelles à votre service</title>
     <desc lang="fr">De nombreuses rubriques font le tour de l'actualité de la petite enfance, de la famille et de la parentalité, en compagnie de professionnels de l'enfance, de témoins et d'experts. Des conseils au jour le jour, des décryptages et des tests de produits destinés aux plus petits complètent le dispositif.</desc>
     <category lang="fr">magazine de société</category>
@@ -2402,7 +2401,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620103500 +0200" stop="20250620104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620103500 +0200" stop="20250620104000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>Comment démasquer les fake news ?</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -2413,7 +2412,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620104000 +0200" stop="20250620104500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620104000 +0200" stop="20250620104500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -2423,7 +2422,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620104500 +0200" stop="20250620112500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620104500 +0200" stop="20250620112500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2433,7 +2432,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620112500 +0200" stop="20250620115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620112500 +0200" stop="20250620115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2443,7 +2442,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620115500 +0200" stop="20250620125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620115500 +0200" stop="20250620125500 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2453,7 +2452,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620125500 +0200" stop="20250620130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620125500 +0200" stop="20250620130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2463,7 +2462,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620130000 +0200" stop="20250620134000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620130000 +0200" stop="20250620134000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -2474,7 +2473,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620134000 +0200" stop="20250620134500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620134000 +0200" stop="20250620134500 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2484,7 +2483,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620134500 +0200" stop="20250620135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620134500 +0200" stop="20250620135500 +0200" channel="France2.fr">
     <title>La p'tite librairie</title>
     <sub-title>Le bois de la nuit, de Djuna Barnes</sub-title>
     <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
@@ -2495,7 +2494,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620135500 +0200" stop="20250620150500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620135500 +0200" stop="20250620150500 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Verser une pension alimentaire à leur père ? Elles refusent !</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -2506,7 +2505,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620150500 +0200" stop="20250620162000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620150500 +0200" stop="20250620162000 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Sexe, alcool, drogue : et si c'était un trouble psychique qui les avait fait plonger ?</sub-title>
     <desc lang="fr">La drogue, l'alcool, les médicaments ou même le sexe. Pendant une 1ère vie, elles se sont vues comme des addicts, sans en comprendre la raison… jusqu'à ce qu'un trouble psychique leur soit enfin diagnostiqué, un trouble à l'origine du mal qui les rongeait depuis toujours.Faustine Bollaert reçoit le témoignage de 3 femmes sur le plateau.Pauline a...</desc>
@@ -2517,7 +2516,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620162000 +0200" stop="20250620171000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620162000 +0200" stop="20250620171000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2527,7 +2526,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620171000 +0200" stop="20250620175500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620171000 +0200" stop="20250620175500 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2537,7 +2536,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620175500 +0200" stop="20250620180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620175500 +0200" stop="20250620180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2547,7 +2546,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620180000 +0200" stop="20250620184000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620180000 +0200" stop="20250620184000 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2557,7 +2556,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620184000 +0200" stop="20250620191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620184000 +0200" stop="20250620191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2567,7 +2566,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620191000 +0200" stop="20250620195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620191000 +0200" stop="20250620195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2577,7 +2576,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620195500 +0200" stop="20250620200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620195500 +0200" stop="20250620200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2587,7 +2586,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620200000 +0200" stop="20250620203500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620200000 +0200" stop="20250620203500 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -2598,7 +2597,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620203500 +0200" stop="20250620205000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620203500 +0200" stop="20250620205000 +0200" channel="France2.fr">
     <title>20h30 le vendredi</title>
     <desc lang="fr">Un regard décalé sur un sujet d'actualité, illustré par des reportages tournés sur le terrain.</desc>
     <category lang="fr">magazine d'actualité</category>
@@ -2609,7 +2608,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620205000 +0200" stop="20250620205100 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620205000 +0200" stop="20250620205100 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2619,7 +2618,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620205100 +0200" stop="20250620205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620205100 +0200" stop="20250620205500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France Musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -2630,7 +2629,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620205500 +0200" stop="20250620205700 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620205500 +0200" stop="20250620205700 +0200" channel="France2.fr">
     <title>Basique, l'essentiel de la musique</title>
     <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
     <category lang="fr">magazine musical</category>
@@ -2640,7 +2639,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620205700 +0200" stop="20250620210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620205700 +0200" stop="20250620210000 +0200" channel="France2.fr">
     <title>Sur la route du Tour</title>
     <desc lang="fr">Laury Thilleman nous emmène sur la route du Tour de France à la découverte de nos régions. À ses côtés, on s'aventure hors des sentiers battus pour explorer toute la richesse du patrimoine français à travers des logements insolites et des expériences uniques.</desc>
     <category lang="fr">magazine sportif</category>
@@ -2650,7 +2649,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620210000 +0200" stop="20250620211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620210000 +0200" stop="20250620211000 +0200" channel="France2.fr">
     <title>Mot de passe : le duel</title>
     <desc lang="fr">Deux candidats accompagnés de deux personnalités s'affrontent pour découvrir un maximum de mots en un minimum de temps.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2660,7 +2659,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250620211000 +0200" stop="20250620224500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620211000 +0200" stop="20250620224500 +0200" channel="France2.fr">
     <title>A l'instinct</title>
     <sub-title>La mort en marche</sub-title>
     <desc lang="fr">Saison:1 - Episode:3 - Un anthropologue s'effondre au milieu d'une exposition sur le vaudou, résultat du travail d'une vie mise au profit d'un trafic d'art peu scrupuleux ! Pour Oriane, le trafic d'art de Brice Lemoine a déraillé, causant sa mort. Mais lorsque le cadavre s'évapore, la dimension intime de ce meurtre est révélée : on a voulu punir la victime. Dans cette enquête très sensible, Téva comprend qu'une famille entière a été spoliée, et qu'elle compte bien récupérer son dû. Au coeur d'une communauté vaudou difficilement pénétrable, une course contre la montre démarre : alors que Téva et Oriane remontent la piste des objets volés, les corps commencent à s'accumuler autour de la collection de Brice Lemoine...</desc>
@@ -2677,7 +2676,7 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme start="20250620224500 +0200" stop="20250621000000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250620224500 +0200" stop="20250621000000 +0200" channel="France2.fr">
     <title>Taratata 100% live</title>
     <desc lang="fr">Lamomali revisite avec Oxmo Puccino "Bal de Bamako" et "Machistador". Lamomali interprète ensuite "Je suis Mali". -M-, Lubiana et Oxmo Puccino reprennent " Du bout des lèvres ", de Barbara. Julien Clerc fait son retour avec "Une vie", son nouvel album. Et avec Miki, Vincent Delerm, Voyou et Morcheeba.</desc>
     <category lang="fr">variétés</category>
@@ -2687,7 +2686,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621000000 +0200" stop="20250621015000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621000000 +0200" stop="20250621015000 +0200" channel="France2.fr">
     <title>Planète Rap</title>
     <sub-title>Spécial : France music week</sub-title>
     <desc lang="fr">A l'occasion de la France Music Week, Fred Musa reçoit la ministre de la Culture Rachida Dati pour une émission exceptionnelle enregistrée à La Grande Halle de la Villette à deux pas de la future Freestyle Villette - Maison des Cultures urbaines. Avec Blanca Li, chorégraphe et directrice de Freestyle Villette - Maison des Cultures urbaines</desc>
@@ -2698,7 +2697,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621015000 +0200" stop="20250621033000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621015000 +0200" stop="20250621033000 +0200" channel="France2.fr">
     <title>Capitaine Marleau</title>
     <sub-title>Le prix à payer</sub-title>
     <desc lang="fr">Saison:4 - Episode:6 - Qui a tué Olivier Garcin ? Et pourquoi est-il venu s'installer dans le bourg où vit Florence, sa soeur adoptive, après 25 ans de silence ? Cette femme détient sûrement une des clés du mystère. Mais Marleau constate rapidement que la suspecte, forgeronne de talent, complètement investie dans le concours du meilleur forgeron, ne se montre pas du tout coopérative. Au cours de son enquête, Marleau ira de surprises en surprises. Les personnages qui gravitent autour de Florence, son fils, son amant, et sa meilleure amie, semblent décidés à la protéger. Et tous avaient de bonnes raisons de craindre Olivier Garcin...</desc>
@@ -2714,7 +2713,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20250621033000 +0200" stop="20250621043000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621033000 +0200" stop="20250621043000 +0200" channel="France2.fr">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Verser une pension alimentaire à leur père ? Elles refusent !</sub-title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -2726,7 +2725,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621043000 +0200" stop="20250621043500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621043000 +0200" stop="20250621043500 +0200" channel="France2.fr">
     <title>Météo Outre-mer</title>
     <desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
     <category lang="fr">météo</category>
@@ -2737,7 +2736,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621043500 +0200" stop="20250621050000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621043500 +0200" stop="20250621050000 +0200" channel="France2.fr">
     <title>Florence dans le regard des Médicis</title>
     <desc lang="fr">Berceau de la Renaissance, Florence a vu naître des artistes qui façonneront l'art, l'architecture et la littérature à partir du 13e siècle jusqu'à nos jours. Ces génies de l'humanité réunis en un même lieu et à la même époque ont un dénominateur commun, une même clé : Les Médicis...</desc>
     <category lang="fr">documentaire culture</category>
@@ -2748,7 +2747,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621050000 +0200" stop="20250621050500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621050000 +0200" stop="20250621050500 +0200" channel="France2.fr">
     <title>Pays et marchés du monde</title>
     <sub-title>France - Toulouse</sub-title>
     <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
@@ -2759,7 +2758,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621050500 +0200" stop="20250621060000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621050500 +0200" stop="20250621060000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2769,7 +2768,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621060000 +0200" stop="20250621063000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621060000 +0200" stop="20250621063000 +0200" channel="France2.fr">
     <title>Le 6h info</title>
     <desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
     <category lang="fr">journal</category>
@@ -2780,7 +2779,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621063000 +0200" stop="20250621080000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621063000 +0200" stop="20250621080000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">De l'info et de la bonne humeur, sept jours sur sept : résolument dans l'air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d'équipe, aborde de nombreuses thématiques et traite l'actualité avec sérieux et sans dramatisation.</desc>
     <category lang="fr">magazine de services</category>
@@ -2791,7 +2790,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621080000 +0200" stop="20250621083000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621080000 +0200" stop="20250621083000 +0200" channel="France2.fr">
     <title>Journal 08h00</title>
     <desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
     <category lang="fr">journal</category>
@@ -2802,7 +2801,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621083000 +0200" stop="20250621093000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621083000 +0200" stop="20250621093000 +0200" channel="France2.fr">
     <title>Télématin</title>
     <desc lang="fr">Alors que le Festival de Cannes touche à sa fin, Charlotte Lipinska, la chroniqueuse cinéma de l'émission, est en duplex depuis les coulisses de l'événement et livre au petit matin les indiscrétions de la nuit et le programme du jour.</desc>
     <category lang="fr">magazine de services</category>
@@ -2813,7 +2812,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621093000 +0200" stop="20250621104000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621093000 +0200" stop="20250621104000 +0200" channel="France2.fr">
     <title>Bel et bien</title>
     <sub-title>Beau ou moche : pas besoin d'être Brad Pitt pour être heureux !</sub-title>
     <category lang="fr">talk-show</category>
@@ -2823,7 +2822,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621104000 +0200" stop="20250621105000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621104000 +0200" stop="20250621105000 +0200" channel="France2.fr">
     <title>Consomag</title>
     <sub-title>Changer de fournisseur d'énergie électrique : faire le meilleur choix</sub-title>
     <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
@@ -2834,7 +2833,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621105000 +0200" stop="20250621113000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621105000 +0200" stop="20250621113000 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2844,7 +2843,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621113000 +0200" stop="20250621115500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621113000 +0200" stop="20250621115500 +0200" channel="France2.fr">
     <title>Chacun son tour</title>
     <desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir de se qualifier pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2854,7 +2853,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621115500 +0200" stop="20250621123000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621115500 +0200" stop="20250621123000 +0200" channel="France2.fr">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Six candidats affrontent un "champion" autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2864,7 +2863,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621123000 +0200" stop="20250621125500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621123000 +0200" stop="20250621125500 +0200" channel="France2.fr">
     <title>Image du jour</title>
     <sub-title>France Musique Week</sub-title>
     <desc lang="fr">Programme Parrainé au format Images du Jour</desc>
@@ -2875,7 +2874,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621125500 +0200" stop="20250621130000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621125500 +0200" stop="20250621130000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2885,7 +2884,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621130000 +0200" stop="20250621132000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621130000 +0200" stop="20250621132000 +0200" channel="France2.fr">
     <title>Journal 13h00</title>
     <desc lang="fr">Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -2896,7 +2895,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621132000 +0200" stop="20250621135500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621132000 +0200" stop="20250621135500 +0200" channel="France2.fr">
     <title>13h15, le samedi...</title>
     <desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
     <category lang="fr">magazine d'actualité</category>
@@ -2906,7 +2905,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621135500 +0200" stop="20250621140000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621135500 +0200" stop="20250621140000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -2916,7 +2915,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621140000 +0200" stop="20250621140500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621140000 +0200" stop="20250621140500 +0200" channel="France2.fr">
     <title>C'est bon à savoir</title>
     <sub-title>Arrêtez de culpabiliser les enfants avec la nourriture !</sub-title>
     <desc lang="fr">Programme Parrainé C'EST BON A SAVOIR 2025 Rediffusions avec Nouvel Habillage FTV</desc>
@@ -2927,7 +2926,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621140500 +0200" stop="20250621150000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621140500 +0200" stop="20250621150000 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Jacques Maire, le caïd insaisissable</sub-title>
     <desc lang="fr">Soupçonné dans les disparitions d'Odile Busset en 1983 et de Sandrine Ferry en 1985, ainsi que dans le meurtre de Nelly Haderer en 1987 dans la région de Dombasle-sur-Meurthe, Jacques Maire a été condamné en 2004 et acquitté en 2008, Il est resté le principal suspect jusqu'à sa mort en 2018. Retour sur ces affaires.</desc>
@@ -2938,7 +2937,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621150000 +0200" stop="20250621160000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621150000 +0200" stop="20250621160000 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Jean-Baptiste Rambla, le crime en héritage</sub-title>
     <desc lang="fr">En 1974, à Marseille, alors qu'il n'est qu'un enfant, Jean-Baptiste Rambla a été le témoin de l'enlèvement de sa soeur Marie-Dolorès, retrouvée ensuite poignardée. Le coupable, Christian Ranucci, est condamné à la peine de mort et exécuté. Trente ans plus tard, Rambla est lui-même accusé de deux meurtres et emprisonné.</desc>
@@ -2949,7 +2948,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621160000 +0200" stop="20250621170000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621160000 +0200" stop="20250621170000 +0200" channel="France2.fr">
     <title>Au bout de l'enquête, la fin du crime parfait ?</title>
     <sub-title>Affaire Pierre Conty, les hippies tueurs</sub-title>
     <desc lang="fr">Le 24 août 1977, Pierre Conty et deux complices braquent une banque à Villefort, en Lozère. L'attaque a mal tourné, entraînant la mort de trois personnes, dont un gendarme Pierre Conty, surnommé le "tueur fou de l'Ardèche", n'a jamais été retrouvé et reste en cavale depuis.</desc>
@@ -2960,7 +2959,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621170000 +0200" stop="20250621175000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621170000 +0200" stop="20250621175000 +0200" channel="France2.fr">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2970,7 +2969,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621175000 +0200" stop="20250621180000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621175000 +0200" stop="20250621180000 +0200" channel="France2.fr">
     <title>Affaire conclue : la vie des objets</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
@@ -2980,7 +2979,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621180000 +0200" stop="20250621183500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621180000 +0200" stop="20250621183500 +0200" channel="France2.fr">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale. Autour de Sidonie Bonnec et d'Olivier Minne, deux équipes jouent en répondant à des questions. Chacune est constituée d'un candidat épaulé par deux personnalités : humoristes, comédiens, journalistes, chanteurs…</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -2990,7 +2989,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621183500 +0200" stop="20250621191000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621183500 +0200" stop="20250621191000 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -3000,7 +2999,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621191000 +0200" stop="20250621195500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621191000 +0200" stop="20250621195500 +0200" channel="France2.fr">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
     <category lang="fr">divertissement : jeu</category>
@@ -3010,7 +3009,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621195500 +0200" stop="20250621200000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621195500 +0200" stop="20250621200000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -3020,7 +3019,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621200000 +0200" stop="20250621203500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621200000 +0200" stop="20250621203500 +0200" channel="France2.fr">
     <title>Journal 20h00</title>
     <desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
     <category lang="fr">journal</category>
@@ -3031,7 +3030,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621203500 +0200" stop="20250621205500 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621203500 +0200" stop="20250621205500 +0200" channel="France2.fr">
     <title>20h30 le samedi</title>
     <desc lang="fr">Une suite de reportages qui dévoilent "la petite histoire dans la grande".</desc>
     <category lang="fr">magazine d'information</category>
@@ -3041,7 +3040,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621205500 +0200" stop="20250621210000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621205500 +0200" stop="20250621210000 +0200" channel="France2.fr">
     <title>Journal Météo Climat</title>
     <desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
     <category lang="fr">météo</category>
@@ -3051,7 +3050,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621210000 +0200" stop="20250621211000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621210000 +0200" stop="20250621211000 +0200" channel="France2.fr">
     <title>Vestiaires</title>
     <sub-title>Montre ça a tout le monde</sub-title>
     <desc lang="fr">Saison:7 - Romy et Orson, deux nageurs handicapés, se retrouvent chaque semaine pour leur entraînement. Ils côtoient d'autres nageurs, dont Caro qui n'a pas de mémoire, pour des moments d'humour partagés. Tournée dans un club handisport de Marseille, une série courte et tonique qui a remporté un vif succès.</desc>
@@ -3063,7 +3062,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20250621211000 +0200" stop="20250622003000 +0200" channel="C4.api.telerama.fr">
+  <programme start="20250621211000 +0200" stop="20250622003000 +0200" channel="France2.fr">
     <title>Le concert de la Fête de la musique - En clôture de la France Music Week</title>
     <desc lang="fr">La France Music Week, impulsée par le ministère de la Culture et le Centre national de la musique, s'est tenue pour la première fois du 16 au 21 juin. A la fois carrefour de rencontres pour la filière musicale internationale, moment de réflexion et célébration de la musique sous toutes ses formes elle se clôture par un grand concert organisé au coeur du domaine du musée du Louvre, dans les Jardins du Carrousel, en ce jour de fête de la musique. De nombreux invités ont répondu à l'appel pour faire de ce moment un grand événement populaire de partage et de réjouissance, pour ouvrir en grand les portes de l'été.</desc>
     <category lang="fr">musique : variétés</category>
