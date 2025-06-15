@@ -14,4 +14,5 @@
   <channel update="i" site="sfr.fr" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
   <channel update="i" site="sfr.fr" site_id="47" xmltv_id="France 5">FR| FRANCE 5 FHD (France TV)</channel>
   <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6.fr">FR| M6 FHD (M6+)</channel>
+  <channel update="i" site="sfr.fr" site_id="111" xmltv_id="ARTE.fr">FR| ARTE FHD (France TV)</channel>
 </settings>
