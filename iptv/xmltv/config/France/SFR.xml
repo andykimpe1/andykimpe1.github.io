@@ -8,22 +8,29 @@
   <retry time-out="5">4</retry>
   <timespan>4</timespan>
   <update>f</update>
-  <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
-  <channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| FRANCE 2 FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">FR| FRANCE 3 FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="47" xmltv_id="France 5">FR| FRANCE 5 FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6.fr">FR| M6 FHD (M6+)</channel>
-  <channel update="i" site="sfr.fr" site_id="111" xmltv_id="ARTE.fr">FR| ARTE FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">FR| LCP FHD (France TV)</channel>
-  <channel update="i" site="sfr.fr" site_id="119" xmltv_id="W9.fr">FR| W9 FHD (M6+)</channel>
-  <channel update="i" site="sfr.fr" site_id="195" xmltv_id="TMC.fr">FR| TMC HD (TF1+)</channel>
-  <channel update="i" site="sfr.fr" site_id="446" xmltv_id="TFX.fr">FR| TFX HD (TF1+)</channel>
-  <channel update="i" site="sfr.fr" site_id="482" xmltv_id="Gulli.fr">FR| Gulli (gulli.fr)</channel>
-  <channel update="i" site="sfr.fr" site_id="481" xmltv_id="BFMTV.fr">FR| BFM TV FHD (rmcbfmplay.com)</channel>
-  <channel update="i" site="sfr.fr" site_id="226" xmltv_id="CNews.fr">FR| C NEWS FHD (canalplus.com)</channel>
-  <channel update="i" site="sfr.fr" site_id="112" xmltv_id="LCI.fr">FR| LCI  HD (TF1+)</channel>
-  <channel update="i" site="sfr.fr" site_id="2111" xmltv_id="FranceInfo.fr">FR| France Info FHD (France TV)</channel>
-  
-  <channel update="i" site="sfr.fr" site_id="4139" xmltv_id="FranceInfo.fr">FR| France Info FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| FRANCE 2 FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">FR| FRANCE 3 FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="47" xmltv_id="France 5">FR| FRANCE 5 FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6.fr">FR| M6 FHD (M6+)</channel>
+    <channel update="i" site="sfr.fr" site_id="111" xmltv_id="ARTE.fr">FR| ARTE FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">FR| LCP FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="119" xmltv_id="W9.fr">FR| W9 FHD (M6+)</channel>
+    <channel update="i" site="sfr.fr" site_id="195" xmltv_id="TMC.fr">FR| TMC HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="446" xmltv_id="TFX.fr">FR| TFX HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="482" xmltv_id="Gulli.fr">FR| Gulli (gulli.fr)</channel>
+    <channel update="i" site="sfr.fr" site_id="481" xmltv_id="BFMTV.fr">FR| BFM TV FHD (rmcbfmplay.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="226" xmltv_id="CNews.fr">FR| C NEWS FHD (canalplus.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="112" xmltv_id="LCI.fr">FR| LCI  HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="2111" xmltv_id="FranceInfo.fr">FR| France Info FHD (France TV)</channel>
+    <channel update="i" site="sfr.fr" site_id="458" xmltv_id="CStar.fr">FR| CStar FHD (dailymotion.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="4139" xmltv_id="T18.fr">FR| T18 HD (dailymotion.com)</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="4139" xmltv_id="Nova19.fr">FR| Nova 19 (semptembre 2025)</channel>-->
+    <channel update="i" site="sfr.fr" site_id="1404" xmltv_id="TF1SeriesFilms.fr">FR| TF1 Series Films HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="1401" xmltv_id="LEquipe21.fr">FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="1403" xmltv_id="6ter.fr">FR| 6Ter FHD (M6+)</channel>
+    <channel update="i" site="sfr.fr" site_id="1402" xmltv_id="RMCStory.fr">FR| RMC STORY FHD (rmcbfmplay.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="1400" xmltv_id="RMCdecouverte.fr">FR| RMC Decouverte FHD (rmcbfmplay.com)</channel>
+    <channel update="i" site="sfr.fr" site_id="1399" xmltv_id="Cherie25.fr">FR| Cherie 25 FHD (nrj-play.fr)</channel>
 </settings>
