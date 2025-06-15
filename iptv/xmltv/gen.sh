@@ -18,19 +18,34 @@ git clone git@github.com:andykimpe1/andykimpe1.github.io.git
 cd $HOME/andykimpe1.github.io/iptv/xmltv/
 # france grab epg with telerama
 wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O $HOME/config.conf
-rm -f guide.xml
-tv_grab_fr_telerama --config-file $HOME/config.conf --output guide.xml --days 7
-rm -f France3.xml $HOME/France3.xml
-sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
-sed -i "s|C4.api.telerama.fr|France2.fr|g" guide.xml
-sed -i "s|C80.api.telerama.fr|France3.fr|g" guide.xml
-sed -i "s|C78.api.telerama.fr|France4.fr|g" guide.xml
-sed -i "s|C47.api.telerama.fr|France5.fr|g" guide.xml
-sed -i "s|C118.api.telerama.fr|M6.fr|g" guide.xml
-sed -i "s|C111.api.telerama.fr|ARTE.fr|g" guide.xml
-sed -i "s|C234.api.telerama.fr|LaChaineParlementaire.fr|g" guide.xml
-sed -i "s|C119.api.telerama.fr|W9.fr|g" guide.xml
-sed -i "s|C195.api.telerama.fr|TMC.fr|g" guide.xml
+rm -f guide.xml France.xml
+tv_grab_fr_telerama --config-file $HOME/config.conf --output France.xml --days 7
+sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
+sed -i "s|C4.api.telerama.fr|France2.fr|g" France.xml
+sed -i "s|C80.api.telerama.fr|France3.fr|g" France.xml
+sed -i "s|C78.api.telerama.fr|France4.fr|g" France.xml
+sed -i "s|C47.api.telerama.fr|France5.fr|g" France.xml
+sed -i "s|C118.api.telerama.fr|M6.fr|g" France.xml
+sed -i "s|C111.api.telerama.fr|ARTE.fr|g" France.xml
+sed -i "s|C234.api.telerama.fr|LaChaineParlementaire.fr|g" France.xml
+sed -i "s|C119.api.telerama.fr|W9.fr|g" France.xml
+sed -i "s|C195.api.telerama.fr|TMC.fr|g" France.xml
+sed -i "s|C446.api.telerama.fr|TFX.fr|g" France.xml
+sed -i "s|C482.api.telerama.fr|Gulli.fr|g" France.xml
+sed -i "s|C481.api.telerama.fr|BFMTV.fr|g" France.xml
+sed -i "s|C226.api.telerama.fr|CNews.fr|g" France.xml
+sed -i "s|C112.api.telerama.fr|LCI.fr|g" France.xml
+sed -i "s|C2111.api.telerama.fr|FranceInfo.fr|g" France.xml
+sed -i "s|C458.api.telerama.fr|CStar.fr|g" France.xml
+sed -i "s|C4139.api.telerama.fr|T18.fr|g" France.xml
+#sed -i "s|C195.api.telerama.fr|Nova19.fr|g" France.xml
+sed -i "s|C1404.api.telerama.fr|TF1SeriesFilms.fr|g" France.xml
+sed -i "s|C1401.api.telerama.fr|LEquipe21.fr|g" France.xml
+sed -i "s|C1403.api.telerama.fr|6ter.fr|g" France.xml
+sed -i "s|C1402.api.telerama.fr|RMCStory.fr|g" France.xml
+sed -i "s|C1400.api.telerama.fr|RMCdecouverte.fr|g" France.xml
+sed -i "s|C1399.api.telerama.fr|Cherie25.fr|g" France.xml
+cat France.xml > guide.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
