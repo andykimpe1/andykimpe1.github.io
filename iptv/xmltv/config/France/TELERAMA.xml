@@ -33,5 +33,6 @@
     <channel update="i" site="telerama.fr.api" site_id="1403" xmltv_id="6ter.fr">FR| 6Ter FHD (M6+)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1402" xmltv_id="RMCStory.fr">FR| RMC STORY FHD (rmcbfmplay.com)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1400" xmltv_id="RMCdecouverte.fr">FR| RMC Decouverte FHD (rmcbfmplay.com)</channel>
-    <channel update="i" site="telerama.fr.api" site_id="1399" xmltv_id="Cherie25.fr">FR| Cherie 25 FHD (nrj-play.fr)</channel>
+    <channel update="i" site="telerama.fr.api" site_id="1399" xmltv_id="Cherie25.fr">FR| Cherie 25 FHD (abweb)</channel>
+    <channel update="i" site="telerama.fr.api" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (abweb)</channel>
 </settings>
