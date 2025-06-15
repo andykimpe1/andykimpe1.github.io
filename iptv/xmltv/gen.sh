@@ -38,11 +38,11 @@ rm -f $HOME/TF1.conf
 wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/France2.conf -O $HOME/France2.conf
 rm -f France2.xml $HOME/France2.xml
 tv_grab_fr_telerama --config-file $HOME/France2.conf --output France2.xml --days 7
-sed -i "s|C192.api.telerama.fr|France2.fr|g" France2.xml
+sed -i "s|C4.api.telerama.fr|France2.fr|g" France2.xml
 sed -i 's|<?xml version="1.0" encoding="UTF-8"?>||g' France2.xml
 sed -i 's|<!DOCTYPE tv SYSTEM "xmltv.dtd">||g' France2.xml
 sed -i 's|<tv source-info-url="https://api.telerama.fr" source-data-url="https://api.telerama.fr" generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/">||g' France2.xml
-sed -i 's|  <channel id="C192.api.telerama.fr">||g' France2.xml
+sed -i 's|  <channel id="C4.api.telerama.fr">||g' France2.xml
 sed -i 's|  <channel id="France2.fr">||g' France2.xml
 sed -i "s/    <display-name>FR|//g" France2.xml
 sed -i 's| FRANCE 2 FHD (France TV)</display-name>||g' France2.xml
