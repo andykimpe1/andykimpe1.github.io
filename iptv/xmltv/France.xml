@@ -5,56 +5,46 @@
     <display-name>FR|
     <display-name>FR|
     <display-name>FR|
-    <display-name>FR| LCP FHD (France TV)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" />
-  <channel id="W9.fr">
-    <display-name>FR| W9 FHD (M6+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" />
-  <channel id="TMC.fr">
-    <display-name>FR| TMC HD (TF1+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" />
-  <channel id="TFX.fr">
-    <display-name>FR| TFX HD (TF1+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" />
-  <channel id="Gulli.fr">
-    <display-name>FR| Gulli (gulli.fr)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" />
-  <channel id="BFMTV.fr">
-    <display-name>FR| BFM TV FHD (rmcbfmplay.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" />
-  <channel id="CNews.fr">
-    <display-name>FR| C NEWS FHD (canalplus.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" />
-  <channel id="LCI.fr">
-    <display-name>FR| LCI  HD (TF1+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" />
-  <channel id="FranceInfo.fr">
-    <display-name>FR| France Info FHD (France TV)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" />
-  <channel id="CStar.fr">
-    <display-name>FR| CStar FHD (dailymotion.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" />
-  <channel id="T18.fr">
-    <display-name>FR| T18 HD (dailymotion.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" />
-  <channel id="TF1SeriesFilms.fr">
-    <display-name>FR| TF1 Series Films HD (TF1+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" />
-  <channel id="LEquipe21.fr">
-    <display-name>FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" />
-  <channel id="6ter.fr">
-    <display-name>FR| 6Ter FHD (M6+)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" />
-  <channel id="RMCStory.fr">
-    <display-name>FR| RMC STORY FHD (rmcbfmplay.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" />
-  <channel id="RMCdecouverte.fr">
-    <display-name>FR| RMC Decouverte FHD (rmcbfmplay.com)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" />
-  <channel id="Cherie25.fr">
-    <display-name>FR| Cherie 25 FHD (nrj-play.fr)</display-name>
-    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" />
+    <display-name>FR|
+    <display-name>FR|
+    <display-name>FR|
+    <display-name>FR|
+    <display-name>FR|
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
+  
+    <display-name>FR|
+    
   <programme start="20250615014000 +0200" stop="20250615060000 +0200" channel="TF1.fr">
     <title>Programmes de la nuit</title>
     <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
