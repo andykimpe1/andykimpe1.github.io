@@ -38,6 +38,10 @@
     <display-name>FR| W9 FHD (M6+)</display-name>
     <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" />
   </channel>
+  <channel id="TMC.fr">
+    <display-name>FR| TMC HD (TF1+)</display-name>
+    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" />
+  </channel>
   <programme start="20250615014000 +0200" stop="20250615060000 +0200" channel="TF1.fr">
     <title>Programmes de la nuit</title>
     <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
@@ -4440,6 +4444,309 @@
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+  </programme>
+  <programme start="20250615002500 +0200" stop="20250615063500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">370</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615063500 +0200" stop="20250615071500 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 10</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615071500 +0200" stop="20250615075000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Présentateurs débordés par les événements, sportifs qui dérapent, incidents sur les réseaux sociaux, personnalités surprises par les imprévus du direct ou simples quidams victimes d'accidents spectaculaires : les équipes de la chaîne proposent un condensé d'images plus hilarantes les unes que les autres.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615075000 +0200" stop="20250615083100 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 12</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">41</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615083100 +0200" stop="20250615083500 +0200" channel="TMC.fr">
+    <title>Monacoscope</title>
+    <desc lang="fr">Monacoscope du 15 juin 2025 - Episode 23</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/6143b747657e04c24f9dd3c69c9f2bc2b6f61b36.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615083500 +0200" stop="20250615091000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 17</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615091000 +0200" stop="20250615095000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Rendez-vous pour Le bêtisier de l'été !</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615095000 +0200" stop="20250615102500 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 15</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615102500 +0200" stop="20250615110000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Présentateurs débordés par les événements, sportifs qui dérapent, incidents sur les réseaux sociaux, personnalités surprises par les imprévus du direct ou simples quidams victimes d'accidents spectaculaires : les équipes de la chaîne proposent un condensé d'images plus hilarantes les unes que les autres.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615110000 +0200" stop="20250615114000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 9</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615114000 +0200" stop="20250615122000 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 11</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615122000 +0200" stop="20250615125800 +0200" channel="TMC.fr">
+    <title>Le bêtisier de l'été</title>
+    <desc lang="fr">Le bêtisier de l'été - Episode 20</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">38</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/3a0e2c4730a84ba593fb2992ac2341c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615125800 +0200" stop="20250615130000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615130000 +0200" stop="20250615131000 +0200" channel="TMC.fr">
+    <title>Paparfait</title>
+    <desc lang="fr">Déterminé à devenir le père parfait, un papa accumule les maladresses avec sa fille au quotidien. Entre les retards matinaux, les petits-déjeuners catastrophiques, les comptines massacrées et les jouets bricolés sans talent, ses efforts transforment leurs moments de complicité en souvenirs attachants...</desc>
+    <date>2017</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/02/8cbc4c0ec1204d5baa8672d1c20a5cde.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615131000 +0200" stop="20250615143500 +0200" channel="TMC.fr">
+    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
+    <sub-title>Théo, Blanche, Cracotte et Winnie</sub-title>
+    <desc lang="fr">Saison:7 - Episode:5 - Plongez dans l'émotion avec cette série du réel qui porte un regard poignant sur les coulisses des refuges de la SPA et dévoile comment salariés et bénévoles sauvent, soignent et tentent de faire adopter leurs pensionnaires au plus vite ! Tous sont animés d'une même passion et d'un seul credo : trouver le meilleur foyer pour chacun d'eux. Chats, chiens, chiots, chatons... Chaque épisode vous emmène au cœur des histoires bouleversantes de ces animaux recueillis, maltraités, abandonnés... qui n'attendent que l'amour d'une nouvelle famille. De leur arrivée au refuge à leur adoption, la série du réel retrace leur parcours, entre soins, espoir, joies et doutes. Une immersion sincère et pleine d'émotion dans un univers où chaque adoption est une victoire, chaque histoire une source d'espoir et d</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/07/07128815b996418ea7d16f78f243c5f6.jpg" />
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615143500 +0200" stop="20250615155500 +0200" channel="TMC.fr">
+    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
+    <sub-title>Tinon, Orion et Odin</sub-title>
+    <desc lang="fr">Plongée dans la vie quotidienne de trois refuges de la SPA, à Plaisir dans les Yvelines, Saint-Omer dans le Pas-de-Calais et Morée dans le Loir-et-Cher. De leur arrivée au refuge et leur prise en charge par les professionnels et les bénévoles, jusqu'à leur adoption par des familles en quête de compagnon, le parcours parfois tragique de chiens et chats recueillis par ces refuges.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/07/07128815b996418ea7d16f78f243c5f6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615155500 +0200" stop="20250615172000 +0200" channel="TMC.fr">
+    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
+    <sub-title>Scotty, Loulou et Mordoc</sub-title>
+    <desc lang="fr">Plongée dans la vie quotidienne de trois refuges de la SPA, à Plaisir dans les Yvelines, Saint-Omer dans le Pas-de-Calais et Morée dans le Loir-et-Cher. De leur arrivée au refuge et leur prise en charge par les professionnels et les bénévoles, jusqu'à leur adoption par des familles en quête de compagnon, le parcours parfois tragique de chiens et chats recueillis par ces refuges.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/07/07128815b996418ea7d16f78f243c5f6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615172000 +0200" stop="20250615185500 +0200" channel="TMC.fr">
+    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
+    <sub-title>Abby, Jasmine et Olympéa</sub-title>
+    <desc lang="fr">Plongée dans la vie quotidienne de trois refuges de la SPA, à Plaisir dans les Yvelines, Saint-Omer dans le Pas-de-Calais et Morée dans le Loir-et-Cher. De leur arrivée au refuge et leur prise en charge par les professionnels et les bénévoles, jusqu'à leur adoption par des familles en quête de compagnon, le parcours parfois tragique de chiens et chats recueillis par ces refuges.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/07/07128815b996418ea7d16f78f243c5f6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615185500 +0200" stop="20250615200000 +0200" channel="TMC.fr">
+    <title>Les mystères de l'amour</title>
+    <sub-title>Enfin au courant</sub-title>
+    <desc lang="fr">Saison:36 - Episode:20 - Alors que Gabriella tente de pousser Jeanne dans les bras de Ricky, Mélodie ne comprend pas le comportement de Guéant. Bob tente d'apaiser la situation. Au gala de charité, Bénédicte fait une rencontre inattendue, tandis que le comportement de Donald 2 est de plus en plus étrange...</desc>
+    <date>2025</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/26/31016e883add4473a60c7eba91f5177e.jpg" />
+    <episode-num system="xmltv_ns">35.19.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615200000 +0200" stop="20250615211000 +0200" channel="TMC.fr">
+    <title>Les mystères de l'amour</title>
+    <sub-title>Concert triomphal</sub-title>
+    <desc lang="fr">Saison:36 - Episode:21 - Hélène fait ses débuts sur scène pendant que ses amies préparent une surprise. Stéphanie aide Audrey et Ingrid. Pierre ne reconnaît toujours pas Jeanne.</desc>
+    <date>2025</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/26/31016e883add4473a60c7eba91f5177e.jpg" />
+    <episode-num system="xmltv_ns">35.20.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615211000 +0200" stop="20250615211500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250615211500 +0200" stop="20250615220000 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Après la mort brutale de son père, Ben hérite du domaine apicole familial et devient tuteur légal de sa soeur Charly. Avec Zak et Ludo, il a de nombreux projets qu'il a planifiés pour les mois voire les années à venir, mais est très vite rattrapé par la réalité financière. Quand un quiproquo révèle que Mathias, ouvrier du domaine, se prostitue pour arrondir les fins de mois, Charly convainc les garçons de créer un service d'escorts dans la région. Ils mettent alors en place tout un système pour gagner un maximum d'argent tout en restant discret sur cette activité illégale...</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/906040a3bb2040a09a6e71c7fe395855.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250615220000 +0200" stop="20250615225000 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Après le succès de leur première mission, Charly monte discrètement l'activité. Zak et Ben font leurs premières prestations, Mathias a affaire à une cliente féministe, tandis que Ludo reprend un job alimentaire après que sa femme a découvert leurs activités. Alors qu'un vent d'espoir commence à souffler, le retour inattendu de l'ex de Ben complique les choses...</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/43429d3c73f54587b9fe16c1d150d949.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250615225000 +0200" stop="20250615234500 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Zak emménage au Domaine après un conflit avec ses parents. Ludo, finalement encouragé par sa femme Nora, rejoint les escorts pour sa première mission. Ben va accompagner une businesswoman maltraitée par ses supérieurs et en fait plus que prévu, tandis que Mathias retrouve Charly en boite de nuit après un rendez-vous qui l'a bouleversé, Ben reçoit un appel important de son agent parisien.</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/07/71dff34fbc1a4ab78503a01c3772d9a9.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250615234500 +0200" stop="20250616003200 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Toujours dans l'objectif de développer leur business, les garçons sont bookés pour un congrès majeur réunissant des femmes d'affaires. Tandis que Zak, Ludo et Mathias y rencontrent des clientes, Ben voit en cet évènement l'occasion rêvée de rencontrer des investisseuses. Il a préparé un discours pour appâter un maximum de personnes. Mais les choses se compliquent sérieusement pour lui quand il tombe sur la seule personne qu'il ne voulait pas croiser. Zak, se fait sérieusement menacer par le clan gitan de la région...</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/07/1fbcadf056a94bfea01e350c59a13b28.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20250616003500 +0200" stop="20250616012000 +0200" channel="TF1.fr">
     <title>Esprits criminels</title>
@@ -9272,6 +9579,306 @@
       <value>4/5</value>
     </star-rating>
   </programme>
+  <programme start="20250616003200 +0200" stop="20250616010500 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Charly utilise Paco, son copain de classe gitan, pour tenter d'extirper Zak de sa situation dangereuse. Le mariage de Ludo et Nora évolue dangereusement à mesure qu'il multiplie les clientes et découvre de nouvelles pratiques sexuelles. Zak est particulièrement bouleversé après une passe originale avec un couple. Ben a de plus en plus de mal à contenir ses sentiments pour son ex Romane...</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/99f79027e2b7465cb1de9d1da3077bcc.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250616010500 +0200" stop="20250616014000 +0200" channel="TMC.fr">
+    <title>Escort Boys</title>
+    <desc lang="fr">Saison:1 - Episode:6 - L'assistante sociale a enfin validé la garde de Charly par son frère. De son côté, Olga, une femme d'affaires très puissante, a décidé de se positionner sur le projet d'hôtel spa du domaine apicole, un choix mûrement réfléchi de sa part. Les quatre garçons vont alors pouvoir définitivement arrêter l'Escort biz. Ils décident toutefois de faire une dernière passe chacun, le même soir. Il est temps que des masques tombent et que certaines vérités éclatent...</desc>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/c63f9f34344346b2a9d2fd37714609e3.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250616014000 +0200" stop="20250616065500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">315</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616065500 +0200" stop="20250616075500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>L'enfant de la discorde</sub-title>
+    <desc lang="fr">Saison:10 - Episode:21 - Valentine, qui a renoué avec Olivier, découvre horrifiée qu'elle est enceinte d'Alain. Alors qu'elle annonce la nouvelle à Olivier, celui-ci se méprend et laisse éclater sa joie d'être enfin père. Valentine n'ose pas le détromper...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.20.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616075500 +0200" stop="20250616085500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Retour de flammes</sub-title>
+    <desc lang="fr">Saison:10 - Episode:22 - Alors que Caroline entretient toujours une liaison avec Philippe Laroche, Bertrand Meyer revient à Saint-Tropez. Le choc est rude lorsqu'il la voit avec l'avocat qui lui a évité la prison. Quand Caroline le revoit, elle lui reproche de ne pas lui avoir donné de nouvelles...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616085500 +0200" stop="20250616095500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Chantage</sub-title>
+    <desc lang="fr">Saison:10 - Episode:23 - Profondément meurtrie par le comportement de Bertrand Meyer, Caroline parvient néanmoins à trouver un équilibre dans sa relation avec Philippe Laroche. Tenu par le chantage de Laroche, Bertrand, toujours aussi amoureux de Caroline, ne peut pas se résoudre à quitter Saint-Tropez...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/12/281461e2d30d42b4913e7b3d68603a19.jpg" />
+    <episode-num system="xmltv_ns">9.22.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616095500 +0200" stop="20250616104500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Abus de pouvoir</sub-title>
+    <desc lang="fr">Saison:5 - Episode:10 - Melinda et Jim attendent Eli au restaurant mais, juste avant d'arriver, il se fait arrêter par un policier à cause d'un feu arrière cassé. Melinda, qui assiste à la scène, voit un fantôme à l'arrière de la voiture de patrouille. Le spectre affirme à Melinda et à Eli que ce policier l'a tué...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/28/c4e561de21ab47d1a630b07219d916b8.jpg" />
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616104500 +0200" stop="20250616114000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Ondes de choc</sub-title>
+    <desc lang="fr">Saison:5 - Episode:11 - Ned est animateur à WQRY, la radio de l'université de Grandview. Il s'amuse avec son ami Noah à faire des canulars en direct. Malheureusement, il fait ainsi resurgir une vieille histoire de jalousie ayant causé la mort d'un homme, huit ans auparavant. Il réveille également le fantôme de la victime qui, de rage, s'attaque à Ned et à toute la radio. Ned demande à Melinda de lui venir en aide...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/05/00962a6ad3114d22bfa8c65c57e2859b.jpg" />
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616114000 +0200" stop="20250616123000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Fuite en avant</sub-title>
+    <desc lang="fr">Saison:5 - Episode:12 - Ned tombe amoureux d'une jeune fille hantée. Melinda lui propose son aide, à elle et à ses proches, en vain. Tous semblent la fuir. Bientôt, Melinda comprend que cette famille est en cavale et fuit la police...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/13/ef937f8185244d2aa783894508c752f8.jpg" />
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616123000 +0200" stop="20250616132500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Les démons de minuit</sub-title>
+    <desc lang="fr">Saison:5 - Episode:13 - Melinda se rend à l'hôpital pour voir Jim lorsqu'un jeune homme débarque, couvert de sang. Très agité et visiblement apeuré, il prétend être pourchassé par un agresseur invisible muni d'un couteau. A ce moment, Melinda a la vision d'une femme recevant un coup de poignard. Le fantôme qui accompagne le patient confie à Melinda que les médecins ne peuvent rien pour lui et qu'il mourra. Ce dernier, très perturbé et apparemment déconnecté de la réalité, est insomniaque. Melinda finit par se rendre compte qu'un fantôme l'empêche de dormir. Mais la situation semble n'avoir ni queue ni tête...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/ff8f7076b2654cf6aa8724c299d07a6e.jpg" />
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250616132500 +0200" stop="20250616133000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616133000 +0200" stop="20250616152000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Il y a toujours un truc</sub-title>
+    <desc lang="fr">Saison:8 - Episode:1 - Max Dyson était à la fois parapsychologue et magicien. Sa double activité a trouvé une fin tragique. La guillotine truquée qu'il avait inventée pour les besoins d'un tour de passe-passe macabre vient de lui couper le cou. L'inspecteur Columbo est chargé de l'enquête. Il commence par remarquer que le collier du funeste engin a été retiré et placé à quelque distance de la machine, avant de lier conversation avec un voisin et admirateur du défunt, Bert. Ce dernier lui explique que Max Dyson travaillait pour les services secrets, qui employaient ses talents pour s'informer des actions ennemies. Juste avant sa mort, Dyson avait été en contact avec un confrère, Eliot Blake. Columbo découvre que tous deux avaient été incarcérés dans une prison africaine, quelques années auparavant...</desc>
+    <date>1989</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/2f91e985b89d4131a0a5d50359d71f68.jpg" />
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616152000 +0200" stop="20250616165000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Question d'honneur</sub-title>
+    <desc lang="fr">Saison:5 - Episode:4 - Réputé pour son audace, le torero mexicain Luis Montoya est une figure nationale vénérée. Seul Hector Rangel, son assistant et ami de toujours, a remarqué que le valeureux matador éprouvait une certaine peur en regardant un taureau sauvage. Dès lors, Hector souhaite quitter le domaine des Montoya. Il devine que le fier Luis ne peut plus supporter dans son entourage un homme qui l'a surpris dans un moment de faiblesse. Alors que Rangel boucle ses bagages, Montoya lui demande un dernier service : l'aider à tuer le taureau qui a blessé Curro, le fougueux fils d'Hector. Luis laisse son ami pénétrer dans l'arène, puis l'y enferme et lâche le taureau...</desc>
+    <date>1975</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/a6d4bb57a33241b2b76932a70ce05bdf.jpg" />
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616165000 +0200" stop="20250616182000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Le spécialiste</sub-title>
+    <desc lang="fr">Saison:2 - Episode:6 - Le professeur Edmund Hiedeman, un des plus grands cardiologues des Etats-Unis, invite un éminent spécialiste étranger à participer aux recherches qu'il a entamées avec le docteur Barry Mayfield, lui-même brillant chirurgien. Celui-ci n'apprécie guère la présence de ce troisième scientifique, susceptible de lui faire de l'ombre et de lui ravir une part de gloire. Lorsque le professeur Hiedeman, victime d'une crise cardiaque, doit être opéré d'urgence, le docteur Mayfield prend en charge l'intervention. Et c'est le drame. Plusieurs erreurs s'enchaînent, qui entraînent la mort du professeur Hiedeman. Le lieutenant Columbo entre en scène...</desc>
+    <date>1972</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/9c23db9e4fe8418d8f1d19ff8d7a44ea.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616182000 +0200" stop="20250616182500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616182500 +0200" stop="20250616191500 +0200" channel="TMC.fr">
+    <title>L'avant Quotidien</title>
+    <desc lang="fr">Tous les soirs, le présentateur et son équipe traitent l'actualité à leur façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616191500 +0200" stop="20250616201000 +0200" channel="TMC.fr">
+    <title>Quotidien, première partie</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616201000 +0200" stop="20250616204500 +0200" channel="TMC.fr">
+    <title>Quotidien, deuxième partie</title>
+    <desc lang="fr">Dans cette deuxième partie, Yann Barthès et toute son équipe reviennent sur l'actualité et la présentent souvent de manière impertinente et drôle.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616204500 +0200" stop="20250616212500 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250616212500 +0200" stop="20250616233500 +0200" channel="TMC.fr">
+    <title>Le Jour d'après</title>
+    <desc lang="fr">Le climatologue Jack Hall fait sensation lors d'une importante conférence mondiale sur le climat. Fort d'une série de tests menés dans le monde entier, le scientifique affirme que, tôt ou tard, la planète bleue sera en proie à des bouleversements climatiques majeurs. Ces affirmations ne manquent pas d'irriter le vice-président, qui l'accuse de vouloir déclencher une psychose collective. Pourtant, les événements donnent bientôt raison à Jack, quand la neige tombe inopinément en Inde et que le Japon est frappé par de violentes chutes de grêle. Hall entre rapidement en contact avec son homologue britannique, le professeur Rapson, qui confirme ses inquiétudes. Pendant ce temps, Sam, le fils de Jack, se retrouve bloqué à New York pendant une tempête de neige. Jack décide de traverser le pays pour aller à son secours...</desc>
+    <date>2004</date>
+    <category lang="fr">film catastrophe</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/a62865e9-026e-43d7-9cc7-dc1cbe390c32.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250616233500 +0200" stop="20250617015600 +0200" channel="TMC.fr">
+    <title>Le Cinquième Elément</title>
+    <desc lang="fr">Egypte, 1914. Des extraterrestres récupèrent quatre pierres magiques, symboles des quatre éléments, jadis confiées à des prêtres. Avant de partir, les extraterrestres promettent que dans 300 ans, ils rapporteront les précieux cailloux. Au XXIIIe siècle, alors qu'ils font route vers la Terre, ils sont anéantis par la planète du Mal. Les habitants de ce monde maléfique, les Mangalores, s'emparent des pierres et foncent vers la Terre. Le président Lindberg et ses conseillers se rendent rapidement à l'évidence : il n'existe aucun moyen de les arrêter. Une mutante, Leeloo, détient la clef du cinquième élément. Elle atterrit dans le taxi de Korben Dallas, qui la cache chez lui...</desc>
+    <date>1997</date>
+    <category lang="fr">film de science-fiction</category>
+    <length units="minutes">141</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/13/299726adaec0479f8f69de3fcbe98419.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
   <programme start="20250617000000 +0200" stop="20250617005500 +0200" channel="TF1.fr">
     <title>New York Unité Spéciale</title>
     <sub-title>Tic Tac Boum</sub-title>
@@ -14052,6 +14659,267 @@
     <category lang="fr">série humoristique</category>
     <length units="minutes">210</length>
     <icon src="https://focus.telerama.fr/1111x625/2025/04/15/2f16f2b6e0b64190b0609fa9d92b17c7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617015600 +0200" stop="20250617065500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">299</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617065500 +0200" stop="20250617075500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Retour de flammes</sub-title>
+    <desc lang="fr">Saison:10 - Episode:22 - Alors que Caroline entretient toujours une liaison avec Philippe Laroche, Bertrand Meyer revient à Saint-Tropez. Le choc est rude lorsqu'il la voit avec l'avocat qui lui a évité la prison. Quand Caroline le revoit, elle lui reproche de ne pas lui avoir donné de nouvelles...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617075500 +0200" stop="20250617085500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Chantage</sub-title>
+    <desc lang="fr">Saison:10 - Episode:23 - Profondément meurtrie par le comportement de Bertrand Meyer, Caroline parvient néanmoins à trouver un équilibre dans sa relation avec Philippe Laroche. Tenu par le chantage de Laroche, Bertrand, toujours aussi amoureux de Caroline, ne peut pas se résoudre à quitter Saint-Tropez...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/12/281461e2d30d42b4913e7b3d68603a19.jpg" />
+    <episode-num system="xmltv_ns">9.22.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617085500 +0200" stop="20250617095500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Amour coupable</sub-title>
+    <desc lang="fr">Saison:10 - Episode:24 - Zacharie entame une relation amoureuse secrète avec Marie, son professeur de français. Malheureusement, leur liaison est découverte et le scandale éclate. Franck, quant à lui, continue de cultiver son personnage de poète maudit...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.23.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617095500 +0200" stop="20250617104500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Spiritisme</sub-title>
+    <desc lang="fr">Saison:5 - Episode:14 - Ned offre une "planche à esprits" à Avery Grant, son professeur d'anthropologie des sciences occultes. Celle-ci est bientôt assaillie par un fantôme qu'elle croit être celui de son fiancé, mort dans un accident de voiture trois ans auparavant. Melinda, assistée de Ned et Eli, découvre que le spectre est en fait celui d'une fillette morte au cours du même accident, qui souhaite que Brian, son père survivant, rencontre Avery et refasse sa vie avec elle...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/15/09ff9bb610604f5ba76e1a48901cb0e9.jpg" />
+    <episode-num system="xmltv_ns">4.13.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617104500 +0200" stop="20250617114000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Bombe à retardement</sub-title>
+    <desc lang="fr">Saison:5 - Episode:15 - Un soldat fantôme avec la voix d'un enfant conduit Melinda à découvrir une base désaffectée sur laquelle sont entreposés de vieux explosifs encore actifs. Le soldat fantôme est un enfant de 12 ans, mort sur cette base après être resté enfermé par accident dans un conteneur...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/16/494b4212147d43d4a30020b3e24c0b3b.jpg" />
+    <episode-num system="xmltv_ns">4.14.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617114000 +0200" stop="20250617123000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>La parade des enfants</sub-title>
+    <desc lang="fr">Saison:5 - Episode:22 - Dans un hôpital, une "armée" d'enfants fantômes dirigée par Pete, un enfant de treize ans, crée le chaos. Pete refuse de rejoindre la lumière car il pense que sa mère l'a abandonné. Plus tard, Pete et les autres enfants fantômes rejoignent la lumière où sa mère l'attend. Melinda perd une partie de ses pouvoirs après avoir obligé Aiden à renier le sien. Elle est possédée par les Ombres, mais est sauvée par Aiden et une "armée" de Rayonnants...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/29/b3d776a2022a48d0b80317f42b99c899.jpg" />
+    <episode-num system="xmltv_ns">4.21.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617123000 +0200" stop="20250617132500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Sur la pente glissante</sub-title>
+    <desc lang="fr">Saison:5 - Episode:17 - Un auteur de romans sur le déclin est possédé par un fantôme qui l'oblige à se dessiner dans des situations violentes, qui le représentent frôlant la mort. La glace est à chaque fois la cause de ses accidents...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/22/e32cf740f42846389d826827dcb1d45a.jpg" />
+    <episode-num system="xmltv_ns">4.16.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617132500 +0200" stop="20250617133000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617133000 +0200" stop="20250617150000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Les surdoués</sub-title>
+    <desc lang="fr">Saison:6 - Episode:3 - Bentle Hasting travaillait dans un cabinet d'expertise comptable. Il n'aura plus guère l'occasion de vérifier ses additions. Il vient de trouver une mort violente. Tous les indices plaident pour la thèse du meurtre prémédité. Le lieutenant Columbo tâte le terrain. Le collègue et ami de la victime, Oliver Brandt, ferait un suspect idéal. Son épouse, Vivian, ne le persécute-t-elle pas constamment en exigeant de lui qu'il gagne de plus en plus d'argent pour satisfaire ses goûts de luxe immodérés ? N'aurait-il pas récemment été tenté par des gains aussi faciles qu'illicites, dont il aurait tout intérêt à ce qu'ils restent parfaitement secrets ?...</desc>
+    <date>1976</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/06/22c604fb8baf4ec29d202431726928f7.jpg" />
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617150000 +0200" stop="20250617165000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Fantasmes</sub-title>
+    <desc lang="fr">Saison:8 - Episode:3 - Le lieutenant Columbo est appelé à la clinique Allenby, où un certain David Kincaid a été retrouvé assassiné. Il découvre vite que Kincaid était l'amant de la propriétaire de l'établissement, la célèbre sexologue Joan Allenby. Le concierge et un barman sont les dernières personnes à avoir vu Kincaid vivant. Tous deux déclarent qu'il était en compagnie d'une femme aux cheveux noirs. D'après le docteur Neff, David était également l'amant de Cindy, la secrétaire de Joan. L'intéressée nie violemment. Apparemment, David Kincaid, insatiable, avait une autre aventure avec la mystérieuse "femme en noir", dont il ignorait qu'elle lui serait fatale...</desc>
+    <date>1989</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/27bdea13b9b9466e8b45db7fa7938e29.jpg" />
+    <episode-num system="xmltv_ns">7.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617165000 +0200" stop="20250617182000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Meurtre à l'ancienne</sub-title>
+    <desc lang="fr">Saison:6 - Episode:2 - Ruth Lytton, son frère Edward et leur soeur Phyllis dirigent un musée auquel Ruth tient énormément. Pour des raisons financières, Edward voudrait le fermer. Ruth persuade le gardien, Milton Schaefer, de pénétrer de nuit dans la bâtisse et de voler des oeuvres d'art. En gage de ses services, il recevra 100 000 dollars et la possibilité de recommencer une nouvelle vie, sous une autre identité. Pour mettre la police sur une fausse piste et rendre crédible sa disparition, Milton téléphone à son frère, Tim, lui dit être en danger de mort puis tire un coup de feu. Milton se rend alors au musée où Ruth l'attend et l'abat froidement. Edward, qui travaillait dans son bureau, descend précipitamment. Ruth appuie à nouveau sur la détente...</desc>
+    <date>1976</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/28/f8bbfd5d1b0449c89c468b37e4c4c6e3.jpg" />
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617182000 +0200" stop="20250617182500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617182500 +0200" stop="20250617191500 +0200" channel="TMC.fr">
+    <title>L'avant Quotidien</title>
+    <desc lang="fr">Tous les soirs, le présentateur et son équipe traitent l'actualité à leur façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617191500 +0200" stop="20250617201000 +0200" channel="TMC.fr">
+    <title>Quotidien, première partie</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617201000 +0200" stop="20250617204500 +0200" channel="TMC.fr">
+    <title>Quotidien, deuxième partie</title>
+    <desc lang="fr">Dans cette deuxième partie, Yann Barthès et toute son équipe reviennent sur l'actualité et la présentent souvent de manière impertinente et drôle.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617204500 +0200" stop="20250617212500 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617212500 +0200" stop="20250617232000 +0200" channel="TMC.fr">
+    <title>Kung-Fu Zohra</title>
+    <desc lang="fr">Conjonctivite, glissades, choc contre le lavabo : Zohra tente bien de cacher les coups que lui porte son mari Omar. Mais, peu dupe, son amie Binta lui conseille de répondre de la même façon à ce dernier : par la violence. Zohra décide alors de prendre des cours auprès d'un maître de kung-fu. Déterminée à obtenir le divorce, Zohra concocte son plan à l'abri des regards. Auprès du spécialiste des arts martiaux, elle espère acquérir la technique nécessaire pour parvenir à enfin prendre le dessus physiquement sur son époux, avec en point de mire sa très prochaine fuite de cet enfer qu'elle vit depuis de trop nombreuses années...</desc>
+    <date>2021</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/13482d378350442885d8ba425cd3e1e5.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250617232000 +0200" stop="20250618005000 +0200" channel="TMC.fr">
+    <title>90' Enquêtes</title>
+    <sub-title>Robots multifonctions, tutos et chefs 2.0 : le nouveau business de la cuisine</sub-title>
+    <desc lang="fr">L'un des effets inattendus du confinement a été pour de nombreux Français de redécouvrir la passion pour les bons petits plats "fait maison". Ce nouveau phénomène a bouleversé bien des habitudes. Pour neuf Français sur dix, préparer ses repas serait redevenu une source de plaisir.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/e5cd570c6d0c4d84aa203d1173400eab.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18854,6 +19722,273 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618005000 +0200" stop="20250618065500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">365</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618065500 +0200" stop="20250618075500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Chantage</sub-title>
+    <desc lang="fr">Saison:10 - Episode:23 - Profondément meurtrie par le comportement de Bertrand Meyer, Caroline parvient néanmoins à trouver un équilibre dans sa relation avec Philippe Laroche. Tenu par le chantage de Laroche, Bertrand, toujours aussi amoureux de Caroline, ne peut pas se résoudre à quitter Saint-Tropez...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/12/281461e2d30d42b4913e7b3d68603a19.jpg" />
+    <episode-num system="xmltv_ns">9.22.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618075500 +0200" stop="20250618085500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Amour coupable</sub-title>
+    <desc lang="fr">Saison:10 - Episode:24 - Zacharie entame une relation amoureuse secrète avec Marie, son professeur de français. Malheureusement, leur liaison est découverte et le scandale éclate. Franck, quant à lui, continue de cultiver son personnage de poète maudit...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.23.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618085500 +0200" stop="20250618095500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Regarde-moi</sub-title>
+    <desc lang="fr">Saison:10 - Episode:25 - Zacharie continue de faire du rap avec Franck. Grâce à lui, il entre en contact avec un producteur qui est convaincu de son talent. Mais Baptiste préfèrerait que son fils continue ses études. Jessica, elle, l'encourage dans la voie qu'il a choisie...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.24.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618095500 +0200" stop="20250618104500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Double vision</sub-title>
+    <desc lang="fr">Saison:5 - Episode:21 - Melinda est préoccupée par ses visions car elle n'arrive plus à les différencier de la réalité. Carl pense que les "Ombres" sont responsables de la situation. Jim, lui, s'inquiète pour sa femme. Il fait part de ses craintes à Delia et à Ned...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/05/00962a6ad3114d22bfa8c65c57e2859b.jpg" />
+    <episode-num system="xmltv_ns">4.20.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618104500 +0200" stop="20250618114000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>La parade des enfants</sub-title>
+    <desc lang="fr">Saison:5 - Episode:22 - Dans un hôpital, une "armée" d'enfants fantômes dirigée par Pete, un enfant de treize ans, crée le chaos. Pete refuse de rejoindre la lumière car il pense que sa mère l'a abandonné. Plus tard, Pete et les autres enfants fantômes rejoignent la lumière où sa mère l'attend. Melinda perd une partie de ses pouvoirs après avoir obligé Aiden à renier le sien. Elle est possédée par les Ombres, mais est sauvée par Aiden et une "armée" de Rayonnants...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/29/b3d776a2022a48d0b80317f42b99c899.jpg" />
+    <episode-num system="xmltv_ns">4.21.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618114000 +0200" stop="20250618123000 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>La maison hantée</sub-title>
+    <desc lang="fr">Saison:5 - Episode:16 - Melinda se retrouve au milieu de forces obscures qui se battent pour l'âme d'une petite fille, enfermée durant des années dans une maison hantée.</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/14/8f3a0b540519481c9a4a9a9dbb8bd109.jpg" />
+    <episode-num system="xmltv_ns">4.15.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618123000 +0200" stop="20250618132500 +0200" channel="TMC.fr">
+    <title>Ghost Whisperer</title>
+    <sub-title>Enquête posthume</sub-title>
+    <desc lang="fr">Saison:5 - Episode:18 - Un fantôme portant un costume de clown s'introduit chez Melinda. Il s'agit du fantôme de Charlie, un détective privé décédé alors qu'il surveillait une jeune femme nommée Sherry. Sherry a disparu après que son compagnon Todd l'a demandé en mariage. Charlie découvre que Sherry est devenue millionnaire en gagnant à la loterie et a quitté Todd, pensant que sa demande en mariage était intéressée. Sherry fréquente maintenant Alex, qui est en réalité ruiné et tente de l'épouser pour son argent...</desc>
+    <date>2009</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/05/036ecf45e4cd4ebdb6b8c75fa931ba76.jpg" />
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618132500 +0200" stop="20250618133000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618133000 +0200" stop="20250618152000 +0200" channel="TMC.fr">
+    <title>Hercule Poirot</title>
+    <sub-title>Le chat et les pigeons</sub-title>
+    <desc lang="fr">Saison:11 - Episode:2 - Un coup d'Etat se produit dans le royaume de Ramat, pays moyen-oriental. L'héritière du trône, la princesse Shaista, est envoyée en sécurité dans le pensionnat de jeunes files de Meadowbank, dirigé par la libérale miss Bulstrode. Cependant, quand miss Springer, le professeur de sport, est retrouvée assassinée, il s'avère que le pensionnat n'est pas un endroit aussi sûr que prévu. L'inspecteur Kelsey enquête sur le meurtre, aidé par Hercule Poirot. Alors qu'ils tentent de percer les mystères de cet établissement, un autre enseignant est assassiné et la princesse Shaista est enlevée. Poirot tente de faire le lien entre ces événements et un petit paquet disparu...</desc>
+    <date>2008</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/38058840cfa1424bacbcd823fc5df3c3.jpg" />
+    <episode-num system="xmltv_ns">10.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618152000 +0200" stop="20250618162000 +0200" channel="TMC.fr">
+    <title>Hercule Poirot</title>
+    <sub-title>Un indice de trop</sub-title>
+    <desc lang="fr">Saison:3 - Episode:7 - Quatre vols viennent d'être commis. Qui a dérobé le collier d'émeraudes ? La comtesse Rossakoff ? Lady Runcorn ? Johnston, le millionnaire sud-africain ? Ou peut-être Bernard Parker, que tout semble accuser ? L'inspecteur Japp, perplexe, appelle son vieil ami Hercule Poirot à la rescousse. Celui-ci lui déclare, avec son assurance coutumière, que le prochain vol sera le dernier. L'occasion est en effet trop belle pour le détective de faire montre de sa légendaire sagacité...</desc>
+    <date>1990</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/22/4ede87fd515c4791b92d2d14e373009d.jpg" />
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618162000 +0200" stop="20250618182000 +0200" channel="TMC.fr">
+    <title>Basket-ball : EuroBasket féminin</title>
+    <desc lang="fr">Pour leur entrée en lice dans la compétition européenne dont elles sont les favorites, les Françaises retrouvent la Turquie qu'elles avaient battue lors de la préparation à l'EuroBasket (81-61). Vice-championnes olympiques après avoir été tout près de faire tomber les Etats-Unis en août dernier, Ilan Rupert et les Bleues rêvent de décrocher un sacre qui les fuit depuis seize ans.</desc>
+    <category lang="fr">sport : basket-ball</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/06/21/ae7fd79ff958e0ae1c1c930924d683c45273802b_31ACD56C37912837A43325479ACED581.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618182000 +0200" stop="20250618182500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618182500 +0200" stop="20250618191500 +0200" channel="TMC.fr">
+    <title>L'avant Quotidien</title>
+    <desc lang="fr">Tous les soirs, le présentateur et son équipe traitent l'actualité à leur façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618191500 +0200" stop="20250618201000 +0200" channel="TMC.fr">
+    <title>Quotidien, première partie</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618201000 +0200" stop="20250618204500 +0200" channel="TMC.fr">
+    <title>Quotidien, deuxième partie</title>
+    <desc lang="fr">Dans cette deuxième partie, Yann Barthès et toute son équipe reviennent sur l'actualité et la présentent souvent de manière impertinente et drôle.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618204500 +0200" stop="20250618212500 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618212500 +0200" stop="20250618220000 +0200" channel="TMC.fr">
+    <title>Les reportages de Martin Weill</title>
+    <sub-title>Qui veut tuer la démocratie ? (partie 1)</sub-title>
+    <desc lang="fr">Tragédies en Ukraine ou à Gaza, choc de la politique menée par Donald Trump, toute-puissance de la Tech : en 2025, le monde semble être entré dans une nouvelle ère. Avec Trump, Poutine, Xi Jinping, Netanyahou ou Nayib Bukele, c'est l'avènement des hommes forts au pouvoir. Les démocraties vacillent.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/05/dc742dc44b2648f89a13254a2e4a1571.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618220000 +0200" stop="20250618230000 +0200" channel="TMC.fr">
+    <title>Les reportages de Martin Weill</title>
+    <sub-title>Qui veut tuer la démocratie ? (partie 2)</sub-title>
+    <desc lang="fr">Face au retour de l'autoritarisme, les institutions internationales et l'Europe sont plus que jamais fragilisées. Le modèle de la démocratie occidentale est remis en question. A l'heure où les événements s'enchaînent à une vitesse folle, Martin Weill et ses équipes marquent une pause pour aider à comprendre l'avenir qui semble prendre forme peu à peu.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/07/17354f7a9d54419a91ec016f896957bc.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618230000 +0200" stop="20250619002100 +0200" channel="TMC.fr">
+    <title>90' Enquêtes</title>
+    <sub-title>Vols, bagarres, excès de vitesse : pas de vacances pour les gendarmes de Narbonne</sub-title>
+    <desc lang="fr">Pendant 2 mois, au cœur de l'été, une équipe a suivi le quotidien des gendarmes de Narbonne, où la délinquance est quotidienne. Dans les fêtes foraines ou en bord de mer, Stéphane traque les pickpockets. Aux abords des plages, la brigade nautique surveille les jet-skis et assure la sécurité des baigneurs.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">81</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/14/c9d1169d1801726e50ff1c56592c16d0f6d1c8c3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme start="20250619004000 +0200" stop="20250619013500 +0200" channel="TF1.fr">
@@ -23703,6 +24838,243 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
+  <programme start="20250619002100 +0200" stop="20250619072500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">424</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619072500 +0200" stop="20250619082500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>L'enfant de la discorde</sub-title>
+    <desc lang="fr">Saison:10 - Episode:21 - Valentine, qui a renoué avec Olivier, découvre horrifiée qu'elle est enceinte d'Alain. Alors qu'elle annonce la nouvelle à Olivier, celui-ci se méprend et laisse éclater sa joie d'être enfin père. Valentine n'ose pas le détromper...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.20.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619082500 +0200" stop="20250619092500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Retour de flammes</sub-title>
+    <desc lang="fr">Saison:10 - Episode:22 - Alors que Caroline entretient toujours une liaison avec Philippe Laroche, Bertrand Meyer revient à Saint-Tropez. Le choc est rude lorsqu'il la voit avec l'avocat qui lui a évité la prison. Quand Caroline le revoit, elle lui reproche de ne pas lui avoir donné de nouvelles...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619092500 +0200" stop="20250619102500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Chantage</sub-title>
+    <desc lang="fr">Saison:10 - Episode:23 - Profondément meurtrie par le comportement de Bertrand Meyer, Caroline parvient néanmoins à trouver un équilibre dans sa relation avec Philippe Laroche. Tenu par le chantage de Laroche, Bertrand, toujours aussi amoureux de Caroline, ne peut pas se résoudre à quitter Saint-Tropez...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/12/281461e2d30d42b4913e7b3d68603a19.jpg" />
+    <episode-num system="xmltv_ns">9.22.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619102500 +0200" stop="20250619112500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Amour coupable</sub-title>
+    <desc lang="fr">Saison:10 - Episode:24 - Zacharie entame une relation amoureuse secrète avec Marie, son professeur de français. Malheureusement, leur liaison est découverte et le scandale éclate. Franck, quant à lui, continue de cultiver son personnage de poète maudit...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.23.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619112500 +0200" stop="20250619122500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Regarde-moi</sub-title>
+    <desc lang="fr">Saison:10 - Episode:25 - Zacharie continue de faire du rap avec Franck. Grâce à lui, il entre en contact avec un producteur qui est convaincu de son talent. Mais Baptiste préfèrerait que son fils continue ses études. Jessica, elle, l'encourage dans la voie qu'il a choisie...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.24.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619122500 +0200" stop="20250619132500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Disque d'or</sub-title>
+    <desc lang="fr">Saison:10 - Episode:26 - Accaparés par leurs carrières respectives, Jessica et Baptiste s'éloignent de plus en plus l'un de l'autre. Le disque de Zacharie rencontre un grand succès. L'adolescent gagne désormais beaucoup d'argent et estime avoir droit à son indépendance...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619132500 +0200" stop="20250619133000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619133000 +0200" stop="20250619150000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Le spécialiste</sub-title>
+    <desc lang="fr">Saison:2 - Episode:6 - Le professeur Edmund Hiedeman, un des plus grands cardiologues des Etats-Unis, invite un éminent spécialiste étranger à participer aux recherches qu'il a entamées avec le docteur Barry Mayfield, lui-même brillant chirurgien. Celui-ci n'apprécie guère la présence de ce troisième scientifique, susceptible de lui faire de l'ombre et de lui ravir une part de gloire. Lorsque le professeur Hiedeman, victime d'une crise cardiaque, doit être opéré d'urgence, le docteur Mayfield prend en charge l'intervention. Et c'est le drame. Plusieurs erreurs s'enchaînent, qui entraînent la mort du professeur Hiedeman. Le lieutenant Columbo entre en scène...</desc>
+    <date>1972</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/22/9c23db9e4fe8418d8f1d19ff8d7a44ea.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619150000 +0200" stop="20250619165000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Tout finit par se savoir</sub-title>
+    <desc lang="fr">Saison:9 - Episode:2 - Le lieutenant Columbo est chargé par Scotland Yard d'enquêter sur la mystérieuse disparition de Diane Hunter, propriétaire d'un célèbre magazine pour hommes, qui s'est littéralement volatilisée en arrivant à Londres. Le lieutenant a la certitude que l'éditrice a été assassinée à Los Angeles, dans une voiture de luxe. Seul problème : Columbo ne trouve aucune trace du cadavre. Ses recherches s'orientent rapidement vers Sean Brantley, le bras droit de Diane Hunter. L'intéressé clame son innocence. D'après lui, Diane se serait offert une petite escapade. D'ailleurs, elle lui aurait même envoyé des cartes postales d'Italie...</desc>
+    <date>1989</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/18/2f91e985b89d4131a0a5d50359d71f68.jpg" />
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619165000 +0200" stop="20250619182000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Match dangereux</sub-title>
+    <desc lang="fr">Saison:2 - Episode:7 - Emmet Clayton, le champion du monde d'échecs, dont la réputation d'excentricité n'est plus à faire, est au bord de l'effondrement. Voici cinq ans, il a emporté le titre devant son rival Tomlin Dudek, contraint à l'abandon pour cause de maladie. Il tient aujourd'hui à prouver qu'il n'a pas usurpé sa gloire. La veille du championnat qui doit à nouveau l'opposer à Dudek, Emmet dispute une partie improvisée avec son adversaire et perd. Sa haine pour Dudek devient telle qu'il décide de supprimer l'importun, afin d'être sûr de remporter le titre. Il s'exécute, en estimant avoir pensé à tous les détails...</desc>
+    <date>1972</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/01/12f154e64873460a8a80a34a0fa8f18d.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619182000 +0200" stop="20250619182500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619182500 +0200" stop="20250619191500 +0200" channel="TMC.fr">
+    <title>L'avant Quotidien</title>
+    <desc lang="fr">Tous les soirs, le présentateur et son équipe traitent l'actualité à leur façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619191500 +0200" stop="20250619201000 +0200" channel="TMC.fr">
+    <title>Quotidien, première partie</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619201000 +0200" stop="20250619204500 +0200" channel="TMC.fr">
+    <title>Quotidien, deuxième partie</title>
+    <desc lang="fr">Dans cette deuxième partie, Yann Barthès et toute son équipe reviennent sur l'actualité et la présentent souvent de manière impertinente et drôle.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619204500 +0200" stop="20250619212500 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250619212500 +0200" stop="20250619231500 +0200" channel="TMC.fr">
+    <title>Les sous-doués</title>
+    <desc lang="fr">Recalés au baccalauréat, Bébel, Julien et quelques autres sont placés dans une boîte à bachot, près du château de Versailles, dont la réputation n'est plus à faire avec ses 100% d'échec et le même taux de plaisanteries douteuses. L'établissement est dirigé par l'autoritaire Lucie Jumaucourt, que secondent son mari et sa fille. Les cancres, dont le plus farceur est incontestablement Bébel, se livrent à toutes sortes de facéties et de canulars. Lucie Jumaucourt emploie alors les grands moyens : les élèves rétifs passent dans une machine à "dresser" les fainéants. Une belle invention, qui donne à Bébel une idée de génie qui l'enverra directement devant le tribunal...</desc>
+    <date>1980</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/001fcc8cfa1940b5b593ffdd2f025849.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250619231500 +0200" stop="20250620011700 +0200" channel="TMC.fr">
+    <title>Rien à déclarer</title>
+    <desc lang="fr">Ruben Vandevoorde est le douanier du poste de Koorkin, en Belgique. Mathias Ducatel s'occupe de celui de Courquain, en France. Chez les Vandevoorde, on est francophobes de père en fils et les deux hommes se détestent copieusement. Lors du passage à l'Union européenne, le 1er janvier 1993, les deux douaniers apprennent la disparition de leur petit poste fixe et Ruben se trouve enrôlé de force dans le première brigade volante mixte franco-belge. A la surprise générale, Mathias se porte volontaire pour être le co-équipier de Ruben. Si le Français a accepté de travailler aux côtés de son ennemi juré c'est pour une très bonne raison, il deviendra bientôt son beau-frère...</desc>
+    <date>2010</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">122</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/26/8a43b8ff27c14a218d3a40c8fabbce34.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
   <programme start="20250620002500 +0200" stop="20250620003000 +0200" channel="TF1.fr">
     <title>Eurodreams</title>
     <category lang="fr">magazine d'information</category>
@@ -28223,6 +29595,235 @@
     <category lang="fr">magazine de société</category>
     <length units="hours">1</length>
     <icon src="https://focus.telerama.fr/1111x625/2025/04/02/d0cedfa0129d438b8628481e46601ef9.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250620011700 +0200" stop="20250620072500 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">368</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620072500 +0200" stop="20250620082500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Retour de flammes</sub-title>
+    <desc lang="fr">Saison:10 - Episode:22 - Alors que Caroline entretient toujours une liaison avec Philippe Laroche, Bertrand Meyer revient à Saint-Tropez. Le choc est rude lorsqu'il la voit avec l'avocat qui lui a évité la prison. Quand Caroline le revoit, elle lui reproche de ne pas lui avoir donné de nouvelles...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620082500 +0200" stop="20250620092500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Chantage</sub-title>
+    <desc lang="fr">Saison:10 - Episode:23 - Profondément meurtrie par le comportement de Bertrand Meyer, Caroline parvient néanmoins à trouver un équilibre dans sa relation avec Philippe Laroche. Tenu par le chantage de Laroche, Bertrand, toujours aussi amoureux de Caroline, ne peut pas se résoudre à quitter Saint-Tropez...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/12/281461e2d30d42b4913e7b3d68603a19.jpg" />
+    <episode-num system="xmltv_ns">9.22.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620092500 +0200" stop="20250620102500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Amour coupable</sub-title>
+    <desc lang="fr">Saison:10 - Episode:24 - Zacharie entame une relation amoureuse secrète avec Marie, son professeur de français. Malheureusement, leur liaison est découverte et le scandale éclate. Franck, quant à lui, continue de cultiver son personnage de poète maudit...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/ae48ee33b8870017df0c763aebc9c0ee8562f169.jpg" />
+    <episode-num system="xmltv_ns">9.23.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620102500 +0200" stop="20250620112500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Regarde-moi</sub-title>
+    <desc lang="fr">Saison:10 - Episode:25 - Zacharie continue de faire du rap avec Franck. Grâce à lui, il entre en contact avec un producteur qui est convaincu de son talent. Mais Baptiste préfèrerait que son fils continue ses études. Jessica, elle, l'encourage dans la voie qu'il a choisie...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.24.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620112500 +0200" stop="20250620122500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Disque d'or</sub-title>
+    <desc lang="fr">Saison:10 - Episode:26 - Accaparés par leurs carrières respectives, Jessica et Baptiste s'éloignent de plus en plus l'un de l'autre. Le disque de Zacharie rencontre un grand succès. L'adolescent gagne désormais beaucoup d'argent et estime avoir droit à son indépendance...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.25.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620122500 +0200" stop="20250620132500 +0200" channel="TMC.fr">
+    <title>Sous le soleil</title>
+    <sub-title>Les deux font le père</sub-title>
+    <desc lang="fr">Saison:10 - Episode:27 - Alain découvre qu'il est le père de l'enfant de Valentine et qu'un autre que lui l'a reconnu. Il décide de se battre pour faire valoir ses droits...</desc>
+    <date>2004</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/44e09079-e549-4ca1-96c2-c1d4ee3f0bb9.jpg" />
+    <episode-num system="xmltv_ns">9.26.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620132500 +0200" stop="20250620133000 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620133000 +0200" stop="20250620152000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Une étrange association</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Graham McVeigh veut faire de la ferme Timber Ridge le meilleur haras pour chevaux de race. Ses plans ambitieux sont menacés par les dettes de jeu de son jeune frère, Randy. Sans hésiter, il décide de l'écarter de son chemin. Graham lui laisse entendre que le vainqueur de la prochaine course portera les couleurs de leur écurie. Randy, certain d'avoir un tuyau en or, se précipite chez son bookmaker, un patron de restaurant nommé Bruno Romano, et le charge de miser une forte somme sur le favori présumé. Graham drogue l'animal, qui perd. Puis il demande à Randy de le conduire chez Romano, afin de régler ses dettes. En chemin, Graham abat froidement son frère, le laisse dans la voiture et s'enfuit...</desc>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/20/68324fcb7521405793dd5b1af1066b66.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620152000 +0200" stop="20250620165000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Edition tragique</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - En plein succès, l'écrivain Alan Mallory décide de quitter la maison d'édition de Riley Greenleaf. Son agent a pris contact avec l'éditeur Jeffrey Neal. Cette décision contrarie Greenleaf, qui accepte mal de perdre son meilleur auteur au profit de la concurrence. Il engage Eddie Kane, un spécialiste en explosifs, et le charge d'assassiner Alan. L'ingénieux Greenleaf devrait alors entrer en possession d'une substantielle assurance-vie. En contrepartie, il promet à Kane de publier son livre sur les explosifs. Mais pour éviter d'éventuelles difficultés, Greenleaf lui fait porter l'arme et les clefs du bureau de Mallory et s'assure ainsi de la présence de ses empreintes digitales...</desc>
+    <date>1973</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/293fbc1f58244f27a85f387ec17e0dec.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620165000 +0200" stop="20250620182000 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Les surdoués</sub-title>
+    <desc lang="fr">Saison:6 - Episode:3 - Bentle Hasting travaillait dans un cabinet d'expertise comptable. Il n'aura plus guère l'occasion de vérifier ses additions. Il vient de trouver une mort violente. Tous les indices plaident pour la thèse du meurtre prémédité. Le lieutenant Columbo tâte le terrain. Le collègue et ami de la victime, Oliver Brandt, ferait un suspect idéal. Son épouse, Vivian, ne le persécute-t-elle pas constamment en exigeant de lui qu'il gagne de plus en plus d'argent pour satisfaire ses goûts de luxe immodérés ? N'aurait-il pas récemment été tenté par des gains aussi faciles qu'illicites, dont il aurait tout intérêt à ce qu'ils restent parfaitement secrets ?...</desc>
+    <date>1976</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/06/22c604fb8baf4ec29d202431726928f7.jpg" />
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620182000 +0200" stop="20250620182500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620182500 +0200" stop="20250620191500 +0200" channel="TMC.fr">
+    <title>L'avant Quotidien</title>
+    <desc lang="fr">Tous les soirs, le présentateur et son équipe traitent l'actualité à leur façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620191500 +0200" stop="20250620201000 +0200" channel="TMC.fr">
+    <title>Quotidien, première partie</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620201000 +0200" stop="20250620204500 +0200" channel="TMC.fr">
+    <title>Quotidien, deuxième partie</title>
+    <desc lang="fr">Dans cette deuxième partie, Yann Barthès et toute son équipe reviennent sur l'actualité et la présentent souvent de manière impertinente et drôle.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620204500 +0200" stop="20250620212500 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620212500 +0200" stop="20250620232000 +0200" channel="TMC.fr">
+    <title>Festival Hellfest : 4 jours d'enfer !</title>
+    <desc lang="fr">Le Hellfest transforme la petite ville de Clisson en temple du metal. Concerts, sculptures monumentales et spectacles pyrotechniques rythment l'événement. Les festivaliers forment une mosaïque étonnante : Victoria découvre l'univers metal, Elio rêve d'y jouer avec son groupe amateur, tandis que Médusa concourt en Air guitare. Sur scène, MASS Hystéria électrise la foule dans une ambiance familiale.</desc>
+    <category lang="fr">documentaire rock-pop</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/5c9447d537414a76ba37ccaa748b386d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250620232000 +0200" stop="20250621011000 +0200" channel="TMC.fr">
+    <title>Hellfest et Burning Man : l'incroyable succès des festivals les plus fous du monde</title>
+    <desc lang="fr">Ils font partie des festivals les plus fous du monde : le Hellfest, en France, et le Burning Man, dans le désert du Nevada. Le plus grand festival de musique métal au monde d'un côté et de l'autre, un gigantesque rassemblement mi-hippie, mi-techno, en plein désert du Nevada. Dans les deux cas, une fête non-stop. Pour le Hellfest, plus de 200 000 fans se retrouvent pendant quatre jours à Clisson, un tout petit village à côté de Nantes. Au programme, plus de 180 concerts, des kilomètres de pipeline de bière et une fête non-stop, de jour comme de nuit. A 15 000 km de là, gros plan sur les coulisses du festival le plus déjanté au monde : le Burning Man. Pendant une semaine, 70 000 personnes se rassemblent en plein désert du Nevada, pour une expérience unique : musique, oeuvres d'art, happening et rencontres. Ici tout est permis.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/07/3ae4c10ef57848d083a45e97e12dfe63.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -32908,6 +34509,218 @@
     <category lang="fr">série humoristique</category>
     <length units="hours">4</length>
     <icon src="https://focus.telerama.fr/1111x625/2025/02/24/22d66a1552f74398bda635cb08470f3a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621011000 +0200" stop="20250621063000 +0200" channel="TMC.fr">
+    <title>Programmes de la nuit</title>
+    <desc lang="fr">A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">320</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/11/4a56fa5b5bff4696a42b8089e6720be3.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621063000 +0200" stop="20250621063500 +0200" channel="TMC.fr">
+    <title>Monacoscope</title>
+    <desc lang="fr">Monacoscope du 15 juin 2025 - Episode 23</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/6143b747657e04c24f9dd3c69c9f2bc2b6f61b36.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621063500 +0200" stop="20250621074000 +0200" channel="TMC.fr">
+    <title>Les mystères de l'amour</title>
+    <sub-title>Rencontre sentimentale</sub-title>
+    <desc lang="fr">Saison:36 - Episode:17 - L'état de santé de Pierre inquiète Jeanne et son entourage. La bande tente de convaincre Hélène d'accepter la proposition qui lui a été faite. Vincent fait plus ample connaissance avec les amis de Laly, tandis qu'Ingrid trouve une nouvelle alliée dans sa quête concernant Nicolas...</desc>
+    <date>2025</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/26/31016e883add4473a60c7eba91f5177e.jpg" />
+    <episode-num system="xmltv_ns">35.16.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621074000 +0200" stop="20250621085000 +0200" channel="TMC.fr">
+    <title>Les mystères de l'amour</title>
+    <sub-title>Vaincre et convaincre</sub-title>
+    <desc lang="fr">Saison:36 - Episode:18 - Le rendez-vous de Cathy échoue. L'équipe assiste à la répétition d'Hélène, pendant que Fanny et Mégane piègent un complice. Audrey et Ingrid sont en mauvaise posture.</desc>
+    <date>2025</date>
+    <category lang="fr">série sentimentale</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/26/31016e883add4473a60c7eba91f5177e.jpg" />
+    <episode-num system="xmltv_ns">35.17.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621085000 +0200" stop="20250621114000 +0200" channel="TMC.fr">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Saison:6 - Entre les problèmes de famille ou d'éducation, de justice, de religion et de politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante à travers une série de saynètes. Parmi les voisins, se trouvent Jean-Pierre Lambert, Alain Stuck, Léo Becker, Fleur Becker Issa, Chloé et Alex. Ils se croisent et échangent sur le palier ou devant l'ascenseur. Les situations de quiproquos se multiplient aussi avec les membres de la famille Dubernet-Carton, Ludivine Pierre-Antoine, Jean-Eudes, Jacques-Etienne, Amélie, Aymeric et Marie-Camille. Au sein de l'immeuble, couples, enfants, célibataires, colocs fêtards et vieux ronchons cohabitent dans la bonne humeur...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">170</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/24/1ac5791b30764702b9bebb6a251aeea3.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621114000 +0200" stop="20250621131900 +0200" channel="TMC.fr">
+    <title>Quotidien</title>
+    <desc lang="fr">Une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">99</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/29/a71ceadc822c49da4099d73080716c76f7c5e5af_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621131900 +0200" stop="20250621132500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621132500 +0200" stop="20250621141000 +0200" channel="TMC.fr">
+    <title>MacGyver</title>
+    <sub-title>Le retour de Murdoc</sub-title>
+    <desc lang="fr">Saison:6 - Episode:19 - Murdoc a reçu l'ordre d'éliminer MacGyver, coûte que coûte. Par cet acte, il doit prouver sa loyauté à un groupe de tueurs professionnels...</desc>
+    <date>1990</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/21/0c6f19f792d74ebcba043748eaff8c4d.jpg" />
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621141000 +0200" stop="20250621151000 +0200" channel="TMC.fr">
+    <title>MacGyver</title>
+    <sub-title>Le sentier des larmes</sub-title>
+    <desc lang="fr">Saison:6 - Episode:20 - MacGyver et Willis, un technicien de la Fondation Phoenix, sont appelés à témoigner sur un litige entre la réserve d'Indiens de Wide Ridge et la compagnie d'électricité de New Plains...</desc>
+    <date>1990</date>
+    <category lang="fr">série d'action</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/21/0c6f19f792d74ebcba043748eaff8c4d.jpg" />
+    <episode-num system="xmltv_ns">5.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621151000 +0200" stop="20250621162000 +0200" channel="TMC.fr">
+    <title>MacGyver</title>
+    <sub-title>Les frères Colton</sub-title>
+    <desc lang="fr">Saison:7 - Episode:5 - Les frères Colton voudraient monter une affaire qui rapporte. Après s'être concertés, ils choisissent d'investir dans un domaine encore peu prisé : la capture des personnes recherchées. Ils allient bon sens et méthodes peu orthodoxes pour parvenir à leurs fins. Leur parcours est jonché d'obstacles...</desc>
+    <date>1991</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/21/0c6f19f792d74ebcba043748eaff8c4d.jpg" />
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621162000 +0200" stop="20250621180000 +0200" channel="TMC.fr">
+    <title>Basket-ball : EuroBasket féminin</title>
+    <desc lang="fr">Après la Turquie et la Grèce, la France dispute son troisième et dernier match de ce premier tour de l'EuroBasket face à la Suisse. Malgré les absences de Gabby Williams, Dominique Malonga, Carla Leite, Marine Johannès et Marine Fauthoux, les vice-championnes olympiques font partie des candidates sérieuses à la victoire finale et ne devraient pas avoir de mal à se qualifier pour les quarts de finale de la compétition européenne.</desc>
+    <category lang="fr">sport : basket-ball</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/06/21/ae7fd79ff958e0ae1c1c930924d683c45273802b_31ACD56C37912837A43325479ACED581.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621180000 +0200" stop="20250621183000 +0200" channel="TMC.fr">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Saison:6 - Entre les problèmes de famille ou d'éducation, de justice, de religion et de politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante à travers une série de saynètes. Parmi les voisins, se trouvent Jean-Pierre Lambert, Alain Stuck, Léo Becker, Fleur Becker Issa, Chloé et Alex. Ils se croisent et échangent sur le palier ou devant l'ascenseur. Les situations de quiproquos se multiplient aussi avec les membres de la famille Dubernet-Carton, Ludivine Pierre-Antoine, Jean-Eudes, Jacques-Etienne, Amélie, Aymeric et Marie-Camille. Au sein de l'immeuble, couples, enfants, célibataires, colocs fêtards et vieux ronchons cohabitent dans la bonne humeur...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/24/1ac5791b30764702b9bebb6a251aeea3.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621183000 +0200" stop="20250621192500 +0200" channel="TMC.fr">
+    <title>Burger Quiz</title>
+    <desc lang="fr">Dans une déco de fast-food, deux équipes, Mayo et Ketchup, doivent répondre à diverses questions plus ou moins loufoques et parfois même déstabilisantes pour engranger le plus possible de points. Les candidats doivent tenter de récolter un maximum de points par équipe. Pour cela, quatre manches alléchantes se succèdent : "Les Nuggets", "Le Sel ou le Poivre", "Les Menus" et "L'Addition".</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/04/a74cc98c515f424c96a07bb57bc068b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621192500 +0200" stop="20250621201000 +0200" channel="TMC.fr">
+    <title>Burger Quiz</title>
+    <desc lang="fr">Mathieu Madénian recevra Alison Wheeler, Maurice Barthélemy, Bruno Salomone et Anne Depétrini.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/04/a74cc98c515f424c96a07bb57bc068b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621201000 +0200" stop="20250621211000 +0200" channel="TMC.fr">
+    <title>Burger Quiz</title>
+    <desc lang="fr">Installées dans une sandwicherie, les deux équipes Mayo et Ketchup, composées d'un candidat anonyme accompagné de deux personnalités, s'opposent dans un face-à-face de questions loufoques et parfois déstabilisantes. Pierre Niney, Alison Wheeler, Gérard Darmon et Jonathan Cohen jouent aux côtés des candidats. Entre deux discussions hors sujet, l'enjeu est d'obtenir un maximum de "Miam".</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/04/a74cc98c515f424c96a07bb57bc068b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621211000 +0200" stop="20250621211500 +0200" channel="TMC.fr">
+    <title>Petits plats en équilibre</title>
+    <desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/13/638310be0dee4d5ea28083de236c215f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621211500 +0200" stop="20250621230500 +0200" channel="TMC.fr">
+    <title>Columbo</title>
+    <sub-title>Couronne mortuaire</sub-title>
+    <desc lang="fr">Saison:9 - Episode:5 - Columbo enquête sur la mort d'un acteur en vogue, Adam Evans. Tout porte à croire que le malheureux a succombé à une crise cardiaque au volant de sa voiture, avant d'aller s'écraser au pied d'une falaise. Un détail intrigue néanmoins l'inspecteur. Pourquoi diantre le levier de vitesses de la voiture était-il au point mort ? Columbo trouve sur la victime une pochette d'allumettes sur laquelle figurent les noms de Wesley et Lydia Corman. Wesley, un chirurgien-dentiste associé avec son beau-père, Horace Sherwin, est choqué par la mort de son ami Adam. Il demande à Columbo de ne pas en parler à sa femme, qui a le coeur fragile. Une demande qui ne fait pas reculer le policier...</desc>
+    <date>1989</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/08/da60b7add6e2484784bb380e2fb40404.jpg" />
+    <episode-num system="xmltv_ns">8.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250621230500 +0200" stop="20250622005000 +0200" channel="TMC.fr">
+    <title>90' Enquêtes</title>
+    <sub-title>Go fast et nouveaux trafics : alerte aux frontières</sub-title>
+    <desc lang="fr">L'explosion du trafic de produits stupéfiants inquiète les autorités françaises. Des tonnes passent entre les mailles du filet. Du cannabis qui remonte d'Afrique du Nord, de la cocaïne importée d'Amérique du Sud, mais aussi des dizaines de nouvelles substances de synthèse inondent l'Europe.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/62021070bd734a969f90e87350e297c4.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
