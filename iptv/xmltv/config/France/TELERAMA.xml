@@ -35,4 +35,11 @@
     <channel update="i" site="telerama.fr.api" site_id="1400" xmltv_id="RMCdecouverte.fr">FR| RMC Decouverte FHD (rmcbfmplay.com)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1399" xmltv_id="Cherie25.fr">FR| Cherie 25 FHD (abweb)</channel>
     <channel update="i" site="telerama.fr.api" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (abweb)</channel>
+  <channel update="i" site="telenet.tv.be" site_id="launehd##MM08C" xmltv_id="LaUne.be">BE| La Une HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="ladeuxhd##MM08E" xmltv_id="Tipik.be">BE| Tipik HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="latrois##MM281" xmltv_id="LaTrois.be">BE| La Trois HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="rtltvihd##MM11F" xmltv_id="RTLTVI.be">BE| RTL TVI HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="clubrtlhd##MM11E" xmltv_id="ClubRTL.be">BE| Club RTL HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="plugrtl##MM07A" xmltv_id="PlugRTL.be">BE| Plug RTL HD</channel>
+  <channel update="i" site="telenet.tv.be" site_id="ab3##MM0D2" xmltv_id="AB3.be">BE| AB3 HD</channel>
 </settings>
