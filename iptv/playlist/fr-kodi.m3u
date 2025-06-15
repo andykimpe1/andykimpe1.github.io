@@ -29,7 +29,7 @@ https://andykimpe.ovh/lcpps.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%2
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
