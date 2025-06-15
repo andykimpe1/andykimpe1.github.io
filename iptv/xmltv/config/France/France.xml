@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-  <filename>TF1.xml</filename>
+  <filename>guide.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">rex</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0</user-agent>
@@ -11,4 +11,5 @@
  <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
   <channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| FRANCE 2 FHD (France TV)</channel>
   <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">FR| FRANCE 3 FHD (France TV)</channel>
+  <channel update="i" site="sfr.fr" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
 </settings>
