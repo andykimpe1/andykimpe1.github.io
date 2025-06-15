@@ -8,5 +8,5 @@
   <retry time-out="5">4</retry>
   <timespan>4</timespan>
   <update>f</update>
- <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">TF1</channel>
+ <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
 </settings>
