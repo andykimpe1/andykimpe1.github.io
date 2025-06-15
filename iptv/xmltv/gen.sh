@@ -50,10 +50,37 @@ sed -i 's|<?xml version="1.0" encoding="UTF-8"?>||g' France.xml
 sed -i 's|<!DOCTYPE tv SYSTEM "xmltv.dtd">||g' France.xml
 sed -i 's|<tv source-info-url="https://api.telerama.fr" source-data-url="https://api.telerama.fr" generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/">||g' France.xml
 sed -i 's|  <channel id="TF1.fr">||g' France.xml
-sed -i 's|    <display-name>FR|||g' France.xml
 sed -i 's| TF1 HD (TF1+)</display-name>||g' France.xml
 sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" />||g' France.xml
 sed -i 's|  </channel>||g' France.xml
+sed -i 's|  <channel id="France2.fr">||g' France.xml
+sed -i 's| FRANCE 2 FHD (France TV)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" />||g' France.xml
+sed -i 's|  <channel id="France3.fr">||g' France.xml
+sed -i 's| FRANCE 3 FHD (France TV)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" />||g' France.xml
+sed -i 's|  <channel id="France4.fr">||g' France.xml
+sed -i 's| FRANCE 4 FHD (France TV)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" />||g' France.xml
+sed -i 's|  <channel id="France5.fr">||g' France.xml
+sed -i 's| FRANCE 5 FHD (France TV)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" />||g' France.xml
+sed -i 's|  <channel id="M6.fr">||g' France.xml
+sed -i 's| M6 FHD (M6+)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" />||g' France.xml
+sed -i 's|  <channel id="ARTE.fr">||g' France.xml
+sed -i 's| ARTE FHD (France TV)</display-name>||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" />||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|C1399.api.telerama.fr||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
