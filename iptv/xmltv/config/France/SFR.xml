@@ -19,4 +19,5 @@
   <channel update="i" site="sfr.fr" site_id="119" xmltv_id="W9.fr">FR| W9 FHD (M6+)</channel>
   <channel update="i" site="sfr.fr" site_id="195" xmltv_id="TMC.fr">FR| TMC HD (TF1+)</channel>
   <channel update="i" site="sfr.fr" site_id="446" xmltv_id="TFX.fr">FR| TFX HD (TF1+)</channel>
+  <channel update="i" site="sfr.fr" site_id="482" xmltv_id="Gulli.fr">FR| Gulli (gulli.fr)</channel>
 </settings>
