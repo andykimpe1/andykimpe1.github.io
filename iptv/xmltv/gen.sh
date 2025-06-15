@@ -122,6 +122,8 @@ sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1400
 sed -i 's|  <channel id="Cherie25.fr">||g' France.xml
 sed -i 's| Cherie 25 FHD (nrj-play.fr)</display-name>||g' France.xml
 sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" />||g' France.xml
+sed -i 's/    <display-name>FR|//g' France.xml
+sed -i 's|</tv>||g' France.xml
 sed -i '/^$/d' France.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
