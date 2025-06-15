@@ -39,6 +39,7 @@ sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
 cd $HOME
 git clone git@github.com:andykimpe1/andykimpe1.github.io.git
 cat $HOME/.wg++/France.xml > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+rm -f $HOME/andykimpe1.github.io/iptv/xmltv/France.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
