@@ -20,4 +20,5 @@
   <channel update="i" site="sfr.fr" site_id="195" xmltv_id="TMC.fr">FR| TMC HD (TF1+)</channel>
   <channel update="i" site="sfr.fr" site_id="446" xmltv_id="TFX.fr">FR| TFX HD (TF1+)</channel>
   <channel update="i" site="sfr.fr" site_id="482" xmltv_id="Gulli.fr">FR| Gulli (gulli.fr)</channel>
+  <channel update="i" site="sfr.fr" site_id="481" xmltv_id="BFMTV.fr">FR| BFM TV FHD (rmcbfmplay.com)</channel>
 </settings>
