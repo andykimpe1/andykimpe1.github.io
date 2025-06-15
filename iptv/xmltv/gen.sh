@@ -108,7 +108,7 @@ sed -i 's|<channel id="TF1SeriesFilms.fr">||g' France.xml
 sed -i 's| TF1 Series Films HD (TF1+)</display-name>||g' France.xml
 sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" />||g' France.xml
 sed -i 's|<channel id="LEquipe21.fr">||g' France.xml
-sed -i 's| LA CHAINE L'EQUIPE FHD (dailymotion.com)</display-name>||g' France.xml
+sed -i "s| LA CHAINE L'EQUIPE FHD (dailymotion.com)</display-name>||g" France.xml
 sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" />||g' France.xml
 sed -i 's|<channel id="6ter.fr">||g' France.xml
 sed -i 's| 6Ter FHD (M6+)</display-name>||g' France.xml
