@@ -1,7 +1,6 @@
 #!/bin/bash
-
 cd $HOME
-FILE=$HOME/installepg    
+FILE=$HOME/wgaccount    
 if [ ! -f $FILE ]; then
    sudo apt-get update
    sudo apt upgrade -y
@@ -10,15 +9,62 @@ if [ ! -f $FILE ]; then
    sudo apt-get -y install dotnet-runtime-8.0
    sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
    sudo chmod +x /usr/bin/tv_grab_fr_telerama
-   touch $FILE
+   echo "please visit webgrabplus.com"
+   echo "create your account on the website"
+   echo "donate 6€ with paypal and wait 24h"
+   echo "for donate use this page"
+   echo "https://webgrabplus.com/content/support-us"
+   echo "check your licence is valid and your donator badge found here"
+   echo "https://webgrabplus.com/users/yourusername"
+   echo "enter your information"
+   read -e -p "Enter wg-username: " -i "$wgusername" wgusername
+   read -e -p "Enter registered-email: " -i "$wgemail" wgemail
+   read -e -p "Enter password: " -i "$wgpassword" wgpassword
 fi
+source $HOME/wgaccount
 rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
 rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
+wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
+tar -zxvf WebGrabPlus_V5.3_install.tar.gz
+cd $HOME/.wg++/
+./install.sh
+rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip
+wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
+unzip SiteIniPack_current.zip
+wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGrab++.config.xml
+sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
+sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
+sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
+./run.net.sh
+cd $HOME
+git clone git@github.com:andykimpe1/andykimpe1.github.io.git
+cat $HOME/.wg++/France.xml > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+cd $HOME/andykimpe1.github.io
+git add --all *
+git commit -a -m "update epg"
+git push origin main
+cd $HOME
+rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
+rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
+exit
+
+
 git clone git@github.com:andykimpe1/andykimpe1.github.io.git
 cd $HOME/andykimpe1.github.io/iptv/xmltv/
 # france grab epg with telerama
-wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O $HOME/config.conf
-rm -f guide.xml France.xml
+#wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/config.conf -O $HOME/config.conf
+#rm -f guide.xml France.xml
+
+
+
+
+
+
+
+
+
+
+
 tv_grab_fr_telerama --config-file $HOME/config.conf --output France.xml --days 7
 sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
 sed -i "s|C4.api.telerama.fr|France2.fr|g" France.xml
