@@ -21,9 +21,9 @@ https://andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
 https://andykimpe.ovh/arte.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
 https://andykimpe.ovh/lcpps.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" group-title="FR| FRANCE TNT",FR| W9 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
