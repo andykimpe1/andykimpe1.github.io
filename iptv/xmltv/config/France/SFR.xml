@@ -16,4 +16,5 @@
   <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6.fr">FR| M6 FHD (M6+)</channel>
   <channel update="i" site="sfr.fr" site_id="111" xmltv_id="ARTE.fr">FR| ARTE FHD (France TV)</channel>
   <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">FR| LCP FHD (France TV)</channel>
+  <channel update="i" site="sfr.fr" site_id="119" xmltv_id="W9.fr">FR| W9 FHD (M6+)</channel>
 </settings>
