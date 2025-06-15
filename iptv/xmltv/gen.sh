@@ -20,8 +20,19 @@ cd $HOME/andykimpe1.github.io/iptv/xmltv/
 #rm -f guide.xml
 #tv_grab_fr_telerama --config-file $HOME/config.conf --output guide.xml --days 7
 wget https://github.com/andykimpe1/andykimpe1.github.io/raw/refs/heads/main/iptv/xmltv/config/France/TF1.conf -O $HOME/TF1.conf
-rm -f tf1.xml
+rm -f TF1.xml
 tv_grab_fr_telerama --config-file $HOME/TF1.conf --output TF1.xml --days 7
+sed -i "s|C192.api.telerama.fr|TF1.fr|g" TF1.xml
+sed -i 's|<?xml version="1.0" encoding="UTF-8"?>||g' TF1.xml
+sed -i 's|<!DOCTYPE tv SYSTEM "xmltv.dtd">||g' TF1.xml
+sed -i 's|<tv source-info-url="https://api.telerama.fr" source-data-url="https://api.telerama.fr" generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/">||g' TF1.xml
+sed -i 's|  <channel id="C192.api.telerama.fr">||g' TF1.xml
+sed -i 's|  <channel id="TF1.fr">||g' TF1.xml
+sed -i 's|    <display-name>FR| TF1 HD (TF1+)</display-name>||g' TF1.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" />||g' TF1.xml
+sed -i 's|  </channel>||g' TF1.xml
+sed -i 's|</tv>||g' TF1.xml
+sed -i '/^$/d' TF1.xml
 sed -i "s|C192.api.telerama.fr|TF1.fr|g" guide.xml
 sed -i "s|C4.api.telerama.fr|France2.fr|g" guide.xml
 sed -i "s|C80.api.telerama.fr|France3.fr|g" guide.xml
