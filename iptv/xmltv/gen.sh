@@ -71,7 +71,7 @@ sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-118.
 sed -i 's|  <channel id="ARTE.fr">||g' France.xml
 sed -i 's| ARTE FHD (France TV)</display-name>||g' France.xml
 sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" />||g' France.xml
-sed -i 's|C1399.api.telerama.fr||g' France.xml
+sed -i 's|  <channel id="LaChaineParlementaire.fr">||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
 sed -i 's|C1399.api.telerama.fr||g' France.xml
