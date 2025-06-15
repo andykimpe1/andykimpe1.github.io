@@ -209,24 +209,54 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-120.php
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Sport FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ Foot FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Foot FHD (daddylive.dad)
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Foot FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
-#EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="BE| Tipik HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08E.png" group-title="BE| BELGIQUE FHD HD",BE| Tipik HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="BE| la Trois HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM281.png" group-title="BE| BELGIQUE FHD HD",BE| la Trois HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/675a0d49/9024ee3d.isml/.mpd
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|62aadc845ce948d9adddd73a3f3fb4f2:3bbaae09a9ea8594a85a707f50907154
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://live-video.dpgmedia.net/6180c994cb835402/out/v1/24eb589d8c1d473bb1234991a6a774ef/index.mpd
+#EXTINF:-1 tvg-id="ClubRTL.be" tvg-name="BE| Club RTL HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11E.png" group-title="BE| BELGIQUE FHD HD",BE| Club RTL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a23c541ad1334ea697bab962336d31e6:996515f9b655011b20993c5514298eb3
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-name="BE| Plug RTL HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM07A.png" group-title="BE| BELGIQUE FHD HD",BE| Plug RTL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 1" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 1
 https://andykimpe.ovh/rts1.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
