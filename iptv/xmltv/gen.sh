@@ -88,40 +88,40 @@ sed -i 's| Gulli (gulli.fr)</display-name>||g' France.xml
 sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" />||g' France.xml
 sed -i 's|  <channel id="BFMTV.fr">||g' France.xml
 sed -i 's| BFM TV FHD (rmcbfmplay.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" />||g' France.xml
-sed -i 's|<channel id="CNews.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" />||g' France.xml
+sed -i 's|  <channel id="CNews.fr">||g' France.xml
 sed -i 's| C NEWS FHD (canalplus.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" />||g' France.xml
-sed -i 's|<channel id="LCI.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" />||g' France.xml
+sed -i 's|  <channel id="LCI.fr">||g' France.xml
 sed -i 's| LCI  HD (TF1+)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" />||g' France.xml
-sed -i 's|<channel id="FranceInfo.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" />||g' France.xml
+sed -i 's|  <channel id="FranceInfo.fr">||g' France.xml
 sed -i 's| France Info FHD (France TV)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" />||g' France.xml
-sed -i 's|<channel id="CStar.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" />||g' France.xml
+sed -i 's|  <channel id="CStar.fr">||g' France.xml
 sed -i 's| CStar FHD (dailymotion.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" />||g' France.xml
-sed -i 's|<channel id="T18.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" />||g' France.xml
+sed -i 's|  <channel id="T18.fr">||g' France.xml
 sed -i 's| T18 HD (dailymotion.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" />||g' France.xml
-sed -i 's|<channel id="TF1SeriesFilms.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" />||g' France.xml
+sed -i 's|  <channel id="TF1SeriesFilms.fr">||g' France.xml
 sed -i 's| TF1 Series Films HD (TF1+)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" />||g' France.xml
-sed -i 's|<channel id="LEquipe21.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" />||g' France.xml
+sed -i 's|  <channel id="LEquipe21.fr">||g' France.xml
 sed -i "s| LA CHAINE L'EQUIPE FHD (dailymotion.com)</display-name>||g" France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" />||g' France.xml
-sed -i 's|<channel id="6ter.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" />||g' France.xml
+sed -i 's|  <channel id="6ter.fr">||g' France.xml
 sed -i 's| 6Ter FHD (M6+)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" />||g' France.xml
-sed -i 's|<channel id="RMCStory.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" />||g' France.xml
+sed -i 's|  <channel id="RMCStory.fr">||g' France.xml
 sed -i 's| RMC STORY FHD (rmcbfmplay.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" />||g' France.xml
-sed -i 's|<channel id="RMCdecouverte.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" />||g' France.xml
+sed -i 's|  <channel id="RMCdecouverte.fr">||g' France.xml
 sed -i 's| RMC Decouverte FHD (rmcbfmplay.com)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" />||g' France.xml
-sed -i 's|<channel id="Cherie25.fr">||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" />||g' France.xml
+sed -i 's|  <channel id="Cherie25.fr">||g' France.xml
 sed -i 's| Cherie 25 FHD (nrj-play.fr)</display-name>||g' France.xml
-sed -i 's|<icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" />||g' France.xml
+sed -i 's|    <icon src="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" />||g' France.xml
 sed -i '/^$/d' France.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
