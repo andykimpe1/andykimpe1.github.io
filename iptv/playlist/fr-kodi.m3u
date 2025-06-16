@@ -113,9 +113,10 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR| FRANCE TNT",FR| Cherie 25 FHD (abweb)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (abweb)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f99539c15b04ba224920ec5a5ec5cc4a:bf9b380fcc42b97d8c62398667037377
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://live-up.akamaized.net/public/cherie25/cherie25.isml/master.m3u8?signature=20250618050000_faf83e1ff60e64d9b79aeece17b202085484ffa7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://live-up.akamaized.net/public/cherie25/cherie25.isml/fullhd25shft.mpd?signature=20250618050000_9f52f6f80dea9cbec545e8d3a43bb26105265a0f
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| FRANCE GENERALISTE",FR| Paris Premiere FHD (abweb)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (abweb)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
