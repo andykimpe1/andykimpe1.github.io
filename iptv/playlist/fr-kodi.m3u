@@ -131,6 +131,7 @@ https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u
 
 
 
+
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
