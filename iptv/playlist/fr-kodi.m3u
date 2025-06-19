@@ -115,13 +115,6 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Cherie 25 FHD (sfr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (sfr)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbdf29b4e0533b28450a72df:649f58496dff203cb06e634c72de0257
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://cbv1-cdn-edge-live03.pfd.sfr.net/ncdn-live-premium-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTAzNzkyODMsImlwIjoiODkuODYuMTU1LjMiLCJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiaWF0IjoxNzUwMzM2MDgzLCJqdGkiOiIwMjRyNmx2MWw3dGpnbWRiMnA2ZyIsInN1YiI6IkNIRVJJRV8yNSJ9.q1Zw1y2YUI8rQgJNsrF1j9igYlSdAMrbn_tYHhuQupI/sdash/LIVE$CHERIE_25/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="" tvg-name="FR| Cherie 25 FHD (molotov)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (molotov)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
@@ -129,13 +122,13 @@ https://cbv1-cdn-edge-live03.pfd.sfr.net/ncdn-live-premium-pal1.pfd.sfr.net/sid=
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f99539c15b04ba224920ec5a5ec5cc4a:bf9b380fcc42b97d8c62398667037377
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://live-up.akamaized.net/public/cherie25/cherie25.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (molotov)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (molotov)
+#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bb90520e8295141d3303ae5268798d1c:18cd47bbfc1d40d78b9472ae21a0c838
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b0df1cb0d8426cbb760168b071f0eb41:b2313f92299a345991eaa36a0aef908b
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
 
 
 
