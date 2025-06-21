@@ -20,6 +20,9 @@ if [ ! -f $FILE ]; then
    read -e -p "Enter wg-username: " -i "$wgusername" wgusername
    read -e -p "Enter registered-email: " -i "$wgemail" wgemail
    read -e -p "Enter password: " -i "$wgpassword" wgpassword
+   echo "wgusername=$wgusername" > $HOME/wgaccount
+   echo "wgemail=$wgemail" >> $HOME/wgaccount
+   echo "wgpassword=$wgpassword" >> $HOME/wgaccount
 fi
 source $HOME/wgaccount
 rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
