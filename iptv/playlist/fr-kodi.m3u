@@ -157,7 +157,7 @@ http://andykimpe.ovh/b.tv.php?id=parispremiere
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-121.php
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://andykimpe.ovh/vavoo.php?id=4177424223|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 1 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
