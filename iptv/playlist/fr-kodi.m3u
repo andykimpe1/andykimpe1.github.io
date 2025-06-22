@@ -231,8 +231,8 @@ https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4de6060e53346ca9cc10f043b903416:59ca4adc628593d0eb221278af05f358
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://andykimpe.ovh/rts1-lsvs.akamaized.net.php/out/v1/acca911787d14d4d902b4262a2ef3b78/index.mpd
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=79.142.69.56
+https://rts1-lsvs.akamaized.net.php/out/v1/acca911787d14d4d902b4262a2ef3b78/index.mpd|X-Forwarded-For=79.142.69.56
 
 
 
