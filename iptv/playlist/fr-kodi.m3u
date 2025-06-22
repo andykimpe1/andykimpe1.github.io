@@ -131,8 +131,7 @@ https://live-up.akamaized.net/public/cherie25/cherie25.isml/master.m3u8
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$CHERIE_25/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere HD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b0df1cb0d8426cbb760168b071f0eb41:b2313f92299a345991eaa36a0aef908b
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
@@ -146,10 +145,12 @@ http://andykimpe.ovh/b.tv.php?id=parispremiere
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="FR| Discovery channel FHD (sfr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-400.png" group-title="FR| FRANCE TNT",FR| FR| Discovery channel FHD (sfr)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20429d2e0533b28450a08e5:dd6a4ce86efd0cb87cdaddc22f2b4741
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NC_DISCOVERYCHANNELHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.dad)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:mimetype=application/x-mpegURL
