@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT",FR| TF1 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept":"*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/&User-Agent =Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/&User-Agent =Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0f2c901630a0f85cf1864227a38bccfc:df78d16c381d701dc72ec0b1cc81590b
 https://live-up.akamaized.net/public/tf1/tf1.isml/fullhd25shft.mpd?signature=20250625050000_32230a2a73952e982576e76a28e5323d7edb0998
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT",FR| TF1 FHD (tv.sfr.fr)
