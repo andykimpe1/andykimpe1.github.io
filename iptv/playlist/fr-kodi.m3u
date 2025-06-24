@@ -238,3 +238,1155 @@ https://rts1-lsvs.akamaized.net.php/out/v1/acca911787d14d4d902b4262a2ef3b78/inde
 
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://andykimpe.ovh/rts2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,TF1 (sfr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e129b0e0533b28450a1cbb:b06c704d8da89332e257afe414792e01
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TF1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|010beaf81815494f90b79588171efd0d:72975e5717f4bc64c651422daf0bb322
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MAURIENNETV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|088b94df56424a028c40137a9a2ddb82:fb01202de0c3f19d05a9efa7bde41965
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NOVO19/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0ac15034027d4c39861fd30062fe7854:3fc00ab065a978e6890cc74838a3b8f1
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_ALSACE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0af1ae1611424e96b98ee901722061b7:52acd326a5993205677eb39bb65c21e7
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PUISSANCE_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|127aaefcab7a4b6883fd4558fe642631:47c55696325a585c21745565caa9829c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2da118f0fa4f4b3988f2cc05691bf36a:be7a70c878ee522ce1395fe0e3a4eb86
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_GRANDSREPORTAGES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2e37f7ecc71048be88dbc15ba12fea61:203d4634470e3563b1fdaa710a274cd3
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$T18/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|25992e12ff5e4a9bb4229ebf43e6a226:60c21a1fc9fba7b49c131936bfad78b6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TGCOM24/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|37f45ba188064f46959b15679e9302af:725427125a88589b0fa6e00492fdafaf
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$JIRAI_DORMIR_CVOUS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4fac081df2ad4cdeb1257077e63f693c:183f8d4b5272d19b1dd1e77983863327
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$WEO_TV_LVDN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4e7add9d37754d16ba027a1afdf095a4:bdca76dcc867546fe4c3b6d8a9d9cb3b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$DREAMWORKS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4f104d8215e14a959236265e30f7ab8e:3a02da14a832b855df5c1475ee377f38
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCALERTE_SECOURS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5ecaad10f63547ed88af0cf738044b6d:90cae1d04007a5b88aa3e92236951ebf
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LM_TV_SARTHE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5863ecc0f9a14dedac52e29fe3fb2ef7:d991eec088645beb5d540457e0e09cd8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VIA_MATELE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|58a62bb189274a9cbaf10aa0809e6a46:43f5e505578a67961253892c6a7cfae5
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCTALK_INFO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5b1b235abe7c4e6c993b06eeb546d6f5:3fc3800b3d8bf218bcd063a6d83c9971
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$KANALDUDE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6da36c81f83449de9d2c63a4a12c203d:1c5dff9845b9a0c713b18004fb4243eb
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ASTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6372d73aba9e4b55826913613cd1c0f3:f611a61ec9ebcf05c85dfd70237eddf6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCMYSTERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7596fbf5b4ce4be0835155cb8c864d1f:c3bbebf64ab8d1662a338caafbdaa050
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_MARMITONTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|76525826a7384e579ca703e694c923c8:498e7ae352d7d0c6ad9b33ef85a9980e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCMECANIC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7ce61472527c402e94173c60e5fe4851:17b014e9467526b815fde49cd8082552
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_NORMANDIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8d4c5079b0a9438aa58989f3c30c1c52:31a55933c9c1eb2a0810415a1efe0cff
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCWOW/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8214a44245ed4c6ca09c6ae63d5a93cf:11d71a4451a0a98432c1e28106067741
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FIGARO_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8720c3f831b546379e91ff77fb5a45ea:1bdd4e1b7fa861cb277a7870c7cf36e9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_TOP_SANTETV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8b45fe578b40434989d6332cf08ef421:fce84f2b5d89d6c1a86cb01b5620cf0a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVRENNES35/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|90d483bcc8f24e7da1affd0d959d5c3e:67535af419ca5a6ac7631f97904fc296
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$JOURNAL_GOLF/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9463d71fa3684402befd79d09b8e17b1:b26e10a07641d6ad2afff6300f3ee97f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NA_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a0bcf3d6da6f487ca1316ec616a7d372:1f817007bf3bdfa9eb0d284e9a21339d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3CORSE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a32be58843de47ad8a6a6ee6b66e3548:d3bfc6409285dc3c20fa4cc3afc74908
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TLC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7b675f784b1422b9b3b9b4339dabeb9:b81cbac9caa6f1ffcda8519115f28d08
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MGGTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4b004d3e0533b28450a4097:62b7404f66abcbd752f7ce0ff4d588e4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ANGERSTELE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4b104d3e0533b28450a4097:09b9c7204b339724ff39b636a88232db
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ANIMAUX/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4b504d3e0533b28450a4097:ee15cb1f3dee6a074a41153e70f04b3a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ARMENIA1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4b704d3e0533b28450a4097:14e966701d49de7794668c41bd6c46c5
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ARRABIA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4b804d3e0533b28450a4097:10f87a4cb90696d9d18f3019584d585c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ARRYADIA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4be04d3e0533b28450a4097:b63c5927769d12ffca68b72b0c4ff074
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ASTROCENTER/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4bf04d3e0533b28450a4097:2ebb699d015d8e71e13d9acadaf7ed8f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4c104d3e0533b28450a4097:0d474dd76537c51358fba6c42f116f17
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TV8MOSELLE_EST/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d129b0e0533b28450a1cbb:ab96b43e21af1a30a5577d4377926659
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MCM/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d329b0e0533b28450a1cbb:f82301a2c3d7bbeba16467901a24692a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d929b0e0533b28450a1cbb:5efacce631fde406497ea5998b46d1b2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARISPREMIERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53db29b0e0533b28450a1cbb:1a1027b7e1c097a80e4bd4522c8ea4e4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMC_DECOUVERTE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53dc29b0e0533b28450a1cbb:d7f4f338168550d62f979d13c2104863
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_RTL9/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53de29b0e0533b28450a1cbb:b94c3389abe915e26a402ae87f89359c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TCMCINEMA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e029b0e0533b28450a1cbb:c7635a7e097b8c6e08df02eea7b61f00
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TEVA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e229b0e0533b28450a1cbb:48dfe2b90400672127b0014084b12a22
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TMC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVBREIZH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e429b0e0533b28450a1cbb:c255a01070d83bc2a3ed6559baf0a29b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$USHUAIA_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e529b0e0533b28450a1cbb:bf0075fa5d94bf4bb23a69115d6302ec
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_W9/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e629b0e0533b28450a1cbb:a8f3e30c8fc28072e8545cda37a997d7
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NUMERO_23/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53ec29b0e0533b28450a1cbb:8def263aedcd4ce75e3bd41e8c22802d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARAMOUNT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53bc29b0e0533b28450a1cbb:3759c8ee1fb01c0f60af6e96644d3fb6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TELEGRENOBLE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53bd29b0e0533b28450a1cbb:da1a0d829fc6262524e1a5acc3e0e628
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$DISCOVERY_INVEST/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53be29b0e0533b28450a1cbb:957c0b50d245b984435e6d8a2fbcc24b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$COMEDYCENTRAL/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53cb29b0e0533b28450a1cbb:5ea0357fdd6a6cb4f67cdc2bc61dbd56
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RAI_STORIA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53cc29b0e0533b28450a1cbb:8f26749746d1a05b9deb1788f8204b8d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFMGRANDLITTORAL/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb3829bce0533b28450a3247:8f1644c37dadc62201a1a4b9697169c2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BOOMERANGPLUS1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb4029bce0533b28450a3247:a99b775671b8df867b6c32803bd029e7
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CANAL31/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb4229bce0533b28450a3247:6900afe15bdea8896e4b2511e0eca674
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CANAL32/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb4329bce0533b28450a3247:056841a4f5e93101f95a6ee3969b11f9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CANALALGERIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb4a29bce0533b28450a3247:8dfdc36aa62598176b6010b4145ce9f6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CCTVDOCUMENTARY/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb5129bce0533b28450a3247:ab067be0e8da75dc41b40279c550b878
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CHASSEETPECHE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb5729bce0533b28450a3247:6ed5e8bc3c6a274a0a04d0b4abb26dd5
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CNBCEUROPE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47abb5829bce0533b28450a3247:35aeccb6e900167414f273d0da3e1039
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CNNINT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a8e7129aee0533b28450a27fa:7ca172f84a6e368f231424ca2e01b162
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3NAQTN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a8e8929aee0533b28450a27fa:be060a997785abd664de3bf82e4f18c6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PUBLICSENAT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a8e8e29aee0533b28450a27fa:0b6829aae238c434a588385686821456
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RECORDNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a99b429b2e0533b28450a103e:9cb5e03a12f61c8148992ebb2db0043f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TL7SAINT_ETIENNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a99b729b2e0533b28450a103e:be33d821ab70d95388fe640799baa83f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TELENANTES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a99c029b2e0533b28450a103e:81f9644797294c82b68d1a8d39ca859f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MTVHITS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a99c929b2e0533b28450a103e:abf6d9089d675426ab7792490999b271
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$6TER/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c1829dae0533b28450a12f4:7241d5dee92a54b1d1db559cd675262a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVPPOLONIA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c1c29dae0533b28450a12f4:a672c7dd6182d4024b2213c8ab53be5c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VIA30/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c1d29dae0533b28450a12f4:b35f41c6eaf3b6ca400168aa6468f413
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VIA34/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c1e29dae0533b28450a12f4:f3340eadc13ec663dc18cd1330b06a12
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVTOURS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2029dae0533b28450a12f4:5cc24f86b1bda1c6b07ff82ba27c64a7
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVVENDEE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2829dae0533b28450a12f4:7c8c8f2840a9337a8a566683ebb49ed3
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VOXAFRICA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2b29dae0533b28450a12f4:42610dffd158d34954728b8ec7ca5b36
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ABMOTEURS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2c29dae0533b28450a12f4:92d6a8ae65c7bf79d10b149774cdd2fa
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ACTION/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2d29dae0533b28450a12f4:093851275cdecb2435648f52fbfe7808
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ARTE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2e29dae0533b28450a12f4:318b5c9369b8db3365c23d597ef46c17
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c3329dae0533b28450a12f4:61800fa49e9a318573cc8a9ae8f37866
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$HISTOIRE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c3429dae0533b28450a12f4:8a02964ec80d7e2595a30464f6a7793d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LCI/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c3529dae0533b28450a12f4:48f597c6ddbd590dfc0181eb71fa00f9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LEQUIPE_21/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c3629dae0533b28450a12f4:2493efd1b2ff76fbae213c58d0803c39
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MANGAS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e7129c8e0533b28450a1575:4ddc42d0a510c4fe1e4dcd2f49bd3502
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$EURONEWSFR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e8129c8e0533b28450a1575:26a6a116a208c857c533c54ab5cb2fb2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BET/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e8d29c8e0533b28450a1575:3df71a886d5bab5984e30f2455865965
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$EQUIDIALIVE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e8f29c8e0533b28450a1575:68aaa9fb02c982c38af1f9cd65f450ac
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TEST_AFF2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9129c8e0533b28450a1575:dc5a5a5220c8b2f3200209ed906cbb22
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9229c8e0533b28450a1575:f6b4f6d80a541758058c4810838fecb1
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9429c8e0533b28450a1575:b12c204749e257a4497d6468a0cf88a8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9529c8e0533b28450a1575:c5f6355551ee6f3baa8ffd46945098e9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GULLI/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9629c8e0533b28450a1575:58c95ab267fa708d186366876c104759
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$M6/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9729c8e0533b28450a1575:45d0160752b2a8f5093489ab5e8bd2b4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CSTAR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1fe29d2e0533b28450a08e5:69352953d7c2fe73c7f5740de7636374
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NC_MTVHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1ef29d2e0533b28450a08e5:b61342d47a4131150130bb816415557b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TIJI/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f029d2e0533b28450a08e5:50266aabebbea38b38f286ecc319515d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NICKELODEONJUNIOR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f129d2e0533b28450a08e5:7285921d54f40d46cc70bfacf9649d8a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NICKELODEON/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f529d2e0533b28450a08e5:ac2cf14a6125a333e8d341d382a1675f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CARTOONNETWORK/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$SERIECLUB/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20229d2e0533b28450a08e5:0188a7501502224e0803175fb1b222b0
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NC_JONEHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20429d2e0533b28450a08e5:dd6a4ce86efd0cb87cdaddc22f2b4741
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NC_DISCOVERYCHANNELHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20529d2e0533b28450a08e5:e604da5ee9fd056e036302de175a6850
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CANALJ/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20729d2e0533b28450a08e5:040909699fffa2aa0c33d4add9eddfea
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$13EME_RUE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20c29d2e0533b28450a08e5:361d40b1b793bee153150744c84c93dc
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$I24NEWSANGLAIS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20d29d2e0533b28450a08e5:57fe68bb66be909cde901aa0484ee6c0
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$I24NEWSARABE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21229d2e0533b28450a08e5:a375ff7d9cb6ccc731e29923eb9a6edc
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ALAOULA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21329d2e0533b28450a08e5:eba1fc02c83d0ad1f941c62e0712231f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21729d2e0533b28450a08e5:9ece0626186737e6fe2b8d604405006b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ASSADISSA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21829d2e0533b28450a08e5:cd5f5d140671b3a9594972bd4dda4e90
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI6/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21929d2e0533b28450a08e5:a2c1cc608bb291a21b858e6159532c53
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI7/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21a29d2e0533b28450a08e5:27480235eb8415f3fc6f5b3d8be4fd2c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI8/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21b29d2e0533b28450a08e5:f97a650149ca42faf3d37149736ed148
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbdd29b4e0533b28450a72df:91ed59cd799574d599b840b6a2717b99
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_AB1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbdf29b4e0533b28450a72df:649f58496dff203cb06e634c72de0257
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CHERIE_25/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbe229b4e0533b28450a72df:c843d020894e5e3995790582aae7ee27
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$AFRICA24/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbe529b4e0533b28450a72df:d28a110885f8f5b524684ebaac806536
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVNATTUNISIENNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbe829b4e0533b28450a72df:b44d1d951cc70a1fa070634d48ee1ce4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TRACEURBAN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbee29b4e0533b28450a72df:58386276afd70ad241c3a7c119a8bf12
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TV5MONDEEUROPE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbef29b4e0533b28450a72df:00ca49db640a50e6eca0e3b82728ce24
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TV7BORDEAUX/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbf029b4e0533b28450a72df:3c534032f220c65a1c456290514aef54
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_TV8MB/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbb229dee0533b28450a72b5:369d26579d1b6f0fc1b3f42ec83e71ed
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FRANCE_INFO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbb329dee0533b28450a72b5:02c7a1e5da42884ed19058a6d140110e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARAMOUNTPLUS1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbbd29dee0533b28450a72b5:fcb90b74191407efaa8539007d4ec820
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RFMTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbbf29dee0533b28450a72b5:2e97239b0a762dd6083e63ed2f8ccc8a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MIRABELLETV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbc729dee0533b28450a72b5:f88cefb0c1594d5c759197868c2f7d66
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NHKWORLD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbcd29b4e0533b28450a72df:3f09c23d329e616e5be781381578b9d6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbcd29dee0533b28450a72b5:9a5653ab8d0815974f7bd3c711cd6f38
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NRJHITS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbce29b4e0533b28450a72df:ec7b42d680f395e98b70f0f41528d13e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1fb29c0e0533b28450a2895:28bc1b8e7aa1145ae5f3816479488b4c
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$SKYNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1d729c0e0533b28450a2895:5ff8b76c9493fb2a9807710c1831ccff
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NICKELODEONPLUSONE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1e929c0e0533b28450a2895:08ef6c47169183a0022b247473f06544
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3NORDPASDECALAIS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ea29c0e0533b28450a2895:ded99ee7b13b45d2a57ded36c831c97a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3IDF/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ec29c0e0533b28450a2895:0127057bb5c3e88c823da3ea40ce8979
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3PAYSDELALOIRE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ed29c0e0533b28450a2895:6185f7bd36dacb989ac9707384736519
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3POITOUCHARENTES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ee29c0e0533b28450a2895:627f54e8dc84b74a8b637f7bec0a6935
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3PROVENCEALPES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ef29c0e0533b28450a2895:11b14699200d5cca8a499305169f8464
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3RHONEALPES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac20029c0e0533b28450a2895:1862458ac3d8572e4904153f5777c0e6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TELE_BOCAL/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac20429c0e0533b28450a2895:74aa6c057da2dde7c55b8081af83f1e8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVMOSAIK/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6d029bee0533b28450a2d36:6b75196ec0c4676f6b213a3bf3398114
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$DUBAITV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6d129bee0533b28450a2d36:eb52f1eb806686ecd8cce5e79b01a152
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$DEUTSCHEWELLE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6d329bee0533b28450a2d36:4922e7ae1de10a4acab6a2c1db8aba4a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$E_ENTERTAINMENT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6d529bee0533b28450a2d36:2b6f646653446ad10e717e565fbda3bd
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$SCIENCEETVIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6d629bee0533b28450a2d36:f8a6a93757cf3773cf24a691ccd3a944
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ENNAHARTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6dd29bee0533b28450a2d36:8f081038ba1cd0c661793bce85009ee2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ALJAZEERAENGLISH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6de29bee0533b28450a2d36:8f5a4250fd5e432167d792f021663d3e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ALMAGHRIBIA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6df29bee0533b28450a2d36:82b9914ee41e4c3d28a2434d53fd1842
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ALMASRIYA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6e229bee0533b28450a2d36:dcc5c8d84dcc3fcd3c455cdc4e6c214b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVFIL78/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6b829bee0533b28450a2d36:022bbd0d8ab0b42a2785b88f780ca7c9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PIERISELTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6ba29bee0533b28450a2d36:d0af269a8bd8f450c637bad7b0496e44
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TEBEO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6bb29bee0533b28450a2d36:5bd7f48832dcdc5a5cd8ed6e917e7de3
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ILTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6c329bee0533b28450a2d36:6c5672347f855bb77940ea94be89690b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VIA31/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6c729bee0533b28450a2d36:193cba9df9065edc2d79ad48b404796b
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$VIA66/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6ca29bee0533b28450a2d36:807a1782053c63f4fbcb0b74594c62c4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NICKELODEON4TEEN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad18a29b6e0533b28450a581d:fba22614d101fb27675651648efad0c6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FRANCE24ARABE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad18b29b6e0533b28450a581d:d96080013435aa74a25fa4a389c9e775
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FRANCE24ANGLAIS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad18c29b6e0533b28450a581d:0b4df31ed942a4bdf3a0bbb1b48eb4f6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FRANCE24/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad18f29b6e0533b28450a581d:8bdb01d3e1f8e8dd2658fdf3a358b6c2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3ALSACE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19029b6e0533b28450a581d:127ffd2d8656e3bcfaf34b12fa3b7b4f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3AQUITAINE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19129b6e0533b28450a581d:1a177a2bea259f81c3826cb989d6c2e8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3AUVERGNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19229b6e0533b28450a581d:c3557af7ff4176fdc699e6453969fd23
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3BASSENORMANDIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19329b6e0533b28450a581d:339061844a70c4a45e1885bc02ea4cf3
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3BOURGOGNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19429b6e0533b28450a581d:c1a145526b4a875a230de1526363aa82
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3BRETAGNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19529b6e0533b28450a581d:8fe64a1897546e2fe0f469c0b5385287
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3COTE_D_AZUR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19629b6e0533b28450a581d:ff4cf9912b4de06b683adcdfd6a25d99
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3CENTRE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19729b6e0533b28450a581d:d9f6bd3e1495bba6087fa69b7fc418ca
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3CHAMPAGNE_ARDENNE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19829b6e0533b28450a581d:eba902c64ef7faf694c4960bfc5f4a5a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3VIASTELLA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19929b6e0533b28450a581d:58b3ef463048e2fd40b2a59cfff67162
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3FRANCHE_COMTE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19a29b6e0533b28450a581d:f5c78e05dbff6e3127a524e8d337b83d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3HAUTENORMANDIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19b29b6e0533b28450a581d:ae2d62dd27acee655c7ab9f84404ccfc
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3LANGUEDOC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19c29b6e0533b28450a581d:33562ae0765842f4c884c07f223db324
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3LIMOUSIN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19d29b6e0533b28450a581d:975dbb81db7122c0c780f56159670f68
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONEHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1a929b6e0533b28450a581d:d36fc0b59ce09111e3fd31aacf93b2fb
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LCP/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1aa29b6e0533b28450a581d:d58581f95ae066c4d5ab1546b4ea9a46
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LCPAN24_24/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1ab29b6e0533b28450a581d:9c60a77603eec8ea26faaeb3f3fa4612
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LUCKYJACK/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1ac29b6e0533b28450a581d:538c3c9b563cf5cd700c1b02bc5dca45
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LUXETV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1b029b6e0533b28450a581d:6aec259c52b714eef3f642dff1c973ca
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$M6_MUSIC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1b329b6e0533b28450a581d:9bab9e500936c9d85a425b8968e14829
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MARITIMATV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad22f29bae0533b28450a5949:79b10446f1f31cf1aecdddcf089454e0
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$01NET/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad23729bae0533b28450a5949:88c55f7079dd9243330cff4455c4643e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_LYON/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad23829bae0533b28450a5949:ca7ed4c131cb2a69d77410382e5559dc
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVPI/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad24429bae0533b28450a5949:a8dcdaf61bae853169a4793e4d9e0796
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3LORRAINE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad24529bae0533b28450a5949:e50f806fc0d3ca5bac04876c1d9708a8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FR3MIDIPYRENEES/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad36f29b8e0533b28450a5a69:2e3ca42a441b25299cfbb380c11737fb
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFMGRANDLILLE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad37f29b8e0533b28450a5a69:6255cf898b2cf067639eb99a8151199f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ALARABIYA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38229b8e0533b28450a5a69:3e537712bdc67dfc76809c9aa66ed370
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TELEPAESE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38d29b8e0533b28450a5a69:28184f668fef0b3732c9fed26861f112
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38e29b8e0533b28450a5a69:1792b02fba7e1bbe0da8cdb44103dc6e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad39029b8e0533b28450a5a69:7315b32eb6afda81a40c4858ac1de246
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_BUSINESS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad98b29d0e0533b28450a5061:170df7b639a6dd07829c6ab06c3e105e
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TREK/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad99b29d0e0533b28450a5061:7f8364aadae300beba0c672420e22c44
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$HD1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad9a429d0e0533b28450a5061:c190cb4ebe2b3c52da2f83d3c6d7a2a8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad9a629d0e0533b28450a5061:e207fa940b3a7db9bce90c356bbe1a0a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$JORDANSATELLITECHANNEL/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad9ae29d0e0533b28450a5061:0fa686076d3542c936503335b8acb818
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$KTO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad9b529d0e0533b28450a5061:be4001a5f51f1e1700bf4df85f2a4333
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$MEDI1SAT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bec5675c2a4343628116b4735556793d:6d5d69838e13d0035680e1569773ba9d
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVMONACO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ba53dab62a344d01e0533b28450aa269:d9260281a95a64ce3d299af19830ba82
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_DICI_ALPESDUSUD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ba53dab62ee94d05e0533b28450aaecb:ecdb9a78e1c75f6800f1b58b50a5e56a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_DICI_HAUTEPROVENCE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaa952a26cbe0533b28450a9878:35a4f31b31084db95a17f722a671aa26
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bcbe14376dd94e2cac9ca0fd0700c9dc:f1d94e9d530a2d3d0c986aff9da1bf70
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$WARNER_TV_NEXT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c10b04ed02b34e3799b371d714c801a9:7c9bf3c5131fc754ae2c70a691717838
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FRANCE24_ESP/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c256e7f787ff635de0533b28450aa5ef:f190f7f2925707c3200dad8bb7e79883
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_MARSEILLEPROV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c256e7f787e86351e0533b28450aa457:43a80ca471106445e27437677b41b3ff
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CRIMEDISCTRICT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c256e7f7871f6347e0533b28450aa4e2:1800de3fd06cbff83dc199d671ffcd55
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TRACE_LATINA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c256e7f78755634be0533b28450aa4b4:85dfbc03102a5da64fbab0a3216467e3
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_NICECOTEDAZUR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c256e7f787a46357e0533b28450aa49e:14aeed57fbe8b4b290559eb575628d9a
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$BFM_TOULONVAR/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d12c0f6166714300bc7c292bd2bd7975:0c6667095e8802b1e277c471193e9751
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_AUTO_PLUSTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d2ededf8eef44bf0a3c3cf21cf32a5f3:c2d364edccf64a19d659bd7dae1cc012
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$20MINUTES_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d31c35a0df83463ca9c65fd156633cfe:a61393b00dc590812f9efe145c53f4a9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$LANA_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eea1db3e26464fa1bf943689eaa695dc:6edd12e3ecc3edac44be1c0e8651a64f
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$FIGARO_TV_IDF/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e82a33c03de2407fad3cfffa3962d811:a536ce47e7406c5408d314ff16aeb1f8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$WARNERTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ff90e3bb04454852a3435000fbe86593:8ade778f147e340fd50605a13c65e893
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ASHARQ_NEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fdbcd30de9934ebdbcc5c885e379aeec:81e4c650361a3c8cc7748426abba51a5
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$CANNES_LERINS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f0772635e5fb406ea59839eef8a2fcb7:47ce266ac54f694994f403e1e6eb02a9
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$AFTER_FOOT_TV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f15c887cf6104ce89835661b543e3c9f:e3a5f46644d4102930d535cd7ea693da
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$WEO_PICARDIE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1,SFR TV sur PC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fc0a1126c57d4a758f4c48b43d7bcd30:6f34d2500b1749edbab5a3aabab7db53
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$ETB_BASQUE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
