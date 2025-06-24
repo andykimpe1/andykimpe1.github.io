@@ -11,4 +11,10 @@ https://andykimpe1.github.io/iptv/playlist/fr-vlc.m3u
 
 epg
 
+full
+
+https://xmltvfr.fr/xmltv/xmltv.xml.gz
+
+old
+
 https://andykimpe1.github.io/iptv/xmltv/guide.xml
