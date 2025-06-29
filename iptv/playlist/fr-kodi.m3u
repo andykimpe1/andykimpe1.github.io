@@ -237,6 +237,12 @@ https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df38
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BE| AB3 HD" tvg-logo="" group-title="BE| BELGIQUE FHD HD",BE| AB3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3de958506814ded9a91f56d468430b8:f13360c704a2cb316bf6441316a69382
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
+https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 1" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
