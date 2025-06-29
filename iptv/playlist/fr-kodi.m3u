@@ -247,12 +247,8 @@ https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4de6060e53346ca9cc10f043b903416:59ca4adc628593d0eb221278af05f358
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=79.142.69.56
-https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd|X-Forwarded-For=79.142.69.56
-
-
-
-
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://www.rts.ch/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36&X-Forwarded-For=79.142.69.56
+https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7200
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://andykimpe.ovh/rts2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 
