@@ -248,7 +248,8 @@ https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4de6060e53346ca9cc10f043b903416:59ca4adc628593d0eb221278af05f358
 #KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=79.142.69.56
-https://rts1-lsvs.akamaized.net.php/out/v1/acca911787d14d4d902b4262a2ef3b78/index.mpd|X-Forwarded-For=79.142.69.56
+https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd|X-Forwarded-For=79.142.69.56
+
 
 
 
