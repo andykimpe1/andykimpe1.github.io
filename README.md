@@ -1,7 +1,17 @@
 # andykimpe1.github.io
 andykimpe1.github.io
 
-playlist for kodi
+for kodi recommend configuration
+
+install kodi 22
+
+add the extention config url
+
+https://andykimpe1.github.io/kodi
+
+install latest inputstream.adaptive 22.2.4 for your device
+
+activate pvr iptv simple client use this playlist
 
 https://andykimpe1.github.io/iptv/playlist/fr-kodi.m3u
 
