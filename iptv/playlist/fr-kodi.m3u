@@ -251,8 +251,8 @@ https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
 https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7200
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://andykimpe.ovh/rts2.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-
-
+#EXTINF:-1 tvg-id="" tvg-name="CH| RTS info" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS info
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8?dw=7200
 
 
 
