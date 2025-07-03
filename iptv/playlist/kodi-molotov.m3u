@@ -642,11 +642,6 @@ https://live-up.akamaized.net/public/drivein/drivein.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60fb51470709b3975c821546821cc8ce:c7d39f0a0cb99b3c2337ea035d77597a
 https://live-up.akamaized.net/public/ducktv/ducktv.isml/master.m3u8
-#EXTINF:-1,FR| CGTN FHD (app.molotov.tv)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60fb51470709b3975c821546821cc8ce:c7d39f0a0cb99b3c2337ea035d77597a
-https://live-up.akamaized.net/public/cgtnfr/cgtnfr.isml/master.m3u8
 #EXTINF:-1,FR| Pitchoun TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
