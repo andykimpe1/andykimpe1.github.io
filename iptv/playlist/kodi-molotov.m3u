@@ -142,7 +142,7 @@ https://live-up.akamaized.net/public/ina70/ina70.isml/master.m3u8
 #EXTINF:-1,FR| Molotov Les Meilleurs jeux TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250628/mango-meilleur-jeux-tv/mango-meilleur-jeux-tv.isml/master.m3u8
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/mango-meilleur-jeux-tv/mango-meilleur-jeux-tv.isml/master.m3u8
 #EXTINF:-1,FR| Molotov Family Club HD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -151,7 +151,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13735
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c9b94540052da35ae7f096a7e616342b:240ed5b436fdfbad8fae4e31320548b8
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250629/bbc_top_gear/bbc_top_gear.isml/manifest.mpd
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/bbc_top_gear/bbc_top_gear.isml/manifest.mpd
 #EXTINF:-1,FR| ADN HD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -160,22 +160,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12103
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e130c2c1fc8d9f8f9c7afe4f2ea888eb:615be9dc52cb3d3bc758c0af00d8b833
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250629/bbc_drama/bbc_drama.isml/manifest.mpd
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/bbc_drama/bbc_drama.isml/manifest.mpd
 #EXTINF:-1,FR| Les Routes du Paradis FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2e63b49c505c4d052d8998d16f77ffbe:47ae81a7d0be37c1225e54490db0c205
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250629/mango-bewitched/mango-bewitched.isml/manifest.mpd
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/mango-bewitched/mango-bewitched.isml/manifest.mpd
 #EXTINF:-1,FR| BBC Doctoc Who FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b003f43bd47cd81320541813a5c02d36:da4a7aa0ec6f2e78e43a78fc0c86b3b4
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250630/bbc_dr_who/bbc_dr_who.isml/manifest.mpd
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/bbc_dr_who/bbc_dr_who.isml/manifest.mpd
 #EXTINF:-1,FR| Molotov Choc FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9003c17b21948b5815e931fd3a9a38fe:cbcdcbc760eb3561f227c68b40b22df6
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250630/mango-action/mango-action.isml/manifest.mpd
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/20250703/mango-action/mango-action.isml/manifest.mpd
 #EXTINF:-1,FR| Un Si Grand Solleil FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
