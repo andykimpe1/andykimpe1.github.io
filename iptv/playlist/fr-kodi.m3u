@@ -131,17 +131,17 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$TMC/index.mpd/Manifest?start=LIVE&end=E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://www.andykimpe.ovh/tmc.php/index.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR| TFX FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f6f66126497feb5ccac1416b2972fd1c:0098d11704007d20ea6d09b9e3d2a207
 https://live-up.akamaized.net/public/tfx/tfx.isml/master.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR| TFX FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d329b0e0533b28450a1cbb:f82301a2c3d7bbeba16467901a24692a
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR| TFX HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://www.andykimpe.ovh/tfx.php/index.m3u8
