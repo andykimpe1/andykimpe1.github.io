@@ -986,66 +986,208 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (6) HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (6) HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1839597702/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD (7) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (7) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/4177424223/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL HD (1) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL HD (1) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2641610486/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (7) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (7) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/6981957/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport HD (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Sport HD (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (1) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (1) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://vavoo.to/play/2246854724/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD (1) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT HD (1) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://vavoo.to/play/4021366844/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (7) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (7) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2391290436/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (6) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (6) (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://vavoo.to/play/1012399982/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Foot HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3271278010/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Series HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Series HD (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Series HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Series HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/907568283/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Cinema HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Cinema HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/974077876/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DECALE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DECALE HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1919536632/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ KIDS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ KIDS HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3804868994/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DOCS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DOCS HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1161602732/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ MOTOGP HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ MOTOGP HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/4132894037/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/972384002/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ F1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ F1 HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/4016263115/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ GRAND ECRAN HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2574747173/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ PREMIER LEAGUE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ PREMIER LEAGUE HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/128077399/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ LIGUE1 HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2995711327/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 360 (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| CANAL+ SPORT 360 (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3411759213/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| POLAR+ HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| POLAR+ HD (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2143816874/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| NOVELAS TV  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| NOVELAS TV (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1626033852/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2770867098/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ Crime (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ Crime (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3332590790/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ Aventure (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ Aventure (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1032026956/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| COMEDIE + (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| COMEDIE + (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3681222624/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon+ (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Télétoon+ (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2312780625/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon +1 (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Télétoon +1 (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1143042553/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Museum (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Museum (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2736388639/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| C STAR HITS FRANCE (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| C STAR HITS FRANCE (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2197361088/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Disney Channel FRANCE (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1174126677/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY JUNIOR (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| DISNEY JUNIOR FRANCE (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/4072150322/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY XD (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| DISNEY XD FRANCE (vavoo.to)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1329940600/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
