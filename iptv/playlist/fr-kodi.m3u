@@ -360,7 +360,7 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARISPREMIERE/index.mpd/Manifest?start=
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR| EUROSPORT 1 HD (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORT",FR| EUROSPORT 1 HD (vavoo.to)
-https://vavoo.to/play/1921488806/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+https://vavoo.to/play/3513558830/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 
 
 
