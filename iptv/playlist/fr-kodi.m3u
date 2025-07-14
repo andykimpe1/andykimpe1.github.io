@@ -982,10 +982,32 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
 https://vavoo.to/play/4177424223/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport FHD (https://daddylive.dad/embed/stream-122.php)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
-https://www.andykimpe.ovh/windnew.newkso.ru.php?id=122|User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot FHD (https://daddylive.dad/embed/stream-463.php)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| SPORT",FR| CANAL+ Foot FHD (daddylive.dad)
-https://www.andykimpe.ovh/windnew.newkso.ru.php?id=463|User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport HD (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Sport HD (vavoo.to)
+https://vavoo.to/play/2548189800/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Foot HD (vavoo.to)
+https://vavoo.to/play/3271278010/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Series HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Series HD (vavoo.to)
+https://vavoo.to/play/907568283/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Cinema HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Cinema HD (vavoo.to)
+https://vavoo.to/play/974077876/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DECALE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DECALE HD (vavoo.to)
+https://vavoo.to/play/1919536632/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ KIDS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ KIDS HD (vavoo.to)
+https://vavoo.to/play/3804868994/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DOCS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DOCS HD (vavoo.to)
+https://vavoo.to/play/1161602732/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ MOTOGP HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ MOTOGP HD (vavoo.to)
+https://vavoo.to/play/4132894037/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE HD (vavoo.to)
+https://vavoo.to/play/972384002/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ F1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ F1 HD (vavoo.to)
+https://vavoo.to/play/4016263115/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ GRAND ECRAN HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN HD (vavoo.to)
+https://vavoo.to/play/2574747173/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ PREMIER LEAGUE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ PREMIER LEAGUE HD (vavoo.to)
+https://vavoo.to/play/128077399/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ LIGUE1 HD (vavoo.to)
+https://vavoo.to/play/2995711327/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
