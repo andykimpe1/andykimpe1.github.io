@@ -247,8 +247,8 @@ https://vavoo.to/play/4177424223/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Orig
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21b29d2e0533b28450a08e5:f97a650149ca42faf3d37149736ed148
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="FR| BEIN SPORT 1 FHD (https://daddylive.dad/embed/stream-116.php)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1290.png" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.dad)
-https://www.andykimpe.ovh/zekonew.newkso.ru.php?id=116|User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="FR| BEIN SPORT 1 HD (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1290.png" group-title="FR| SPORTS",FR| BEIN SPORT 1 HD (vavoo.to)
+https://vavoo.to/play/2526338165/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 2 FHD (https://daddylive.dad/embed/stream-117.php)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (daddylive.dad)
 https://www.andykimpe.ovh/zekonew.newkso.ru.php?id=117|User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 3 FHD (https://daddylive.dad/embed/stream-118.php)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 3 FHD (daddylive.dad)
