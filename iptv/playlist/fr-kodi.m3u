@@ -1013,8 +1013,34 @@ https://vavoo.to/play/2574747173/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Orig
 https://vavoo.to/play/128077399/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ LIGUE1 HD (vavoo.to)
 https://vavoo.to/play/2995711327/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 360 (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| CANAL+ SPORT 360 (vavoo.to)
+https://vavoo.to/play/3411759213/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| POLAR+ HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| POLAR+ HD (vavoo.to)
 https://vavoo.to/play/2143816874/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| NOVELAS TV  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| NOVELAS TV (vavoo.to)
+https://vavoo.to/play/1626033852/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ (vavoo.to)
+https://vavoo.to/play/2770867098/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ Crime (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ Crime (vavoo.to)
+https://vavoo.to/play/3332590790/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Planète+ Aventure (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Planète+ Aventure (vavoo.to)
+https://vavoo.to/play/1032026956/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| COMEDIE + (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| COMEDIE + (vavoo.to)
+https://vavoo.to/play/3681222624/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon+ (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Télétoon+ (vavoo.to)
+https://vavoo.to/play/2312780625/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon +1 (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Télétoon +1 (vavoo.to)
+https://vavoo.to/play/1143042553/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Museum (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Museum (vavoo.to)
+https://vavoo.to/play/2736388639/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| C STAR HITS FRANCE (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| C STAR HITS FRANCE (vavoo.to)
+https://vavoo.to/play/2197361088/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| Disney Channel FRANCE (vavoo.to)
+https://vavoo.to/play/1762694647/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY JUNIOR (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| DISNEY JUNIOR FRANCE (vavoo.to)
+https://vavoo.to/play/1244883752/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY XD (vavoo.to)" tvg-logo="" group-title="FR| DECOUBERTES",FR| DISNEY XD FRANCE (vavoo.to)
+https://vavoo.to/play/3237934255/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
