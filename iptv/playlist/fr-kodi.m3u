@@ -40,7 +40,6 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE3/index.mpd/Manifest?start=L
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| France 3 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| FRANCE TNT",FR| France 3 FHD (France TV)
 https://www.andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| France 4 FHD (app.molotov.tv)
-#EXTINF:-1,FR| France 4 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|09d1564bfead47c38fdf5684ae475a2e:7ad46ae1aa9dc334cd45f072820a3e71
