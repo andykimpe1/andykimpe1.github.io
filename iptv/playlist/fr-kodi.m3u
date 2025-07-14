@@ -290,12 +290,12 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$6TER/index.mpd/Manifest?start=LIVE&end=
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="FR| RMC STORY FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="FR| RMC STORY FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|95e053eb717092c95f741c74227a5946:bc5e0c620b6e5edacbc8c12fe1f11e40
 https://live-up.akamaized.net/public/rmcstory/rmcstory.isml/master.m3u8
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="FR| RMC STORY FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="FR| RMC STORY FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e629b0e0533b28450a1cbb:a8f3e30c8fc28072e8545cda37a997d7
