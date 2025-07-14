@@ -76,6 +76,8 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$M6/index.mpd/Manifest?start=LIVE&end=EN
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 HD (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| CINEMA",FR| M6 HD (vavoo.to)
+https://vavoo.to/play/2264106144/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -337,19 +339,22 @@ https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e029b0e0533b28450a1cbb:c7635a7e097b8c6e08df02eea7b61f00
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$TEVA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18cd47bbfc1d40d78b9472ae21a0c838:bb90520e8295141d3303ae5268798d1c
+https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d929b0e0533b28450a1cbb:5efacce631fde406497ea5998b46d1b2
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARISPREMIERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere HD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2313f92299a345991eaa36a0aef908b:b0df1cb0d8426cbb760168b071f0eb41
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere HD (b.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere HD (b.tv)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|00000000683e57443852b8799f4d98d4:a5cd5f1cba0a813c7aa0b15509403c6a
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-http://andykimpe.ovh/b.tv.php?id=parispremiere
 
 
 
@@ -691,11 +696,6 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$TV8MOSELLE_EST/index.mpd/Manifest?start
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d129b0e0533b28450a1cbb:ab96b43e21af1a30a5577d4377926659
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$MCM/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1,SFR TV sur PC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d929b0e0533b28450a1cbb:5efacce631fde406497ea5998b46d1b2
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARISPREMIERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1,SFR TV sur PC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
