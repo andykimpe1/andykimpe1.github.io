@@ -986,9 +986,9 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
-https://vavoo.to/play/4177424223/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD (plugin.video.BauBauVavoo)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (plugin.video.BauBauVavoo)
-plugin://plugin.video.BauBauVavoo/?action=&group=France&name=CANAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+https://vavoo.to/play/1839597702/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport HD (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Sport HD (vavoo.to)
 https://vavoo.to/play/2391290436/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Foot HD (vavoo.to)
