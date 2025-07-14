@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 FHD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| TF1 FHD (TF1+)
 https://www.andykimpe.ovh/tf1.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 2 FHD (France TV)
 https://www.andykimpe.ovh/france2.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 3 FHD (France TV)
 https://www.andykimpe.ovh/france3.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France4.fr_1" tvg-name="FR| FRANCE 4 FHD (France TV)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 4 FHD (France TV)
 https://www.andykimpe.ovh/france4.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France5.fr_1" tvg-name="FR| FRANCE 5 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| FRANCE 5 FHD (France TV)
 https://www.andykimpe.ovh/france5.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
@@ -30,11 +30,11 @@ https://vavoo.to/play/3813068770/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr_1" tvg-name="FR| M6 HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| M6 HD (vavoo.to)
 https://vavoo.to/play/688242401/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="ARTE.fr_1" tvg-name="FR| ARTE FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FR| FRANCE FHD HD",FR| ARTE FHD (France TV)
 https://www.andykimpe.ovh/arte.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr_1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" tvg-country="FR" group-title="FRANCE",LCP FHD (France TV)
 https://www.andykimpe.ovh/lcpps.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
@@ -44,66 +44,66 @@ https://www.andykimpe.ovh/lcpps.php/index.m3u8
 http://vavoo.to/play/3385549986/index.m3u8
 #EXTVLCOPT:network-caching=65535
 #EXTINF:-1 tvg-id="TMC.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FR| FRANCE TNT",FR| TMC HD (TF1+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://www.andykimpe.ovh/tmc.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TFX.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FR| FRANCE TNT",FR| TFX HD (TF1+)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="Gulli.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" group-title="FRANCE",FR| Gulli (gulli.fr)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="BFMTV.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FR| FRANCE TNT",FR| BFM TV FHD (rmcbfmplay.com)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="CNews.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FR| FRANCE TNT",FR| C NEWS FHD (canalplus.com)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="LCI.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" group-title="FR| FRANCE TNT",FR| LCI  HD (TF1+)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="FranceInfo.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" group-title="FR| FRANCE TNT",FR| France Info FHD (France TV)
 https://www.andykimpe.ovh/franceinfo.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="CStar.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" group-title="FR| FRANCE TNT",FR| CStar FHD (dailymotion.com)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="T18.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" group-title="FR| FRANCE TNT",FR| T18 HD (dailymotion.com)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="Nova19.fr_1" tvg-name="FR| TMC HD (TF1+)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCVpiAI6h-w5636sV9quSqHutYZ9HLff4iA&s" group-title="FR| FRANCE TNT",FR| Nova 19 (semptembre 2025)
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr_1" tvg-name="FR| TF1 Series Films HD (TF1+)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FR| FRANCE TNT",FR| TF1 Series Films HD (TF1+)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="LEquipe21.fr_1" tvg-name="FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FR| FRANCE TNT",FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="6ter.fr_1" tvg-name="FR| 6Ter FHD (kool.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" group-title="FR| FRANCE TNT",FR| 6Ter FHD (kool.to)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2645506972/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="RMCStory.fr_1" tvg-name="FR| RMC STORY FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC STORY FHD (rmcbfmplay.com)
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="RMCdecouverte.fr_1" tvg-name="FR| RMC Decouverte FHD (rmcbfmplay.com)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FR| FRANCE TNT",FR| RMC Decouverte FHD (rmcbfmplay.com)
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="Cherie25.fr_1" tvg-name="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" group-title="FR| FRANCE TNT",FR| Cherie 25 FHD (nrj-play.fr)
 https://www.andykimpe.ovh/cherie25.php/index.m3u8
 
@@ -116,78 +116,78 @@ https://www.andykimpe.ovh/cherie25.php/index.m3u8
 
 
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ FHD (daddylive.dad)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (daddylive.dad)
 https://www.andykimpe.ovh/windnew.newkso.ru.php?id=121
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="CanalPlus.fr_1" tvg-name="FR| CANAL+ HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD (vavoo.to)
 https://www.andykimpe.ovh/vavoo.php?id=4177424223
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 1 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 2 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT 3 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT 3 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-118.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 4 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 HD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 5 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 HD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-495.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 6 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 6 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-496.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 7 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 7 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-497.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 8 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 HD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-498.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 9 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 9 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-499.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORT Max 10 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 HD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-500.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 FHD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT 1 FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-119.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT live 2 HD (daddylive.dad)" tvg-logo="" group-title="FR| SPORTS",FR| RMC SPORT live 2 HD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-120.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Sport FHD (daddylive.dad)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Sport FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-122.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot FHD (daddylive.dad)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Foot FHD (daddylive.dad)
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="BE| la Trois" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCJQPTyz72GnTXz_14i2DPMfHAeUEYyDmHbLmV9m2dkjKQE_HYpGuC8mjEs4&s" group-title="BE| BELGIQUE FHD HD",BE| la Trois
 https://victore447-livetvmain.hf.space/proxy/m3u?url=http://kool.to/play/2866202423/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 1" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 1
 https://www.andykimpe.ovh/rts1.php/index.m3u8
 #EXTVLCOPT:network-caching=65535
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="CH| RTS 2" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://www.andykimpe.ovh/rts2.php/index.m3u8
