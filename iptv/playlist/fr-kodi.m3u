@@ -329,32 +329,32 @@ https://live-up.akamaized.net/public/cherie25/cherie25.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbdf29b4e0533b28450a72df:649f58496dff203cb06e634c72de0257
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$CHERIE_25/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| Teva FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| Teva FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
 https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Teva FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| Teva FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| Teva FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e029b0e0533b28450a1cbb:c7635a7e097b8c6e08df02eea7b61f00
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$TEVA/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="" tvg-name="FR| Teva HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| FR| Teva HD (M6+)
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE TNT",FR| FR| Teva HD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dc804fbc64b53c5da8b80a9f482f4c5e:1b2aeb169d3bbf6c642d22acb436efa0
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/474cfea992b74ad39214dbb136cc92dd/dash_short_cenc10_teva_hd_index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18cd47bbfc1d40d78b9472ae21a0c838:bb90520e8295141d3303ae5268798d1c
 https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53d929b0e0533b28450a1cbb:5efacce631fde406497ea5998b46d1b2
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$PARISPREMIERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paris Premiere HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere HD (M6+)
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere HD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE TNT",FR| FR| Paris Premiere HD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2313f92299a345991eaa36a0aef908b:b0df1cb0d8426cbb760168b071f0eb41
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
