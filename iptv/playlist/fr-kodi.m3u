@@ -120,7 +120,7 @@ https://www.andykimpe.ovh/tmc.php/index.m3u8
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+https://www.andykimpe.ovh/tfx.php/index.m3u8
 #EXTINF:-1  tvg-id="Gulli.fr" tvg-name="FR| Gulli (gulli.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" group-title="FRANCE",FR| Gulli FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -144,7 +144,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+https://www.andykimpe.ovh/lci.php/index.m3u8
 #EXTINF:-1  tvg-id="FranceInfo.fr" tvg-name="FR| France Info FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" group-title="FR| FRANCE TNT",FR| France Info FHD (France TV)
 https://andykimpe.ovh/franceinfo.php/index.m3u8|User-Agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1  tvg-id="CStar.fr" tvg-name="FR| CStar FHD (dailymotion.com)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" group-title="FR| FRANCE TNT",FR| CStar FHD (dailymotion.com)
