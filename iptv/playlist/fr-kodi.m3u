@@ -506,6 +506,11 @@ https://live-up.akamaized.net/public/francetvseries/francetvseries.isml/master.m
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7
 https://live-up.akamaized.net/public/rtl9/rtl9.isml/master.m3u8
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="FR| CINEMA",FR| TV BREIZH FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVBREIZH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1,FR| Comedy Central FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -1008,6 +1013,8 @@ https://vavoo.to/play/2574747173/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Orig
 https://vavoo.to/play/128077399/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ LIGUE1 HD (vavoo.to)
 https://vavoo.to/play/2995711327/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="" tvg-name="FR| POLAR+ HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| POLAR+ HD (vavoo.to)
+https://vavoo.to/play/2143816874/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
