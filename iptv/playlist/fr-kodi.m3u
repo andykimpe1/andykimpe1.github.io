@@ -68,6 +68,11 @@ https://www.andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ff7f8662c97d4f98b4565ca53c7a2fa6:53f207e4b34b9f06fa2c0fcdafa20181
 https://live-up.akamaized.net/public/m6/m6.isml/master.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9629c8e0533b28450a1575:58c95ab267fa708d186366876c104759
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$M6/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
