@@ -13,6 +13,8 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$TF1/index.mpd/Manifest?start=LIVE&end=E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://www.tf1.fr&Referer=https://www.tf1.fr/tf1/direct
 https://www.andykimpe.ovh/tf1.php/index.m3u8
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="FR| TF1 +1 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_1_color.png" group-title="FR| FRANCE TNT",FR| TF1 +1 FHD
+https://www.andykimpe.ovh/iptv1.php?id=43895&time=ok|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| FRANCE TNT",FR| France 2 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -985,66 +987,18 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (6) HD (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (6) HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/1839597702/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD (7) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD (7) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/4177424223/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL HD (1) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL HD (1) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/2641610486/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (7) (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (7) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/6981957/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (1) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (1) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/2246854724/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD (1) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT HD (1) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/4021366844/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (7) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (7) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/2391290436/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT (6) (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ SPORT (6) (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/1012399982/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Foot HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Foot HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/3271278010/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Series HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ Series HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/907568283/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD
+https://www.andykimpe.ovh/iptv1.php?id=43972|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD " tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD
+https://www.andykimpe.ovh/iptv1.php?id=43973|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT FHD
+https://www.andykimpe.ovh/iptv1.php?id=2804|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT HD
+https://www.andykimpe.ovh/iptv1.php?id=2805|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR| CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORT",FR| CANAL+ FOOT FHD
+https://www.andykimpe.ovh/iptv1.php?id=418308|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="FR| CANAL+ SERIES FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1563.png" group-title="FR| SPORT",FR| CANAL+ SERIES FHD
+https://www.andykimpe.ovh/iptv1.php?id=596861|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Cinema HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Cinema HD (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
