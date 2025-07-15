@@ -999,24 +999,16 @@ https://www.andykimpe.ovh/iptv1.php?id=2805|User-Agent=Mozilla/5.0 (Windows NT 1
 https://www.andykimpe.ovh/iptv1.php?id=418308|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="FR| CANAL+ SERIES FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1563.png" group-title="FR| SPORT",FR| CANAL+ SERIES FHD
 https://www.andykimpe.ovh/iptv1.php?id=596861|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ Cinema HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ Cinema HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/974077876/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA FHD
+https://www.andykimpe.ovh/iptv1.php?id=43976|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DECALE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DECALE HD (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1919536632/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ KIDS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ KIDS HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/3804868994/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="FR| CANAL+ KIDS FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| CINEMA",FR| CANAL+ KIDS FHD
+https://www.andykimpe.ovh/iptv1.php?id=43978|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DOCS HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DOCS HD (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
