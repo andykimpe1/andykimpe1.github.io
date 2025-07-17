@@ -2218,7 +2218,7 @@ https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2 FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/la2.png" group-title="ES| ESPAÑA",ES| LA 2 FHD
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/antena3hd.png" group-title="ES| ESPAÑA",ES| ANTENA 3 FHD
-https://user-uuid-f519c4271b584bc4a21e0fb1653bcd8e-is_prem-0:1ee9bec45f60@192.71.213.167:22222/atres-live.atresmedia.com/cbdaa2c4d4cb38e3c4c17352d703ba18ea99bf13_ES_1752747047_1752775787/h264/live/antena3/master.m3u8
+https://www.andykimpe.ovh/antena3.php/master.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/cuatrohd.png" group-title="ES| ESPAÑA",ES| CUATRO FHD
 https://www.andykimpe.ovh/iptv1.php?id=55425
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO SD" tvg-logo="http://100100.zip/PICON/ESPAGNE/cuatro.png" group-title="ES| ESPAÑA",ES| CUATRO SD
