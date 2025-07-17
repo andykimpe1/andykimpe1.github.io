@@ -2212,9 +2212,7 @@ https://www.andykimpe.ovh/iptv1.php?id=61009
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-name="SW| RTS 2 HD" tvg-logo="http://100100.zip/PICON/SUISSE/RTS2.png" group-title="SW| SUISSE",SW| RTS 2 HD
 https://www.andykimpe.ovh/iptv1.php?id=61010
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/la1.png" group-title="ES| ESPAÑA",ES| LA 1 FHD
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 SD" tvg-logo="http://100100.zip/PICON/ESPAGNE/la1.png" group-title="ES| ESPAÑA",ES| LA 1 SD
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+https://www.andykimpe.ovh/rtvelivestream.rtve.es.php/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2 FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/la2.png" group-title="ES| ESPAÑA",ES| LA 2 FHD
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 FHD" tvg-logo="http://100100.zip/PICON/ESPAGNE/antena3hd.png" group-title="ES| ESPAÑA",ES| ANTENA 3 FHD
