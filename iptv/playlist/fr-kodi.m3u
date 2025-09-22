@@ -4,15 +4,6 @@
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc
 https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT",FR| TF1 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e129b0e0533b28450a1cbb:b06c704d8da89332e257afe414792e01
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$TF1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 HD (TF1+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT",FR| TF1 HD (TF1+)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://www.tf1.fr&Referer=https://www.tf1.fr/tf1/direct
-https://www.andykimpe.ovh/tf1.php/index.m3u8
 #EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="FR| TF1 +1 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_1_color.png" group-title="FR| FRANCE TNT",FR| TF1 +1 FHD
 https://www.andykimpe.ovh/iptv1.php?id=43895&time=ok|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| FRANCE TNT",FR| France 2 FHD (app.molotov.tv)
