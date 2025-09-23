@@ -11,90 +11,36 @@ https://www.andykimpe.ovh/iptv1.php?id=43895&time=ok|User-Agent=Mozilla/5.0 (Win
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d
 https://live-up.akamaized.net/public/france2/france2.isml/master.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| FRANCE TNT",FR| France 2 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e8f29c8e0533b28450a1575:68aaa9fb02c982c38af1f9cd65f450ac
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| FRANCE TNT",FR| France 2 FHD (France TV)
-https://www.andykimpe.ovh/france2.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| France 3 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| FRANCE TNT",FR| France 3 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b92c926930ec423f838fc9cffe1d9ac3:bdf779d81772b40d505935f5e0ac363e
 https://live-up.akamaized.net/public/france3/france3.isml/master.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| France 3 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| FRANCE TNT",FR| France 3 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac1ef29c0e0533b28450a2895:11b14699200d5cca8a499305169f8464
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE3/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| France 3 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| FRANCE TNT",FR| France 3 FHD (France TV)
-https://www.andykimpe.ovh/france3.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| France 4 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|09d1564bfead47c38fdf5684ae475a2e:7ad46ae1aa9dc334cd45f072820a3e71
 https://live-up.akamaized.net/public/france4/france4.isml/master.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| France 4 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9129c8e0533b28450a1575:dc5a5a5220c8b2f3200209ed906cbb22
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| France 4 FHD (France TV)
-https://www.andykimpe.ovh/france4.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| France 5 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| FRANCE TNT",FR| France 5 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|43936a382581446584802d47b4ff37f7:148774f12837dd87246fb00f1def12e0
 https://live-up.akamaized.net/public/france5/france5.isml/master.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| France 5 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| FRANCE TNT",FR| France 5 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9229c8e0533b28450a1575:f6b4f6d80a541758058c4810838fecb1
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| France 5 FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| FRANCE TNT",FR| France 5 FHD (France TV)
-https://www.andykimpe.ovh/france5.php/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ff7f8662c97d4f98b4565ca53c7a2fa6:53f207e4b34b9f06fa2c0fcdafa20181
 https://live-up.akamaized.net/public/m6/m6.isml/master.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9629c8e0533b28450a1575:58c95ab267fa708d186366876c104759
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$M6/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (M6+)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (M6+)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| FRANCE TNT",FR| M6 FHD (vavoo.to)
-https://vavoo.to/play/3435456326/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d0dae910576f41f89ee5b6e5981e4798:eafbbdf3024b7eaed63d9855a0925402
 https://live-up.akamaized.net/public/arte/arte.isml/master.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9c2d29dae0533b28450a12f4:093851275cdecb2435648f52fbfe7808
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$ARTE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| FRANCE TNT",FR| ARTE FHD (France TV)
-https://www.andykimpe.ovh/arte.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR| LCP FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" group-title="FR| FRANCE TNT",FR| LCP FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e60c8e5e73b5fd748d0ac9b62395365:2f47713c29ac224760a04b5df96b7790
 https://live-up.akamaized.net/public/lcpps/lcpps.isml/master.m3u8
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR| LCP FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" group-title="FR| FRANCE TNT",FR| LCP FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad1a929b6e0533b28450a581d:d36fc0b59ce09111e3fd31aacf93b2fb
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$LCP/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR| LCP FHD (France TV)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" group-title="FR| FRANCE TNT",FR| LCP FHD (France TV)
-https://www.andykimpe.ovh/lcpps.php/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" group-title="FR| FRANCE TNT",FR| W9 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
