@@ -913,9 +913,9 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (vavoo.to)
-plugin://plugin.video.vavooto/?name=FR%3A+CANAL%2B
+plugin://plugin.video.vavooto/?name=CANAL%2B
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT (vavoo.to)
-plugin://plugin.video.vavooto/?name=FR%3A+CANAL%2B+SPORT
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR| CANAL+ FOOT (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORT",FR| CANAL+ FOOT (vavoo.to)
 plugin://plugin.video.vavooto/?name=FOOT%2B
 #EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="FR| CANAL+ SERIES (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1563.png" group-title="FR| SPORT",FR| CANAL+ SERIES (vavoo.to)
@@ -928,28 +928,10 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+DECALE
 plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="FR| CANAL+ DOCS (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| CINEMA",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ MOTOGP (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ MOTOGP (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/4132894037/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="FR| CANAL+ BOX OFFICE FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE FHD
-https://www.andykimpe.ovh/iptv1.php?id=638881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ F1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ F1 HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/4016263115/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN FHD
-https://www.andykimpe.ovh/iptv1.php?id=391013|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="FR| CANAL+ GRAND ECRAN (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ PREMIER LEAGUE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ PREMIER LEAGUE HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/128077399/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+plugin://plugin.video.vavooto/?name=CANAL%2B+PREMIER+LEAGUE
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ LIGUE1 HD (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
