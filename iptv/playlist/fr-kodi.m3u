@@ -4,8 +4,6 @@
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc
 https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
-#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="FR| TF1 +1 FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_1_color.png" group-title="FR| FRANCE TNT",FR| TF1 +1 FHD
-https://www.andykimpe.ovh/iptv1.php?id=43895&time=ok|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| FRANCE TNT",FR| France 2 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -914,31 +912,23 @@ https://live-up.akamaized.net/public/luxetv/luxetv.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
 https://live-up.akamaized.net/public/playboytveurope/playboytveurope.isml/master.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ FHD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ FHD
-https://www.andykimpe.ovh/iptv1.php?id=43972|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD " tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ HD
-https://www.andykimpe.ovh/iptv1.php?id=43973|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT FHD
-https://www.andykimpe.ovh/iptv1.php?id=2804|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT HD
-https://www.andykimpe.ovh/iptv1.php?id=2805|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR| CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORT",FR| CANAL+ FOOT FHD
-https://www.andykimpe.ovh/iptv1.php?id=418308|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="FR| CANAL+ SERIES FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1563.png" group-title="FR| SPORT",FR| CANAL+ SERIES FHD
-https://www.andykimpe.ovh/iptv1.php?id=596861|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA FHD" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA FHD
-https://www.andykimpe.ovh/iptv1.php?id=43976|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DECALE HD  (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DECALE HD (vavoo.to)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://vavoo.to/play/1919536632/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="FR| CANAL+ KIDS FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| CINEMA",FR| CANAL+ KIDS FHD
-https://www.andykimpe.ovh/iptv1.php?id=43978|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="FR| CANAL+ DOCS FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| CINEMA",FR| CANAL+ DOCS FHD
-https://www.andykimpe.ovh/iptv1.php?id=367451|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ MOTOGP HD  (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ MOTOGP HD (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA",FR| CANAL+ (vavoo.to)
+plugin://plugin.video.vavooto/?name=FR%3A+CANAL%2B
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORT",FR| CANAL+ SPORT (vavoo.to)
+plugin://plugin.video.vavooto/?name=FR%3A+CANAL%2B+SPORT
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR| CANAL+ FOOT (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORT",FR| CANAL+ FOOT (vavoo.to)
+plugin://plugin.video.vavooto/?name=FOOT%2B
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="FR| CANAL+ SERIES (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1563.png" group-title="FR| SPORT",FR| CANAL+ SERIES (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+SERIES
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DECALE (vavoo.to)" tvg-logo="" group-title="FR| CINEMA",FR| CANAL+ DECALE (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+DECALE
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="FR| CANAL+ KIDS (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| CINEMA",FR| CANAL+ KIDS (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="FR| CANAL+ DOCS (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| CINEMA",FR| CANAL+ DOCS (vavoo.to)
+plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ MOTOGP (vavoo.to)" tvg-logo="" group-title="FR| SPORT",FR| CANAL+ MOTOGP (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
