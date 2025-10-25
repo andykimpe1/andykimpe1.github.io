@@ -972,13 +972,13 @@ https://vavoo.to/play/1032026956/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Orig
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/3681222624/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon+ (vavoo.to)" tvg-logo="" group-title="FR| DECOUVERTES",FR| Télétoon+ (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon+ (vavoo.to)" tvg-logo="" group-title="FFR| JEUNESSES",FR| Télétoon+ (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2312780625/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon +1 (vavoo.to)" tvg-logo="" group-title="FR| DECOUVERTES",FR| Télétoon +1 (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| Télétoon +1 (vavoo.to)" tvg-logo="" group-title="FR| JEUNESSES",FR| Télétoon +1 (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
@@ -990,18 +990,23 @@ https://vavoo.to/play/1143042553/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Orig
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2736388639/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| C STAR HITS FRANCE (vavoo.to)" tvg-logo="" group-title="FR| DECOUVERTES",FR| C STAR HITS FRANCE (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| C STAR HITS FRANCE (vavoo.to)" tvg-logo="" group-title="FR| MUSIC",FR| C STAR HITS FRANCE (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/2197361088/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
-#EXTINF:-1 tvg-id="" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="" group-title="FR| DECOUVERTES",FR| Disney Channel FRANCE (vavoo.to)
+#EXTINF:-1 tvg-id="" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="" group-title="FR| JEUNESSES",FR| Disney Channel FRANCE (vavoo.to)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://vavoo.to/play/1174126677/index.m3u8|User-Agent=VAVOO/2.6&Accept=*/*&Origin=https://vavoo.to&Referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="FR| Section de recherches S01E01" tvg-logo="" group-title="FR| Section de recherches",FR| Section de recherches S01E01
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&Accept=*/*&Referer=https://prod-player.tf1.fr/&Origin=https://prod-player.tf1.fr/
+https://vod-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS44Ni4xNTUuMyIsImNtY2QiOiIiLCJleHAiOjE3NjE0NDQ4OTIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTQzMDQ5MiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyODAwMDAwLCJzdGVtIjoiLzIvVVNQLTB4MC8xOS84OS8xNDA1MTk4OS9zc20vMzcwN2FiOTRjNDk2YmI4YmQyNTkxY2VhMzk1YmZmMjYwMDg4MTAzNDU5YTNlYTg5MTFlOWQ0MjdlYzRkY2IzOS5pc20vMTQwNTE5ODkubXBkIiwic3ViIjoiMzFiMWFjODctOWMyZS00NzczLTgyOTYtYmQxOTg3OGI3Y2QzIn0.Ow41pwXGiEy1mikL2FG0xvywu7D9pEK2_5lrS0zwYwo/2/USP-0x0/19/89/14051989/ssm/3707ab94c496bb8bd2591cea395bff260088103459a3ea8911e9d427ec4dcb39.ism/14051989.mpd
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
@@ -1033,11 +1038,7 @@ https://live-video-rtlplay.dpgmedia.net/c223d9abb67d57c7/out/v1/0a710482e91d4f5a
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c89ede5835cc4aaca8117525aeba9abb:40cdc7d9f87de370ab2e8f071a9cec71
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/21b0ea337e84435e92097206a366e865/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BE| RTL District FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL_District_Logo_2024.svg" group-title="BE| BELGIQUE FHD HD",BE| RTL District FHD
+#EXTINF:-1 tvg-id="" tvg-name="BE| RTL District FHD" tvg-logo="https://i.ibb.co/KjzzXKF6/RTL-District-Logo-2024.png" group-title="BE| BELGIQUE FHD HD",BE| RTL District FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3b5bf66399ed44f58859f873e1e1a9c2:d3d4e9defb10ea88d49d5e4b7c6b1b54
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
