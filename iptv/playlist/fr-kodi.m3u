@@ -1017,11 +1017,21 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=ozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/675a0d49/9024ee3d.isml/.mpd
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI HD
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI HD (lien 1)" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI HD (lien 1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|62aadc845ce948d9adddd73a3f3fb4f2:3bbaae09a9ea8594a85a707f50907154
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video.dpgmedia.net/6180c994cb835402/out/v1/24eb589d8c1d473bb1234991a6a774ef/index.mpd
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI HD (lien 2)" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI HD (lien 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70ab711d63204a39af3c67b4cb9b87f9:3e9e1f59c05e2dcda3336929e2768875
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/4b40ecdd0dfb4f49b8c7ed313efbc6aa/index.mpd
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI HD (lien 3)" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI HD (lien 3)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3e9e1f59c05e2dcda3336929e2768875:70ab711d63204a39af3c67b4cb9b87f9
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
+https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/4b40ecdd0dfb4f49b8c7ed313efbc6aa/index.mpd
 #EXTINF:-1 tvg-id="ClubRTL.be" tvg-name="BE| Club RTL HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11E.png" group-title="BE| BELGIQUE FHD HD",BE| Club RTL HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
