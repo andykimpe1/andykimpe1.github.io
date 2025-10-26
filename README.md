@@ -3,13 +3,13 @@ andykimpe1.github.io
 
 for kodi recommend configuration
 
-install kodi 22
+install lastet build kodi 22 build 20251022 or +
 
 add the extention config url
 
 https://andykimpe1.github.io/kodi
 
-install latest inputstream.adaptive 22.2.4 for your device
+install all zip extesion found
 
 activate pvr iptv simple client use this playlist
 
