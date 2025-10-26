@@ -3,7 +3,7 @@ andykimpe1.github.io
 
 for kodi recommend configuration
 
-install lastet build kodi 22 build 20251022 or +
+install latest build kodi 22 build 20251022 or +
 
 add the extention config url
 
