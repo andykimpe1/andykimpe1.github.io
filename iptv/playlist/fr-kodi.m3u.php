@@ -7,12 +7,12 @@ echo "#KODIPROP:inputstream=inputstream.adaptive\r\n";
 echo "#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/\r\n";
 echo "#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc\r\n";
 echo "https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8?" . $molotovsing . "\r\n";
+echo "#EXTINF:-1 tvg-id='France2.fr' tvg-name='FR| France 2 FHD (app.molotov.tv)' tvg-logo='https://focus.telerama.fr/100x100/0000/00/01/clear-4.png' group-title='FR| FRANCE TNT',FR| France 2 FHD (app.molotov.tv)\r\n";
+echo "#KODIPROP:inputstream=inputstream.adaptive\r\n";
+echo "#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/\r\n";
+echo "#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d\r\n";
+echo "https://live-up.akamaized.net/public/france2/france2.isml/master.m3u8?" . $molotovsing . "\r\n";
 /*
-#EXTINF:-1 tvg-id='France2.fr' tvg-name='FR| France 2 FHD (app.molotov.tv)' tvg-logo='https://focus.telerama.fr/100x100/0000/00/01/clear-4.png' group-title='FR| FRANCE TNT',FR| France 2 FHD (app.molotov.tv)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d
-https://live-up.akamaized.net/public/france2/france2.isml/master.m3u8?signature=20251110050000_a43ad7d819c1bfe203ae38cf6bc3796eb8f1fee9&aws.sessionId=ada4de35-dca8-4fea-9e03-fb07cb1e544d
 #EXTINF:-1 tvg-id='France3.fr' tvg-name='FR| France 3 FHD (app.molotov.tv)' tvg-logo='https://focus.telerama.fr/100x100/0000/00/01/clear-80.png' group-title='FR| FRANCE TNT',FR| France 3 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
