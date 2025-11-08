@@ -133,7 +133,7 @@ https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18cd47bbfc1d40d78b9472ae21a0c838:bb90520e8295141d3303ae5268798d1c
 https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR| RTL9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="FR| JEUNESSES" tvg-chno="29",FR| RTL9 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR| RTL9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="FR| GENERALISTES" tvg-chno="29",FR| RTL9 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7
