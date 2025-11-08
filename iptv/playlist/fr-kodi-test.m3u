@@ -204,5 +204,23 @@ https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/mast
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
 https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Ligue1Plus2.fr" tvg-name="FR| Ligue 1+ 2 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="409",FR| Ligue 1+ 2 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+2
+#EXTINF:-1 tvg-id="Ligue1Plus3.fr" tvg-name="FR| Ligue 1+ 3 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="410",FR| Ligue 1+ 3 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+3
+#EXTINF:-1 tvg-id="Ligue1Plus4.fr" tvg-name="FR| Ligue 1+ 4 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="411",FR| Ligue 1+ 4 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+4
+#EXTINF:-1 tvg-id="Ligue1Plus5.fr" tvg-name="FR| Ligue 1+ 5 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="412",FR| Ligue 1+ 5 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+5
+#EXTINF:-1 tvg-id="Ligue1Plus6.fr" tvg-name="FR| Ligue 1+ 6 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="412",FR| Ligue 1+ 6 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+6
+#EXTINF:-1 tvg-id="Ligue1Plus7.fr" tvg-name="FR| Ligue 1+ 7 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="414",FR| Ligue 1+ 7 (vavoo.to)
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+7
+#EXTINF:-1 tvg-id="Ligue1Plus8.fr" tvg-name="FR| Ligue 1+ 8" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="415",FR| Ligue 1+ 8
+https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus9.fr" tvg-name="FR| Ligue 1+ 9" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="416",FR| Ligue 1+ 9
+https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus10.fr" tvg-name="FR| Ligue 1+ 10" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="417",FR| Ligue 1+ 10
+https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR| EUROSPORT 2 (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS" tvg-chno="1000",FR| EUROSPORT 2 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
