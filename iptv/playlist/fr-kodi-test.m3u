@@ -44,11 +44,6 @@ https://live-up.akamaized.net/public/lcpps/lcpps.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|63279e48341740c28dca2de88de3ce68:9ef735f7e7a955e07d16e0efee001fb3
 https://live-up.akamaized.net/public/w9/w9.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" group-title="FR| FRANCE TNT",FR| W9 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e529b0e0533b28450a1cbb:bf0075fa5d94bf4bb23a69115d6302ec
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_W9/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR| TMC FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" group-title="FR| FRANCE TNT",FR| TMC FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
