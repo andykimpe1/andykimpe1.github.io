@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT" tvg-chno="1",FR| TF1 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| FRANCE TNT;FR| GENERALISTES" tvg-chno="1",FR| TF1 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc
@@ -128,12 +128,12 @@ https://live-up.akamaized.net/public/rmclife/rmclife.isml/master.m3u8?MOLOTOSIGN
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 27" tvg-logo="" group-title="" tvg-chno="27",FR| Indisponible 27
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="28",FR| FR| Paris Premiere FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| GENERALISTES" tvg-chno="28",FR| FR| Paris Premiere FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18cd47bbfc1d40d78b9472ae21a0c838:bb90520e8295141d3303ae5268798d1c
 https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR| RTL9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="29",FR| RTL9 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR| RTL9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="FR| GENERALISTES" tvg-chno="29",FR| RTL9 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7
@@ -189,7 +189,7 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
 plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
 #EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-58.png" group-title="FR| JEUNESSES" tvg-chno="50",FR| Disney Channel (vavoo.to)
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="51",FR| AB1 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" group-title="FR| GENERALISTES" tvg-chno="51",FR| AB1 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afdb17c886334904b28d80ba03d0b28e:1cd013cf83a7073dea87815478dfe06c
@@ -199,19 +199,19 @@ https://live-up.akamaized.net/public/ab1/ab1.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb
 https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="53",FR| Teva FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| GENERALISTES" tvg-chno="53",FR| Teva FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
 https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="54",FR| TV BREIZH FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="FR| GENERALISTES" tvg-chno="54",FR| TV BREIZH FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVBREIZH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="FR| Polar+" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA" tvg-chno="55",FR| Polar+
 plugin://plugin.video.vavooto/?name=POLAR%2B
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR| Serie Club FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-49.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="56",FR| Serie Club FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR| Serie Club FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-49.png" group-title="FR| GENERALISTES" tvg-chno="56",FR| Serie Club FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93
