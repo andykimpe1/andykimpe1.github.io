@@ -161,7 +161,7 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest?star
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38b29b8e0533b28450a5a69:39c20726e6046a8daa0cac9769d4f9bb
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="" tvg-name="FR| Ligue 1+ (vavoo.to)" tvg-logo="" group-title="FR| SPORTS" tvg-chno="37",FR| Ligue 1+ (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-name="FR| Ligue 1+ (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS" tvg-chno="37",FR| Ligue 1+ (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+1
 #EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 6" tvg-logo="" group-title="" tvg-chno="38",FR| Indisponible 6
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
@@ -177,7 +177,7 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+360
 plugin://plugin.video.vavooto/?name=FOOT%2B
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-35.png" group-title="FR| SPORTS" tvg-chno="44",FR| CANAL+ SPORT (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT
-#EXTINF:-1 tvg-id="CanalPlusBoxoffice.fr" tvg-name="FR| CANAL+ BOX OFFICE (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-3779.png" group-title="FR| CINEMA" tvg-chno="45",FR| CANAL+ BOX OFFICE (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="FR| CANAL+ BOX OFFICE (vavoo.to)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-3779.png" group-title="FR| CINEMA" tvg-chno="45",FR| CANAL+ BOX OFFICE (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+BOX+OFFICE
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="FR| CANAL+ GRAND ECRAN (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA" tvg-chno="46",FR| CANAL+ GRAND ECRAN (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN
@@ -194,7 +194,7 @@ plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afdb17c886334904b28d80ba03d0b28e:1cd013cf83a7073dea87815478dfe06c
 https://live-up.akamaized.net/public/ab1/ab1.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="" tvg-name="FR| Paramount Network FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1562.png" group-title="FR| CINEMA" tvg-chno="52",FR| Paramount Network FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR| Paramount Network FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1562.png" group-title="FR| CINEMA" tvg-chno="52",FR| Paramount Network FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb
