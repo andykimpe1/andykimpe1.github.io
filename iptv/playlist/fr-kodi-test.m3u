@@ -14,3 +14,8 @@ https://live-up.akamaized.net/public/france2/france2.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b92c926930ec423f838fc9cffe1d9ac3:bdf779d81772b40d505935f5e0ac363e
 https://live-up.akamaized.net/public/france3/france3.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| FRANCE TNT",FR| France 4 FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|09d1564bfead47c38fdf5684ae475a2e:7ad46ae1aa9dc334cd45f072820a3e71
+https://live-up.akamaized.net/public/france4/france4.isml/master.m3u8?MOLOTOSIGN
