@@ -116,6 +116,6 @@ https://live-up.akamaized.net/public/rmcstory/rmcstory.isml/master.m3u8?MOLOTOSI
 https://live-up.akamaized.net/public/rmcdecouverte/rmcdecouverte.isml/master.m3u8?MOLOTOSIGN
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR| RMC Life FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| FRANCE TNT",FR| RMC Life FHD (app.molotov.tv)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bf9b380fcc42b97d8c62398667037377:f99539c15b04ba224920ec5a5ec5cc4a
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|834b6f097c7c2ed1ccfed3e5cf1aed98:b918efcc2a5218f879b805048816b88e
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://live-up.akamaized.net/public/rmclife/rmclife.isml/master.m3u8?MOLOTOSIGN
