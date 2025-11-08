@@ -204,12 +204,18 @@ https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/mast
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
 https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 54" tvg-logo="" group-title="" tvg-chno="54",FR| Indisponible 54
-https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 55" tvg-logo="" group-title="" tvg-chno="55",FR| Indisponible 55
-https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 56" tvg-logo="" group-title="" tvg-chno="56",FR| Indisponible 56
-https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="54",FR| TV BREIZH FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVBREIZH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="FR| Polar+" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA" tvg-chno="55",FR| Polar+
+plugin://plugin.video.vavooto/?name=POLAR%2B
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR| Serie Club FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-49.png" group-title="FR| FRANCE GENERALISTES" tvg-chno="56",FR| Serie Club FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$SERIECLUB/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 57" tvg-logo="" group-title="" tvg-chno="57",FR| Indisponible 57
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| Indisponible 58" tvg-logo="" group-title="" tvg-chno="58",FR| Indisponible 58
