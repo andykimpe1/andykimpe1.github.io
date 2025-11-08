@@ -1,5 +1,8 @@
 <?php
+header('content-type: audio/x-mpegurl');
+header('Content-Disposition: inline; filename="fr-kodi.m3u"');
 $molotovsing = "signature=20251110050000_a43ad7d819c1bfe203ae38cf6bc3796eb8f1fee9&aws.sessionId=ada4de35-dca8-4fea-9e03-fb07cb1e544d";
+
 
 echo "#EXTM3U\r\n";
 echo "#EXTINF:-1 tvg-id='TF1.fr' tvg-name='FR| TF1 FHD (app.molotov.tv)' tvg-logo='https://focus.telerama.fr/100x100/0000/00/01/clear-192.png' group-title='FR| FRANCE TNT',FR| TF1 FHD (app.molotov.tv)\r\n";
