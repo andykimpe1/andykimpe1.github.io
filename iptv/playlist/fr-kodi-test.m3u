@@ -119,3 +119,8 @@ https://live-up.akamaized.net/public/rmcdecouverte/rmcdecouverte.isml/master.m3u
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|834b6f097c7c2ed1ccfed3e5cf1aed98:b918efcc2a5218f879b805048816b88e
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://live-up.akamaized.net/public/rmclife/rmclife.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| FRANCE GENERALISTES",FR| Teva FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
+https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8?MOLOTOSIGN
