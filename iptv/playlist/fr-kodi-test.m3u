@@ -180,11 +180,46 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
+#EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOmono.png" group-title="FR| INFOS",FR| RMC Talk Info FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|58a62bb189274a9cbaf10aa0809e6a46:43f5e505578a67961253892c6a7cfae5
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCTALK_INFO/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUzKA-u3LaM06HOOQjF9fWI-cvOT0SA3BuZw/png" group-title="FR| DECOUVERTES",FR| RMC Mecanic FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|777ccca43af1578c9e87a140b51c424f:0faea4d377c372726995fafd121956d7
 https://live-up.akamaized.net/public/rmcmecanic/rmcmecanic.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCALERTESECOURSmono.png" group-title="FR| DECOUVERTES",FR| RMC Alerte Secours FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4f104d8215e14a959236265e30f7ab8e:3a02da14a832b855df5c1475ee377f38
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCALERTE_SECOURS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMYSTERESmono.png" group-title="FR| DECOUVERTES",FR| RMC Mystere FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6372d73aba9e4b55826913613cd1c0f3:f611a61ec9ebcf05c85dfd70237eddf6
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCMYSTERE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="RMCWOW.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCWOWmono.png" group-title="FR| DECOUVERTES",FR| RMC Wow FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8d4c5079b0a9438aa58989f3c30c1c52:31a55933c9c1eb2a0810415a1efe0cff
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCWOW/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-400.png" group-title="FR| DECOUVERTES",FR| Discovery Channel FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa20429d2e0533b28450a08e5:dd6a4ce86efd0cb87cdaddc22f2b4741
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NC_DISCOVERYCHANNELHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ID100x100.png" group-title="FR| DECOUVERTES",FR| Discovery Investigation FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53bd29b0e0533b28450a1cbb:da1a0d829fc6262524e1a5acc3e0e628
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$DISCOVERY_INVEST/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1097/canal-ouah/CHN43FN/CHN43FN_1097_20240611-7qUQ" group-title="FR| DECOUVERTES",FR| TLC FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a32be58843de47ad8a6a6ee6b66e3548:d3bfc6409285dc3c20fa4cc3afc74908
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$TLC/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
