@@ -109,17 +109,17 @@ https://live-up.akamaized.net/public/lequipe/lequipe.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0eb87a2dff244fb8babba49f5d4b02c4:3ea4b5152fdad956573200f3922ced53
 https://live-up.akamaized.net/public/6ter/6ter.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC STORY FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| TNT;FR| DECOUVERTES",FR| RMC STORY FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|95e053eb717092c95f741c74227a5946:bc5e0c620b6e5edacbc8c12fe1f11e40
 https://live-up.akamaized.net/public/rmcstory/rmcstory.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Decouverte FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| TNT;FR| DECOUVERTES",FR| RMC Decouverte FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|558fe1d592d7249825ca53db482908c3:2a063a01d288515ecdf7481796cbd488
 https://live-up.akamaized.net/public/rmcdecouverte/rmcdecouverte.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Life FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| TNT;FR| DECOUVERTES",FR| RMC Life FHD (app.molotov.tv)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|834b6f097c7c2ed1ccfed3e5cf1aed98:b918efcc2a5218f879b805048816b88e
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -180,6 +180,11 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUzKA-u3LaM06HOOQjF9fWI-cvOT0SA3BuZw/png" group-title="FR| DECOUVERTES",FR| RMC Mecanic FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|777ccca43af1578c9e87a140b51c424f:0faea4d377c372726995fafd121956d7
+https://live-up.akamaized.net/public/rmcmecanic/rmcmecanic.isml/master.m3u8?MOLOTOSIGN
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
