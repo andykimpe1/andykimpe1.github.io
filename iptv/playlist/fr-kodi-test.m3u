@@ -1,303 +1,303 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| TNT;FR| GENERALISTES",FR| TF1 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" group-title="FR| TNT;FR| GENERALISTES",FR| TF1 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc
 https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| France 2 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 2 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 2 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d
 https://live-up.akamaized.net/public/france2/france2.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| France 3 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 3 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-80.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 3 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b92c926930ec423f838fc9cffe1d9ac3:bdf779d81772b40d505935f5e0ac363e
 https://live-up.akamaized.net/public/france3/france3.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| France 4 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 4 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-78.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 4 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|09d1564bfead47c38fdf5684ae475a2e:7ad46ae1aa9dc334cd45f072820a3e71
 https://live-up.akamaized.net/public/france4/france4.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| France 5 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 5 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-47.png" group-title="FR| TNT;FR| GENERALISTES",FR| France 5 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|43936a382581446584802d47b4ff37f7:148774f12837dd87246fb00f1def12e0
 https://live-up.akamaized.net/public/france5/france5.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| TNT;FR| GENERALISTES",FR| M6 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" group-title="FR| TNT;FR| GENERALISTES",FR| M6 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ff7f8662c97d4f98b4565ca53c7a2fa6:53f207e4b34b9f06fa2c0fcdafa20181
 https://live-up.akamaized.net/public/m6/m6.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| TNT;FR| INFOS",FR| ARTE FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-111.png" group-title="FR| TNT;FR| INFOS",FR| ARTE FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d0dae910576f41f89ee5b6e5981e4798:eafbbdf3024b7eaed63d9855a0925402
 https://live-up.akamaized.net/public/arte/arte.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR| LCP FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" group-title="FR| TNT;FR| INFOS",FR| LCP FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-234.png" group-title="FR| TNT;FR| INFOS",FR| LCP FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e60c8e5e73b5fd748d0ac9b62395365:2f47713c29ac224760a04b5df96b7790
 https://live-up.akamaized.net/public/lcpps/lcpps.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR| W9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" group-title="FR| TNT;FR| GENERALISTES",FR| W9 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-119.png" group-title="FR| TNT;FR| GENERALISTES",FR| W9 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|63279e48341740c28dca2de88de3ce68:9ef735f7e7a955e07d16e0efee001fb3
 https://live-up.akamaized.net/public/w9/w9.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR| TMC FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" group-title="FR| TNT;FR| GENERALISTES",FR| TMC FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-195.png" group-title="FR| TNT;FR| GENERALISTES",FR| TMC FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|08ebf8b9502e4bd2ae4efb1c1e177eae:b1c6a41d198d85c374037e25f48b0fe2
 https://live-up.akamaized.net/public/tmc/tmc.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR| TFX FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| TNT;FR| GENERALISTES",FR| TFX FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-446.png" group-title="FR| TNT;FR| GENERALISTES",FR| TFX FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f6f66126497feb5ccac1416b2972fd1c:0098d11704007d20ea6d09b9e3d2a207
 https://live-up.akamaized.net/public/tfx/tfx.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="Gulli.fr" tvg-name="FR| Gulli FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" group-title="FR| TNT;FR| JEUNESSES",FR| Gulli FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-482.png" group-title="FR| TNT;FR| JEUNESSES",FR| Gulli FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|249f464e0cca430a9b4b6750110aa418:3761e43f15f5bdf1d9b1e0befc40c241
 https://live-up.akamaized.net/public/gulli/gulli.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="BFMTV.fr" tvg-name="FR| BFM TV FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" group-title="FR| TNT;FR| INFOS",FR| BFM TV FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-481.png" group-title="FR| TNT;FR| INFOS",FR| BFM TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df95c02d2d8774827560953ad2ae391e:fb7729e67fc0cde6e1d2f7e9a1fff076
 https://live-up.akamaized.net/public/bfmtv/bfmtv.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="CNews.fr" tvg-name="FR| C NEWS FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" group-title="FR| TNT;FR| INFOS",FR| C NEWS FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" group-title="FR| TNT;FR| INFOS",FR| C NEWS FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8b5a03a94ff241af902175703c5a6407:4b364781acf9977da8b608ae6fac7d93
 https://live-up.akamaized.net/public/cnews/cnews.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="LCI.fr" tvg-name="FR| LCI FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" group-title="FR| TNT;FR| INFOS",FR| LCI FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-112.png" group-title="FR| TNT;FR| INFOS",FR| LCI FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|22d30b36ab5924cf32a4adc1402d5f9a:421911e7d3a48ff98f7d74aaf9d69c0c
 https://live-up.akamaized.net/public/lci/lci.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="FranceInfo.fr" tvg-name="FR| France Info FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" group-title="FR| TNT;FR| INFOS",FR| France Info FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="FranceInfo.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2111.png" group-title="FR| TNT;FR| INFOS",FR| France Info FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18825bac3d070360d8eec2a079f40bec:ae7615c7ee6c7376f417725a69bc66aa
 https://live-up.akamaized.net/public/franceinfo/franceinfo.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="CStar.fr" tvg-name="FR| CStar FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" group-title="FR| TNT;FR| MUSIQUES",FR| CStar FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-458.png" group-title="FR| TNT;FR| MUSIQUES",FR| CStar FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a442a1ee9439977ec303b894649fe662:a65702675e20835e5128dfe22d3961a8
 https://live-up.akamaized.net/public/cstar/cstar.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="T18.fr" tvg-name="FR| T18 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" group-title="FR| TNT",FR| T18 FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="T18.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-4139.png" group-title="FR| TNT",FR| T18 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|478b61c3ee7ac74fd2984c6161492f9c:33fbc5d81a1c52db35c9e879a6b9622f
 https://live-up.akamaized.net/public/t18/t18.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="NOVO19.fr" tvg-name="FR| Novo 19 (app.molotov.tv)" tvg-logo="https://i.postimg.cc/BQ8pPDwq/nova19.png" group-title="FR| TNT",FR| Novo 19 (app.molotov.tv)
+#EXTINF:-1  tvg-id="NOVO19.fr" tvg-logo="https://i.postimg.cc/BQ8pPDwq/nova19.png" group-title="FR| TNT",FR| Novo 19 (app.molotov.tv)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b88b2108f959d0d2b3c7c28e46e8344a:0df195dfecca3bd5b8346a903dded7b2
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://live-up.akamaized.net/public/novo19/novo19.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR| TF1 Series Films FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" group-title="FR| TNT;FR| GENERALISTES",FR| TF1 Series Films FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1404.png" group-title="FR| TNT;FR| GENERALISTES",FR| TF1 Series Films FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7b9879511f86e85cf18488a9a4885143:0c39a038911d12d7ccbd60a4adab3764
 https://live-up.akamaized.net/public/tf1seriesfilms/tf1seriesfilms.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR| LA CHAINE L'EQUIPE FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" group-title="FR| TNT;FR| SPORTS",FR| LA CHAINE L'EQUIPE FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1401.png" group-title="FR| TNT;FR| SPORTS",FR| LA CHAINE L'EQUIPE FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4e37825cf82d5194f586972c030d3080:f0d4bff8b3a9cf677b3d82b3e57e9ab3
 https://live-up.akamaized.net/public/lequipe/lequipe.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR| 6TER FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" group-title="FR| TNT;FR| GENERALISTES",FR| 6TER FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1403.png" group-title="FR| TNT;FR| GENERALISTES",FR| 6TER FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0eb87a2dff244fb8babba49f5d4b02c4:3ea4b5152fdad956573200f3922ced53
 https://live-up.akamaized.net/public/6ter/6ter.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="FR| RMC STORY FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC STORY FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1402.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC STORY FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|95e053eb717092c95f741c74227a5946:bc5e0c620b6e5edacbc8c12fe1f11e40
 https://live-up.akamaized.net/public/rmcstory/rmcstory.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR| RMC Decouverte FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Decouverte FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1400.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Decouverte FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|558fe1d592d7249825ca53db482908c3:2a063a01d288515ecdf7481796cbd488
 https://live-up.akamaized.net/public/rmcdecouverte/rmcdecouverte.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR| RMC Life FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Life FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1399.png" group-title="FR| TNT;FR| GENERALISTES",FR| RMC Life FHD (app.molotov.tv)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|834b6f097c7c2ed1ccfed3e5cf1aed98:b918efcc2a5218f879b805048816b88e
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://live-up.akamaized.net/public/rmclife/rmclife.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR| Teva FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| GENERALISTES",FR| Teva FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-191.png" group-title="FR| GENERALISTES",FR| Teva FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|82acbaf7b1b24dfeafae8806656cf2c0:245e7246a99d21bd243d61463c524d80
 https://live-up.akamaized.net/public/teva/teva.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| Paris Premiere FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| GENERALISTES",FR| FR| Paris Premiere FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" group-title="FR| GENERALISTES",FR| FR| Paris Premiere FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18cd47bbfc1d40d78b9472ae21a0c838:bb90520e8295141d3303ae5268798d1c
 https://live-up.akamaized.net/public/parispremiere/parispremiere.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR| RTL9 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-115.png" group-title="FR| GENERALISTES",FR| RTL9 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-115.png" group-title="FR| GENERALISTES",FR| RTL9 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7
 https://live-up.akamaized.net/public/rtl9/rtl9.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-225.png" group-title="FR| GENERALISTES",FR| TV BREIZH FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-225.png" group-title="FR| GENERALISTES",FR| TV BREIZH FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$TVBREIZH/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR| Serie Club FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-49.png" group-title="FR| GENERALISTES",FR| Serie Club FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-49.png" group-title="FR| GENERALISTES",FR| Serie Club FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=null&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$SERIECLUB/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-5.png" group-title="FR| GENERALISTES",FR| AB1 FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-5.png" group-title="FR| GENERALISTES",FR| AB1 FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afdb17c886334904b28d80ba03d0b28e:1cd013cf83a7073dea87815478dfe06c
 https://live-up.akamaized.net/public/ab1/ab1.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ (vavoo.to)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B
-#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="FR| CANAL+ GRAND ECRAN (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="FR| CANAL+ BOX OFFICE (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3779.png" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3779.png" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+BOX+OFFICE
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR| Paramount Network FHD (app.molotov.tv)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1562.png" group-title="FR| CINEMA",FR| Paramount Network FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1562.png" group-title="FR| CINEMA",FR| Paramount Network FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb
 https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="Paramount Network Decale FHD (app.molotov.tv)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paramount_Channel_Decale_color.png" group-title="FR| CINEMA",Paramount Network Decale FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paramount_Channel_Decale_color.png" group-title="FR| CINEMA",Paramount Network Decale FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|856228f3d93fdf9ef3c730bd07ed13b6:7c71db4f8db60a06b24208da3a0bfd1f
 https://live-up.akamaized.net/public/paramountchanneldecale/paramountchanneldecale.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="FR| Polar+ (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA",FR| Polar+ (vavoo.to)
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA",FR| Polar+ (vavoo.to)
 plugin://plugin.video.vavooto/?name=POLAR%2B
-#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="FR| CANAL+ KIDS (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR| Disney Channel (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (vavoo.to)
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (vavoo.to)
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="FR| CANAL+ DOCS (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR| EUROSPORT 1 (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR| EUROSPORT 2 (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="FR| BEIN SPORT 1 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1290.png" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="beinSports1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1290.png" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21b29d2e0533b28450a08e5:f97a650149ca42faf3d37149736ed148
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="beinSports2.fr" tvg-name="FR| BEIN SPORT 2 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1304.png" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="beinSports2.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1304.png" group-title="FR| SPORTS",FR| BEIN SPORT 2 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21329d2e0533b28450a08e5:eba1fc02c83d0ad1f941c62e0712231f
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="beinSports3.fr" tvg-name="FR| BEIN SPORT 3 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1335.png" group-title="FR| SPORTS",FR| BEIN SPORT 3 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="beinSports3.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1335.png" group-title="FR| SPORTS",FR| BEIN SPORT 3 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38b29b8e0533b28450a5a69:39c20726e6046a8daa0cac9769d4f9bb
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="FR| BEIN SPORT Max 4 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1336.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1336.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 4 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="FR| BEIN SPORT Max 5 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1337.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1337.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 5 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38d29b8e0533b28450a5a69:28184f668fef0b3732c9fed26861f112
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="FR| BEIN SPORT Max 6 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1338.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 6 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1338.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 6 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38e29b8e0533b28450a5a69:1792b02fba7e1bbe0da8cdb44103dc6e
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="FR| BEIN SPORT Max 7 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1339.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 7 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1339.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 7 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be479c4bf04d3e0533b28450a4097:2ebb699d015d8e71e13d9acadaf7ed8f
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="FR| BEIN SPORT Max 8 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1340.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1340.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 8 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21829d2e0533b28450a08e5:cd5f5d140671b3a9594972bd4dda4e90
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI6/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="FR| BEIN SPORT Max 9 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1341.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 9 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1341.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 9 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21929d2e0533b28450a08e5:a2c1cc608bb291a21b858e6159532c53
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI7/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="FR| BEIN SPORT Max 10 FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1342.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1342.png" group-title="FR| SPORTS",FR| BEIN SPORT Max 10 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47aa21a29d2e0533b28450a08e5:27480235eb8415f3fc6f5b3d8be4fd2c
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI8/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR| RMC Sport 1 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" group-title="FR| SPORTS",FR| RMC Sport 1 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" group-title="FR| SPORTS",FR| RMC Sport 1 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbce29b4e0533b28450a72df:ec7b42d680f395e98b70f0f41528d13e
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR| RMC Sport Live 2 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_2_color.png" group-title="FR| SPORTS",FR| RMC Sport Live 2 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_2_color.png" group-title="FR| SPORTS",FR| RMC Sport Live 2 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47afbcd29b4e0533b28450a72df:3f09c23d329e616e5be781381578b9d6
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="FR| RMC Sport Live 3 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100.png" group-title="FR| SPORTS",FR| RMC Sport Live 3 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100.png" group-title="FR| SPORTS",FR| RMC Sport Live 3 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaa952a26cbe0533b28450a9878:35a4f31b31084db95a17f722a671aa26
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="FR| RMC Sport Live 4 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100.png" group-title="FR| SPORTS",FR| RMC Sport Live 4 FHD (tv.sfr.fr)
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100.png" group-title="FR| SPORTS",FR| RMC Sport Live 4 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-name="FR| Ligue 1+ (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+1
-#EXTINF:-1 tvg-id="Ligue1Plus2.fr" tvg-name="FR| Ligue 1+ 2 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 2 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus2.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 2 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+2
-#EXTINF:-1 tvg-id="Ligue1Plus3.fr" tvg-name="FR| Ligue 1+ 3 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 3 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus3.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 3 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+3
-#EXTINF:-1 tvg-id="Ligue1Plus4.fr" tvg-name="FR| Ligue 1+ 4 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 4 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus4.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 4 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+4
-#EXTINF:-1 tvg-id="Ligue1Plus5.fr" tvg-name="FR| Ligue 1+ 5 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 5 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus5.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 5 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+5
-#EXTINF:-1 tvg-id="Ligue1Plus6.fr" tvg-name="FR| Ligue 1+ 6 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 6 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus6.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 6 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+6
-#EXTINF:-1 tvg-id="Ligue1Plus7.fr" tvg-name="FR| Ligue 1+ 7 (vavoo.to)" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 7 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus7.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 7 (vavoo.to)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+7
-#EXTINF:-1 tvg-id="Ligue1Plus8.fr" tvg-name="FR| Ligue 1+ 8" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 8
+#EXTINF:-1 tvg-id="Ligue1Plus8.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 8
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="Ligue1Plus9.fr" tvg-name="FR| Ligue 1+ 9" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 9
+#EXTINF:-1 tvg-id="Ligue1Plus9.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 9
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="Ligue1Plus10.fr" tvg-name="FR| Ligue 1+ 10" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 10
+#EXTINF:-1 tvg-id="Ligue1Plus10.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 10
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="FR| CANAL+ SPORT 360 (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3504.png" group-title="FR| SPORTS",FR| CANAL+ SPORT 360 (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3504.png" group-title="FR| SPORTS",FR| CANAL+ SPORT 360 (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+360
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR| CANAL+ FOOT (vavoo.to)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORTS",FR| CANAL+ FOOT (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORTS",FR| CANAL+ FOOT (vavoo.to)
 plugin://plugin.video.vavooto/?name=FOOT%2B
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-35.png" group-title="FR| SPORTS",FR| CANAL+ SPORT (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-35.png" group-title="FR| SPORTS",FR| CANAL+ SPORT (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT
-#EXTINF:-1 tvg-id="" tvg-name="FR| Les Meilleurs jeux TV FHD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU-jdhipwr_9MdjGTleLwwHf_oqVUSA3BuZw/png" group-title="FR| MOLOTOV",FR| Molotov Les Meilleurs jeux TV FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU-jdhipwr_9MdjGTleLwwHf_oqVUSA3BuZw/png" group-title="FR| MOLOTOV",FR| Molotov Les Meilleurs jeux TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/mango-meilleur-jeux-tv/mango-meilleur-jeux-tv.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| Molotov Family Club HD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUIluCqmArunY9mNJrEP5TyigaEkQSA3BuZw/png" group-title="FR| MOLOTOV",FR| Molotov Family Club HD (app.molotov.tv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUIluCqmArunY9mNJrEP5TyigaEkQSA3BuZw/png" group-title="FR| MOLOTOV",FR| Molotov Family Club HD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13735
-#EXTINF:-1 tvg-id="" tvg-name="FR| BBC Top Gear FHD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUFF95MjuS9Q0SXqhrBWUm7XXo_XQSA3BuZw/png" group-title="FR| MOLOTOV",FR| BBC Top Gear FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUFF95MjuS9Q0SXqhrBWUm7XXo_XQSA3BuZw/png" group-title="FR| MOLOTOV",FR| BBC Top Gear FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c9b94540052da35ae7f096a7e616342b:240ed5b436fdfbad8fae4e31320548b8
 https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/bbc_top_gear/bbc_top_gear.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="FR| ADN HD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU-sCTlDGzPizzzYWjkhGzLouheVkSA3BuZw/png" group-title="FR| MOLOTOV",FR| ADN HD (app.molotov.tv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU-sCTlDGzPizzzYWjkhGzLouheVkSA3BuZw/png" group-title="FR| MOLOTOV",FR| ADN HD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12103
-#EXTINF:-1 tvg-id="" tvg-name="FR| BBC Drama FHD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUoY97FCUF89T5xCw9pE3WoGKSmEwSA3BuZw/png" group-title="FR| MOLOTOV",FR| BBC Drama FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUoY97FCUF89T5xCw9pE3WoGKSmEwSA3BuZw/png" group-title="FR| MOLOTOV",FR| BBC Drama FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e130c2c1fc8d9f8f9c7afe4f2ea888eb:615be9dc52cb3d3bc758c0af00d8b833
@@ -484,60 +484,60 @@ https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/mango-enquete/mango-enqu
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f5df675ab43c9b9eb408f28141144bfc:b3e1bc4aeeb0ed3bf2a10345e7df86be
 https://live-up.akamaized.net/public//techandco/techandco.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
-#EXTINF:-1 tvg-id="Tipik.be" tvg-name="BE| Tipik HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08E.png" group-title="BE| BELGIQUE FHD HD",BE| Tipik HD
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08E.png" group-title="BE| BELGIQUE FHD HD",BE| Tipik HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="BE| la Trois HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM281.png" group-title="BE| BELGIQUE FHD HD",BE| la Trois HD
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM281.png" group-title="BE| BELGIQUE FHD HD",BE| la Trois HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd2f35e6414e4c9ba355eae96ed733ea:328bd17b980cb59f5a27dbebc363ebf9
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/675a0d49/9024ee3d.isml/.mpd
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="BE| RTL TVI FHD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI FHD
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11F.png" group-title="BE| BELGIQUE FHD HD",BE| RTL TVI FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70ab711d63204a39af3c67b4cb9b87f9:3e9e1f59c05e2dcda3336929e2768875
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/4b40ecdd0dfb4f49b8c7ed313efbc6aa/index.mpd
-#EXTINF:-1 tvg-id="ClubRTL.be" tvg-name="BE| Club RTL FHD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11E.png" group-title="BE| BELGIQUE FHD HD",BE| Club RTL FHD
+#EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM11E.png" group-title="BE| BELGIQUE FHD HD",BE| Club RTL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1ed03eae20554db0b6af8b44cfcb6ef8:a399580e131032713153d70d55dab7f6
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/c223d9abb67d57c7/out/v1/0a710482e91d4f5a8319d4ff3ae5d919/index.mpd
-#EXTINF:-1 tvg-id="PlugRTL.be" tvg-name="BE| Plug RTL FHD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM07A.png" group-title="BE| BELGIQUE FHD HD",BE| Plug RTL FHD
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM07A.png" group-title="BE| BELGIQUE FHD HD",BE| Plug RTL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c89ede5835cc4aaca8117525aeba9abb:40cdc7d9f87de370ab2e8f071a9cec71
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/21b0ea337e84435e92097206a366e865/index.mpd
-#EXTINF:-1 tvg-id="RTLDistrict.be" tvg-name="BE| RTL District FHD" tvg-logo="https://i.ibb.co/KjzzXKF6/RTL-District-Logo-2024.png" group-title="BE| BELGIQUE FHD HD",BE| RTL District FHD
+#EXTINF:-1 tvg-id="RTLDistrict.be" tvg-logo="https://i.ibb.co/KjzzXKF6/RTL-District-Logo-2024.png" group-title="BE| BELGIQUE FHD HD",BE| RTL District FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3b5bf66399ed44f58859f873e1e1a9c2:d3d4e9defb10ea88d49d5e4b7c6b1b54
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/3dfa6b5d69634219b2078cf1727269f8/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BE| Radio Contact HD" tvg-logo="https://i.ibb.co/0j4s6cHL/contact-radio.png" group-title="BE| BELGIQUE FHD HD",BE| Radio Contact HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0j4s6cHL/contact-radio.png" group-title="BE| BELGIQUE FHD HD",BE| Radio Contact HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e7b3a6b43a134501a8ab16c87111e951:c0fa13a1a626676aac1143ed611e48c2
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/f7b399c8cf81ac81/out/v1/eb9c3c7973bb4cd1bd029fa72b57e316/index.mpd
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-name="BE| Bel RTL HD" tvg-logo="https://i.ibb.co/cSQS7SPL/Bel-rtl-2023.png" group-title="BE| BELGIQUE FHD HD",BE| Bel RTL HD
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.ibb.co/cSQS7SPL/Bel-rtl-2023.png" group-title="BE| BELGIQUE FHD HD",BE| Bel RTL HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6ff2668820aa4c8d87644f7dccac1055:1d928725c16f4385f36f1147091823c8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://www.rtlplay.be/&Origin=https://www.rtlplay.be
 https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/f6878bbf82344c32a065232ef1e64b9d/index.mpd
-#EXTINF:-1 tvg-id="AB3.fr" tvg-name="BE| AB3 HD" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-254.png" group-title="BE| BELGIQUE FHD HD",BE| AB3 HD
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-254.png" group-title="BE| BELGIQUE FHD HD",BE| AB3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3de958506814ded9a91f56d468430b8:f13360c704a2cb316bf6441316a69382
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
 https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
-#EXTINF:-1 tvg-id="RTSUn.ch" tvg-name="CH| RTS 1" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 1
+#EXTINF:-1 tvg-id="RTSUn.ch" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 1
 https://www.andykimpe.ovh/rts1.php/index.m3u8|User-Agent=USERAGENT
-#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-name="CH| RTS 2" tvg-logo="https://static.teleboy.ch/shared/stations/305/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 2
+#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-logo="https://static.teleboy.ch/shared/stations/305/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://www.andykimpe.ovh/rts2.php/index.m3u8|User-Agent=USERAGENT
-#EXTINF:-1 tvg-id="" tvg-name="CH| RTS info" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS info
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CH| SUISSE FHD HD",CH| RTS info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8?dw=7200|User-Agent=USERAGENT
