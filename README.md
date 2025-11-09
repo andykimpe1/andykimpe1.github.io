@@ -13,7 +13,7 @@ install all zip extesion found
 
 activate pvr iptv simple client use this playlist
 
-http://andykimpe.ovh/iptv/playlist/fr-kodi.m3u.php
+https://www.andykimpe.ovh/iptv/playlist/fr-kodi.m3u.php
 
 old pvr iptv simple client kodi
 
