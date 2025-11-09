@@ -2104,13 +2104,6 @@ https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR| EUROSPORT 2 (vavoo.to)" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS" tvg-chno="1000",FR| EUROSPORT 2 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="BE| la Une HD" tvg-logo="https://staticqbr-be-prod.tnprod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/MM08C.png" group-title="BE| BELGIQUE FHD HD" tvg-chno="1001",BE| la Une HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
