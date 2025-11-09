@@ -292,7 +292,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13735
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c9b94540052da35ae7f096a7e616342b:240ed5b436fdfbad8fae4e31320548b8
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/bbc_top_gear/bbc_top_gear.isml/master.m3u8
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/bbc_top_gear/bbc_top_gear.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FR| ADN HD (app.molotov.tv)" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU-sCTlDGzPizzzYWjkhGzLouheVkSA3BuZw/png" group-title="FR| MOLOTOV",FR| ADN HD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -301,7 +301,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12103
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e130c2c1fc8d9f8f9c7afe4f2ea888eb:615be9dc52cb3d3bc758c0af00d8b833
-https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/bbc_drama/bbc_drama.isml/master.m3u8
+https://vod2live-mtv.cloud-01.molotov.tv/public/v2/DATE/bbc_drama/bbc_drama.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR| MOLOTOV",FR| Les Routes du Paradis FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
