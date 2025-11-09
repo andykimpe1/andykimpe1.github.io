@@ -250,7 +250,7 @@ https://live-up.akamaized.net/public/bsmart/bsmart.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|035ef0f1b22b6fd48a983fd9fcbef8ad:75b92a45b5d3848a2a37248af81fee33
 https://live-up.akamaized.net/public/bfm2/bfm2.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR| REGIONS",FR| Le Figaro TV FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" group-title="FR| REGIONS",FR| Le Figaro TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d307a254eb819356d1b39a0e3bbcecc9:5f2824dccf6bfb63304d03e3bd49c6ef
@@ -260,7 +260,7 @@ https://live-up.akamaized.net/public/figarotv/figarotv.isml/master.m3u8?MOLOTOSI
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|156a704f592635962faa58a331cfbb01:9523bbc2fb7f6023be4cd3942c33db42
 https://live-up.akamaized.net/public/lemedia/lemedia.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR| REGIONS",FR| BFM Lyon FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="TeleLyonMetropole.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-116.png" group-title="FR| REGIONS",FR| BFM Lyon FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5631985bf9e75c808e05406981663855:6ed0299fb376e389173e9253b61779f4
