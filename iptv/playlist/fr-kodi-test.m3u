@@ -238,16 +238,114 @@ plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e82a33c03de2407fad3cfffa3962d811:a536ce47e7406c5408d314ff16aeb1f8
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$WARNERTV/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="GameOneplus1.fr" tvg-name="FR| Game One + 1 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Game_One_1_color.png" group-title="FR| JEUNESSES",FR| Game One + 1 FHD (tv.sfr.fr)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19d29b6e0533b28450a581d:975dbb81db7122c0c780f56159670f68
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONEHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="Toonami.fr" tvg-name="FR| Warner TV Next FHD (tv.sfr.fr)" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2040.png" group-title="FR| JEUNESSES",FR| Warner TV Next FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bcbe14376dd94e2cac9ca0fd0700c9dc:f1d94e9d530a2d3d0c986aff9da1bf70
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$WARNER_TV_NEXT/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="GameOneplus1.fr" tvg-name="FR| Game One + 1 FHD (tv.sfr.fr)" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Game_One_1_color.png" group-title="FR| JEUNESSES",FR| Game One + 1 FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19d29b6e0533b28450a581d:975dbb81db7122c0c780f56159670f68
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONEHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUAZDwbM9z_KK0p1wR-r7rfKH47B8SA3BuZw/png" group-title="FR| JEUNESSES",FR| Duck TV FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60fb51470709b3975c821546821cc8ce:c7d39f0a0cb99b3c2337ea035d77597a
+https://live-up.akamaized.net/public/ducktv/ducktv.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="TVPitchoun.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUFNmFwSHDH-POfk2gJkiKMPQPw_cSA3BuZw/png" group-title="FR| JEUNESSES",FR| Pitchoun TV FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86f4d4afcf096bca3d6474afa916bc98:f2a831f91f2569e2b629fc6a0b9ef1c3
+https://live-up.akamaized.net/public/pitchountv/pitchountv.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-229.png" group-title="FR| JEUNESSES",FR| Tiji FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|64a25fbe10f3fcc8d105fe967d637429:8e087545a6554e742f4ee36e9ec471e7
+https://live-up.akamaized.net/public/tiji/tiji.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-888.png" group-title="FR| JEUNESSES",FR| Nickelodeon Junior FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|542967ba82e6ea0e9cc8d970524682a8:6a570204e569f2ddea03f7f9f10a6909
+https://live-up.akamaized.net/public/nickelodeonjunior/nickelodeonjunior.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-32.png" group-title="FR| JEUNESSES",FR| Canal J FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|32e9ce47dd6a0c167469a3ce045adab0:c24b0c59fa3a124614a2134205e129c8
+https://live-up.akamaized.net/public/canalj/canalj.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-473.png" group-title="FR| JEUNESSES",FR| Nickelodeon FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|daecde25acf56b2dd7680be9a0c9b000:2aa29e267d1eb52797f1eec2f8d76823
+https://live-up.akamaized.net/public/nickelodeon/nickelodeon.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Nickelodeonplus1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Nickelodeon_1_color.png" group-title="FR| JEUNESSES",FR| Nickelodeon +1 FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|920d10dfcbb830c6a83efe8681af5f58:e9b7c5308b3fea47d0dc86d7696e70fd
+https://live-up.akamaized.net/public/nickelodeonplus1/nickelodeonplus1.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-87.png" group-title="FR| JEUNESSES",FR| Game One FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|14dc02c030c04602968982e819eea257:436f9b6ad12dd163f0bc34e9bfc954e9
+https://live-up.akamaized.net/public/gameone/gameone.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="GameOneplus1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Game_One_1_color.png" group-title="FR| JEUNESSES",FR| Game One +1 test 1 FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad19d29b6e0533b28450a581d:975dbb81db7122c0c780f56159670f68
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONEHD/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="GameOneplus1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Game_One_1_color.png" group-title="FR| JEUNESSES",FR| Game One +1 test 2 FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47a9e9429c8e0533b28450a1575:b12c204749e257a4497d6468a0cf88a8
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_GAMEONE/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="ES1.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/819/canal-ouah/CHN43FB/CHN43FB_819_20220127" group-title="FR| JEUNESSES",FR| MGG TV FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fda56ac4dfc991cd78e8173d39a6bd48:969d8bd229a1503a6d56fca9b2d3eecd
+https://live-up.akamaized.net/public/mggtv/mggtv.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUlLNDo7WI-UpSr0Rlf9aDl9TooOMSA3BuZw/png" group-title="FR| JEUNESSES",FR| GameToon FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ff2bec4e525845b6221761869d12d1df:0b9d97be02a54ed5417be95c5912c3ea
+https://live-up.akamaized.net/public/gametoon/gametoon.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-6.png" group-title="FR| JEUNESSES",FR| Mangas FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3c34347de6294174bb83afb814b20321:1ef9f598a330bc4225ee06fda91873b2
+https://live-up.akamaized.net/public/mangas/mangas.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="JOne.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1585.png" group-title="FR| JEUNESSES",FR| JOne FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d8251f9909b6fcf133cb88bdba82e12a:cf3966417815e5ac3360e4906678e8e0
+https://live-up.akamaized.net/public/jone/jone.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU0JGPFzcD-nh6DRCYmbrOiOWcnqISA3BuZw/png" group-title="FR| JEUNESSES",FR| Nicktoons FHD (tv.sfr.fr)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ac6ca29bee0533b28450a2d36:807a1782053c63f4fbcb0b74594c62c4
+https://ncdn-live.pfd.sfr.net/sdash/LIVE$NICKELODEON4TEEN/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#EXTINF:-1 tvg-id="Gong.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUg6ov4r1L-wsVKusAE4Vrb3uoEe8SA3BuZw/png" group-title="FR| JEUNESSES",FR| Gong FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bc9b8e76b794d1789d219ffa4fa7f95:fc829c20b99b9875aff265c9b9aadda5
+https://live-up.akamaized.net/public/gong/gong.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUVahyvwFau-fyoTU8aWAoJGxVzqkSA3BuZw/png" group-title="FR| JEUNESSES",FR| Gong Max FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c0d802aba9a34e8eb14472bb3d35c594:bb1c4ac879a88ddb5a3f1fbdd91ac2c0
+https://live-up.akamaized.net/public/gongmax/gongmax.isml/master.m3u8?MOLOTOSIGN
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOmono.png" group-title="FR| INFOS",FR| RMC Talk Info FHD (tv.sfr.fr)
