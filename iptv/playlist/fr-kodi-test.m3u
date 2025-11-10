@@ -425,6 +425,16 @@ https://live-up.akamaized.net/public/crimedistrict/crimedistrict.isml/master.m3u
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|777ccca43af1578c9e87a140b51c424f:0faea4d377c372726995fafd121956d7
 https://live-up.akamaized.net/public/rmcmecanic/rmcmecanic.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png" group-title="FR| DECOUVERTES",FR| E! FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f19a782e71d5840f5157cbe3dd9f35e7:93efecc04ed08814add5b8da052456f1
+https://live-up.akamaized.net/public/efrance/efrance.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Dreamworks.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DREAMWORKS100x100.png" group-title="FR| DECOUVERTES",FR| Dreamworks FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f27b1b5e5fd5f62f530916bae5362b89:1bc7bb93949f48f75aa692a0df461afd
+https://live-up.akamaized.net/public/dreamworksfr/dreamworksfr.isml/master.m3u8?MOLOTOSIGN
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
