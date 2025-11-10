@@ -219,6 +219,16 @@ https://live-up.akamaized.net/public/13emeruefr/13emeruefr.isml/master.m3u8?MOLO
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|52c520e578fa5b522d8f29e67d4fc300:b5d9211e7c3697804aabb74a69708ca3
 https://live-up.akamaized.net/public/syfyfrance/syfyfrance.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-10.png" group-title="FR| CINEMA",FR| Action FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a01ded62df0d4229b0d310029fe09350:d1c798ac6e41bcdd6328a746de6cf753
+https://live-up.akamaized.net/public/action/action.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="DriveInMovieChannel.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Logo_Drivein_Movie_Channel.png" group-title="FR| CINEMA",FR| Drivein FHD (app.molotov.tv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|272d5a37e00060f34c6850dfa5097df3:8b7f271ab3e4cff950474be7c1e8e307
+https://live-up.akamaized.net/public/drivein/drivein.isml/master.m3u8?MOLOTOSIGN
 #EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
 #EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (vavoo.to)
