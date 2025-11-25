@@ -10,7 +10,7 @@
   <timespan>1</timespan>
   <update>f</update>
 <!--    <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>-->
-    <channel update="i" site="telerama.fr" site_id="tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
+    <channel update="i" site="telestar.fr-full" site_id="tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
     <!--    <channel update="i" site="telerama.fr.api" site_id="4" xmltv_id="France2.fr">FR| FRANCE 2 FHD (France TV)</channel>
     <channel update="i" site="telerama.fr.api" site_id="80" xmltv_id="France3.fr">FR| FRANCE 3 FHD (France TV)</channel>
     <channel update="i" site="telerama.fr.api" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
