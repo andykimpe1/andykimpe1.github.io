@@ -215,8 +215,6 @@
 
 <p>L’intérêt est de pouvoir publier un projet avec du code fermé car les PPA (que j’explique dans <a href="https://zedtux.gitlab.io/launchpad-ppa-publier-une-application-ou-bibliothèque/" target="_blank">cet article</a>) de <a href="http://launchpad.net" target="_blank">launchpad.net</a> sont utilisable que pour les projets open source.</p>
 
-<p>Dans mon cas j’en ai besoin pour mon project <strong>Douane</strong> (que je présente dans <a href="https://zedtux.gitlab.io/announcing-douane/" target="_blank">cet article</a> [Anglais]).</p>
-
 <h2 id="principe-de-fonctionnement">Principe de fonctionnement</h2>
 
 <p>Une fois que votre code source est prêt pour être empaqueté, à l’aide de la commande <code class="language-plaintext highlighter-rouge">dput</code> vous enverrez sur votre serveur les fichiers de votre projet et ce dernier qui aura les services <a href="http://julien.danjou.info/projects/rebuildd">rebuildd</a> et <a href="http://mirrorer.alioth.debian.org/">reprepro</a> qui tourneront, va compiler votre projet puis génerer les paquets <code class="language-plaintext highlighter-rouge">.deb</code> pour les différentes architectures que vous aurez configuré.
