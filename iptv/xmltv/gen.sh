@@ -45,9 +45,10 @@ git clone git@github.com:andykimpe1/andykimpe1.github.io.git
 sed 1d $HOME/.wg++/France.xml -i
 sed 1d $HOME/.wg++/France.xml -i
 sed -i '$d' $HOME/.wg++/France.xml
-#﻿<?xml version="1.0" encoding="UTF-8"?>
-#<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-cat $HOME/.wg++/France.xml > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+echo '<?xml version="1.0" encoding="UTF-8"?>' > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+echo '<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+cat $HOME/.wg++/France.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+echo '</tv>' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 rm -f $HOME/andykimpe1.github.io/iptv/xmltv/France.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
