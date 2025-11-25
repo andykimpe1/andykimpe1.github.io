@@ -64,7 +64,7 @@ https://live-up.akamaized.net/public/gulli/gulli.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df95c02d2d8774827560953ad2ae391e:fb7729e67fc0cde6e1d2f7e9a1fff076
 https://live-up.akamaized.net/public/bfmtv/bfmtv.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1  tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" group-title="FR| TNT;FR| INFOS",FR| C NEWS FHD (app.molotov.tv)
+#EXTINF:-1  tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" group-title="FR| TNT;FR| INFOS",FR| CNEWS FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8b5a03a94ff241af902175703c5a6407:4b364781acf9977da8b608ae6fac7d93
