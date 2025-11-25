@@ -9,7 +9,8 @@
   <retry time-out="5">4</retry>
   <timespan>14</timespan>
   <update>f</update>
-    <channel update="i" site="telerama.fr.api" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
+    <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
+    <!--    <channel update="i" site="telerama.fr.api" site_id="192" xmltv_id="TF1.fr">FR| TF1 HD (TF1+)</channel>
     <channel update="i" site="telerama.fr.api" site_id="4" xmltv_id="France2.fr">FR| FRANCE 2 FHD (France TV)</channel>
     <channel update="i" site="telerama.fr.api" site_id="80" xmltv_id="France3.fr">FR| FRANCE 3 FHD (France TV)</channel>
     <channel update="i" site="telerama.fr.api" site_id="78" xmltv_id="France4.fr">FR| FRANCE 4 FHD (France TV)</channel>
@@ -26,15 +27,15 @@
     <channel update="i" site="telerama.fr.api" site_id="112" xmltv_id="LCI.fr">FR| LCI  HD (TF1+)</channel>
     <channel update="i" site="telerama.fr.api" site_id="2111" xmltv_id="FranceInfo.fr">FR| France Info FHD (France TV)</channel>
     <channel update="i" site="telerama.fr.api" site_id="458" xmltv_id="CStar.fr">FR| CStar FHD (dailymotion.com)</channel>
-    <channel update="i" site="telerama.fr.api" site_id="4139" xmltv_id="T18.fr">FR| T18 HD (dailymotion.com)</channel>
+    <channel update="i" site="telerama.fr.api" site_id="4139" xmltv_id="T18.fr">FR| T18 HD (dailymotion.com)</channel>-->
     <!--<channel update="i" site="telerama.fr.api" site_id="?" xmltv_id="Nova19.fr">FR| Nova 19 (semptembre 2025)</channel>-->
-    <channel update="i" site="telerama.fr.api" site_id="1404" xmltv_id="TF1SeriesFilms.fr">FR| TF1 Series Films HD (TF1+)</channel>
+    <!--<channel update="i" site="telerama.fr.api" site_id="1404" xmltv_id="TF1SeriesFilms.fr">FR| TF1 Series Films HD (TF1+)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1401" xmltv_id="LEquipe21.fr">FR| LA CHAINE L'EQUIPE FHD (dailymotion.com)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1403" xmltv_id="6ter.fr">FR| 6Ter FHD (M6+)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1402" xmltv_id="RMCStory.fr">FR| RMC STORY FHD (rmcbfmplay.com)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1400" xmltv_id="RMCdecouverte.fr">FR| RMC Decouverte FHD (rmcbfmplay.com)</channel>
     <channel update="i" site="telerama.fr.api" site_id="1399" xmltv_id="Cherie25.fr">FR| Cherie 25 FHD (abweb)</channel>
-    <channel update="i" site="telerama.fr.api" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (abweb)</channel>
+    <channel update="i" site="telerama.fr.api" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (abweb)</channel>-->
   <channel update="i" site="telenet.tv.be" site_id="launehd##MM08C" xmltv_id="LaUne.be">BE| La Une HD</channel>
   <channel update="i" site="telenet.tv.be" site_id="ladeuxhd##MM08E" xmltv_id="Tipik.be">BE| Tipik HD</channel>
   <channel update="i" site="telenet.tv.be" site_id="latrois##MM281" xmltv_id="LaTrois.be">BE| La Trois HD</channel>
