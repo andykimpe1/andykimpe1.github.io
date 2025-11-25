@@ -1,0 +1,1412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" content="Je travaille pour la plus grand entreprise du monde: L'open source.">
+    <meta name="keywords"  content="Ruby, Rails, Docker, Kubernetes, Javascript, React">
+    <meta name="theme-color" content="#000000">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Dépôt APT/PPA privé sur votre serveur - ZedTuX 0n R00t">
+    
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="Dans cet article, je vais vous expliquer comment installer sur votre serveur un dépôt APT privé.
+">
+    
+    <meta property="article:published_time" content="2014-01-30T22:13:02Z">
+    
+    
+    
+    <meta property="article:tag" content="server">
+    
+    <meta property="article:tag" content="packaging">
+    
+    
+    <meta property="og:image" content="https://zedtux.gitlab.io/img/avatar-zedtux.png">
+    <meta property="og:url" content="https://zedtux.gitlab.io/2014/01/30/depot-aptppa-prive-sur-votre-serveur/">
+    <meta property="og:site_name" content="ZedTuX 0n R00t">
+    
+    <title>Dépôt APT/PPA privé sur votre serveur - ZedTuX 0n R00t</title>
+
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="/pwa/manifest.json">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://zedtux.gitlab.io/2014/01/30/depot-aptppa-prive-sur-votre-serveur/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/hux-blog.min.css">
+
+    <!-- Custom Fonts -->
+    <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+    <!-- Hux change font-awesome CDN to qiniu -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ga & ba script hoook -->
+    <script></script>
+</head>
+
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+
+    <!-- Navigation -->
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">ZedTuX 0n R00t</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Acceuil</a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li>
+                        <a href="/apropos/">A Propos</a>
+                    </li>
+                    
+                    
+                    
+                    <li>
+                        <a href="/archive/">Archive</a>
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </ul>
+            </div>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+<script>
+    // Drop Bootstarp low-performance Navbar
+    // Use customize navbar with high-quality material design animation
+    // in high-perf jank-free CSS3 implementation
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    var __HuxNav__ = {
+        close: function(){
+            $navbar.className = " ";
+            // wait until animation end.
+            setTimeout(function(){
+                // prevent frequently toggle
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        },
+        open: function(){
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+
+    // Bind Event
+    $toggle.addEventListener('click', function(e){
+        if ($navbar.className.indexOf('in') > 0) {
+            __HuxNav__.close()
+        }else{
+            __HuxNav__.open()
+        }
+    })
+
+    /**
+     * Since Fastclick is used to delegate 'touchstart' globally
+     * to hack 300ms delay in iOS by performing a fake 'click',
+     * Using 'e.stopPropagation' to stop 'touchstart' event from
+     * $toggle/$collapse will break global delegation.
+     *
+     * Instead, we use a 'e.target' filter to prevent handler
+     * added to document close HuxNav.
+     *
+     * Also, we use 'click' instead of 'touchstart' as compromise
+     */
+    document.addEventListener('click', function(e){
+        if(e.target == $toggle) return;
+        if(e.target.className == 'icon-bar') return;
+        __HuxNav__.close();
+    })
+</script>
+
+
+    <!-- Image to hack wechat -->
+<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
+<!-- <img src="/img/home-bg.png" width="0" height="0"> -->
+
+<!-- Post Header -->
+
+
+
+<style type="text/css">
+    header.intro-header{
+        position: relative;
+        background-image: url('/img/home-bg.png');
+        background: ;
+    }
+
+    
+</style>
+
+<header class="intro-header" >
+
+    <div class="header-mask"></div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/archive/?tag=server" title="server">server</a>
+                        
+                        <a class="tag" href="/archive/?tag=packaging" title="packaging">packaging</a>
+                        
+                    </div>
+                    <h1>Dépôt APT/PPA privé sur votre serveur</h1>
+                    
+                    <h2 class="subheading"></h2>
+                    <span class="meta">Posted by ZedTuX 0n R00t on January 30, 2014</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                <!-- Multi-Lingual -->
+                
+
+				<p>Dans cet article, je vais vous expliquer comment installer sur votre serveur un dépôt APT privé.</p>
+
+<p>L’intérêt est de pouvoir publier un projet avec du code fermé car les PPA (que j’explique dans <a href="/launchpad-ppa-publier-une-application-ou-bibliothèque/">cet article</a>) de <a href="http://launchpad.net">launchpad.net</a> sont utilisable que pour les projets open source.</p>
+
+<p>Dans mon cas j’en ai besoin pour mon project <strong>Douane</strong> (que je présente dans <a href="/announcing-douane/">cet article</a> [Anglais]).</p>
+
+<h2 id="principe-de-fonctionnement">Principe de fonctionnement</h2>
+
+<p>Une fois que votre code source est prêt pour être empaqueté, à l’aide de la commande <code class="language-plaintext highlighter-rouge">dput</code> vous enverrez sur votre serveur les fichiers de votre projet et ce dernier qui aura les services <a href="http://julien.danjou.info/projects/rebuildd">rebuildd</a> et <a href="http://mirrorer.alioth.debian.org/">reprepro</a> qui tourneront, va compiler votre projet puis génerer les paquets <code class="language-plaintext highlighter-rouge">.deb</code> pour les différentes architectures que vous aurez configuré.
+Finalement les personnes voulant utiliser votre projet n’auront plus qu’a ajouter votre serveur dans leur sources d’apt, importer votre clé GPG puis mettre à jour leur liste de paquet et installer votre projet.</p>
+
+<h2 id="le-dépôt">Le dépôt</h2>
+
+<p>Nous allons commencer par mettre en place le dépôt APT et sa clé GPG sur votre serveur de facon à ce que vous puissiez appeler votre serveur, avec apt, depuis votre machine.
+Bon le dépôt sera vide mais au moins il fonctionnera :-)</p>
+
+<h3 id="installation">Installation</h3>
+
+<p>L’application qui permet de mettre en place un dépôt APT est reprepro.</p>
+
+<p>Une fois que vous êtes connecté à votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo apt-get install reprepro
+sudo mkdir -p /srv/reprepro/{conf,incoming,incomingtmp,bin}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Ceci va donc installer <code class="language-plaintext highlighter-rouge">reprepro</code> et créer la structure dans laquelle votre serveur stockera les paquets.</p>
+
+<h3 id="configuration">Configuration</h3>
+
+<p>Maintenant nous allons configurer <code class="language-plaintext highlighter-rouge">reprepro</code>.</p>
+
+<h4 id="confdistributions">conf/distributions</h4>
+
+<p>Il faut créer le fichier <code class="language-plaintext highlighter-rouge">/srv/reprepro/conf/distributions</code> (en utilisant <code class="language-plaintext highlighter-rouge">sudo</code>) et y décrire les différentes distributions supporté par le dépôt:</p>
+
+<script src="https://gist.github.com/zedtux/8638642.js"></script>
+
+<p><em>J’explique plus bas à quoi servent les lignes:</em></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>Log: logfile
+  --changes /srv/reprepro/bin/build_sources
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="confoptions">conf/options</h4>
+
+<p>Nous allons aussi définir les options que nous voulons pour <code class="language-plaintext highlighter-rouge">reprepro</code> en créant le fichier <code class="language-plaintext highlighter-rouge">/srv/reprepro/conf/options</code> (en utilisant <code class="language-plaintext highlighter-rouge">sudo</code>) avec ce contenu:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>verbose
+basedir .
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="confincoming">conf/incoming</h4>
+
+<p>Afin que nous puissions utiliser la commande <code class="language-plaintext highlighter-rouge">dput</code> pour envoyer nos projets il faut configurer une queue d’entrée pour les fichiers. Pour ce faire créez le fichier <code class="language-plaintext highlighter-rouge">/srv/reprepro/conf/incoming</code> avec ce contenu:</p>
+
+<script src="https://gist.github.com/zedtux/8638750.js"></script>
+
+<p>Dans ce fichier vous devez spécifier les séries/versions que vous supportez. Dans mon exemple j’ai mis les versions <strong>precise quantal raring saucy</strong> d’Ubuntu.</p>
+
+<h3 id="création-dune-clé-gpg">Création d’une clé GPG</h3>
+
+<p>Afin d’éviter que quelqu’un publie des paquets en se faisant passer pour vous il faut créer une clé GPG qui sera utilisée pour signer les paquets <code class="language-plaintext highlighter-rouge">.deb</code>.</p>
+
+<p>Sur votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo -i
+gpg --gen-key
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>(Il est important d’exécuter <code class="language-plaintext highlighter-rouge">gpg --gen-key</code> de cette facon, sinon la clé sera attribué à votre utilisateur et vous auriez l’erreur suivante l’or de l’envoie des paquets créé dans votre dépôt:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>Could not find any key matching 'votre.clé@repo.votre-serveur.com'
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Gardez les valeurs par défaut à chaque questions.
+Seul les questions <strong>Real name:</strong> et <strong>Email address:</strong> sont importantes.
+L’adresse email <strong>DOIT</strong> correspondre à celle que vous avez mis dans le fichier <code class="language-plaintext highlighter-rouge">/srv/reprepro/conf/distributions</code>.
+Cette adresse sera visible dans les paquets.</p>
+
+<p>Pour le moment <strong>n’entrez pas de passphrase</strong>. Ce n’est pas top pour la sécurité, mais je n’ai pas encore réussi à avoir reprepro fonctionnant avec une clé GPG avec une passphrase…</p>
+
+<p>Une fois terminé vous devriez avoir à la fin quelque chose comme ca:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>pub   2048R/55B0A66B 2014-01-27
+      Key fingerprint = A335 3D06 888C 868A BE0C  9A93 2002 7088 44B9 A86B
+uid                  Real name &lt;adresse.email@votre-serveur.com&gt;
+sub   2048R/A47A9C27 2014-01-27
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Il est important pour l’étape suivante que vous sachiez trouver l’ID de votre clé. Dans cet exemple l’ID est <strong>55B0A66B</strong>. C’est la valeur apres le slash (/) de la première ligne.</p>
+
+<h3 id="publication-de-la-clé-gpg">Publication de la clé GPG</h3>
+
+<p>Lorsque les utilisateurs ajouterons votre serveur dans leur sources pour apt, il devront importer votre clé GPG (clé publique), donc il faut la mettre sur un serveur.</p>
+
+<p>Sur votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo gpg --keyserver keyserver.ubuntu.com --send-keys 55B0A66B
+gpg: sending key 55B0A66B to hkp server keyserver.ubuntu.com
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>La clé est bien envoyée sur le serveur :-)</p>
+
+<h3 id="nginx">Nginx</h3>
+
+<p>Pour finir il faut configurer nginx (ou apache) pour donner un accès en HTTP à notre dépôt.</p>
+
+<p>Créez le fichier de configuration avec ce contenu:</p>
+
+<script src="https://gist.github.com/zedtux/9065042.js"></script>
+
+<p>Puis redémarrez nginx.</p>
+
+<h3 id="configurer-apt-pour-utiliser-votre-serveur">Configurer apt pour utiliser votre serveur</h3>
+
+<p>Pour finir cette première partie, il ne reste plus qu’à configurer <code class="language-plaintext highlighter-rouge">apt</code> sur votre machine pour accéder à votre dépôt (oui vide pour le moment).</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo add-apt-repository http://repository.votre-serveur.com/
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 55B0A66B
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Bien entendu vous remplacerez l’ID <strong>55B0A66B</strong> par le votre ;-)</p>
+
+<p>Maintenant si vous mettez à jour apt:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>sudo apt-get update
+[...]
+W: Failed to fetch http://repository.votre-serveur.com/dists/saucy/main/binary-amd64/Packages  404  Not Found
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Donc <code class="language-plaintext highlighter-rouge">apt</code> a bien contacté votre serveur, mais celui-ci n’a pas de paquet a installer (Et donc pas de fichier <strong>Packages</strong>).</p>
+
+<h2 id="mon-premier-paquet">Mon premier paquet</h2>
+
+<p>Maintenant que notre dépôt est pret il faut le remplir! :-)</p>
+
+<p>Ce que nous voulons c’est avoir un comportement proche des PPA de launchpad.net, c’est à dire envoyer les sources et que le serveur compile pour différentes distributions et architectures.</p>
+
+<p>Nous allons pouvoir faire ceci grâce à <code class="language-plaintext highlighter-rouge">rebuildd</code>.</p>
+
+<h3 id="installation-1">Installation</h3>
+
+<p>Ici rien de compliqué. Sur votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo apt-get install rebuildd
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="configuration-1">Configuration</h3>
+
+<p>Voici le cœur du sujet! :-)</p>
+
+<h4 id="etcdefaultrebuildd">/etc/default/rebuildd</h4>
+
+<p>Premièrement il faut authoriser l’exécution de <code class="language-plaintext highlighter-rouge">rebuildd</code>.
+Modifiez le fichier <code class="language-plaintext highlighter-rouge">/etc/default/rebuildd</code> en changant ces paramètres:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+</pre></td><td class="rouge-code"><pre>START_REBUILDD=1
+START_REBUILDD_HTTPD=1
+PBUILDER_MIRROR=http://archive.ubuntu.com/ubuntu/
+ARCHS="i386 amd64"
+DISTS="precise quantal raring saucy"
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p><strong>START_REBUILDD</strong> authorise <code class="language-plaintext highlighter-rouge">rebuildd</code> de démarrer et <strong>START_REBUILDD_HTTPD</strong> authorise de démarrer l’interface web (je vous montre le résultat plus bas).</p>
+
+<p><strong>PBUILDER_MIRROR</strong> indique ou chercher les versions d’Ubuntu. Ici j’utilise le dépôt principal d’Ubuntu.</p>
+
+<p>Pour finir <strong>ARCHS</strong> indique que nous voulons complier des paquets 32 et 64 bits et <strong>DISTS</strong> permet de préciser pour quelles versions d’Ubuntu nous voulons faire des paquets.</p>
+
+<p>Vous remarquerez que nous avons déjà indiqué cette liste dans la configuration de <code class="language-plaintext highlighter-rouge">reprepro</code>. La raison est que <code class="language-plaintext highlighter-rouge">rebuildd</code> et <code class="language-plaintext highlighter-rouge">reprepro</code> sont deux applications différentes pouvant être utilisé indépendement.
+(Peut-être une amélioration de cet article: Trouver un moyen de spécifier 1 seule fois les configurations identiques.)</p>
+
+<h4 id="etcpbuilderrc">/etc/pbuilderrc</h4>
+
+<p>Dans ce fichier nous allons définir une confguration qui sera utilisée par <code class="language-plaintext highlighter-rouge">pbuilder</code> l’or de la création des environnements. Par exemple nous allons ajouter le support des dépôts univers et multivers d’Ubuntu.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+</pre></td><td class="rouge-code"><pre>## Overrides /etc/pbuilderrc
+
+# Default distribution
+# DISTRIBUTION=saucy
+COMPONENTS="main restricted universe multiverse"
+
+# Repositories
+MIRRORSITE=http://archive.ubuntu.com/ubuntu
+#OTHERMIRROR="deb ${MIRRORSITE} ${DISTRIBUTION}-updates ${COMPONENTS}|deb ${MIRRORSITE} ${DISTRIBUTION}-security ${COMPONENTS}"
+
+# For build results
+BUILDRESULT=/var/cache/pbuilder/result
+
+# Hooks for chroot environment
+# HOOKDIR=/var/cache/pbuilder/hook.d
+
+# Mount directories inside chroot environment
+BINDMOUNTS=${BUILDRESULT}
+
+# Bash prompt inside pbuilder
+export debian_chroot="pbuild$$"
+
+# For D70results hook
+export LOCALREPO=${BUILDRESULT}
+
+# Always include source package
+DEBBUILDOPTS="-b"
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="préparation-des-environnements-de-compilation">Préparation des environnements de compilation</h3>
+
+<p>Pour pouvoir préparer des paquets pour différentes versions d’Ubuntu (et surtout différentes architectures), <code class="language-plaintext highlighter-rouge">rebuildd</code> utilise <code class="language-plaintext highlighter-rouge">pbuilder</code>.</p>
+
+<p>Ce dernier créer des environments en créant un environnement émulant la version voulut.</p>
+
+<h4 id="rebuildd-init-build-system">rebuildd-init-build-system</h4>
+
+<p>Cette commande va créer les environnements définis grâce aux variables précédement définies dans <code class="language-plaintext highlighter-rouge">/etc/default/rebuildd</code>: <strong>ARCHS</strong> et <strong>DISTS</strong>.</p>
+
+<p>Il va faire la combinaisons des 2 et va donc créer un environment 32 bits et 64 bits pour la version precise d’Ubuntu et ainsi de suite.</p>
+
+<p>Donc dans un terminal:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo rebuildd-init-build-system
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>(Cette commande prendra plus ou moins de temps, dépendant des variables <strong>ARCHS</strong> et <strong>DISTS</strong>).</p>
+
+<h4 id="si-vous-utilisez-debian">Si vous utilisez Debian</h4>
+
+<p>Si vous êtes sous Debian et que vous désirez faire des paquets pour Ubuntu, vous devriez avoir une erreur indiquant que la clé GPG pour le dépôt d’Ubuntu est inconnu.</p>
+
+<p>Un paquet (http://packages.debian.org/jessie/all/ubuntu-archive-keyring/download) pour une trés ancienne version de Debian existait mais il n’est plus disponible. :-(</p>
+
+<p>Une solution est de télécharger et d’installer manuellement ce paquet:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>cd /tmp
+wget http://ftp.us.debian.org/debian/pool/main/u/ubuntu-keyring/ubuntu-archive-keyring_2012.05.19-1_all.deb
+sudo dkpg -i ubuntu-archive-keyring_2012.05.19-1_all.deb
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="si-vous-voulez-supporter-ubuntu-saucy">Si vous voulez supporter Ubuntu saucy</h4>
+
+<p>Dans ce cas <code class="language-plaintext highlighter-rouge">rebuildd-init-build-system</code> va se terminer en erreur disant:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>No such script: /usr/share/debootstrap/scripts/saucy
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>En jettant un oeil dans ce dossier on s’apercoit que par exemple le script raring est juste un lien vers le script gutsy.
+Faisons la même chose:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>cd /usr/share/debootstrap/scripts/
+sudo ln -s gutsy saucy
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Puis relancer <code class="language-plaintext highlighter-rouge">rebuildd-init-build-system</code>.</p>
+
+<h4 id="initialiser-rebuildd">Initialiser rebuildd</h4>
+
+<p>Pour fonctionner, <code class="language-plaintext highlighter-rouge">rebuildd</code> utilise une base de données.
+Pour initialiser cette base de données il suffit de lancer la commande:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo rebuildd init
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="déclanchement-de-fabrication-des-paquets">Déclanchement de fabrication des paquets</h4>
+
+<p>Plus haut je disais que j’expliquais les lignes:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>Log: logfile
+--changes /srv/reprepro/bin/build_sources
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Et bien c’est ici :-D</p>
+
+<p>Ce qu’elles veulent dire c’est que le script <code class="language-plaintext highlighter-rouge">/srv/reprepro/bin/build_sources</code> sera exécuté dés qu’un fichier source sera ajouté ou supprimé du dépôt.
+C’est exactement ce qu’il nous faut de facon à avoir un système entièrement automatique.</p>
+
+<h4 id="srvrepreprobinbuild_sources">/srv/reprepro/bin/build_sources</h4>
+
+<p>Il nous faut donc créer ce script.</p>
+
+<p>Son role est de créer un job rebuildd pour le fichier source ajouté.
+Voici un exemple de script:</p>
+
+<script src="https://gist.github.com/zedtux/8657114.js"></script>
+
+<p>Ne pas oublier:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo chmod +x /srv/reprepro/bin/build_sources
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>En gros le script créer le job rebuildd que si c’est un ajout et si le fichier est un fichier source (finissant par <strong>_source.changes</strong>).</p>
+
+<p><strong>Info:</strong> rebuildd travail avec un système de queue. Le script va ajouter une entrée dans la queue de rebuildd, mais si le serveur de rebuildd n’est pas démarré, rien ne se passera.</p>
+
+<h4 id="etcrebuilddrebuilddrc">/etc/rebuildd/rebuilddrc</h4>
+
+<p>Avant de démarrer rebuildd il faut mettre à jour le fichier de configuration <code class="language-plaintext highlighter-rouge">/etc/rebuildd/rebuilddrc</code>.</p>
+
+<h5 id="build">[build]</h5>
+
+<p>Premièrement il faut changer <code class="language-plaintext highlighter-rouge">dists</code> en remettant les versions que vous supportez:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>dists = precise quantal raring saucy
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>TODO: Expliquer cette ligne.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>source_cmd = /srv/reprepro/bin/get_sources ${d} ${p} ${v}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Pour gérer la signature automatique de vos paquets avec la clé GPG du dépôt il nous faut un autre script:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>post_build_cmd = /srv/reprepro/bin/upload_binaries ${d} ${p} ${v} ${a}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h5 id="mail">[mail]</h5>
+
+<p>Afin de recevoir les emails des fabrications de paquets:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>mailto = votre-adresse.email@fournisseur.fr
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="srvrepreprobinget_sources">/srv/reprepro/bin/get_sources</h4>
+
+<p>TODO: Expliquer cette ligne.</p>
+
+<p>Voici un exemple de script qui …:</p>
+
+<script src="https://gist.github.com/zedtux/8676080.js"></script>
+
+<p>Ne pas oublier:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo chmod +x /srv/reprepro/bin/get_sources
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="srvrepreprobinupload_binaries">/srv/reprepro/bin/upload_binaries</h4>
+
+<p>Voici un exemple de script qui utilise l’utilisateur debman pour signer le paquet:</p>
+
+<script src="https://gist.github.com/zedtux/8675921.js"></script>
+
+<p>Ne pas oublier:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo chmod +x /srv/reprepro/bin/upload_binaries
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="démarrage-des-services-rebuildd">Démarrage des services rebuildd</h4>
+
+<p>Pour que les jobs rebuildd ajouté par le script <code class="language-plaintext highlighter-rouge">build_sources</code> soient exécuté il faut démarrer les services rebuildd.</p>
+
+<p>Tout d’abord démarrons rebuildd:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo service rebuildd start
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Puis démarrons l’interface web de rebuildd:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo service rebuildd-httpd start
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Vous pouvez d’or et déjà aller sur cette interface web en utilisant votre navigateur web préféré et en allans sur le port 9998.</p>
+
+<p>Vous devriez obtenir ceci:</p>
+
+<p><img src="/content/images/2017/08/Screenshot_from_2014_01_28_21_55_10.png" alt="Screenshot_from_2014_01_28_21_55_10" /></p>
+
+<h3 id="envoyer-mon-premier-paquet">Envoyer mon premier paquet</h3>
+
+<p>Il est temps d’envoyer quelquechose à empaqueté!</p>
+
+<p>Pour ce faire nous utiliserons la commande <code class="language-plaintext highlighter-rouge">dput</code>.</p>
+
+<h4 id="configuration-2">Configuration</h4>
+
+<p>La configuration de <code class="language-plaintext highlighter-rouge">dput</code> consiste en la création d’un fichier <code class="language-plaintext highlighter-rouge">.dput.cf</code> sur votre machine de développement avec le contenu suivant:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+</pre></td><td class="rouge-code"><pre>[DEFAULT]
+default_host_main = notspecified
+
+[mon-serveur]
+fqdn = repository.mon-serveur.com
+login = ftpsecure
+incoming = /incoming
+method = ftp
+hash = sha
+allow_unsigned_uploads = 0
+run_dinstall = 0
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Pour suivre le principe de fonctionnement des PPA, j’utilise ici la methode <strong>ftp</strong>.
+Un compte <strong>ftpsecure</strong> avec des acces limité est utilisé.</p>
+
+<h4 id="importer-sa-clé-gpg">Importer sa clé GPG</h4>
+
+<p>Lorsque vous exécutez la commande <code class="language-plaintext highlighter-rouge">debuild -S -sa</code> vous signer avec votre clé GPG (sur votre machine de dévelopment cette fois) les fichiers.</p>
+
+<p>Il faut donc que reprepro connaisse votre clé publique afin d’accepter uniquement les fichiers pour les clé qu’il connait (et rejeter tout autres envoie de n’importe qui).</p>
+
+<p>Pour ce faire vous devez exporter votre clé public GPG et l’envoyer sur votre serveur depuis votre machine de développement:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>gpg --armor --export votre-adresse-email &gt; votre-adresse-email.asc
+scp ./votre-adresse-email.asc root@votre-serveur:~/
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Ensuite connectez-vous à votre serveur, la clé se trouve dans son dossier ‘home’ de root.
+Importez la:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo gpg --import /root/votre-adresse-email.asc
+sudo rm /root/votre-adresse-email.asc
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="installer-et-configurer-le-service-ftp">Installer et configurer le service ftp</h4>
+
+<p>Il faut maintenant que le service ftp tourne sur votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>sudo apt-get install vsftpd
+sudo adduser --home /srv/reprepro/ ftpsecure
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Entrez un mot de passe qui sera à fournir à chaque envoie.</p>
+
+<p>Maintenant changons quelques options dans <code class="language-plaintext highlighter-rouge">/etc/vsftpd.conf</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre>listen=YES
+anonymous_enable=NO
+local_enable=YES
+write_enable=YES
+local_umask=022
+nopriv_user=ftpsecure
+chroot_local_user=YES
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Et changez les droits de <code class="language-plaintext highlighter-rouge">/srv/reprepro/</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>sudo chmod 750 -R /srv/reprepro/
+sudo chmod 755 -R /srv/reprepro/incoming
+sudo chown ftpsecure:ftpsecure /srv/reprepro/incoming
+sudo chmod 755 /srv/reprepro/
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>De cette facon le dossier ‘home’ de l’utilisateur ftpsecure est <code class="language-plaintext highlighter-rouge">/srv/reprepro/</code> mais il ne peux accéder que dans <code class="language-plaintext highlighter-rouge">/srv/reprepro/incoming</code>.</p>
+
+<p>Et un petit redémarrage de vsftp:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo service vsftpd restart
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="etcaptsourceslist">/etc/apt/sources.list</h4>
+
+<p>Ici nous allons mettre a jour le fichier <code class="language-plaintext highlighter-rouge">/etc/apt/sources.list</code> de votre serveur avec les dépôts que vous supportez vers votre propre serveur.</p>
+
+<p>Cela vous semble bisard ? Je vous rassure c’est normal ! :-)
+Allez, on s’accroche, car ca va pas être facile à comprendre.</p>
+
+<p>Cette partie est importante car avant que <code class="language-plaintext highlighter-rouge">pbuilder</code> se lance pour fabriquer votre paquet, le script <code class="language-plaintext highlighter-rouge">/srv/reprepro/bin/get_sources</code> va être exécuté avec le paramètre <code class="language-plaintext highlighter-rouge">-t &lt;distribution ubuntu&gt;</code> afin de récuperer tout le contenue de votre propre dépôt, et donc avoir le fichier <code class="language-plaintext highlighter-rouge">.tar.gz</code> ainsi que <code class="language-plaintext highlighter-rouge">\_source.changes</code> dans l’environnement de pbuidler.</p>
+
+<p>Sans cette partie <code class="language-plaintext highlighter-rouge">pbuilder</code> n’aurait rien a fabriquer.</p>
+
+<p>Donc ajouter ces lignes pour chaque version d’Ubuntu que vous supportez:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre># Sources for rebuildd
+deb http://repository.mon-serveur.com saucy main
+deb-src http://repository.mon-serveur.com saucy main
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Donc selon l’exemple de cet article:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+</pre></td><td class="rouge-code"><pre># Sources for rebuildd
+deb http://repository.mon-serveur.com precise main
+deb-src http://repository.mon-serveur.com precise main
+
+deb http://repository.mon-serveur.com quantal main
+deb-src http://repository.mon-serveur.com quantal main
+
+deb http://repository.mon-serveur.com raring main
+deb-src http://repository.mon-serveur.com raring main
+
+deb http://repository.mon-serveur.com saucy main
+deb-src http://repository.mon-serveur.com saucy main
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h4 id="envoie">Envoie</h4>
+
+<p>Dans le dossier de votre projet, apres avoir préparé le dossier debian/ et excécuté la commande <code class="language-plaintext highlighter-rouge">debuild -S -sa</code> vous devriez avoir un fichier finissant par <strong>_source.changes</strong>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="rouge-code"><pre>dput mon-serveur ./helloworld_1.0.0-0ubuntu1~amd64~saucy1_source.changes
+[...]
+Uploading to mon-serveur (via ftp to repository.mon-serveur.com):
+ftpsecure@repository.mon-serveur.com password: 
+  Uploading helloworld_1.0.0-0ubuntu1~amd64~saucy1.dsc: done.
+  Uploading helloworld_1.0.0-0ubuntu1~amd64~saucy1.tar.gz: done.      
+  Uploading helloworld_1.0.0-0ubuntu1~amd64~saucy1_source.changes: done.
+Successfully uploaded packages.
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Les fichiers seront copier dans votre dépôt, puis rappatrié pour pbuilder grâce a apt et pbuilder se lancera pour fabriquer votre paquet.
+Pour finir votre paquet sera copié dans votre dépôt et donc disponible.</p>
+
+<h4 id="démarrage-de-la-fabrication-des-paquets">Démarrage de la fabrication des paquets</h4>
+
+<p>Maintenant que les fichiers sont sur votre serveur, a la bonne place, il ne reste plus qu’a lancer la fabrication:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo reprepro -V -b /srv/reprepro processincoming incoming
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Cette commande va copier les sources au bonne endroit pour pbuilder puis créer un job pour rebuildd afin de fabriquer les paquets.
+Une fois la commande terminé, si vous allez sur l’application web rebuildd vous verez le job:</p>
+
+<p><img src="/content/images/2017/08/Screenshot_from_2014_02_09_12_33_35.png" alt="Screenshot_from_2014_02_09_12_33_35" /></p>
+
+<h4 id="automatiser-le-démarrage">Automatiser le démarrage</h4>
+
+<p>Pour éviter de devoir se connecter et lancer la commande a la main tout le temps, nous allons utiliser inotify (Module Linux pour écouter des évements du disque dur comme la création/modification/… de fichiers).</p>
+
+<p>La solution que je vous propose est <strong>incron</strong>.</p>
+
+<p>Tout d’abord installez le paquet sur votre serveur:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo apt-get install incron
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Il faut autoriser l’utilisateur root en modifiant le fichier <code class="language-plaintext highlighter-rouge">/etc/incron.allow</code> et en ajoutant <strong>root</strong>.</p>
+
+<p>Puis le configurer:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo incrontab -e
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Ceci vous ouvre un fichier a modifier. Ajoutez cette ligne:</p>
+
+<script src="https://gist.github.com/zedtux/8886453.js"></script>
+
+<p>Puis tappez <code class="language-plaintext highlighter-rouge">:</code> et <code class="language-plaintext highlighter-rouge">wq</code> pour sauvegarder et quitter.</p>
+
+<p>Des lor, lorsque des fichiers seront ajouté dans le dossier <code class="language-plaintext highlighter-rouge">/srv/reprepro/incoming</code>, le script <code class="language-plaintext highlighter-rouge">reprepro_trigger.sh</code> sera exécuté.</p>
+
+<p>Donc il faut créer le script avec <code class="language-plaintext highlighter-rouge">sudo nano /usr/local/bin/reprepro_trigger.sh</code>:</p>
+
+<script src="https://gist.github.com/zedtux/8886511.js"></script>
+
+<p>Et ne pas oublier de le rendre exécutable:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>sudo chmod +x /usr/local/bin/reprepro_trigger.sh
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+
+                <hr style="visibility: hidden;">
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2014/01/29/xpath-1-0-cibler-un-parent-par-son-type/" data-toggle="tooltip" data-placement="top" title="XPath 1.0 cibler un parent par son type">
+                        Précédent<br>
+                        <span>XPath 1.0 cibler un parent par son type</span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/2014/02/10/les-clones-de-github/" data-toggle="tooltip" data-placement="top" title="Les clones de Github">
+                        Suivant<br>
+                        <span>Les clones de Github</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <hr style="visibility: hidden;">
+
+                
+
+                
+            </div>
+
+    <!-- Side Catalog Container -->
+        
+
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Featured Tags -->
+                
+
+
+<section>
+    
+        <hr class="hidden-sm hidden-xs">
+    
+    <h5><a href="/archive/">ÉTIQUETTES</a></h5>
+    <div class="tags">
+        
+        
+        
+        
+        
+        
+                <a data-sort="0192"
+                    href="/archive/?tag=linux"
+                    title="linux"
+                    rel="40">linux</a>
+        
+                <a data-sort="0185"
+                    href="/archive/?tag=docker"
+                    title="docker"
+                    rel="47">docker</a>
+        
+                <a data-sort="0210"
+                    href="/archive/?tag=server"
+                    title="server"
+                    rel="22">server</a>
+        
+                <a data-sort="0216"
+                    href="/archive/?tag=rails"
+                    title="rails"
+                    rel="16">rails</a>
+        
+                <a data-sort="0217"
+                    href="/archive/?tag=douane"
+                    title="douane"
+                    rel="15">douane</a>
+        
+                <a data-sort="0217"
+                    href="/archive/?tag=my-developments"
+                    title="my-developments"
+                    rel="15">my-developments</a>
+        
+                <a data-sort="0220"
+                    href="/archive/?tag=command-line"
+                    title="command-line"
+                    rel="12">command-line</a>
+        
+                <a data-sort="0221"
+                    href="/archive/?tag=ruby"
+                    title="ruby"
+                    rel="11">ruby</a>
+        
+                <a data-sort="0222"
+                    href="/archive/?tag=c-2"
+                    title="c-2"
+                    rel="10">c-2</a>
+        
+                <a data-sort="0223"
+                    href="/archive/?tag=linux-on-mac"
+                    title="linux-on-mac"
+                    rel="9">linux-on-mac</a>
+        
+                <a data-sort="0223"
+                    href="/archive/?tag=maintenance"
+                    title="maintenance"
+                    rel="9">maintenance</a>
+        
+                <a data-sort="0223"
+                    href="/archive/?tag=security"
+                    title="security"
+                    rel="9">security</a>
+        
+                <a data-sort="0224"
+                    href="/archive/?tag=gnome"
+                    title="gnome"
+                    rel="8">gnome</a>
+        
+                <a data-sort="0224"
+                    href="/archive/?tag=kubernetes"
+                    title="kubernetes"
+                    rel="8">kubernetes</a>
+        
+                <a data-sort="0224"
+                    href="/archive/?tag=mes-developpements"
+                    title="mes-developpements"
+                    rel="8">mes-developpements</a>
+        
+                <a data-sort="0226"
+                    href="/archive/?tag=ubuntu"
+                    title="ubuntu"
+                    rel="6">ubuntu</a>
+        
+                <a data-sort="0227"
+                    href="/archive/?tag=python"
+                    title="python"
+                    rel="5">python</a>
+        
+                <a data-sort="0227"
+                    href="/archive/?tag=vcs"
+                    title="vcs"
+                    rel="5">vcs</a>
+        
+                <a data-sort="0228"
+                    href="/archive/?tag=capybara"
+                    title="capybara"
+                    rel="4">capybara</a>
+        
+                <a data-sort="0228"
+                    href="/archive/?tag=contribution"
+                    title="contribution"
+                    rel="4">contribution</a>
+        
+                <a data-sort="0228"
+                    href="/archive/?tag=git"
+                    title="git"
+                    rel="4">git</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=apt"
+                    title="apt"
+                    rel="3">apt</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=bazaar"
+                    title="bazaar"
+                    rel="3">bazaar</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=chef"
+                    title="chef"
+                    rel="3">chef</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=cucumber"
+                    title="cucumber"
+                    rel="3">cucumber</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=debian"
+                    title="debian"
+                    rel="3">debian</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=game"
+                    title="game"
+                    rel="3">game</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=howto"
+                    title="howto"
+                    rel="3">howto</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=packaging"
+                    title="packaging"
+                    rel="3">packaging</a>
+        
+                <a data-sort="0229"
+                    href="/archive/?tag=testing"
+                    title="testing"
+                    rel="3">testing</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=boost"
+                    title="boost"
+                    rel="2">boost</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=debug"
+                    title="debug"
+                    rel="2">debug</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=devise"
+                    title="devise"
+                    rel="2">devise</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=elixir"
+                    title="elixir"
+                    rel="2">elixir</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=gtk"
+                    title="gtk"
+                    rel="2">gtk</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=homebrew"
+                    title="homebrew"
+                    rel="2">homebrew</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=information"
+                    title="information"
+                    rel="2">information</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=ssh"
+                    title="ssh"
+                    rel="2">ssh</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=tuxtremsplit"
+                    title="tuxtremsplit"
+                    rel="2">tuxtremsplit</a>
+        
+                <a data-sort="0230"
+                    href="/archive/?tag=xpath"
+                    title="xpath"
+                    rel="2">xpath</a>
+    </div>
+</section>
+
+
+
+                <!-- Friends Blog -->
+                
+<hr>
+<h5>AMIS</h5>
+<ul class="list-inline">
+  
+  <li><a href="https://spaceinvade.rs/">Landry Soules</a></li>
+  
+</ul>
+
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<!-- add support for mathjax by voleking-->
+
+
+
+
+
+
+
+
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
+<script>
+    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
+        anchors.options = {
+          visible: 'hover',
+          placement: 'right',
+          // icon: '#'
+        };
+        anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
+    })
+</script>
+<style>
+    /* place left on bigger screen */
+    @media all and (min-width: 800px) {
+        .anchorjs-link{
+            position: absolute;
+            left: -0.75em;
+            font-size: 1.1em;
+            margin-top : -0.1em;
+        }
+    }
+</style>
+
+
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <!-- SNS Link -->
+                
+
+
+<ul class="list-inline text-center">
+
+
+  
+  
+  <li>
+    <a href="https://twitter.com/zedtux">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  <li>
+    <a target="_blank" href="https://github.com/zedtux">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  
+  
+</ul>
+
+                <p class="copyright text-muted">
+                    Copyright &copy; ZedTuX 0n R00t 2020
+                    <br>
+                    Powered by <a href="http://huangxuan.me">Hux Blog</a> |
+                    <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                        height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true">
+                    </iframe>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/hux-blog.min.js "></script>
+
+<!-- Service Worker -->
+
+<script src="/js/snackbar.js "></script>
+<script src="/js/sw-registration.js "></script>
+
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+        var d = document, t = 'script',
+            o = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        o.src = u;
+        if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+        s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+<!--
+     Because of the native support for backtick-style fenced code blocks
+     right within the Markdown is landed in Github Pages,
+     From V1.6, There is no need for Highlight.js,
+     so Huxblog drops it officially.
+
+     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+     - https://help.github.com/articles/creating-and-highlighting-code-blocks/
+     - https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers
+-->
+<!--
+    <script>
+        async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function(){
+            hljs.initHighlightingOnLoad();
+        })
+    </script>
+    <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+-->
+
+
+
+
+
+
+
+<!--fastClick.js -->
+<script>
+    async("//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function () {
+        var $nav = document.querySelector("nav");
+        if ($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+<!-- Google Analytics -->
+
+
+
+<!-- Baidu Tongji -->
+
+
+
+<!-- Side Catalog -->
+
+
+
+<!-- Multi-Lingual -->
+
+
+
+
+<!-- Image to hack wechat -->
+<img src="/img/icon_wechat.png" width="0" height="0" />
+<!-- Migrate from head to bottom, no longer block render and still work -->
+
+</body>
+
+</html>
