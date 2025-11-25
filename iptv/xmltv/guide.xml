@@ -2,6 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TF1.fr">
     <display-name lang="fr">FR| TF1 FHD (app.molotov.tv)</display-name>
-    <url>http://www.telerama.fr.api</url>
+    <url>http://www.telerama.fr</url>
   </channel>
 </tv>
