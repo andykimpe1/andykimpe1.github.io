@@ -323,19 +323,6 @@ https://live-up.akamaized.net/public/gong/gong.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c0d802aba9a34e8eb14472bb3d35c594:bb1c4ac879a88ddb5a3f1fbdd91ac2c0
 https://live-up.akamaized.net/public/gongmax/gongmax.isml/master.m3u8?MOLOTOSIGN
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOmono.png" group-title="FR| INFOS",FR| RMC Talk Info FHD (tv.sfr.fr)
