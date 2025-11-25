@@ -9,7 +9,7 @@
   <retry time-out="5000">400</retry>
   <timespan>14</timespan>
   <update>f</update>
-    <channel update="i" site="programme-tv.com" site_id="1/programme-television-tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
+    <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
     <channel update="i" site="telerama.fr" site_id="france-2" xmltv_id="France2.fr">FR| France 2 FHD (app.molotov.tv)</channel>
     <channel update="i" site="telerama.fr" site_id="france-3" xmltv_id="France3.fr">FR| France 3 FHD (app.molotov.tv)</channel>
     <channel update="i" site="telerama.fr" site_id="france-4" xmltv_id="France4.fr">FR| France 4 FHD (app.molotov.tv)</channel>
