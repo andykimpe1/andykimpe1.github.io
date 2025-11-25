@@ -31,7 +31,7 @@ wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
 cd $HOME/.wg++/
 ./install.sh
-rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip
+rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/Documentation.pdf
 wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 unzip SiteIniPack_current.zip
 wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGrab++.config.xml
