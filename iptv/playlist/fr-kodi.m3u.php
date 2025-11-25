@@ -3,7 +3,7 @@ $molotovlogin = "molotovemailfreeaccount@example.com";
 $molotovpassword = "molotovpassword";
 header('content-type: audio/x-mpegurl');
 header('Content-Disposition: inline; filename="fr-kodi.m3u"');
-$useragent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0";
+$useragent = "Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0";
 $date = date("Ymd");
 $ch1 = curl_init();
 curl_setopt($ch1, CURLOPT_URL, "https://fapi.molotov.tv/v3.1/auth/login");
