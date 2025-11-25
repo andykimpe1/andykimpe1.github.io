@@ -1,3 +1,1714 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TF1.fr">
+    <display-name lang="fr">FR| TF1 FHD (app.molotov.tv)</display-name>
+    <url>http://www.sfr.fr</url>
+  </channel>
+  <channel id="France2.fr">
+    <display-name lang="fr">FR| France 2 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France3.fr">
+    <display-name lang="fr">FR| France 3 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France4.fr">
+    <display-name lang="fr">FR| France 4 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France5.fr">
+    <display-name lang="fr">FR| France 5 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="M6.fr">
+    <display-name lang="fr">FR| M6 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ARTE.fr">
+    <display-name lang="fr">FR| ARTE FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="LaChaineParlementaire.fr">
+    <display-name lang="fr">FR| LCP FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="W9.fr">
+    <display-name lang="fr">FR| W9 FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TMC.fr">
+    <display-name lang="fr">FR| TMC FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TFX.fr">
+    <display-name lang="fr">FR| TFX FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Gulli.fr">
+    <display-name lang="fr">FR| Gulli FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BFMTV.fr">
+    <display-name lang="fr">FR| BFM TV FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CNews.fr">
+    <display-name lang="fr">FR| CNEWS FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="LCI.fr">
+    <display-name lang="fr">FR| LCI FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="FranceInfo.fr">
+    <display-name lang="fr">FR| France Info FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CStar.fr">
+    <display-name lang="fr">FR| CStar FHD (app.molotov.tv)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <programme start="20251125003000 +0000" stop="20251125013000 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <sub-title lang="fr">Le rêve ne se réalisera pas</sub-title>
+    <desc lang="fr">L'équipe se joint à un groupe de travail d'infiltration dans l'espoir de briser un abominable réseau souterrain de traite des êtres humains.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/7/13015784.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/7/13015785.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/4/5757439.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/0/8952096.jpg" />
+    <episode-num system="onscreen">S21 E7</episode-num>
+  </programme>
+  <programme start="20251125013000 +0000" stop="20251125045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251125045000 +0000" stop="20251125055500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251125055500 +0000" stop="20251125085500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 10h00, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/12860127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/12860130.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/12860128.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/12860129.jpg" />
+    <episode-num system="onscreen">E492</episode-num>
+  </programme>
+  <programme start="20251125085500 +0000" stop="20251125095500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/8772681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/8772682.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/6/8761637.jpg" />
+  </programme>
+  <programme start="20251125095500 +0000" stop="20251125104500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+    <category lang="fr">Série sentimentale</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5657205.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/2/5657206.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/8531645.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/5657204.jpg" />
+    <episode-num system="onscreen">E9357</episode-num>
+  </programme>
+  <programme start="20251125104500 +0000" stop="20251125105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251125105000 +0000" stop="20251125115500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E93</episode-num>
+  </programme>
+  <programme start="20251125115500 +0000" stop="20251125120000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251125120000 +0000" stop="20251125125000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251125125000 +0000" stop="20251125125500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251125125500 +0000" stop="20251125130000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251125130000 +0000" stop="20251125132500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Tandis que la police progresse dans son enquête, Chloé et Baptiste font face à un ultime obstacle. De son côté, Apolline démarre son traitement.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/7/8540752.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/7/8540754.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/9/8528988.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/8810694.jpg" />
+    <episode-num system="onscreen">S2 E471</episode-num>
+  </programme>
+  <programme start="20251125132500 +0000" stop="20251125150000 +0000" channel="TF1.fr">
+    <title lang="fr">Chantons sous la neige</title>
+    <desc lang="fr">Violette, une jeune femme originaire d'une région reculée, arrive à New York où elle a été recrutée comme chanteuse sur une tournée. Malheureusement, les producteurs ont annulé la tournée et Violette se retrouve sans travail et sans logement. Elle se tourne alors vers Hazel, une amie de sa famille. Hazel dirige le cabaret "Chez Fiore" où elle donne sa chance à de nombreux jeunes artistes...(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/5/13125548.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/5/13125547.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/3/13080388.jpg" />
+  </programme>
+  <programme start="20251125150000 +0000" stop="20251125163000 +0000" channel="TF1.fr">
+    <title lang="fr">Un Noël magique à New York</title>
+    <desc lang="fr">Un jeune publicitaire, qui passe Noël tous les ans avec sa meilleure amie, réalise qu'il a peut-être des sentiments pour elle, mais celle-ci a un nouvel amoureux.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/8/13084861.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/13084862.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/8/13084860.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/8/13084863.jpg" />
+  </programme>
+  <programme start="20251125163000 +0000" stop="20251125173000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E37</episode-num>
+  </programme>
+  <programme start="20251125173000 +0000" stop="20251125181000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">Lors des examens, la brigade de Gary, Ninon et Pénélope bat de l'aile. A L'institut, Teyssier veut quitter la scène. A l'internat, Fleur rase les murs.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/12988279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/12988292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12988282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/2/12988289.jpg" />
+    <episode-num system="onscreen">S6 E1313</episode-num>
+  </programme>
+  <programme start="20251125181000 +0000" stop="20251125185500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">La nouvelle de l'agression de Marceau se diffuse au lycée. Violette convoque Jordan pour lui annoncer sa décision. Les amis de Sylvain plaident sa cause.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/12902970.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/12902973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/12902971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/12902972.jpg" />
+    <episode-num system="onscreen">S9 E2081</episode-num>
+  </programme>
+  <programme start="20251125185500 +0000" stop="20251125190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251125190000 +0000" stop="20251125194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251125194500 +0000" stop="20251125195000 +0000" channel="TF1.fr">
+    <title lang="fr">My Million</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/12547238.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/2/12547241.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/12547239.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/2/12547240.jpg" />
+  </programme>
+  <programme start="20251125195000 +0000" stop="20251125200000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251125200000 +0000" stop="20251125201000 +0000" channel="TF1.fr">
+    <title lang="fr">C'est Canteloup</title>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/7/13009735.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/13009738.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/7/13009736.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/7/13009737.jpg" />
+    <episode-num system="onscreen">S13 E2016</episode-num>
+  </programme>
+  <programme start="20251125201000 +0000" stop="20251125224500 +0000" channel="TF1.fr">
+    <title lang="fr">Harry Potter et le Prince de sang-mêlé</title>
+    <sub-title lang="fr">Blood Prince</sub-title>
+    <desc lang="fr">Alors que Harry et ses amis effectuent leur sixième rentrée à Poudlard, le terrible Voldemort étend son emprise sur le pays et y fait régner la terreur.(n)</desc>
+    <category lang="fr">Film fantastique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12616282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/2/12616283.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/2/12616281.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/2/12616284.jpg" />
+  </programme>
+  <programme start="20251125224500 +0000" stop="20251126002000 +0000" channel="TF1.fr">
+    <title lang="fr">Harry Potter : Les Sorciers de la pâtisserie</title>
+    <sub-title lang="fr">Voie 9 3/4</sub-title>
+    <desc lang="fr">Installés au coeur des plateaux de tournage de la célèbre saga, James et Oliver Phelps mettent les pâtissiers au défi de créer un gâteau de 60 cm avec un effet magique qui illustre leur passion pour Harry Potter. Les candidats présentent leurs créations à des juges et à des invités bien connus des fans lors de ce concours plein de magie.(n)</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/1/13062120.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/13062121.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/1/13062119.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/2/9864286.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251126002000 +0000" stop="20251126012000 +0000" channel="TF1.fr">
+    <title lang="fr">Harry Potter : Les Sorciers de la pâtisserie</title>
+    <sub-title lang="fr">Gringotts, la banque des sorciers</sub-title>
+    <desc lang="fr">Dans ce concours magique, des pâtissiers créent des gâteaux inspirés de l'univers Harry Potter sur les plateaux de tournage emblématiques de la saga. Les juges et invités spéciaux évalueront ces créations uniques dans des lieux iconiques tels que la Grande Salle de Poudlard, le Quai 9 3/4 ou la banque Gringotts. James et Oliver Phelps présentent l'émission, avec Carla Hall comme membre du jury.(n)</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/1/13062120.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/13062121.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/1/13062119.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/8/11350861.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251126012000 +0000" stop="20251126012500 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage de l'EuroMillions</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/5/9094589.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/9072874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/1/8732120.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/7/8768759.jpg" />
+  </programme>
+  <programme start="20251126012500 +0000" stop="20251126045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251126045000 +0000" stop="20251126055500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251126055500 +0000" stop="20251126085500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 10h00, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/12860127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/12860130.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/12860128.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/12860129.jpg" />
+    <episode-num system="onscreen">E493</episode-num>
+  </programme>
+  <programme start="20251126085500 +0000" stop="20251126095500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/8772681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/8772682.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/6/8761637.jpg" />
+  </programme>
+  <programme start="20251126095500 +0000" stop="20251126104500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+    <category lang="fr">Série sentimentale</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5657205.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/2/5657206.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/8531645.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/5657204.jpg" />
+    <episode-num system="onscreen">E9358</episode-num>
+  </programme>
+  <programme start="20251126104500 +0000" stop="20251126105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251126105000 +0000" stop="20251126115500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E94</episode-num>
+  </programme>
+  <programme start="20251126115500 +0000" stop="20251126120000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251126120000 +0000" stop="20251126125000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251126125000 +0000" stop="20251126125500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251126125500 +0000" stop="20251126130000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251126130000 +0000" stop="20251126132500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Un drame rebat les cartes de l'enquête, ouvrant une nouvelle piste. Pendant ce temps, Louis continue de ruser ,et Apolline fait une étrange demande à un ami.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/7/8540752.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/7/8540754.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/9/8528988.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/8810694.jpg" />
+    <episode-num system="onscreen">S2 E472</episode-num>
+  </programme>
+  <programme start="20251126132500 +0000" stop="20251126150000 +0000" channel="TF1.fr">
+    <title lang="fr">Les fées de Noël : un gala à sauver</title>
+    <desc lang="fr">Une jeune femme voit son destin bouleversé suite à sa rencontre avec l'homme qui menace le bon déroulement du gala de Noël qu'elle est chargée d'organiser.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/3/13080332.jpg" />
+  </programme>
+  <programme start="20251126150000 +0000" stop="20251126163000 +0000" channel="TF1.fr">
+    <title lang="fr">Coup de foudre sur une valse de Noël</title>
+    <desc lang="fr">Un danseur professionnel se découvre des atomes crochus avec la partenaire qu'il vient de choisir pour une prestigieuse compétition organisée à l'aube de Noël à Paris.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/3/13144309.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/13144310.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/3/13144308.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/3/13066359.jpg" />
+  </programme>
+  <programme start="20251126163000 +0000" stop="20251126173000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E38</episode-num>
+  </programme>
+  <programme start="20251126173000 +0000" stop="20251126181000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">En cuisine, Gary et Ninon enfoncent le clou. Au Double A, Anaïs décide de lâcher la bride à Anouk. Parallèlement, en salle, Fleur n'y voit que du feu.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/12988279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/12988292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12988282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/2/12988289.jpg" />
+    <episode-num system="onscreen">S6 E1314</episode-num>
+  </programme>
+  <programme start="20251126181000 +0000" stop="20251126185500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Erica se rend au commissariat après le cambriolage de son appartement. Alex a un plan pour réconcilier Christelle et Sylvain. Gabriel change ses habitudes.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/12902970.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/12902973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/12902971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/12902972.jpg" />
+    <episode-num system="onscreen">S9 E2082</episode-num>
+  </programme>
+  <programme start="20251126185500 +0000" stop="20251126190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251126190000 +0000" stop="20251126194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251126194500 +0000" stop="20251126195000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage du Loto</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/0/12203059.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/12203061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/1/8732116.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/12203060.jpg" />
+  </programme>
+  <programme start="20251126195000 +0000" stop="20251126200000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251126200000 +0000" stop="20251126201000 +0000" channel="TF1.fr">
+    <title lang="fr">C'est Canteloup</title>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/7/13009735.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/13009738.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/7/13009736.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/7/13009737.jpg" />
+    <episode-num system="onscreen">S13 E2017</episode-num>
+  </programme>
+  <programme start="20251126201000 +0000" stop="20251126205500 +0000" channel="TF1.fr">
+    <title lang="fr">Will Trent</title>
+    <sub-title lang="fr">Tu n'as pas besoin de comprendre</sub-title>
+    <desc lang="fr">Plusieurs citoyens sont morts et une femme a disparu. Will et Faith interrogent un pasteur douteux avant un événement organisé par un conseiller municipal.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/13084866.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/6/8/13084868.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/6/8/13084864.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/4/13076448.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20251126205500 +0000" stop="20251126215000 +0000" channel="TF1.fr">
+    <title lang="fr">Will Trent</title>
+    <sub-title lang="fr">C'est plus facile de menotter un être humain</sub-title>
+    <desc lang="fr">Will et Faith enquêtent sur une présence surnaturelle tandis qu'Ormewood recherche le meurtrier d'une star TV. Amanda pressent un danger imminent.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/13084866.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/6/8/13084868.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/6/8/13084864.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/3/13080389.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20251126215000 +0000" stop="20251126223500 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <sub-title lang="fr">Dressé pour tuer</sub-title>
+    <desc lang="fr">Un père et mari aimant, mais en réalité psychopathe dangereux et pervers manipulateur, est au centre d'un vaste réseau de tueurs en série.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/8/13033827.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/8/13033828.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/2/8/13033826.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/2/9926232.jpg" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20251126223500 +0000" stop="20251126233000 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <sub-title lang="fr">Meurtres en direct</sub-title>
+    <desc lang="fr">Le département des sciences du comportement traque le prochain élément en lien avec le réseau de tueurs en série alors que l'équipe enquête sur un duo meurtrier.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/8/13033827.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/8/13033828.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/2/8/13033826.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/2/9926231.jpg" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20251126233000 +0000" stop="20251127002000 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <sub-title lang="fr">Buffet à volonté</sub-title>
+    <desc lang="fr">Craignant une attaque bioterroriste après plusieurs décès suspects, le Centre pour le contrôle et la prévention des maladies d'Atlanta fait appel l'équipe.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/8/12998843.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/8/12998844.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/8/12998842.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/3/13066358.jpg" />
+    <episode-num system="onscreen">S13 E20</episode-num>
+  </programme>
+  <programme start="20251127002000 +0000" stop="20251127011000 +0000" channel="TF1.fr">
+    <title lang="fr">Esprits criminels</title>
+    <sub-title lang="fr">Sur le fil du rasoir</sub-title>
+    <desc lang="fr">Une prise d'otages est en cours dans un cabinet d'avocats de Washington. L'unité intervient. Or l'épouse de Matt est l'une des salariées de l'entreprise.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/8/12998843.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/8/12998844.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/8/12998842.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/8/13033825.jpg" />
+    <episode-num system="onscreen">S13 E19</episode-num>
+  </programme>
+  <programme start="20251127011000 +0000" stop="20251127045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251127045000 +0000" stop="20251127055500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251127055500 +0000" stop="20251127085500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 10h00, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/12860127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/12860130.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/12860128.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/12860129.jpg" />
+    <episode-num system="onscreen">E494</episode-num>
+  </programme>
+  <programme start="20251127085500 +0000" stop="20251127095500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/8772681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/8772682.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/6/8761637.jpg" />
+  </programme>
+  <programme start="20251127095500 +0000" stop="20251127104500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+    <category lang="fr">Série sentimentale</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5657205.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/2/5657206.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/8531645.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/5657204.jpg" />
+    <episode-num system="onscreen">E9359</episode-num>
+  </programme>
+  <programme start="20251127104500 +0000" stop="20251127105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251127105000 +0000" stop="20251127115500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E95</episode-num>
+  </programme>
+  <programme start="20251127115500 +0000" stop="20251127120000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251127120000 +0000" stop="20251127125000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251127125000 +0000" stop="20251127125500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251127125500 +0000" stop="20251127130000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251127130000 +0000" stop="20251127132500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Ariane soupçonne un suspect de mensonge. Une garde d'enfant s'avère compliquée pour Yolande, tandis qu'Apolline reçoit une offre qui la fait douter.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/7/8540752.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/7/8540754.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/9/8528988.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/8810694.jpg" />
+    <episode-num system="onscreen">S2 E473</episode-num>
+  </programme>
+  <programme start="20251127132500 +0000" stop="20251127150000 +0000" channel="TF1.fr">
+    <title lang="fr">Coup de foudre céleste pour Noël</title>
+    <desc lang="fr">Deux anges, une femme et un homme aux caractères diamétralement opposés, doivent apprendre à travailler ensemble pour relever un défi crucial à l'aube de Noël.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/8/13084873.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/13084874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/8/13084872.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/3/13080390.jpg" />
+  </programme>
+  <programme start="20251127150000 +0000" stop="20251127163000 +0000" channel="TF1.fr">
+    <title lang="fr">La chronique de Noël</title>
+    <desc lang="fr">Une jeune femme écrit à la chroniqueuse d'une revue, en quête d'un conseil pour sauver son couple avant les fêtes, mais ses recommandations se révèlent désastreuses.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/3/13138333.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/3/13138332.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/8/13068844.jpg" />
+  </programme>
+  <programme start="20251127163000 +0000" stop="20251127173000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E39</episode-num>
+  </programme>
+  <programme start="20251127173000 +0000" stop="20251127181000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">A L'institut, Gary joue sur les deux tableaux. A l'hôtel, Jeanne envoie Carla et Gaspard à bonne école. De son côté, Malik assoit son autorité.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/12988279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/12988292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12988282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/2/12988289.jpg" />
+    <episode-num system="onscreen">S6 E1315</episode-num>
+  </programme>
+  <programme start="20251127181000 +0000" stop="20251127185500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Mélody fait entrave à l'enquête de police. Bart soupçonne le propriétaire du Spoon d'être responsable des rumeurs. Marguerite vient en aide à Kévin.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/12902970.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/12902973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/12902971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/12902972.jpg" />
+    <episode-num system="onscreen">S9 E2083</episode-num>
+  </programme>
+  <programme start="20251127185500 +0000" stop="20251127190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251127190000 +0000" stop="20251127194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251127194500 +0000" stop="20251127200000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251127200000 +0000" stop="20251127201000 +0000" channel="TF1.fr">
+    <title lang="fr">C'est Canteloup</title>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/7/13009735.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/13009738.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/7/13009736.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/7/13009737.jpg" />
+    <episode-num system="onscreen">S13 E2018</episode-num>
+  </programme>
+  <programme start="20251127201000 +0000" stop="20251127211000 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">Oscar</sub-title>
+    <desc lang="fr">Daron, contraint de s'allier à ses rivaux Esther et Greg, défend un client mystérieux aux actes troublants, suscitant des questions sur ses secrets.(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/13138182.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/13036338.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/13138181.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/13068846.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20251127211000 +0000" stop="20251127222000 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">La vérité, toute la vérité</sub-title>
+    <desc lang="fr">Un incendie criminel d'un entrepôt complique un divorce en cours chez Daron. Tristan, l'ex de Pauline, est soupçonné. L'équipe mène l'enquête.(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/13138182.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/13036338.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/13138181.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/8/13068845.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20251127222000 +0000" stop="20251127222500 +0000" channel="TF1.fr">
+    <title lang="fr">Eurodreams</title>
+    <desc lang="fr">Tous les lundis et jeudis après le prime-time, découvrez les six numéros gagnants et le N Dream et tentez de gagner jusqu'à 20 000 euros par mois pendant trente ans.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/7/9503782.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/7/9503783.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/1/9221154.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/5/6/9400657.jpg" />
+  </programme>
+  <programme start="20251127222500 +0000" stop="20251127232000 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">Episode pilote (1/2)</sub-title>
+    <desc lang="fr">Un décès bouleverse un cabinet d'avocats bordelais lorsque l'héritier présumé s'aperçoit que son frère à légué ses parts à une jeune collègue, et concurrente !(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/4/8/13068849.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/8/13068851.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/8/13068847.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/0/10355076.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251127232000 +0000" stop="20251128002000 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">Episode pilote (2/2)</sub-title>
+    <desc lang="fr">A la mort de son frère, Vincent Daron découvre que les parts du cabinet d'avocats familial ont été léguées à Pauline Lefranc, une jeune avocate inconnue.(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/4/8/13068849.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/8/13068851.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/8/13068847.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/3/13080391.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251128002000 +0000" stop="20251128012500 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">L'aristochien</sub-title>
+    <desc lang="fr">Daron et Pauline défendent un homme privé d'héritage au profit d'un chien, se heurtant à Esther et Greg, leurs rivaux, dans un procès intense.(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/13138182.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/13036338.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/13138181.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/3/13036336.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20251128012500 +0000" stop="20251128022500 +0000" channel="TF1.fr">
+    <title lang="fr">Le Daron</title>
+    <sub-title lang="fr">Boule de cristal</sub-title>
+    <desc lang="fr">Daron reprend une affaire complexe : une medium est accusée d'avoir prédit à sa cliente qu'elle allait mourir. Au tribunal, l'affaire se corse quand la cliente de Daron a un flash.(n)</desc>
+    <category lang="fr">Série humoristique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/13138182.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/13036338.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/13138181.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/5/13108598.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20251128022500 +0000" stop="20251128045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251128045000 +0000" stop="20251128055500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251128055500 +0000" stop="20251128085500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 10h00, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/12860127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/12860130.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/12860128.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/12860129.jpg" />
+    <episode-num system="onscreen">E495</episode-num>
+  </programme>
+  <programme start="20251128085500 +0000" stop="20251128095500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/8772681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/8772682.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/6/8761637.jpg" />
+  </programme>
+  <programme start="20251128095500 +0000" stop="20251128104500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+    <category lang="fr">Série sentimentale</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5657205.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/2/5657206.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/8531645.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/5657204.jpg" />
+    <episode-num system="onscreen">E9360</episode-num>
+  </programme>
+  <programme start="20251128104500 +0000" stop="20251128105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251128105000 +0000" stop="20251128115500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E96</episode-num>
+  </programme>
+  <programme start="20251128115500 +0000" stop="20251128120000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251128120000 +0000" stop="20251128125000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251128125000 +0000" stop="20251128125500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251128125500 +0000" stop="20251128130000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251128130000 +0000" stop="20251128132500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Grâce à de nouvelles informations, la police s'apprête à agir. Chloé accepte de faire le ménage chez un client peu commode. Une résidente passe un test de baby-sitting.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/7/8540752.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/7/8540754.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/9/8528988.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/8810694.jpg" />
+    <episode-num system="onscreen">S2 E474</episode-num>
+  </programme>
+  <programme start="20251128132500 +0000" stop="20251128150000 +0000" channel="TF1.fr">
+    <title lang="fr">Un Noël plein d'histoires</title>
+    <desc lang="fr">Une femme, en charge d'ouvrir un hôtel dans une petite ville, se rend compte que cinq parcelles de terrain ont été offertes à des habitants lors d'une tombola.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/1/13141154.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/5/1/13141155.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/1/13141153.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/5/1/13141157.jpg" />
+  </programme>
+  <programme start="20251128150000 +0000" stop="20251128163000 +0000" channel="TF1.fr">
+    <title lang="fr">Noël à Maple Valley</title>
+    <desc lang="fr">Après la retraite de leur mère, deux soeurs assurent la gestion de la ferme familiale jusqu'au jour où l'une d'elles fait la connaissance d'un agent immobilier.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/1/13141158.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/1/13141156.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/1/13141159.jpg" />
+  </programme>
+  <programme start="20251128163000 +0000" stop="20251128173000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E40</episode-num>
+  </programme>
+  <programme start="20251128173000 +0000" stop="20251128181000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">Dans la chambre de Gary, Ninon voit rouge. Face à Teyssier, Anaïs opine du chef. Pour sa part, Lionel conte fleurette.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/12988279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/12988292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12988282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/2/12988289.jpg" />
+    <episode-num system="onscreen">S6 E1316</episode-num>
+  </programme>
+  <programme start="20251128181000 +0000" stop="20251128185500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Georges subit les conséquences de ses actes. Arthur interroge Victor sur sa relation avec Lou. Marguerite prend son rôle très au sérieux.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/12902970.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/12902973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/12902971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/12902972.jpg" />
+    <episode-num system="onscreen">S9 E2084</episode-num>
+  </programme>
+  <programme start="20251128185500 +0000" stop="20251128190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251128190000 +0000" stop="20251128194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251128194500 +0000" stop="20251128195000 +0000" channel="TF1.fr">
+    <title lang="fr">My Million</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/12547238.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/2/12547241.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/12547239.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/2/12547240.jpg" />
+  </programme>
+  <programme start="20251128195000 +0000" stop="20251128200000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251128200000 +0000" stop="20251128201000 +0000" channel="TF1.fr">
+    <title lang="fr">C'est Canteloup</title>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/7/13009735.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/13009738.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/7/13009736.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/7/13009737.jpg" />
+    <episode-num system="onscreen">S13 E2019</episode-num>
+  </programme>
+  <programme start="20251128201000 +0000" stop="20251128213000 +0000" channel="TF1.fr">
+    <title lang="fr">Stars à domicile</title>
+    <desc lang="fr">L'émission emblématique fait son grand retour avec Isabelle Ithurburu pour offrir de nouveaux instants de pure magie. Entre des coups de bluff stupéfiants et des scénarios rocambolesques, l'équipe, épaulée par des complices plus malicieux que jamais, met les nerfs des participants à rude épreuve.(n)</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/9/13072904.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/9/13072912.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/8/13109841.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/9/13072910.jpg" />
+  </programme>
+  <programme start="20251128213000 +0000" stop="20251128224000 +0000" channel="TF1.fr">
+    <title lang="fr">Stars à domicile</title>
+    <desc lang="fr">Au programme de cette nouvelle saison de l'émission emblématique, qui fait son grand retour avec Isabelle Ithurburu aux commandes, un véritable road trip des surprises à travers toute la France. Marine, Lara Fabien, Pierre Garnier et Matt Pokora, les célébrités présentes pour cette première émission, se dévoilent comme jamais auparavant, oscillant entre la peur de décevoir et l'émotion débordante de leurs fans.(n)</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/9/13072904.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/9/13072912.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/1/13090176.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/9/13072910.jpg" />
+  </programme>
+  <programme start="20251128224000 +0000" stop="20251129002500 +0000" channel="TF1.fr">
+    <title lang="fr">Vendredi, tout est permis avec Arthur</title>
+    <desc lang="fr">Comme toujours, le "Vendredi, tout est permis avec Arthur", et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire, eux que l'animateur fait danser, chanter, mimer, improviser, et bien plus encore. Mais puisque le show l'exige, tous se prêtent de bonne grâce aux facéties du vendredi soir, relevant des défis souvent fous.(n)</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/5/7728541.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/4/7549443.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/1/8732106.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/6/7064659.jpg" />
+    <episode-num system="onscreen">S15 E5</episode-num>
+  </programme>
+  <programme start="20251129002500 +0000" stop="20251129003000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage de l'EuroMillions</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/5/9094589.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/9072874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/1/8732120.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/7/8768759.jpg" />
+  </programme>
+  <programme start="20251129003000 +0000" stop="20251129045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251129045000 +0000" stop="20251129100000 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251129100000 +0000" stop="20251129104500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping samedi</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/5/9094592.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/0/9076017.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/9/8/8779893.jpg" />
+  </programme>
+  <programme start="20251129104500 +0000" stop="20251129105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251129105000 +0000" stop="20251129115000 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E97</episode-num>
+  </programme>
+  <programme start="20251129115000 +0000" stop="20251129115500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251129115500 +0000" stop="20251129120000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251129120000 +0000" stop="20251129124000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251129124000 +0000" stop="20251129135000 +0000" channel="TF1.fr">
+    <title lang="fr">Grands reportages</title>
+    <sub-title lang="fr">Beauté fatale à petit prix</sub-title>
+    <desc lang="fr">C'est l'une des grandes tendances du moment : la cosmétique à petit prix. Partout en France, des boutiques fleurissent. Sur les réseaux sociaux, les influenceurs beauté se multiplient et les ados les suivent. Mais que cachent ces produits de beauté bon marché que les jeunes consommateurs dénichent dans les nouveaux supermarchés "discount" de la cosmétique ? Une équipe a mené l'enquête.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/8/8063842.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/8/8063841.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/4/4/13076449.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/3/7968313.jpg" />
+    <episode-num system="onscreen">E556</episode-num>
+  </programme>
+  <programme start="20251129135000 +0000" stop="20251129151000 +0000" channel="TF1.fr">
+    <title lang="fr">Reportages découverte</title>
+    <sub-title lang="fr">Des habits... et moi</sub-title>
+    <desc lang="fr">C'est un des savoir-faire qui font l'image de la France : la couture. Au-delà des grandes marques de luxe des couturiers plus discrets perpétuent de génération en génération cet artisanat d'exception. Sur les défilés, dans les cabarets, les ateliers ou les écoles : pendant près d'un an, une équipe a suivi ces hommes et ces femmes qui dédient leur vie à parer, embellir ou tout simplement habiller leurs clients.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/3/12979333.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/3/12979336.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/5/4/13076450.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/3/12979335.jpg" />
+    <episode-num system="onscreen">S10 E478</episode-num>
+  </programme>
+  <programme start="20251129151000 +0000" stop="20251129161500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Docs du week-end</title>
+    <sub-title lang="fr">Marchés et illuminations : la féérie de Noël</sub-title>
+    <desc lang="fr">La période de Noël regorge de marchés et d'illuminations qui sont un bonheur pour les grands et les petits. Pour les professionnels, ce sont plusieurs semaines intenses passées sur les marchés. Pour les parents, rien n'est compliqué pour donner du plaisir et des étoiles pleins les yeux à leurs enfants. De Metz aux Pays-Bas, en passant par Bruxelles, une équipe a suivi ces hommes et ces femmes durant plusieurs semaines.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/9/13021905.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/13021908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/13021906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/13021907.jpg" />
+    <episode-num system="onscreen">S1 E219</episode-num>
+  </programme>
+  <programme start="20251129161500 +0000" stop="20251129165500 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E41</episode-num>
+  </programme>
+  <programme start="20251129165500 +0000" stop="20251129180000 +0000" channel="TF1.fr">
+    <title lang="fr">50mn Inside l'actu</title>
+    <sub-title lang="fr">L'actu</sub-title>
+    <desc lang="fr">50' Inside, c'est toute l'actualité des stars résumée, chaque samedi. Le rendez-vous glamour pour retrouver toujours plus de news, d'interviews, d'actualité people en France et à l'étranger, de destinations de rêve et de reportages exclusifs au bout du monde pour partir à la rencontre de vos personnalités préférées et vous faire découvrir leurs repaires secrets.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/2/8727297.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/3/8727301.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/8/8095834.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/2/8727299.jpg" />
+    <episode-num system="onscreen">E1538</episode-num>
+  </programme>
+  <programme start="20251129180000 +0000" stop="20251129185000 +0000" channel="TF1.fr">
+    <title lang="fr">50mn Inside le mag</title>
+    <sub-title lang="fr">Le mag</sub-title>
+    <desc lang="fr">50' Inside, c'est toute l'actualité des stars résumée, chaque samedi. Le rendez-vous glamour pour retrouver toujours plus de news, d'interviews, d'actualité people en France et à l'étranger, de destinations de rêve et de reportages exclusifs au bout du monde pour partir à la rencontre de vos personnalités préférées et vous faire découvrir leurs repaires secrets.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/2/8727296.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/8727300.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/8/8095834.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/2/8727298.jpg" />
+    <episode-num system="onscreen">E1539</episode-num>
+  </programme>
+  <programme start="20251129185000 +0000" stop="20251129185500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251129185500 +0000" stop="20251129190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251129190000 +0000" stop="20251129194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251129194500 +0000" stop="20251129195000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage du Loto</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/0/12203059.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/12203061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/1/8732116.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/12203060.jpg" />
+  </programme>
+  <programme start="20251129195000 +0000" stop="20251129200000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251129200000 +0000" stop="20251129201000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251129201000 +0000" stop="20251129213000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy</title>
+    <desc lang="fr">Les semaines se suivent mais ne se ressemblent guère pour des académiciens sous pression lors du quatrième prime, à l'issue duquel un troisième candidat a été prié de plier bagage. En compétition avec Théo L., sauvé par les téléspectateurs, et avec Léane, Ema a provoqué une véritable onde de choc en devenant la première candidate de l'histoire de l'émission à abandonner l'aventure de son propre chef.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/4/12899407.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/3/12855369.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/9/12911922.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/4/13076451.jpg" />
+    <episode-num system="onscreen">S13 E7</episode-num>
+  </programme>
+  <programme start="20251129213000 +0000" stop="20251129224000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy</title>
+    <desc lang="fr">Chaque samedi, les élèves monteront sur scène en direct, accompagnés d'artistes français et internationaux. L'heure sera venue de mettre en pratique leurs apprentissages de la semaine et de donner le meilleur d'eux-mêmes devant le public et les professeurs.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/4/12899407.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/3/12855369.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/9/12911922.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/8/12941886.jpg" />
+    <episode-num system="onscreen">S13 E7</episode-num>
+  </programme>
+  <programme start="20251129224000 +0000" stop="20251129234500 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, retour au château</title>
+    <desc lang="fr">Bien décidés à atteindre leur objectif et à succéder à Marine, grande gagnante de la douzième saison, au palmarès, les quatorze candidats encore en lice après les éliminations de Mehdi, Lenny et Noah se démènent pour appliquer méthodiquement les précieux conseils distillés par un corps enseignant exigeant.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/4/12899407.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/7/12947710.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/7/12947713.jpg" />
+    <episode-num system="onscreen">S13 E7</episode-num>
+  </programme>
+  <programme start="20251129234500 +0000" stop="20251130045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251130045000 +0000" stop="20251130090500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251130090500 +0000" stop="20251130100000 +0000" channel="TF1.fr">
+    <title lang="fr">Automoto</title>
+    <desc lang="fr">Nouveau logo, nouveau décor, nouvel habillage et nouvelle pilote : Automoto, présentée par Jean-Pierre Gagick, fait peau neuve. Cette saison, pour la première fois dans une émission automobile en France, une pilote réalisera les essais chronométrés : Sarah Bovy, la première femme à avoir signé une pole position en championnat du monde d'endurance, prendra place aux côtés des pilotes historiques de l'émission comme Anthony Beltoise ou Bruce Jouanny. Côté motos, les habitués d'Automoto pourront également retrouver Bader Benlekehal. En parallèle, l'émission continuera de proposer une large diversité de sujets et de reportages : nouvelle rubrique pratique, essais, comparatifs, sports mécaniques, vintage, l'objectif est de réunir et d'expliquer les thématiques automobiles et motos au plus grand nombre.(n)</desc>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12614908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/1/9/12614911.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/9/12614909.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/9/12614910.jpg" />
+  </programme>
+  <programme start="20251130100000 +0000" stop="20251130105000 +0000" channel="TF1.fr">
+    <title lang="fr">Téléfoot</title>
+    <desc lang="fr">Chaque dimanche, retrouvez le meilleur du football et notamment toutes les actualités de la Ligue 1 McDonald's : résumés des matchs, reportages, coulisses, portraits et interviews exclusives. A la présentation du magazine historique, Grégoire Margotton vous donne rendez-vous accompagné du champion du monde Bixente Lizarazu ou de Rio Mavuba, ancien international français et champion de France avec Lille. A leurs côtés, les journalistes Thomas Mekhiche et Sévérine Parlakou complètent l'équipe.(n)</desc>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/8800469.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/4/8800472.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/3/8104372.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/8/8768870.jpg" />
+  </programme>
+  <programme start="20251130105000 +0000" stop="20251130115000 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E98</episode-num>
+  </programme>
+  <programme start="20251130115000 +0000" stop="20251130115500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251130115500 +0000" stop="20251130120000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251130120000 +0000" stop="20251130124000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251130124000 +0000" stop="20251130135000 +0000" channel="TF1.fr">
+    <title lang="fr">Grands reportages</title>
+    <sub-title lang="fr">Les rois des économies : dépenser moins pour vivre mieux</sub-title>
+    <desc lang="fr">Avec la baisse du pouvoir d'achat, les Français sont devenus les as de la débrouille ; ils traquent les bons plans, trouvent des astuces pour faire des économies au quotidien.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/8/8063842.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/8/8063841.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/3/8685351.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/3/7968313.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20251130135000 +0000" stop="20251130150500 +0000" channel="TF1.fr">
+    <title lang="fr">Reportages découverte</title>
+    <sub-title lang="fr">Passion cuir</sub-title>
+    <desc lang="fr">En France, ils sont encore 130 000 à travailler le cuir, dans les métiers de la tannerie, de la maroquinerie, de la sellerie ou encore de la ganterie. Porté par l'industrie du luxe, le secteur recrute car les hommes et les femmes de la filière cuir constituent un véritable patrimoine humain reconnu à travers le monde.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/3/12979333.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/3/12979336.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/13080396.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/3/12979335.jpg" />
+  </programme>
+  <programme start="20251130150500 +0000" stop="20251130162000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E42</episode-num>
+  </programme>
+  <programme start="20251130162000 +0000" stop="20251130172000 +0000" channel="TF1.fr">
+    <title lang="fr">Sept à huit Life</title>
+    <desc lang="fr">Sept à Huit Life privilégie la proximité et traite des sujets au plus près de la vie quotidienne des Français.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/8800471.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/8800473.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/7/8685781.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/8/8768873.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20251130172000 +0000" stop="20251130185000 +0000" channel="TF1.fr">
+    <title lang="fr">Sept à huit</title>
+    <desc lang="fr">Harry Roselmack continue à couvrir les temps forts de l'actualité.(n)</desc>
+    <category lang="fr">Magazine de société</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/6/4/8800468.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/4/8800470.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/6/9124617.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/8779900.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20251130185000 +0000" stop="20251130185500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251130185500 +0000" stop="20251130190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251130190000 +0000" stop="20251130194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251130194500 +0000" stop="20251130195000 +0000" channel="TF1.fr">
+    <title lang="fr">TF1, rendez-vous sport</title>
+    <sub-title lang="fr">vous Sport</sub-title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/4/5789425.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/4/5789427.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/9/8734932.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/0/6632021.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20251130195000 +0000" stop="20251130200000 +0000" channel="TF1.fr">
+    <title lang="fr">Le goût du détail</title>
+    <sub-title lang="fr">Cerf</sub-title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/8412973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/8412971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/8685352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/8412972.jpg" />
+  </programme>
+  <programme start="20251130200000 +0000" stop="20251130201000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251130201000 +0000" stop="20251130220500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Tuche 4</title>
+    <desc lang="fr">Pour empêcher son beau-frère peu scrupuleux de mettre la main sur une entreprise de jouets, Jeff Tuche prend la décision de la racheter lui-même.(n)</desc>
+    <category lang="fr">Comédie</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/9/12843934.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/9/12843935.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/9/12843933.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/9/12843936.jpg" />
+  </programme>
+  <programme start="20251130220500 +0000" stop="20251130235500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonne conduite</title>
+    <desc lang="fr">Employée d'un centre de récupération de points du permis de conduire le jour, une formatrice devient une redoutable chasseuse de chauffards la nuit.(n)</desc>
+    <category lang="fr">Comédie</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/9/7792940.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/7/1/8198177.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/1/8198176.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/8/7982899.jpg" />
+  </programme>
+  <programme start="20251130235500 +0000" stop="20251201045000 +0000" channel="TF1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.(n)</desc>
+    <category lang="fr">Programme indéterminé</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/8/13091831.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/12608846.jpg" />
+  </programme>
+  <programme start="20251201045000 +0000" stop="20251201055500 +0000" channel="TF1.fr">
+    <title lang="fr">TFou</title>
+    <category lang="fr">Magazine jeunesse</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/0/12178005.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/12178008.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/12178006.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/12178007.jpg" />
+  </programme>
+  <programme start="20251201055500 +0000" stop="20251201085500 +0000" channel="TF1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+    <desc lang="fr">"Bonjour ! La Matinale TF1" est le premier rendez-vous de la journée à l'antenne de TF1 du lundi au vendredi de 6h55 à 10h00, présenté par Bruce Toussaint et sa bande chroniqueurs.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/12860127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/12860130.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/12860128.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/12860129.jpg" />
+  </programme>
+  <programme start="20251201085500 +0000" stop="20251201095500 +0000" channel="TF1.fr">
+    <title lang="fr">Téléshopping</title>
+    <category lang="fr">Magazine de services</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/8772681.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/8772682.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/3/8104373.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/6/8761637.jpg" />
+  </programme>
+  <programme start="20251201095500 +0000" stop="20251201104500 +0000" channel="TF1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+    <desc lang="fr">Le soap américain numéro 1 qui propose chaque jour de suivre les rivalités, les amours, les espoirs et les craintes des habitants de Genoa City à travers la vie des familles Newman, Abbott, Baldwin et Winters.(n)</desc>
+    <category lang="fr">Série sentimentale</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5657205.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/2/5657206.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/8531645.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/5657204.jpg" />
+    <episode-num system="onscreen">E9361</episode-num>
+  </programme>
+  <programme start="20251201104500 +0000" stop="20251201105000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251201105000 +0000" stop="20251201115500 +0000" channel="TF1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+    <desc lang="fr">Chaque jour, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale posées par Jean-Luc Reichmann.(n)</desc>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/12911874.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/9/12911900.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/12911880.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/12911890.jpg" />
+    <episode-num system="onscreen">E99</episode-num>
+  </programme>
+  <programme start="20251201115500 +0000" stop="20251201120000 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251201120000 +0000" stop="20251201125000 +0000" channel="TF1.fr">
+    <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/0/5760034.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/0/5760036.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/7173362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/0/6632007.jpg" />
+  </programme>
+  <programme start="20251201125000 +0000" stop="20251201125500 +0000" channel="TF1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.(n)</desc>
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/12473112.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/12473115.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/1/12473113.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/1/12473114.jpg" />
+  </programme>
+  <programme start="20251201125500 +0000" stop="20251201130000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251201130000 +0000" stop="20251201132500 +0000" channel="TF1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+    <desc lang="fr">Le temps est compté, mais les policiers ne savent pas comment intervenir. La famille d'accueil d'Elena reproche à Chloé de donner de faux espoirs à sa fille.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/7/8540752.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/7/8540754.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/8/9/8528988.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/8810694.jpg" />
+    <episode-num system="onscreen">S2 E475</episode-num>
+  </programme>
+  <programme start="20251201132500 +0000" stop="20251201150000 +0000" channel="TF1.fr">
+    <title lang="fr">Le Pôle Nord express</title>
+    <desc lang="fr">Une mère célibataire et un de ses amis de longue date s'associent pour remettre un petit train à vapeur, qui faisait la fierté du marché de Noël de leur ville, sur les rails.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/5/13119501.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/13119500.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/5/13119502.jpg" />
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201163000 +0000" channel="TF1.fr">
+    <title lang="fr">Un Noël à sauver</title>
+    <desc lang="fr">Le concours de pâtisserie du marché de Noël ne se déroule pas comme l'espérait Mia, qui voyait sa grand-mère lauréate. L'arrivée de son ex n'arrange pas les choses.(n)</desc>
+    <category lang="fr">Téléfilm mélodramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/8/13084876.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/1/9839127.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/9839121.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/1/1/9971111.jpg" />
+  </programme>
+  <programme start="20251201163000 +0000" stop="20251201173000 +0000" channel="TF1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+    <desc lang="fr">Rendez-vous tous les jours pour La Quotidienne incarnée par la voix de Karima CHARNI ! Chaque mercredi, après l'annonce des nommés par le directeur, Michael GOLDMAN, Karima CHARNI lancera les votes auprès des téléspectateurs pour soutenir leur candidat préféré.(n)</desc>
+    <category lang="fr">Téléréalité</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/12989906.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/9/12989908.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/9/12989907.jpg" />
+    <episode-num system="onscreen">S13 E43</episode-num>
+  </programme>
+  <programme start="20251201173000 +0000" stop="20251201181000 +0000" channel="TF1.fr">
+    <title lang="fr">Ici tout commence</title>
+    <desc lang="fr">A L'institut, Pénélope remue le couteau dans la plaie. En cuisine, Malik tient la dragée haute. Anaïs resserre les boulons.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/12988279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/12988292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/12988282.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/2/12988289.jpg" />
+    <episode-num system="onscreen">S6 E1317</episode-num>
+  </programme>
+  <programme start="20251201181000 +0000" stop="20251201185500 +0000" channel="TF1.fr">
+    <title lang="fr">Demain nous appartient</title>
+    <desc lang="fr">Au plus mal, Georges demande conseil à Victoire. Arthur utilise Nina pour se rapprocher de Lou. Bart décide de tester la sincérité de Victor.(n)</desc>
+    <category lang="fr">Série dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/12902970.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/9/12902973.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/12902971.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/9/12902972.jpg" />
+    <episode-num system="onscreen">S9 E2085</episode-num>
+  </programme>
+  <programme start="20251201185500 +0000" stop="20251201190000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201194500 +0000" channel="TF1.fr">
+    <title lang="fr">JT 20h</title>
+    <category lang="fr">Journal</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/5760060.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5760061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/3/7648352.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/6632008.jpg" />
+  </programme>
+  <programme start="20251201194500 +0000" stop="20251201195000 +0000" channel="TF1.fr">
+    <title lang="fr">Tirage du Loto</title>
+    <category lang="fr">Jeu</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/0/12203059.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/12203061.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/1/8732116.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/0/12203060.jpg" />
+  </programme>
+  <programme start="20251201195000 +0000" stop="20251201200000 +0000" channel="TF1.fr">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/9/9089914.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/9075881.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/1/1/8732117.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/8768756.jpg" />
+  </programme>
+  <programme start="20251201200000 +0000" stop="20251201201000 +0000" channel="TF1.fr">
+    <title lang="fr">C'est Canteloup</title>
+    <category lang="fr">Divertissement</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/7/13009735.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/13009738.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/7/13009736.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/7/13009737.jpg" />
+  </programme>
+  <programme start="20251201201000 +0000" stop="20251201205500 +0000" channel="TF1.fr">
+    <title lang="fr">Menace imminente</title>
+    <sub-title lang="fr">Avant-première -</sub-title>
+    <desc lang="fr">Tom a été retrouvé dans la forêt, inconscient. Abadi comprend qu'Elsa l'a dupé. En se rendant à son bureau pour avoir sa version, il est kidnappé par les hommes de main d'Elsa.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/3/13080385.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/0/13128094.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/3/13080383.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/1/13090178.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20251201205500 +0000" stop="20251201215500 +0000" channel="TF1.fr">
+    <title lang="fr">Menace imminente</title>
+    <sub-title lang="fr">Avant-première -</sub-title>
+    <desc lang="fr">Giroud a pu récupérer l'ordinateur de Karen. Elle comprend que Duran et elle préparent une attaque lors d'un sommet qui réunit des chefs d'Etat près de Paris.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/3/13080385.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/0/13128094.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/3/13080383.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/1/13090179.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20251201215500 +0000" stop="20251201220000 +0000" channel="TF1.fr">
+    <title lang="fr">Eurodreams</title>
+    <desc lang="fr">Tous les lundis et jeudis après le prime-time, découvrez les six numéros gagnants et le N Dream et tentez de gagner jusqu'à 20 000 euros par mois pendant trente ans.(n)</desc>
+    <category lang="fr">Magazine d'information</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/7/9503782.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/7/9503783.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/1/9221154.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/5/6/9400657.jpg" />
+  </programme>
+  <programme start="20251201220000 +0000" stop="20251201224500 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <sub-title lang="fr">En eaux troubles</sub-title>
+    <desc lang="fr">La PDG d'une entreprise de bien-être affirme avoir été violée par son partenaire commercial. Une enquête sur les pratiques de l'entreprise est alors menée.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/7/13015784.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/7/13015785.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/4/5757439.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/13084880.jpg" />
+    <episode-num system="onscreen">S21 E15</episode-num>
+  </programme>
+  <programme start="20251201224500 +0000" stop="20251201234000 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <sub-title lang="fr">Corruption à tous les étages</sub-title>
+    <desc lang="fr">Kim, la soeur de Rollins, signale les pratiques d'un médecin, qui délivre des ordonnances d'analgésiques en contrepartie de relations sexuelles.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/7/13015784.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/7/13015785.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/4/5757439.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/8/13084879.jpg" />
+    <episode-num system="onscreen">S21 E16</episode-num>
+  </programme>
+  <programme start="20251201234000 +0000" stop="20251202002500 +0000" channel="TF1.fr">
+    <title lang="fr">New York Unité Spéciale</title>
+    <sub-title lang="fr">Séances photos</sub-title>
+    <desc lang="fr">Un ancien policier demande de l'aide. Il soupçonne en effet que ses deux jeunes filles se sont fait embobiner par le responsable d'une agence de mannequins.(n)</desc>
+    <category lang="fr">Série</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/7/13015784.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/7/13015785.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/4/5757439.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/7663083.jpg" />
+    <episode-num system="onscreen">S21 E9</episode-num>
+  </programme>
 </tv>
