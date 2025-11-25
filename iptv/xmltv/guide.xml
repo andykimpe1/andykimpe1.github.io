@@ -5,6 +5,11 @@
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <url>http://www.telerama.fr</url>
   </channel>
+  <channel id="France2.fr">
+    <display-name lang="fr">FR| France 2 FHD (app.molotov.tv)</display-name>
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.telerama.fr</url>
+  </channel>
   <programme start="20251125004500 +0100" stop="20251125013000 +0100" channel="TF1.fr">
     <title lang="fr">New York Unité Spéciale</title>
     <desc lang="fr">Le producteur primé de " New York, unité spéciale ", Dick Wolf, présente la 18e saison de la série. Mariska Hargitay revient dans le rôle de la lieutenante Olivia Benson, qui lui a valu huit nominations de meilleure actrice principale dans une série dramatique aux Emmy® et un Emmy Award® en 2006. Commandant par intérim de l'Unité spéciale à la police de New York, l'inspecteur Benson dirige une équipe d'inspecteurs cherchant à livrer les criminels sexuels violents à la justice.(n)</desc>
@@ -645,5 +650,667 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme start="20251125002000 +0100" stop="20251125002500 +0100" channel="France2.fr">
+    <title lang="fr">Expression directe</title>
+    <desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/10/50d94485a6b14dfd82af7dfcb83fbcfe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125002500 +0100" stop="20251125011500 +0100" channel="France2.fr">
+    <title lang="fr">Désenchantées</title>
+    <desc lang="fr">La disparition de Sarah Leroy, 15 ans, a bouleversé la petite bourgade de Bouville-sur-Mer et ému la France entière. Un coupable est vite arrêté. Pourtant, dans chaque foyer, chaque bistrot, on continue à élaborer des hypothèses. Vingt ans plus tard, Fanny, journaliste, revient sur les lieux de ce drame qui a marqué sa jeunesse, et c'est tout un passé qui resurgit. L'histoire de Sarah Leroy, c'est aussi un peu la sienne, de sa soeur Angélique et celle d'une bande de filles "les Désenchantées", qui ne connaissait que trop bien Sarah. Inspirée du roman de Marie Vareille, cette série fait la part belle à ses interprètes féminines.(n)</desc>
+    <credits>
+      <actor role="Angélique Courtin">Constance Labbé</actor>
+      <actor role="Fanny Courtin">Marie Denarnaud</actor>
+      <actor role="Iris Chevalier">Elodie Frenck</actor>
+      <actor role="Morgane Richard">Fleur Geffrier</actor>
+      <writer>Claire Kanny</writer>
+      <writer>Solenn le Priol</writer>
+      <writer>Chloé Glachant</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/06/11f3e5c_upload-1-emobn93qpign-dei-senchantei-es.png" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125011500 +0100" stop="20251125020500 +0100" channel="France2.fr">
+    <title lang="fr">Désenchantées</title>
+    <desc lang="fr">La disparition de Sarah Leroy, 15 ans, a bouleversé la petite bourgade de Bouville-sur-Mer et ému la France entière. Un coupable est vite arrêté. Pourtant, dans chaque foyer, chaque bistrot, on continue à élaborer des hypothèses. Vingt ans plus tard, Fanny, journaliste, revient sur les lieux de ce drame qui a marqué sa jeunesse, et c'est tout un passé qui resurgit. L'histoire de Sarah Leroy, c'est aussi un peu la sienne, de sa soeur Angélique et celle d'une bande de filles "les Désenchantées", qui ne connaissait que trop bien Sarah. Inspirée du roman de Marie Vareille, cette série fait la part belle à ses interprètes féminines.(n)</desc>
+    <credits>
+      <actor role="Angélique Courtin">Constance Labbé</actor>
+      <actor role="Fanny Courtin">Marie Denarnaud</actor>
+      <actor role="Iris Chevalier">Elodie Frenck</actor>
+      <actor role="Morgane Richard">Fleur Geffrier</actor>
+      <writer>Claire Kanny</writer>
+      <writer>Solenn le Priol</writer>
+      <writer>Chloé Glachant</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/06/11f3e5c_upload-1-emobn93qpign-dei-senchantei-es.png" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125020500 +0100" stop="20251125030000 +0100" channel="France2.fr">
+    <title lang="fr">Désenchantées</title>
+    <desc lang="fr">La disparition de Sarah Leroy, 15 ans, a bouleversé la petite bourgade de Bouville-sur-Mer et ému la France entière. Un coupable est vite arrêté. Pourtant, dans chaque foyer, chaque bistrot, on continue à élaborer des hypothèses. Vingt ans plus tard, Fanny, journaliste, revient sur les lieux de ce drame qui a marqué sa jeunesse, et c'est tout un passé qui resurgit. L'histoire de Sarah Leroy, c'est aussi un peu la sienne, de sa soeur Angélique et celle d'une bande de filles "les Désenchantées", qui ne connaissait que trop bien Sarah. Inspirée du roman de Marie Vareille, cette série fait la part belle à ses interprètes féminines.(n)</desc>
+    <credits>
+      <actor role="Angélique Courtin">Constance Labbé</actor>
+      <actor role="Fanny Courtin">Marie Denarnaud</actor>
+      <actor role="Iris Chevalier">Elodie Frenck</actor>
+      <actor role="Morgane Richard">Fleur Geffrier</actor>
+      <writer>Claire Kanny</writer>
+      <writer>Solenn le Priol</writer>
+      <writer>Chloé Glachant</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/06/11f3e5c_upload-1-emobn93qpign-dei-senchantei-es.png" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125030000 +0100" stop="20251125034500 +0100" channel="France2.fr">
+    <title lang="fr">Désenchantées</title>
+    <desc lang="fr">La disparition de Sarah Leroy, 15 ans, a bouleversé la petite bourgade de Bouville-sur-Mer et ému la France entière. Un coupable est vite arrêté. Pourtant, dans chaque foyer, chaque bistrot, on continue à élaborer des hypothèses. Vingt ans plus tard, Fanny, journaliste, revient sur les lieux de ce drame qui a marqué sa jeunesse, et c'est tout un passé qui resurgit. L'histoire de Sarah Leroy, c'est aussi un peu la sienne, de sa soeur Angélique et celle d'une bande de filles "les Désenchantées", qui ne connaissait que trop bien Sarah. Inspirée du roman de Marie Vareille, cette série fait la part belle à ses interprètes féminines.(n)</desc>
+    <credits>
+      <actor role="Angélique Courtin">Constance Labbé</actor>
+      <actor role="Fanny Courtin">Marie Denarnaud</actor>
+      <actor role="Iris Chevalier">Elodie Frenck</actor>
+      <actor role="Morgane Richard">Fleur Geffrier</actor>
+      <writer>Claire Kanny</writer>
+      <writer>Solenn le Priol</writer>
+      <writer>Chloé Glachant</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/06/11f3e5c_upload-1-emobn93qpign-dei-senchantei-es.png" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125034500 +0100" stop="20251125035000 +0100" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/287160f675134e39a519ff491e347661.jpg" />
+  </programme>
+  <programme start="20251125035000 +0100" stop="20251125043500 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <credits>
+      <presenter>Julia Vignali</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/05/29/bc1cf844435940eb9d8ea8046f6300fe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125043500 +0100" stop="20251125044500 +0100" channel="France2.fr">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">A Eu, en Normandie, Charles Boulanger cultive sur huit hectares une bulle de diversité, le jardin jungle Karlostachys, véritable laboratoire et arche de Noé du vivant.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/22/31ec207195194f97b8899e125ad86cf8.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125044500 +0100" stop="20251125045000 +0100" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+    <desc lang="fr">Caméraman reporter, Xavier Petit part à la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.(n)</desc>
+    <credits>
+      <director>Xavier Petit</director>
+      <director>Jean da Luz</director>
+    </credits>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/11/4db22f8f41d7403988b93b1ca30a0971.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125045000 +0100" stop="20251125050000 +0100" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+    <desc lang="fr">Le Sri Lanka, île réputée pour ses plages, a aussi ses marchés traditionnels et ses spécialités locales : que trouve-t-on dans l'assiette des habitants de Colombo ?(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/22/007a2f7645514593b1bbe415acfa6f65.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125050000 +0100" stop="20251125054500 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/08/22/5806f0526bc84a198a19d2dbca0ac0ee.jpg" />
+  </programme>
+  <programme start="20251125054500 +0100" stop="20251125060000 +0100" channel="France2.fr">
+    <title lang="fr">100 % logique : entraînez-vous !</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/11/04/3381e04a9183ef6c080f98335a03bd3f6f4f9e0c_B12A4E28D2BC0776F0EC9AB164F5C2CE.jpg" />
+  </programme>
+  <programme start="20251125060000 +0100" stop="20251125063000 +0100" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/03/66015ca763e341a894854876e419aa99.jpg" />
+  </programme>
+  <programme start="20251125063000 +0100" stop="20251125080000 +0100" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/16/93807de70b5a4e588c65d4a6b8ab8df8.jpg" />
+  </programme>
+  <programme start="20251125080000 +0100" stop="20251125083000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/18/3869b903937c45bbb6e1f34d5a1c7230.jpg" />
+  </programme>
+  <programme start="20251125083000 +0100" stop="20251125095500 +0100" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/16/93807de70b5a4e588c65d4a6b8ab8df8.jpg" />
+  </programme>
+  <programme start="20251125095500 +0100" stop="20251125104000 +0100" channel="France2.fr">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Un talk-show matinal en public à la découverte de nouvelles solutions pour apprendre à prendre soin de soi et aussi des autres au quotidien.(n)</desc>
+    <credits>
+      <presenter>Agathe Lecaron</presenter>
+    </credits>
+    <category lang="fr">Talk-show</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/03/37d1d3a2dcaa411fbb68d8a3d7c24c52.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125104000 +0100" stop="20251125104500 +0100" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer, toutes les thématiques peuvent être abordées autour de nos achats.(n)</desc>
+    <credits>
+      <presenter>Chloé François</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/04/08/95b9c6e0e552482b81e7462acea9e76d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125104500 +0100" stop="20251125105000 +0100" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/287160f675134e39a519ff491e347661.jpg" />
+  </programme>
+  <programme start="20251125105000 +0100" stop="20251125112500 +0100" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/22/4981ab9187744ec7ac91353bd39bbeab.jpg" />
+  </programme>
+  <programme start="20251125112500 +0100" stop="20251125115500 +0100" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/22/4981ab9187744ec7ac91353bd39bbeab.jpg" />
+  </programme>
+  <programme start="20251125115500 +0100" stop="20251125125000 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/08/22/5806f0526bc84a198a19d2dbca0ac0ee.jpg" />
+  </programme>
+  <programme start="20251125125000 +0100" stop="20251125125500 +0100" channel="France2.fr">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Les meilleurs moments des "Maternelles XXL", l'émission qui explore quotidiennement la vie familiale sous toutes ses formes à travers des échanges d'expérience, des chroniques pratiques et un regard inclusif sur la diversité des familles. Conseils d'experts, tutoriels et chroniques pratiques rythment les rubriques de ce rendez-vous des familles.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/30/aba2d8c2c44f4c79ac88a1528b53da4d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125125500 +0100" stop="20251125130000 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251125130000 +0100" stop="20251125134000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/10/22/531e1f319658479ba9d1f74683f2e128.jpg" />
+  </programme>
+  <programme start="20251125134000 +0100" stop="20251125134500 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251125134500 +0100" stop="20251125135000 +0100" channel="France2.fr">
+    <title lang="fr">C'est bon à savoir</title>
+    <desc lang="fr">"C'est bon à savoir" décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.(n)</desc>
+    <credits>
+      <presenter>Michel Cymes</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/5a70ed171a814d88ba46a5cf1671d430.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125135000 +0100" stop="20251125135100 +0100" channel="France2.fr">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.(n)</desc>
+    <credits>
+      <presenter>François Busnel</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/325d706dc1314301bdced388ccb2fb5d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125135100 +0100" stop="20251125135500 +0100" channel="France2.fr">
+    <title lang="fr">Expression directe</title>
+    <desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/10/50d94485a6b14dfd82af7dfcb83fbcfe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125135500 +0100" stop="20251125150500 +0100" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.(n)</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/f734d84ec602454baa7eb3462488909c.jpg" />
+    <country lang="fr">France</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20251125150500 +0100" stop="20251125161000 +0100" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Dans ce numéro, Faustine Bollaert reçoit 2 témoignages terrifiants sur le féminicide. Le 27 mai 2019, Nathalie, la sœur de Nicolas, a été kidnappée, séquestrée et tuée par son ex-conjoint. Épiée et harcelée, aucune mesure n'avait été prise malgré le dépôt de deux mains courantes et d'une plainte... Le 17 avril 2010, Ahlam, la sœur de Hager, a ét...(n)</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/f734d84ec602454baa7eb3462488909c.jpg" />
+    <country lang="fr">France</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20251125161000 +0100" stop="20251125170100 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <credits>
+      <presenter>Julia Vignali</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/05/29/bc1cf844435940eb9d8ea8046f6300fe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125170100 +0100" stop="20251125175500 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <credits>
+      <presenter>Julia Vignali</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/05/29/bc1cf844435940eb9d8ea8046f6300fe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125175500 +0100" stop="20251125180500 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/7f5c72f2c2734a718a7a7bff89b16a5d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125180500 +0100" stop="20251125184000 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/896efc334f8b42f798f5eff1e89080dd.jpg" />
+  </programme>
+  <programme start="20251125184000 +0100" stop="20251125191500 +0100" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/26/8e37820f84cf40e09282160a545927a7.jpg" />
+  </programme>
+  <programme start="20251125191500 +0100" stop="20251125195500 +0100" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/26/8e37820f84cf40e09282160a545927a7.jpg" />
+  </programme>
+  <programme start="20251125195500 +0100" stop="20251125200000 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251125200000 +0100" stop="20251125205000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/02/929fc60d3081415cafad243a5f7e8c76.jpg" />
+  </programme>
+  <programme start="20251125205000 +0100" stop="20251125205500 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251125205500 +0100" stop="20251125210000 +0100" channel="France2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/fb0ac4800c7e4a2fa922e73d12f5bc0d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125210000 +0100" stop="20251125211000 +0100" channel="France2.fr">
+    <title lang="fr">100 % logique : entraînez-vous !</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/11/04/3381e04a9183ef6c080f98335a03bd3f6f4f9e0c_B12A4E28D2BC0776F0EC9AB164F5C2CE.jpg" />
+  </programme>
+  <programme start="20251125211000 +0100" stop="20251125220000 +0100" channel="France2.fr">
+    <title lang="fr">Notre Histoire de France</title>
+    <desc lang="fr">Inédit. Du règne des rois emblématiques comme Louis XIII puis Louis XIV aux fastes et tragédies de l'Empire, "Notre Histoire de France" explore deux siècles de bouleversements qui ont façonné l'âme de la France moderne. A travers les destins de figures comme le Roi-Soleil, Marie-Antoinette ou Richelieu, la série plonge au coeur d'une nation en quête d'identité. Du siècle des Lumières à la tempête de la Révolution, des aspirations républicaines aux conquêtes de Napoléon, c'est toute la société française qui vacille entre liberté et autorité, violence et progrès.(n)</desc>
+    <credits>
+      <director>François Tribolet</director>
+      <director>Pauline Liétar</director>
+      <director>Ségolène Chaplin</director>
+      <director>Claire Benhaïm</director>
+      <director>Yannick Adam de Villiers</director>
+      <director>Jérôme Korkikian</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/12/80c36d42cbc24f3aad1849092ac9fb42.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125220000 +0100" stop="20251125225500 +0100" channel="France2.fr">
+    <title lang="fr">Notre Histoire de France</title>
+    <desc lang="fr">Du règne des rois emblématiques comme Louis XIII puis Louis XIV aux fastes et tragédies de l'Empire, "Notre Histoire de France" explore deux siècles de bouleversements qui ont façonné l'âme de la France moderne. A travers les destins de figures comme le Roi-Soleil, Marie-Antoinette ou Richelieu, la série plonge au coeur d'une nation en quête d'identité. Du siècle des Lumières à la tempête de la Révolution, des aspirations républicaines aux conquêtes de Napoléon, c'est toute la société française qui vacille entre liberté et autorité, violence et progrès.(n)</desc>
+    <credits>
+      <director>François Tribolet</director>
+      <director>Pauline Liétar</director>
+      <director>Ségolène Chaplin</director>
+      <director>Claire Benhaïm</director>
+      <director>Yannick Adam de Villiers</director>
+      <director>Jérôme Korkikian</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Documentaire Histoire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/21/423d981835f94abb84e6e2d0cdb19e27.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125225500 +0100" stop="20251125235000 +0100" channel="France2.fr">
+    <title lang="fr">Notre Histoire de France</title>
+    <desc lang="fr">A la fin du VIIIe siècle, le nouveau roi Charlemagne rêve de créer un empire aussi puissant que celui des Romains. Il part à la conquête de l'Europe. Il est finalement couronné empereur à Rome par le pape Léon III le 24 ou 25 décembre 800, un titre et un pouvoir disparus en Occident depuis 476. L'historienne Geneviève Bührer-Thierry, spécialiste du pouvoir royal au haut Moyen Age s'est particulièrement penchée sur cette figure mythique. Elle fait le point sur les connaissances relatives à ce personnage qui a cristallisé bien des fantasmes. Des scènes fictionnalisées, commentées par le comédien Tomer Sisley, rend accessible le travail des chercheurs.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/27/8514e3173efe44baabf30e17643848dc.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251125235000 +0100" stop="20251126004000 +0100" channel="France2.fr">
+    <title lang="fr">Notre Histoire de France</title>
+    <desc lang="fr">Au XIIIe siècle, après avoir restauré l'Etat et l'unité du royaume, le roi Louis IX part pour les croisades. Mais il est capturé par l'ennemi en Egypte.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/27/7c9196e235a948498d8f2d7f26d6eece.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126004000 +0100" stop="20251126013500 +0100" channel="France2.fr">
+    <title lang="fr">1914-1918, le trésor oublié d'Antoinette et Louis</title>
+    <desc lang="fr">Durant la Première Guerre mondiale, Louis et Antoinette habitent Vignacourt, un village situé à trente kilomètres de la zone des combats. Alors qu'en 1915, les Alliés, sous commandement britannique, préparent une grande offensive contre l'armée allemande, il devient une importante base logistique avec une gare, un aérodrome, un hôpital, une zone de repli et un important camp de repos pour les soldats engagés dans le conflit. On y panse ses blessures, on s'y retape, on s'y détend avant de repartir combattre dans ce qui va être l'effroyable Bataille de la Somme avec plus de 443.000 morts. En s'appuyant sur les photos d'Antoinette et Louis, ce film plonge dans le quotidien de ce petit bourg bien décidé de continuer à vivre, malgré un avenir incertain et l'horreur de ce qui se joue dans les tranchées, à une journée de marche de là.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/13/0cf3d94_upload-1-1c84dzqngupr-capture-da-ei-cran-2025-11-13-ai-09-40-47.png" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126013500 +0100" stop="20251126032000 +0100" channel="France2.fr">
+    <title lang="fr">Un dimanche à la campagne</title>
+    <desc lang="fr">Loin du tumulte médiatique, Frédéric Lopez invite quelques célébrités le temps d'un week-end afin de leur offrir un moment hors du temps propice aux confidences. Entre émotion et fous rires, chacun se dévoile.(n)</desc>
+    <credits>
+      <presenter>Frédéric Lopez</presenter>
+    </credits>
+    <category lang="fr">Talk-show</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/18/401a2cda800249d68a3e88fb8c2676ce.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126032000 +0100" stop="20251126042000 +0100" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.(n)</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/f734d84ec602454baa7eb3462488909c.jpg" />
+    <country lang="fr">France</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20251126042000 +0100" stop="20251126042500 +0100" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/287160f675134e39a519ff491e347661.jpg" />
+  </programme>
+  <programme start="20251126042500 +0100" stop="20251126045000 +0100" channel="France2.fr">
+    <title lang="fr">Le goût du Cap</title>
+    <desc lang="fr">La ville du Cap, en Afrique du Sud, racontée par des français installés sur place.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/12/916e0b2afeda4c38a6cfc9425d780a6a.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126045000 +0100" stop="20251126050000 +0100" channel="France2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+    <desc lang="fr">A la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.(n)</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/12/a756cb8e80794ec2a0694c4b58bfe372.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126050000 +0100" stop="20251126054500 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/08/22/5806f0526bc84a198a19d2dbca0ac0ee.jpg" />
+  </programme>
+  <programme start="20251126054500 +0100" stop="20251126060000 +0100" channel="France2.fr">
+    <title lang="fr">100 % logique : entraînez-vous !</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/11/04/3381e04a9183ef6c080f98335a03bd3f6f4f9e0c_B12A4E28D2BC0776F0EC9AB164F5C2CE.jpg" />
+  </programme>
+  <programme start="20251126060000 +0100" stop="20251126063500 +0100" channel="France2.fr">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/03/66015ca763e341a894854876e419aa99.jpg" />
+  </programme>
+  <programme start="20251126063500 +0100" stop="20251126080000 +0100" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/16/93807de70b5a4e588c65d4a6b8ab8df8.jpg" />
+  </programme>
+  <programme start="20251126080000 +0100" stop="20251126083000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/18/3869b903937c45bbb6e1f34d5a1c7230.jpg" />
+  </programme>
+  <programme start="20251126083000 +0100" stop="20251126095500 +0100" channel="France2.fr">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/16/93807de70b5a4e588c65d4a6b8ab8df8.jpg" />
+  </programme>
+  <programme start="20251126095500 +0100" stop="20251126104000 +0100" channel="France2.fr">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Un talk-show matinal en public à la découverte de nouvelles solutions pour apprendre à prendre soin de soi et aussi des autres au quotidien.(n)</desc>
+    <credits>
+      <presenter>Agathe Lecaron</presenter>
+    </credits>
+    <category lang="fr">Talk-show</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/03/37d1d3a2dcaa411fbb68d8a3d7c24c52.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126104000 +0100" stop="20251126104500 +0100" channel="France2.fr">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer, toutes les thématiques peuvent être abordées autour de nos achats.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/20/ee20d9adbb5f489db11961faac3e309c.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126104500 +0100" stop="20251126105000 +0100" channel="France2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/287160f675134e39a519ff491e347661.jpg" />
+  </programme>
+  <programme start="20251126105000 +0100" stop="20251126112500 +0100" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/22/4981ab9187744ec7ac91353bd39bbeab.jpg" />
+  </programme>
+  <programme start="20251126112500 +0100" stop="20251126115500 +0100" channel="France2.fr">
+    <title lang="fr">Chacun son tour</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/07/22/4981ab9187744ec7ac91353bd39bbeab.jpg" />
+  </programme>
+  <programme start="20251126115500 +0100" stop="20251126125000 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/08/22/5806f0526bc84a198a19d2dbca0ac0ee.jpg" />
+  </programme>
+  <programme start="20251126125000 +0100" stop="20251126125500 +0100" channel="France2.fr">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Les meilleurs moments des "Maternelles XXL", l'émission qui explore quotidiennement la vie familiale sous toutes ses formes à travers des échanges d'expérience, des chroniques pratiques et un regard inclusif sur la diversité des familles. Conseils d'experts, tutoriels et chroniques pratiques rythment les rubriques de ce rendez-vous des familles.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/30/aba2d8c2c44f4c79ac88a1528b53da4d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126125500 +0100" stop="20251126130000 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251126130000 +0100" stop="20251126134000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/10/22/531e1f319658479ba9d1f74683f2e128.jpg" />
+  </programme>
+  <programme start="20251126134000 +0100" stop="20251126134500 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251126134500 +0100" stop="20251126135000 +0100" channel="France2.fr">
+    <title lang="fr">C'est bon à savoir</title>
+    <desc lang="fr">"C'est bon à savoir" décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.(n)</desc>
+    <credits>
+      <presenter>Michel Cymes</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/5a70ed171a814d88ba46a5cf1671d430.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126135000 +0100" stop="20251126135500 +0100" channel="France2.fr">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.(n)</desc>
+    <credits>
+      <presenter>François Busnel</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/325d706dc1314301bdced388ccb2fb5d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126135500 +0100" stop="20251126150500 +0100" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/f734d84ec602454baa7eb3462488909c.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126150500 +0100" stop="20251126160700 +0100" channel="France2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Faustine Bollaert accueille aujourd'hui trois invitées qui ont été épiées à leur insu, harcelées et traquées. Toutes ont vécu l'enfer, parfois pendant des années.(n)</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/f734d84ec602454baa7eb3462488909c.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126160700 +0100" stop="20251126170800 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <credits>
+      <presenter>Julia Vignali</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/05/29/bc1cf844435940eb9d8ea8046f6300fe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126170800 +0100" stop="20251126175500 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <credits>
+      <presenter>Julia Vignali</presenter>
+    </credits>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/05/29/bc1cf844435940eb9d8ea8046f6300fe.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126175500 +0100" stop="20251126180500 +0100" channel="France2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, des spécialistes accompagnent les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/7f5c72f2c2734a718a7a7bff89b16a5d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126180500 +0100" stop="20251126184000 +0100" channel="France2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/08/22/896efc334f8b42f798f5eff1e89080dd.jpg" />
+  </programme>
+  <programme start="20251126184000 +0100" stop="20251126191500 +0100" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/26/8e37820f84cf40e09282160a545927a7.jpg" />
+  </programme>
+  <programme start="20251126191500 +0100" stop="20251126195500 +0100" channel="France2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/02/26/8e37820f84cf40e09282160a545927a7.jpg" />
+  </programme>
+  <programme start="20251126195500 +0100" stop="20251126200000 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251126200000 +0100" stop="20251126205000 +0100" channel="France2.fr">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">En Direct.(n)</desc>
+    <category lang="fr">Journal</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/09/02/929fc60d3081415cafad243a5f7e8c76.jpg" />
+  </programme>
+  <programme start="20251126205000 +0100" stop="20251126205500 +0100" channel="France2.fr">
+    <title lang="fr">Journal Météo climat</title>
+    <category lang="fr">Météo</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/03/15/589dce513a89107c3a428467c373be79d5d3db4e_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+  </programme>
+  <programme start="20251126205500 +0100" stop="20251126210000 +0100" channel="France2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.(n)</desc>
+    <category lang="fr">Magazine</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2024/05/15/fb0ac4800c7e4a2fa922e73d12f5bc0d.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251126210000 +0100" stop="20251126211000 +0100" channel="France2.fr">
+    <title lang="fr">100 % logique : entraînez-vous !</title>
+    <category lang="fr">Jeu</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2023/11/04/3381e04a9183ef6c080f98335a03bd3f6f4f9e0c_B12A4E28D2BC0776F0EC9AB164F5C2CE.jpg" />
+  </programme>
+  <programme start="20251126211000 +0100" stop="20251126225000 +0100" channel="France2.fr">
+    <title lang="fr">L'amour et les forêts</title>
+    <desc lang="fr">Inédit. Lors d'une soirée, Blanche rencontre le beau Grégoire dont elle tombe aussitôt amoureuse. La jeune femme, qui vit au bord de la mer avec sa mère et sa soeur jumelle, décide très vite de passer un cap en acceptant la proposition de son amoureux d'emménager avec lui dans l'Est de la France. D'abord fusionnelle et idyllique, la relation du couple change après la naissance de leurs deux enfants. Blanche découvre une facette de son mari qu'elle ne soupçonnait pas jusque-là. Grégoire devient possessif et très jaloux, allant jusqu'à espionner ses moindres faits et gestes, transformant sa vie en enfer...(n)</desc>
+    <credits>
+      <actor role="Rose Renard">Virginie Efira</actor>
+      <actor role="Grégoire Lamoureux">Melvil Poupaud</actor>
+      <actor role="l'avocate">Dominique Reymond</actor>
+      <actor role="Delphine">Romane Bohringer</actor>
+      <writer>Valérie Donzelli</writer>
+      <writer>Audrey Diwan</writer>
+      <composer>Gabriel Yared</composer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Film</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/13/e441578f804e4b7b9607ae7f82c648ed.jpg" />
+    <country lang="fr">France</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20251126225000 +0100" stop="20251126235500 +0100" channel="France2.fr">
+    <title lang="fr">Débat</title>
+    <desc lang="fr">Suite à la diffusion du film "L'Amour et les Forêts", de Valérie Donzelli, Carole Gaessler anime un débat consacré aux relations d'emprise dans lesquelles les femmes sont susceptibles de tomber. Ses invités évoquent cette thématique préoccupante et esquissent quelques pistes et ressources pour y faire face.(n)</desc>
+    <credits>
+      <presenter>Carole Gaessler</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
+    <icon src="https://focus.telerama.fr/252x168/80/2025/11/13/3fddeff3593d4d909057346b56da3da9.jpg" />
+    <country lang="fr">France</country>
   </programme>
 </tv>
