@@ -362,9 +362,9 @@
     <title lang="fr">Coup de foudre sur une valse de Noël</title>
     <desc lang="fr">Un danseur professionnel se découvre des atomes crochus avec la partenaire qu'il vient de choisir pour une prestigieuse compétition organisée à l'aube de Noël à Paris.(n)</desc>
     <category lang="fr">Téléfilm mélodramatique</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/3/13066356.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/5/3/13066357.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/3/13066354.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/3/13144309.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/13144310.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/3/13144308.jpg" />
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/3/13066359.jpg" />
   </programme>
   <programme start="20251126163000 +0000" stop="20251126173000 +0000" channel="TF1.fr">
@@ -492,4 +492,3 @@
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/3/13066358.jpg" />
     <episode-num system="onscreen">S13 E20</episode-num>
   </programme>
-</tv>
