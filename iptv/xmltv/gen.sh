@@ -30,9 +30,10 @@ rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
 wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
 tar -zxvf WebGrabPlus_V5.3_install.tar.gz
 cd $HOME/.wg++/
+rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
 ./install.sh
-rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/Documentation.pdf
 wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
+rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md doc/
 unzip SiteIniPack_current.zip
 wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGrab++.config.xml
 sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
