@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TF1.fr">
     <display-name lang="fr">FR| TF1 HD (TF1+)</display-name>
     <url>http://www.sfr.fr</url>
@@ -492,3 +494,4 @@
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/3/13066358.jpg" />
     <episode-num system="onscreen">S13 E20</episode-num>
   </programme>
+</tv>
