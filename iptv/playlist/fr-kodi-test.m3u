@@ -167,7 +167,7 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+BOX+OFFICE
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb
 https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paramount_Channel_Decale_color.png" group-title="FR| CINEMA",Paramount Network Decale FHD (app.molotov.tv)
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paramount_Channel_Decale_color.png" group-title="FR| CINEMA",FR| Paramount Network Decale FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|856228f3d93fdf9ef3c730bd07ed13b6:7c71db4f8db60a06b24208da3a0bfd1f
