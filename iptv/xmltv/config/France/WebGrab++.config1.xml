@@ -382,5 +382,5 @@
     <channel update="i" site="telenet.tv.be" site_id="rtltvihd##MM11F" xmltv_id="RTLTVI.be">BE| RTL TVI HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="clubrtlhd##MM11E" xmltv_id="ClubRTL.be">BE| Club RTL HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="plugrtl##MM07A" xmltv_id="PlugRTL.be">BE| Plug RTL HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="ab3##MM0D2" xmltv_id="AB3.be">BE| AB3 HD</channel>
+    <channel update="i" site="telenet.tv.be" site_id="ab3##MM0D2" xmltv_id="AB3.be">BE| AB3 HD</channel>-->
 </settings>
