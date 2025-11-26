@@ -207,7 +207,7 @@
     <channel update="i" site="sfr.fr" site_id="2046" xmltv_id="Canal Q">Canal Q</channel>
     <channel update="i" site="sfr.fr" site_id="2832" xmltv_id="Echorouk News">Echorouk News</channel>
     <channel update="i" site="sfr.fr" site_id="1936" xmltv_id="France 3 - Lorraine">France 3 - Lorraine</channel>
-    <!--<channel update="i" site="sfr.fr" site_id="1921" xmltv_id="France 3 - Alpes">France 3 - Alpes</channel>
+    <channel update="i" site="sfr.fr" site_id="1921" xmltv_id="France 3 - Alpes">France 3 - Alpes</channel>
     <channel update="i" site="sfr.fr" site_id="531" xmltv_id="Luxe TV">Luxe TV</channel>
     <channel update="i" site="sfr.fr" site_id="863" xmltv_id="VIA GRAND PARIS">VIA GRAND PARIS</channel>
     <channel update="i" site="sfr.fr" site_id="1307" xmltv_id="BBLACK CLASSIK">BBLACK CLASSIK</channel>
@@ -233,7 +233,7 @@
     <channel update="i" site="sfr.fr" site_id="2" xmltv_id="13ème rue">13ème rue</channel>
     <channel update="i" site="sfr.fr" site_id="36" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="sfr.fr" site_id="121" xmltv_id="MCM">MCM</channel>
-    <channel update="i" site="sfr.fr" site_id="1718" xmltv_id="I24 NEWS ARABIC">I24 NEWS ARABIC</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="1718" xmltv_id="I24 NEWS ARABIC">I24 NEWS ARABIC</channel>
     <channel update="i" site="sfr.fr" site_id="2975" xmltv_id="KANAL D DRAMA">KANAL D DRAMA</channel>
     <channel update="i" site="sfr.fr" site_id="2730" xmltv_id="France 3 Nouvelle Aquitaine">France 3 Nouvelle Aquitaine</channel>
     <channel update="i" site="sfr.fr" site_id="1939" xmltv_id="France 3 - Paris Ile-de-France">France 3 - Paris Ile-de-France</channel>
