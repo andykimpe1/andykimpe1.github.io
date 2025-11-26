@@ -34,6 +34,7 @@
     <channel update="i" site="sfr.fr" site_id="1943" xmltv_id="France 3 - Provence Alpes">France 3 - Provence Alpes</channel>
     <channel update="i" site="sfr.fr" site_id="10" xmltv_id="Action">Action</channel>
     <channel update="i" site="sfr.fr" site_id="340" xmltv_id="2M Maroc">2M Maroc</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="713" xmltv_id="24H TVE">24H TVE</channel>
     <channel update="i" site="sfr.fr" site_id="32" xmltv_id="CANAL J">CANAL J</channel>
     <channel update="i" site="sfr.fr" site_id="1924" xmltv_id="France 3 - Auvergne">France 3 - Auvergne</channel>
