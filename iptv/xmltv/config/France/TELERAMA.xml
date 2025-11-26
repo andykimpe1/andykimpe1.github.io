@@ -43,7 +43,7 @@
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
-    <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
+    <channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
     <channel update="i" site="sfr.fr" site_id="1703" xmltv_id="Sol Musica">Sol Musica</channel>
     <channel update="i" site="sfr.fr" site_id="534" xmltv_id="Canal 32">Canal 32</channel>
     <channel update="i" site="sfr.fr" site_id="287" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
@@ -152,7 +152,7 @@
     <channel update="i" site="sfr.fr" site_id="357" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="sfr.fr" site_id="882" xmltv_id="ZHEJIANG STAR TV">ZHEJIANG STAR TV</channel>
     <channel update="i" site="sfr.fr" site_id="1023" xmltv_id="TV78">TV78</channel>
-    <channel update="i" site="sfr.fr" site_id="2901" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="2901" xmltv_id="Canal Cocina">Canal Cocina</channel>
     <channel update="i" site="sfr.fr" site_id="2317" xmltv_id="BFM Grand Littoral">BFM Grand Littoral</channel>
     <channel update="i" site="sfr.fr" site_id="1151" xmltv_id="TL7 Saint etienne">TL7 Saint etienne</channel>
     <channel update="i" site="sfr.fr" site_id="18" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
@@ -262,7 +262,7 @@
     <channel update="i" site="sfr.fr" site_id="795" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
     <channel update="i" site="sfr.fr" site_id="561" xmltv_id="Africa 24">Africa 24</channel>
     <channel update="i" site="sfr.fr" site_id="1073" xmltv_id="BFM Business">BFM Business</channel>
-    <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>-->
+    <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
     <channel update="i" site="sfr.fr" site_id="169" xmltv_id="RTPI">RTPI</channel>
     <channel update="i" site="sfr.fr" site_id="2022" xmltv_id="Trace Gospel">Trace Gospel</channel>
     <channel update="i" site="sfr.fr" site_id="1461" xmltv_id="Nollywood TV">Nollywood TV</channel>
@@ -369,7 +369,7 @@
     <channel update="i" site="sfr.fr" site_id="6" xmltv_id="Mangas">Mangas</channel>
     <channel update="i" site="sfr.fr" site_id="733" xmltv_id="OCS City">OCS City</channel>
     <channel update="i" site="sfr.fr" site_id="776" xmltv_id="Channel One Russia">Channel One Russia</channel>
-    <channel update="i" site="sfr.fr" site_id="1932" xmltv_id="France 3 - Franche-Comté">France 3 - Franche-Comté</channel>
+    <channel update="i" site="sfr.fr" site_id="1932" xmltv_id="France 3 - Franche-Comté">France 3 - Franche-Comté</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
