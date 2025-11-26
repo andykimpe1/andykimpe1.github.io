@@ -7,7 +7,7 @@
   <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password">f</license>
   <logging>on</logging>
   <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
-  <timespan>0</timespan>
+  <timespan>14</timespan>
   <update>f</update>
     <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
     <channel update="i" site="sfr.fr" site_id="169" xmltv_id="RTPI">RTPI</channel>
