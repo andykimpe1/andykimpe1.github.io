@@ -6,10 +6,11 @@
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0</user-agent>
   <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password">f</license>
   <logging>on</logging>
-  <retry time-out="500" channel-delay="500" index-delay="1" show-delay="1">40</retry>
-  <timespan>14</timespan>
+  <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
+  <timespan>10</timespan>
   <update>f</update>
-    <channel update="i" site="telerama.fr" site_id="tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
+    <channel update="i" site="tv.orange.fr" site_id="192##tf1%2F20180417_164011" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
+    <!--<channel update="i" site="telerama.fr" site_id="tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>-->
     <channel update="i" site="telerama.fr" site_id="france-2" xmltv_id="France2.fr">FR| France 2 FHD (app.molotov.tv)</channel>
     <!--<channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| France 2 FHD (app.molotov.tv)</channel>-->
