@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 cd $HOME
 FILE=$HOME/wgaccount    
 if [ ! -f $FILE ]; then
