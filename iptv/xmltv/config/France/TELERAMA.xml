@@ -43,7 +43,7 @@
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
-    <channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
     <channel update="i" site="sfr.fr" site_id="1703" xmltv_id="Sol Musica">Sol Musica</channel>
     <channel update="i" site="sfr.fr" site_id="534" xmltv_id="Canal 32">Canal 32</channel>
     <channel update="i" site="sfr.fr" site_id="287" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
@@ -64,7 +64,7 @@
     <channel update="i" site="sfr.fr" site_id="401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
     <channel update="i" site="sfr.fr" site_id="262" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="sfr.fr" site_id="864" xmltv_id="The Israeli Network">The Israeli Network</channel>
-    <channel update="i" site="sfr.fr" site_id="2054" xmltv_id="Gabon 24">Gabon 24</channel>
+    <channel update="i" site="sfr.fr" site_id="2054" xmltv_id="Gabon 24">Gabon 24</channel>-->
     <channel update="i" site="sfr.fr" site_id="928" xmltv_id="Boomerang +1">Boomerang +1</channel>
     <channel update="i" site="sfr.fr" site_id="421" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
     <channel update="i" site="sfr.fr" site_id="273" xmltv_id="TV7 Bordeaux">TV7 Bordeaux</channel>
