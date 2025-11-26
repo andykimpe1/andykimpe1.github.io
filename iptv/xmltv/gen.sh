@@ -27,10 +27,12 @@ fi
 source $HOME/wgaccount
 rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
 rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
-wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
-tar -zxvf WebGrabPlus_V5.3_install.tar.gz
+#wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
+#tar -zxvf WebGrabPlus_V5.3_install.tar.gz
+wget https://webgrabplus.com/sites/default/files/download/SW/V5.5.0/WebGrabPlus_5.5_install.tar.gz
+tar -zxvf WebGrabPlus_5.5_install.tar.gz
 cd $HOME/.wg++/
-rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
+rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
 ./install.sh
 wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md doc/
