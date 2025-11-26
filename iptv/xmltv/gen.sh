@@ -39,15 +39,21 @@ rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins 
 wget -q https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md doc/
 unzip SiteIniPack_current.zip
-wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGrab++.config.xml
+#echo "channel 192 FR| TF1 FHD (app.molotov.tv);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
+#tv_grab_fr_telerama --config-file $HOME/config.conf --output TF1.xml --days 11
+#sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France/WebGrab++.config1.xml -O WebGrab++.config.xml
 sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
 sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
 sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
 rm -f France.xml
 ./run.net.sh
-#echo "channel 192 FR| TF1 FHD (app.molotov.tv);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
-#tv_grab_fr_telerama --config-file $HOME/config.conf --output TF1.xml --days 11
-#sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France/WebGrab++.config2.xml -O WebGrab++.config.xml
+sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
+sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
+sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
+rm -f France2.xml
+./run.net.sh
 cd $HOME
 git clone git@github.com:andykimpe1/andykimpe1.github.io.git
 sed 1d $HOME/.wg++/France.xml -i
