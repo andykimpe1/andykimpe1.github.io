@@ -40,6 +40,7 @@
     <channel update="i" site="sfr.fr" site_id="1399" xmltv_id="Cherie25.fr">FR| RMC Life FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="115" xmltv_id="RTL9.fr">FR| RTL9 FHD (app.molotov.tv)</channel>
+    <channel update="i" site="sfr.fr" site_id="225" xmltv_id="TvBreizh.fr">FR| TV BREIZH FHD (tv.sfr.fr)</channel>
     <channel update="i" site="telenet.tv.be" site_id="launehd##MM08C" xmltv_id="LaUne.be">BE| La Une HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="ladeuxhd##MM08E" xmltv_id="Tipik.be">BE| Tipik HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="latrois##MM281" xmltv_id="LaTrois.be">BE| La Trois HD</channel>
