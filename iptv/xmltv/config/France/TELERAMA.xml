@@ -13,7 +13,7 @@
     <channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| France 2 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">FR| France 3 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="78" xmltv_id="France4.fr">FR| France 4 FHD (app.molotov.tv)</channel>
-    <channel update="i" site="sfr.fr" site_id="france-5" xmltv_id="France5.fr">FR| France 5 FHD (app.molotov.tv)</channel>
+    <channel update="i" site="sfr.fr" site_id="47" xmltv_id="France5.fr">FR| France 5 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6.fr">FR| M6 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="111" xmltv_id="ARTE.fr">FR| ARTE FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="234" xmltv_id="LaChaineParlementaire.fr">FR| LCP FHD (app.molotov.tv)</channel>
