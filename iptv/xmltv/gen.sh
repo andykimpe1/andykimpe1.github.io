@@ -17,7 +17,6 @@ if [ ! -f $FILE ]; then
    cd $HOME/.wg++/
    rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
    ./install.sh
-   
    echo "please visit webgrabplus.com"
    echo "create your account on the website"
    echo "donate 6€ with paypal and wait 24h"
@@ -45,8 +44,8 @@ sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
 sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
 sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
 ./run.net.sh
-#echo "channel 192 FR| TF1 HD (TF1+);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
-#tv_grab_fr_telerama --config-file $HOME/config.conf --output France.xml --days 7
+#echo "channel 192 FR| TF1 FHD (app.molotov.tv);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
+#tv_grab_fr_telerama --config-file $HOME/config.conf --output TF1.xml --days 11
 #sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
 cd $HOME
 git clone git@github.com:andykimpe1/andykimpe1.github.io.git
@@ -63,7 +62,6 @@ git add --all *
 git commit -a -m "update epg"
 git push origin main
 cd $HOME
-rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
 rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
 exit
 
