@@ -53,6 +53,7 @@
     <channel update="i" site="sfr.fr" site_id="2533" xmltv_id="El Djazairia">El Djazairia</channel>
     <channel update="i" site="sfr.fr" site_id="1735" xmltv_id="TELE SCHILTIGHEIM - CANAL">TELE SCHILTIGHEIM - CANAL</channel>
     <channel update="i" site="sfr.fr" site_id="2275" xmltv_id="TVPI">TVPI</channel>
+    <channel update="i" site="telerama.fr" site_id="polar" xmltv_id="PolarPlus.fr">FR| Polar+ (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="1452" xmltv_id="Mens Up TV">Mens Up TV</channel>
     <channel update="i" site="sfr.fr" site_id="2347" xmltv_id="Local Visao">Local Visao</channel>
     <channel update="i" site="sfr.fr" site_id="1746" xmltv_id="Nickelodeon Teen">Nickelodeon Teen</channel>
