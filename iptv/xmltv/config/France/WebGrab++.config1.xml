@@ -247,7 +247,7 @@
     <channel update="i" site="sfr.fr" site_id="3037" xmltv_id="TELEFOOT">TELEFOOT</channel>
     <channel update="i" site="sfr.fr" site_id="118" xmltv_id="M6">M6</channel>
     <channel update="i" site="sfr.fr" site_id="981" xmltv_id="KABEL EINS">KABEL EINS</channel>
-    <!--<channel update="i" site="sfr.fr" site_id="540" xmltv_id="TV Tours">TV Tours</channel>
+    <channel update="i" site="sfr.fr" site_id="540" xmltv_id="TV Tours">TV Tours</channel>
     <channel update="i" site="sfr.fr" site_id="284" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
     <channel update="i" site="sfr.fr" site_id="491" xmltv_id="Télénantes">Télénantes</channel>
     <channel update="i" site="sfr.fr" site_id="2837" xmltv_id="Sport en France">Sport en France</channel>
@@ -265,7 +265,7 @@
     <channel update="i" site="sfr.fr" site_id="795" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
     <channel update="i" site="sfr.fr" site_id="561" xmltv_id="Africa 24">Africa 24</channel>
     <channel update="i" site="sfr.fr" site_id="1073" xmltv_id="BFM Business">BFM Business</channel>
-    <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
     <channel update="i" site="sfr.fr" site_id="169" xmltv_id="RTPI">RTPI</channel>
     <channel update="i" site="sfr.fr" site_id="2022" xmltv_id="Trace Gospel">Trace Gospel</channel>
     <channel update="i" site="sfr.fr" site_id="1461" xmltv_id="Nollywood TV">Nollywood TV</channel>
