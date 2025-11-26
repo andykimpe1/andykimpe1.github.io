@@ -181,7 +181,7 @@
     <channel update="i" site="sfr.fr" site_id="959" xmltv_id="Assadissa">Assadissa</channel>
     <channel update="i" site="sfr.fr" site_id="185" xmltv_id="TCM cinéma">TCM cinéma</channel>
     <channel update="i" site="sfr.fr" site_id="51" xmltv_id="CNBC EUROPE">CNBC EUROPE</channel>
-    <!--<channel update="i" site="sfr.fr" site_id="2899" xmltv_id="A3 Cine">A3 Cine</channel>
+    <channel update="i" site="sfr.fr" site_id="2899" xmltv_id="A3 Cine">A3 Cine</channel>
     <channel update="i" site="sfr.fr" site_id="1698" xmltv_id="Al Majd Holy Quran">Al Majd Holy Quran</channel>
     <channel update="i" site="sfr.fr" site_id="611" xmltv_id="Iqraa TV">Iqraa TV</channel>
     <channel update="i" site="sfr.fr" site_id="524" xmltv_id="Alsace 20">Alsace 20</channel>
@@ -207,7 +207,7 @@
     <channel update="i" site="sfr.fr" site_id="2046" xmltv_id="Canal Q">Canal Q</channel>
     <channel update="i" site="sfr.fr" site_id="2832" xmltv_id="Echorouk News">Echorouk News</channel>
     <channel update="i" site="sfr.fr" site_id="1936" xmltv_id="France 3 - Lorraine">France 3 - Lorraine</channel>
-    <channel update="i" site="sfr.fr" site_id="1921" xmltv_id="France 3 - Alpes">France 3 - Alpes</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="1921" xmltv_id="France 3 - Alpes">France 3 - Alpes</channel>
     <channel update="i" site="sfr.fr" site_id="531" xmltv_id="Luxe TV">Luxe TV</channel>
     <channel update="i" site="sfr.fr" site_id="863" xmltv_id="VIA GRAND PARIS">VIA GRAND PARIS</channel>
     <channel update="i" site="sfr.fr" site_id="1307" xmltv_id="BBLACK CLASSIK">BBLACK CLASSIK</channel>
