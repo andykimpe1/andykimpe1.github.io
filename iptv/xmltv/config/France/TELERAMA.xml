@@ -6,7 +6,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0</user-agent>
   <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password">f</license>
   <logging>on</logging>
-  <retry time-out="5000">400</retry>
+  <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
   <timespan>14</timespan>
   <update>f</update>
     <channel update="i" site="telerama.fr" site_id="tf1" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
