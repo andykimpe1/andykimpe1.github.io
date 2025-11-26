@@ -11,6 +11,13 @@ if [ ! -f $FILE ]; then
    sudo apt-get -y install dotnet-runtime-9.0
    sudo wget https://github.com/beavis69/tv_grab_fr_telerama/raw/refs/heads/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
    sudo chmod +x /usr/bin/tv_grab_fr_telerama
+   rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V*_install.tar.gz
+   wget https://webgrabplus.com/sites/default/files/download/SW/V5.5.0/WebGrabPlus_5.5_install.tar.gz
+   tar -zxvf WebGrabPlus_5.5_install.tar.gz
+   cd $HOME/.wg++/
+   rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
+   ./install.sh
+   
    echo "please visit webgrabplus.com"
    echo "create your account on the website"
    echo "donate 6€ with paypal and wait 24h"
@@ -27,16 +34,10 @@ if [ ! -f $FILE ]; then
    echo "wgpassword=$wgpassword" >> $HOME/wgaccount
 fi
 source $HOME/wgaccount
-rm -rf $HOME/.wg++ $HOME/WebGrabPlus_V5.3_install.tar.gz
-rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
-#wget https://webgrabplus.com/sites/default/files/download/SW/V5.3.0/WebGrabPlus_V5.3_install.tar.gz
-#tar -zxvf WebGrabPlus_V5.3_install.tar.gz
-wget https://webgrabplus.com/sites/default/files/download/SW/V5.5.0/WebGrabPlus_5.5_install.tar.gz
-tar -zxvf WebGrabPlus_5.5_install.tar.gz
 cd $HOME/.wg++/
 rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md SiteIniPack_current.zip doc/
 ./install.sh
-wget https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
+wget -q https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md doc/
 unzip SiteIniPack_current.zip
 wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGrab++.config.xml
