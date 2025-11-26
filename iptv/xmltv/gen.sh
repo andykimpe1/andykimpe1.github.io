@@ -43,6 +43,7 @@ wget https://andykimpe1.github.io/iptv/xmltv/config/France/TELERAMA.xml -O WebGr
 sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
 sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
 sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
+rm -f France.xml
 ./run.net.sh
 #echo "channel 192 FR| TF1 FHD (app.molotov.tv);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
 #tv_grab_fr_telerama --config-file $HOME/config.conf --output TF1.xml --days 11
