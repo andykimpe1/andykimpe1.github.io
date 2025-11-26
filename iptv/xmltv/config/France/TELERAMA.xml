@@ -43,6 +43,9 @@
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
+    <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
+    <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
+    <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
     <channel update="i" site="sfr.fr" site_id="1703" xmltv_id="Sol Musica">Sol Musica</channel>
     <channel update="i" site="sfr.fr" site_id="534" xmltv_id="Canal 32">Canal 32</channel>
@@ -152,7 +155,7 @@
     <channel update="i" site="sfr.fr" site_id="357" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="sfr.fr" site_id="882" xmltv_id="ZHEJIANG STAR TV">ZHEJIANG STAR TV</channel>
     <channel update="i" site="sfr.fr" site_id="1023" xmltv_id="TV78">TV78</channel>
-    <!--<channel update="i" site="sfr.fr" site_id="2901" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="sfr.fr" site_id="2901" xmltv_id="Canal Cocina">Canal Cocina</channel>
     <channel update="i" site="sfr.fr" site_id="2317" xmltv_id="BFM Grand Littoral">BFM Grand Littoral</channel>
     <channel update="i" site="sfr.fr" site_id="1151" xmltv_id="TL7 Saint etienne">TL7 Saint etienne</channel>
     <channel update="i" site="sfr.fr" site_id="18" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
@@ -178,7 +181,7 @@
     <channel update="i" site="sfr.fr" site_id="959" xmltv_id="Assadissa">Assadissa</channel>
     <channel update="i" site="sfr.fr" site_id="185" xmltv_id="TCM cinéma">TCM cinéma</channel>
     <channel update="i" site="sfr.fr" site_id="51" xmltv_id="CNBC EUROPE">CNBC EUROPE</channel>
-    <channel update="i" site="sfr.fr" site_id="2899" xmltv_id="A3 Cine">A3 Cine</channel>
+    <!--<channel update="i" site="sfr.fr" site_id="2899" xmltv_id="A3 Cine">A3 Cine</channel>
     <channel update="i" site="sfr.fr" site_id="1698" xmltv_id="Al Majd Holy Quran">Al Majd Holy Quran</channel>
     <channel update="i" site="sfr.fr" site_id="611" xmltv_id="Iqraa TV">Iqraa TV</channel>
     <channel update="i" site="sfr.fr" site_id="524" xmltv_id="Alsace 20">Alsace 20</channel>
