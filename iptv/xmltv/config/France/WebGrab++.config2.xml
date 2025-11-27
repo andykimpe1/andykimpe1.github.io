@@ -7,7 +7,7 @@
   <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password">f</license>
   <logging>on</logging>
   <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
-  <timespan>14</timespan>
+  <timespan>1</timespan>
   <update>f</update>
     <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
