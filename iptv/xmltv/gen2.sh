@@ -39,35 +39,49 @@ rm -rf $HOME/WebGrabPlus_*_install.tar.gz evaluation-builds postprocess_plugins 
 wget -q https://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip
 rm -rf evaluation-builds postprocess_plugins siteini.pack User_contributions _config.yml README.md doc/
 unzip SiteIniPack_current.zip
-#echo "channel 192 FR| TF1 FHD (app.molotov.tv);https://focus.telerama.fr/100x100/0000/00/01/clear-192.png" > $HOME/config.conf
-#tv_grab_fr_telerama --config-file $HOME/config.conf --output TF1.xml --days 11
-#sed -i "s|C192.api.telerama.fr|TF1.fr|g" France.xml
+wget https://andykimpe1.github.io/iptv/xmltv/config/France/TF1.xml -O WebGrab++.config.xml
+sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
+sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
+sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
+rm -f TF1.xml
+./run.net.sh
+cd $HOME
+rm -rf andykimpe1.github.io
+git clone git@github.com:andykimpe1/andykimpe1.github.io.git
+sed 1d $HOME/.wg++/TF1.xml -i
+sed 1d $HOME/.wg++/TF1.xml -i
+sed -i '$d' $HOME/.wg++/TF1.xml
+echo '<?xml version="1.0" encoding="UTF-8"?>' > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+echo '<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+cat $HOME/.wg++/TF1.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+echo '</tv>' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+cd $HOME/andykimpe1.github.io
+git add --all *
+git commit -a -m "update epg"
+git push origin main
+cd $HOME
+rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
+cd $HOME/.wg++/
 wget https://andykimpe1.github.io/iptv/xmltv/config/France/WebGrab++.config1.xml -O WebGrab++.config.xml
 sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
 sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
 sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
 rm -f France.xml
 ./run.net.sh
-wget https://andykimpe1.github.io/iptv/xmltv/config/France/WebGrab++.config2.xml -O WebGrab++.config.xml
-sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
-sed -i "s|your registered email address|$wgemail|g" WebGrab++.config.xml
-sed -i "s|your license password|$wgpassword|g" WebGrab++.config.xml
-rm -f France2.xml
-./run.net.sh
 cd $HOME
+rm -rf andykimpe1.github.io
 git clone git@github.com:andykimpe1/andykimpe1.github.io.git
+sed 1d $HOME/.wg++/TF1.xml -i
+sed 1d $HOME/.wg++/TF1.xml -i
+sed -i '$d' $HOME/.wg++/TF1.xml
 sed 1d $HOME/.wg++/France.xml -i
 sed 1d $HOME/.wg++/France.xml -i
 sed -i '$d' $HOME/.wg++/France.xml
-sed 1d $HOME/.wg++/France2.xml -i
-sed 1d $HOME/.wg++/France2.xml -i
-sed -i '$d' $HOME/.wg++/France2.xml
 echo '<?xml version="1.0" encoding="UTF-8"?>' > $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 echo '<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
+cat $HOME/.wg++/TF1.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 cat $HOME/.wg++/France.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
-cat $HOME/.wg++/France2.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 echo '</tv>' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
-rm -f $HOME/andykimpe1.github.io/iptv/xmltv/France.xml
 cd $HOME/andykimpe1.github.io
 git add --all *
 git commit -a -m "update epg"
