@@ -7,7 +7,7 @@
   <license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password">f</license>
   <logging>on</logging>
   <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
-  <timespan>1</timespan>
+  <timespan>15</timespan>
   <update>f</update>
     <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
 </settings>
