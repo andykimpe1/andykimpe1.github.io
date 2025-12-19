@@ -61,6 +61,7 @@ git commit -a -m "update epg"
 git push origin main
 cd $HOME
 rm -rf $HOME/andykimpe1.github.io $HOME/config.conf
+exit
 cd $HOME/.wg++/
 wget https://andykimpe1.github.io/iptv/xmltv/config/France/WebGrab++.config1.xml -O WebGrab++.config.xml
 sed -i "s|your webgrab+plus username|$wgusername|g" WebGrab++.config.xml
