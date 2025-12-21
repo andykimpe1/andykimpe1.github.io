@@ -9,7 +9,6 @@
   <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
   <timespan>13</timespan>
   <update>f</update>
-    <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="1927" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
     <channel update="i" site="sfr.fr" site_id="169" xmltv_id="RTPI">RTPI</channel>
     <channel update="i" site="sfr.fr" site_id="2022" xmltv_id="Trace Gospel">Trace Gospel</channel>
@@ -21,7 +20,6 @@
     <channel update="i" site="sfr.fr" site_id="2670" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
     <channel update="i" site="sfr.fr" site_id="2671" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
     <channel update="i" site="sfr.fr" site_id="308" xmltv_id="France 3 - Corse">France 3 - Corse</channel>
-    <channel update="i" site="sfr.fr" site_id="479" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="sfr.fr" site_id="2668" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
     <channel update="i" site="sfr.fr" site_id="2669" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
     <channel update="i" site="sfr.fr" site_id="605" xmltv_id="NRJ Hits">NRJ Hits</channel>
@@ -32,7 +30,6 @@
     <channel update="i" site="sfr.fr" site_id="697" xmltv_id="ORTM">ORTM</channel>
     <channel update="i" site="sfr.fr" site_id="847" xmltv_id="RTS 1">RTS 1</channel>
     <channel update="i" site="sfr.fr" site_id="1943" xmltv_id="France 3 - Provence Alpes">France 3 - Provence Alpes</channel>
-    <channel update="i" site="sfr.fr" site_id="10" xmltv_id="Action">Action</channel>
     <channel update="i" site="sfr.fr" site_id="340" xmltv_id="2M Maroc">2M Maroc</channel>
     <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="713" xmltv_id="24H TVE">24H TVE</channel>
@@ -130,4 +127,7 @@
     <channel update="i" site="telenet.tv.be" site_id="clubrtlhd##MM11E" xmltv_id="ClubRTL.be">BE| Club RTL HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="plugrtl##MM07A" xmltv_id="PlugRTL.be">BE| Plug RTL HD</channel>
     <channel update="i" site="telenet.tv.be" site_id="ab3##MM0D2" xmltv_id="AB3.be">BE| AB3 HD</channel>
+    <channel update="i" site="sfr.fr" site_id="2373" xmltv_id="TV2COM">TV2COM</channel>
+    <channel update="i" site="sfr.fr" site_id="795" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
+    <channel update="i" site="sfr.fr" site_id="561" xmltv_id="Africa 24">Africa 24</channel>
 </settings>
