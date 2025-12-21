@@ -9,7 +9,6 @@
   <retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
   <timespan>13</timespan>
   <update>f</update>
-    <channel update="i" site="programme-tv.net" site_id="canalplus-box-office-11522" xmltv_id="CanalPlusBoxOffice.fr">FR| CANAL+ BOX OFFICE (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="192" xmltv_id="TF1.fr">FR| TF1 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="4" xmltv_id="France2.fr">FR| France 2 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="80" xmltv_id="France3.fr">FR| France 3 FHD (app.molotov.tv)</channel>
@@ -44,6 +43,7 @@
     <channel update="i" site="telerama.fr" site_id="canal" xmltv_id="CanalPlus.fr">FR| CANAL+ (vavoo.to)</channel>
     <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-box-office" xmltv_id="CanalPlusBoxOffice.fr">FR| CANAL+ BOX OFFICE (vavoo.to)</channel>
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
