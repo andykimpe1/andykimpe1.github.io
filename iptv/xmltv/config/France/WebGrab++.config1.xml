@@ -44,6 +44,8 @@
     <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <channel update="i" site="telerama.fr" site_id="canal-box-office" xmltv_id="CanalPlusBoxOffice.fr">FR| CANAL+ BOX OFFICE (vavoo.to)</channel>
+    <channel update="i" site="sfr.fr" site_id="1562" xmltv_id="ParamountChannel.fr">FR| Paramount Network FHD (app.molotov.tv)</channel>
+    <channel update="i" site="sfr.fr" site_id="2072" xmltv_id="ParamountChannelDecale.fr">FR| Paramount Network Decale FHD (app.molotov.tv)</channel>
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
@@ -57,12 +59,7 @@
     <channel update="i" site="sfr.fr" site_id="1960" xmltv_id="BET">BET</channel>
     <channel update="i" site="sfr.fr" site_id="401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
     <channel update="i" site="sfr.fr" site_id="262" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="sfr.fr" site_id="2054" xmltv_id="Gabon 24">Gabon 24</channel>
     <channel update="i" site="sfr.fr" site_id="928" xmltv_id="Boomerang +1">Boomerang +1</channel>
-    <channel update="i" site="sfr.fr" site_id="421" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
-    <channel update="i" site="sfr.fr" site_id="273" xmltv_id="TV7 Bordeaux">TV7 Bordeaux</channel>
-    <channel update="i" site="sfr.fr" site_id="1031" xmltv_id="N-TV">N-TV</channel>
-    <channel update="i" site="sfr.fr" site_id="703" xmltv_id="Canal 21">Canal 21</channel>
     <channel update="i" site="sfr.fr" site_id="924" xmltv_id="Boing">Boing</channel>
     <channel update="i" site="sfr.fr" site_id="1197" xmltv_id="LYON TV">LYON TV</channel>
     <channel update="i" site="sfr.fr" site_id="603" xmltv_id="Jordan Satellite Channel">Jordan Satellite Channel</channel>
@@ -219,7 +216,6 @@
     <channel update="i" site="sfr.fr" site_id="1003" xmltv_id="ORTB">ORTB</channel>
     <channel update="i" site="sfr.fr" site_id="1096" xmltv_id="Nessma">Nessma</channel>
     <channel update="i" site="sfr.fr" site_id="483" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="sfr.fr" site_id="2072" xmltv_id="ParamountChannelDecale.fr">FR| Paramount Network Decale FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="2" xmltv_id="13ème rue">13ème rue</channel>
     <channel update="i" site="sfr.fr" site_id="36" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="sfr.fr" site_id="121" xmltv_id="MCM">MCM</channel>
