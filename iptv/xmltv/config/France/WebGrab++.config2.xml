@@ -24,7 +24,6 @@
     <channel update="i" site="sfr.fr" site_id="2669" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
     <channel update="i" site="sfr.fr" site_id="605" xmltv_id="NRJ Hits">NRJ Hits</channel>
     <channel update="i" site="sfr.fr" site_id="1540" xmltv_id="AL ARABIYA">AL ARABIYA</channel>
-    <channel update="i" site="sfr.fr" site_id="473" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="sfr.fr" site_id="19" xmltv_id="BBC World News">BBC World News</channel>
     <channel update="i" site="sfr.fr" site_id="1776" xmltv_id="TREK">TREK</channel>
     <channel update="i" site="sfr.fr" site_id="697" xmltv_id="ORTM">ORTM</channel>
@@ -33,27 +32,21 @@
     <channel update="i" site="sfr.fr" site_id="340" xmltv_id="2M Maroc">2M Maroc</channel>
     <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="713" xmltv_id="24H TVE">24H TVE</channel>
-    <channel update="i" site="sfr.fr" site_id="32" xmltv_id="CANAL J">CANAL J</channel>
     <channel update="i" site="sfr.fr" site_id="1924" xmltv_id="France 3 - Auvergne">France 3 - Auvergne</channel>
-    <channel update="i" site="sfr.fr" site_id="888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
     <channel update="i" site="sfr.fr" site_id="2095" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
     <channel update="i" site="sfr.fr" site_id="2371" xmltv_id="TELE LOCALE BIESHEIM">TELE LOCALE BIESHEIM</channel>
     <channel update="i" site="sfr.fr" site_id="205" xmltv_id="TV5 Monde">TV5 Monde</channel>
     <channel update="i" site="sfr.fr" site_id="675" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
     <channel update="i" site="sfr.fr" site_id="116" xmltv_id="BFM Lyon">BFM Lyon</channel>
-    <channel update="i" site="sfr.fr" site_id="732" xmltv_id="OCS Choc">OCS Choc</channel>
     <channel update="i" site="sfr.fr" site_id="1971" xmltv_id="Antenne A">Antenne A</channel>
     <channel update="i" site="sfr.fr" site_id="772" xmltv_id="CCTV-4">CCTV-4</channel>
-    <channel update="i" site="sfr.fr" site_id="283" xmltv_id="Ciné+ Emotion">Ciné+ Emotion</channel>
     <channel update="i" site="sfr.fr" site_id="1750" xmltv_id="Télé Paese">Télé Paese</channel>
     <channel update="i" site="sfr.fr" site_id="1934" xmltv_id="France 3 - Languedoc">France 3 - Languedoc</channel>
     <channel update="i" site="sfr.fr" site_id="2533" xmltv_id="El Djazairia">El Djazairia</channel>
     <channel update="i" site="sfr.fr" site_id="1735" xmltv_id="TELE SCHILTIGHEIM - CANAL">TELE SCHILTIGHEIM - CANAL</channel>
     <channel update="i" site="sfr.fr" site_id="2275" xmltv_id="TVPI">TVPI</channel>
-    <channel update="i" site="telerama.fr" site_id="polar" xmltv_id="PolarPlus.fr">FR| Polar+ (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="1452" xmltv_id="Mens Up TV">Mens Up TV</channel>
     <channel update="i" site="sfr.fr" site_id="2347" xmltv_id="Local Visao">Local Visao</channel>
-    <channel update="i" site="sfr.fr" site_id="1746" xmltv_id="Nickelodeon Teen">Nickelodeon Teen</channel>
     <channel update="i" site="sfr.fr" site_id="958" xmltv_id="Arrabiâ">Arrabiâ</channel>
     <channel update="i" site="sfr.fr" site_id="1922" xmltv_id="France 3 - Alsace">France 3 - Alsace</channel>
     <channel update="i" site="sfr.fr" site_id="537" xmltv_id="Télé Grenoble">Télé Grenoble</channel>
@@ -68,7 +61,6 @@
     <channel update="i" site="sfr.fr" site_id="753" xmltv_id="TRACE CARIBBEAN">TRACE CARIBBEAN</channel>
     <channel update="i" site="sfr.fr" site_id="2777" xmltv_id="KANAL 7 AVRUPA">KANAL 7 AVRUPA</channel>
     <channel update="i" site="sfr.fr" site_id="1185" xmltv_id="Maritima TV">Maritima TV</channel>
-    <channel update="i" site="sfr.fr" site_id="2040" xmltv_id="TOONAMI">TOONAMI</channel>
     <channel update="i" site="sfr.fr" site_id="1041" xmltv_id="TVM">TVM</channel>
     <channel update="i" site="sfr.fr" site_id="580" xmltv_id="Baraem">Baraem</channel>
     <channel update="i" site="sfr.fr" site_id="3042" xmltv_id="TELEFOOT STADIUM 5">TELEFOOT STADIUM 5</channel>
@@ -78,7 +70,6 @@
     <channel update="i" site="sfr.fr" site_id="3038" xmltv_id="TELEFOOT STADIUM 1">TELEFOOT STADIUM 1</channel>
     <channel update="i" site="sfr.fr" site_id="957" xmltv_id="Al Maghribia">Al Maghribia</channel>
     <channel update="i" site="sfr.fr" site_id="1154" xmltv_id="TFM">TFM</channel>
-    <channel update="i" site="sfr.fr" site_id="1585" xmltv_id="J-One">J-One</channel>
     <channel update="i" site="sfr.fr" site_id="2776" xmltv_id="Tamazight 4">Tamazight 4</channel>
     <channel update="i" site="sfr.fr" site_id="2957" xmltv_id="El Bilad TV">El Bilad TV</channel>
     <channel update="i" site="sfr.fr" site_id="876" xmltv_id="TVS2">TVS2</channel>
@@ -110,7 +101,6 @@
     <channel update="i" site="sfr.fr" site_id="346" xmltv_id="Canal Algérie">Canal Algérie</channel>
     <channel update="i" site="sfr.fr" site_id="1166" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel update="i" site="sfr.fr" site_id="2942" xmltv_id="01TV">01TV</channel>
-    <channel update="i" site="sfr.fr" site_id="282" xmltv_id="CinePlusPremier.fr">FR| Cine+ OCS FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="1560" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
     <channel update="i" site="sfr.fr" site_id="665" xmltv_id="Medi1TV">Medi1TV</channel>
     <channel update="i" site="sfr.fr" site_id="6" xmltv_id="Mangas">Mangas</channel>
@@ -130,4 +120,16 @@
     <channel update="i" site="sfr.fr" site_id="2373" xmltv_id="TV2COM">TV2COM</channel>
     <channel update="i" site="sfr.fr" site_id="795" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
     <channel update="i" site="sfr.fr" site_id="561" xmltv_id="Africa 24">Africa 24</channel>
+    <channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
+    <channel update="i" site="sfr.fr" site_id="1703" xmltv_id="Sol Musica">Sol Musica</channel>
+    <channel update="i" site="sfr.fr" site_id="534" xmltv_id="Canal 32">Canal 32</channel>
+    <channel update="i" site="sfr.fr" site_id="781" xmltv_id="i24 news">i24 news</channel>
+    <channel update="i" site="sfr.fr" site_id="1929" xmltv_id="France 3 - Champagne-Ardenne">France 3 - Champagne-Ardenne</channel>
+    <channel update="i" site="sfr.fr" site_id="2301" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel update="i" site="sfr.fr" site_id="789" xmltv_id="RAI SCUOLA">RAI SCUOLA</channel>
+    <channel update="i" site="sfr.fr" site_id="160" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="sfr.fr" site_id="1938" xmltv_id="France 3 - Nord Pas-de-Calais">France 3 - Nord Pas-de-Calais</channel>
+    <channel update="i" site="sfr.fr" site_id="1196" xmltv_id="JSBC International">JSBC International</channel>
+    <channel update="i" site="sfr.fr" site_id="1648" xmltv_id="Rotana Aflam">Rotana Aflam</channel>
+    <channel update="i" site="sfr.fr" site_id="1125" xmltv_id="CGTN-Documentary">CGTN-Documentary</channel>
 </settings>
