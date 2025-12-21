@@ -30,7 +30,6 @@
     <channel update="i" site="sfr.fr" site_id="847" xmltv_id="RTS 1">RTS 1</channel>
     <channel update="i" site="sfr.fr" site_id="1943" xmltv_id="France 3 - Provence Alpes">France 3 - Provence Alpes</channel>
     <channel update="i" site="sfr.fr" site_id="340" xmltv_id="2M Maroc">2M Maroc</channel>
-    <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="713" xmltv_id="24H TVE">24H TVE</channel>
     <channel update="i" site="sfr.fr" site_id="1924" xmltv_id="France 3 - Auvergne">France 3 - Auvergne</channel>
     <channel update="i" site="sfr.fr" site_id="2095" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
@@ -132,4 +131,5 @@
     <channel update="i" site="sfr.fr" site_id="1196" xmltv_id="JSBC International">JSBC International</channel>
     <channel update="i" site="sfr.fr" site_id="1648" xmltv_id="Rotana Aflam">Rotana Aflam</channel>
     <channel update="i" site="sfr.fr" site_id="1125" xmltv_id="CGTN-Documentary">CGTN-Documentary</channel>
+    <channel update="i" site="sfr.fr" site_id="864" xmltv_id="The Israeli Network">The Israeli Network</channel>
 </settings>
