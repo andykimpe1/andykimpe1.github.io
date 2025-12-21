@@ -93,7 +93,6 @@
     <channel update="i" site="sfr.fr" site_id="576" xmltv_id="Armenia TV">Armenia TV</channel>
     <channel update="i" site="sfr.fr" site_id="773" xmltv_id="CCTV YuLe">CCTV YuLe</channel>
     <channel update="i" site="sfr.fr" site_id="858" xmltv_id="TV Congo">TV Congo</channel>
-    <channel update="i" site="sfr.fr" site_id="1562" xmltv_id="ParamountChannel.fr">FR| Paramount Network FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="88" xmltv_id="Histoire">Histoire</channel>
     <channel update="i" site="sfr.fr" site_id="992" xmltv_id="LCP-AN 24/24">LCP-AN 24/24</channel>
     <channel update="i" site="sfr.fr" site_id="880" xmltv_id="Great Wall Elite">Great Wall Elite</channel>
@@ -132,4 +131,9 @@
     <channel update="i" site="sfr.fr" site_id="1648" xmltv_id="Rotana Aflam">Rotana Aflam</channel>
     <channel update="i" site="sfr.fr" site_id="1125" xmltv_id="CGTN-Documentary">CGTN-Documentary</channel>
     <channel update="i" site="sfr.fr" site_id="864" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel update="i" site="sfr.fr" site_id="2054" xmltv_id="Gabon 24">Gabon 24</channel>
+    <channel update="i" site="sfr.fr" site_id="421" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
+    <channel update="i" site="sfr.fr" site_id="273" xmltv_id="TV7 Bordeaux">TV7 Bordeaux</channel>
+    <channel update="i" site="sfr.fr" site_id="1031" xmltv_id="N-TV">N-TV</channel>
+    <channel update="i" site="sfr.fr" site_id="703" xmltv_id="Canal 21">Canal 21</channel>
 </settings>
