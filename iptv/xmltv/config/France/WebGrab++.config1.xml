@@ -46,22 +46,10 @@
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
-    <channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
-    <channel update="i" site="sfr.fr" site_id="1703" xmltv_id="Sol Musica">Sol Musica</channel>
-    <channel update="i" site="sfr.fr" site_id="534" xmltv_id="Canal 32">Canal 32</channel>
     <channel update="i" site="sfr.fr" site_id="287" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
-    <channel update="i" site="sfr.fr" site_id="781" xmltv_id="i24 news">i24 news</channel>
-    <channel update="i" site="sfr.fr" site_id="1929" xmltv_id="France 3 - Champagne-Ardenne">France 3 - Champagne-Ardenne</channel>
-    <channel update="i" site="sfr.fr" site_id="2301" xmltv_id="My Cuisine">My Cuisine</channel>
     <channel update="i" site="sfr.fr" site_id="191" xmltv_id="Téva">Téva</channel>
-    <channel update="i" site="sfr.fr" site_id="789" xmltv_id="RAI SCUOLA">RAI SCUOLA</channel>
-    <channel update="i" site="sfr.fr" site_id="160" xmltv_id="France Ô">France Ô</channel>
-    <channel update="i" site="sfr.fr" site_id="1938" xmltv_id="France 3 - Nord Pas-de-Calais">France 3 - Nord Pas-de-Calais</channel>
-    <channel update="i" site="sfr.fr" site_id="1196" xmltv_id="JSBC International">JSBC International</channel>
     <channel update="i" site="sfr.fr" site_id="265" xmltv_id="MELODY TV">MELODY TV</channel>
     <channel update="i" site="sfr.fr" site_id="453" xmltv_id="M6 Music">M6 Music</channel>
-    <channel update="i" site="sfr.fr" site_id="1648" xmltv_id="Rotana Aflam">Rotana Aflam</channel>
-    <channel update="i" site="sfr.fr" site_id="1125" xmltv_id="CGTN-Documentary">CGTN-Documentary</channel>
     <channel update="i" site="sfr.fr" site_id="930" xmltv_id="BFM Grand Lille">BFM Grand Lille</channel>
     <channel update="i" site="sfr.fr" site_id="1960" xmltv_id="BET">BET</channel>
     <channel update="i" site="sfr.fr" site_id="401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
@@ -265,4 +253,14 @@
     <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="479" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="sfr.fr" site_id="10" xmltv_id="Action">Action</channel>
+    <channel update="i" site="sfr.fr" site_id="32" xmltv_id="CANAL J">CANAL J</channel>
+    <channel update="i" site="sfr.fr" site_id="888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="sfr.fr" site_id="732" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="sfr.fr" site_id="283" xmltv_id="Ciné+ Emotion">Ciné+ Emotion</channel>
+    <channel update="i" site="sfr.fr" site_id="1746" xmltv_id="Nickelodeon Teen">NickToon</channel>
+    <channel update="i" site="sfr.fr" site_id="473" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="sfr.fr" site_id="2040" xmltv_id="TOONAMI">TOONAMI</channel>
+    <channel update="i" site="sfr.fr" site_id="1585" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="telerama.fr" site_id="polar" xmltv_id="PolarPlus.fr">FR| Polar+ (vavoo.to)</channel>
+    <channel update="i" site="sfr.fr" site_id="282" xmltv_id="CinePlusPremier.fr">FR| Cine+ OCS FHD (app.molotov.tv)</channel>
 </settings>
