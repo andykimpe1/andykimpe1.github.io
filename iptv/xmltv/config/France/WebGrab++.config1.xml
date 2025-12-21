@@ -261,8 +261,8 @@
     <channel update="i" site="sfr.fr" site_id="1290" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
     <channel update="i" site="sfr.fr" site_id="1304" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
     <channel update="i" site="sfr.fr" site_id="1335" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
-    <channel update="i" site="sfr.fr" site_id="2373" xmltv_id="TV2COM">TV2COM</channel>
-    <channel update="i" site="sfr.fr" site_id="795" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
-    <channel update="i" site="sfr.fr" site_id="561" xmltv_id="Africa 24">Africa 24</channel>
     <channel update="i" site="sfr.fr" site_id="1073" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
+    <channel update="i" site="sfr.fr" site_id="479" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="sfr.fr" site_id="10" xmltv_id="Action">Action</channel>
 </settings>
