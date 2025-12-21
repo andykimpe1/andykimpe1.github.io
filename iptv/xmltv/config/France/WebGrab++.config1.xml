@@ -34,12 +34,15 @@
     <channel update="i" site="sfr.fr" site_id="1402" xmltv_id="RMCStory.fr">FR| RMC STORY FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="1400" xmltv_id="RMCdecouverte.fr">FR| RMC Decouverte FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="1399" xmltv_id="Cherie25.fr">FR| RMC Life FHD (app.molotov.tv)</channel>
+    <channel update="i" site="sfr.fr" site_id="191" xmltv_id="Teva.fr">FR| Teva FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="145" xmltv_id="ParisPremiere.fr">FR| Paris Premiere FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="115" xmltv_id="RTL9.fr">FR| RTL9 FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="225" xmltv_id="TvBreizh.fr">FR| TV BREIZH FHD (tv.sfr.fr)</channel>
     <channel update="i" site="sfr.fr" site_id="49" xmltv_id="serieclub.fr">FR| Serie Club FHD (tv.sfr.fr)</channel>
     <channel update="i" site="sfr.fr" site_id="5" xmltv_id="AB1.fr">FR| AB1 FHD (app.molotov.tv)</channel>
     <channel update="i" site="telerama.fr" site_id="canal" xmltv_id="CanalPlus.fr">FR| CANAL+ (vavoo.to)</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-cinema-s" xmltv_id="CanalPlusCinema.fr">FR| CANAL+ CINEMA (vavoo.to)</channel>
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
@@ -47,14 +50,12 @@
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <!--<channel update="i" site="sfr.fr" site_id="2166" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>-->
     <channel update="i" site="sfr.fr" site_id="287" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
-    <channel update="i" site="sfr.fr" site_id="191" xmltv_id="Téva">Téva</channel>
     <channel update="i" site="sfr.fr" site_id="265" xmltv_id="MELODY TV">MELODY TV</channel>
     <channel update="i" site="sfr.fr" site_id="453" xmltv_id="M6 Music">M6 Music</channel>
     <channel update="i" site="sfr.fr" site_id="930" xmltv_id="BFM Grand Lille">BFM Grand Lille</channel>
     <channel update="i" site="sfr.fr" site_id="1960" xmltv_id="BET">BET</channel>
     <channel update="i" site="sfr.fr" site_id="401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
     <channel update="i" site="sfr.fr" site_id="262" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="sfr.fr" site_id="864" xmltv_id="The Israeli Network">The Israeli Network</channel>
     <channel update="i" site="sfr.fr" site_id="2054" xmltv_id="Gabon 24">Gabon 24</channel>
     <channel update="i" site="sfr.fr" site_id="928" xmltv_id="Boomerang +1">Boomerang +1</channel>
     <channel update="i" site="sfr.fr" site_id="421" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
@@ -250,7 +251,6 @@
     <channel update="i" site="sfr.fr" site_id="1304" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
     <channel update="i" site="sfr.fr" site_id="1335" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
     <channel update="i" site="sfr.fr" site_id="1073" xmltv_id="BFM Business">BFM Business</channel>
-    <channel update="i" site="telerama.fr" site_id="canal-grand-ecran" xmltv_id="CanalPlusGrandEcran.fr">FR| CANAL+ GRAND ECRAN (vavoo.to)</channel>
     <channel update="i" site="sfr.fr" site_id="479" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="sfr.fr" site_id="10" xmltv_id="Action">Action</channel>
     <channel update="i" site="sfr.fr" site_id="32" xmltv_id="CANAL J">CANAL J</channel>
