@@ -885,13 +885,11 @@ https://www.andykimpe.ovh/rts1.php/index.m3u8|User-Agent=USERAGENT
 #EXTINF:-1 tvg-id="RTSUn.ch" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 1 (rts play 1)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b3f5686cf6e4f469cb110bd2ae57bd0:36db45d206f66fafdebbd8a329c40275
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=151.236.26.48
-https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7201
+https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7201|User-Agent=USERAGENT&X-Forwarded-For=151.236.26.48
 #EXTINF:-1 tvg-id="RTSUn.ch" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 1 (rts play 2)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|36db45d206f66fafdebbd8a329c40275:2b3f5686cf6e4f469cb110bd2ae57bd0
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=151.236.26.48
-https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7201
+https://lsvs-rts1-d.akamaized.net/out/v1/9bd2958c2c564691b8dd08fc652d4d6e/index.mpd?dw=7201|User-Agent=USERAGENT&X-Forwarded-For=151.236.26.48
 #EXTINF:-1 tvg-id="RTSDeux.ch" tvg-logo="https://static.teleboy.ch/shared/stations/305/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 2
 https://www.andykimpe.ovh/rts2.php/index.m3u8|User-Agent=USERAGENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RTS_Info_Logo_2023.svg/2560px-RTS_Info_Logo_2023.svg.png" group-title="CH| SUISSE FHD HD",CH| RTS info
