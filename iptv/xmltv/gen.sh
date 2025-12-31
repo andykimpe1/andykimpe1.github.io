@@ -69,6 +69,10 @@ cat $HOME/.wg++/France.xml >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 echo '</tv>' >> $HOME/andykimpe1.github.io/iptv/xmltv/guide.xml
 rm -f $HOME/andykimpe1.github.io/iptv/xmltv/France.xml
 cd $HOME/andykimpe1.github.io
+curl -4 https://subscription.digital.api.abweb.com/api/player/flux/live/abx/abxplore/dash \
+-x 192.71.249.49:22222 -U user-uuid-d5f9d46285b14c8fb78fd3b64dc900f9-is_prem-0:04d9e581a0ab \
+-H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ4QkI0RTAyQUI4RjMyOUFEMkIwRTBDRUJGNTNDQTZDIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3NjcxNDU1NzEsImV4cCI6MTc2Nzc1MDM3MSwiaXNzIjoiaHR0cHM6Ly9hcHAuYXV0aC5kaWdpdGFsLmFid2ViLmNvbSIsImF1ZCI6ImFiZGlnaXRhbC1zdWJzY3JpcHRpb24tYXBpIiwiY2xpZW50X2lkIjoiYWJ4Iiwic3ViIjoiOTM1NzE5IiwiYXV0aF90aW1lIjoxNzY3MTQ0NjUwLCJpZHAiOiJsb2NhbCIsImZhbWlseV9uYW1lIjoia2ltcGUiLCJlbWFpbCI6ImFuZHlraW1wZUBnbWFpbC5jb20iLCJnaXZlbl9uYW1lIjoiYW5keSIsInVwZGF0ZWRfYXQiOiIyMDI1LTA3LTExVDEzOjI3OjEyWiIsInJlZ2lzdHJhdGlvbl9vcmlnaW4iOiJCSVNUVk9MIiwibGFzdF9sb2dpbl9kYXRlIjoiNjM5MDI3NDE0NTA0ODM2MDU3IiwianRpIjoiOTdCMjRFMTE4MTNBQjI5N0JCQjI1NzJDRjFENUUwNzIiLCJzaWQiOiIxMEFCQzFCNzZDQUNEOEZEQTAwQzAxNDEzQjYyRjA4RiIsImlhdCI6MTc2NzE0NDY1MSwic2NvcGUiOlsib3BlbmlkIiwicHJvZmlsZSIsImVtYWlsIiwib2ZmbGluZV9hY2Nlc3MiXSwiYW1yIjpbInB3ZCJdfQ.AkIGX8KEgm9u3dcOVnEFfpwe1NKb5WSTT5ixkjSpQazLTvOOpqnL_-dABK3gJTPAfMbsHqwANsEED0qVaSM5ZwCbhZTa55tXf07mbCH29XnDIGZ3o3PJH3uwE4M7LjKAdmqxwMtPkbbGYe7CAcrzPQ38IL5B6P2YjwWiKv2F1gLV3FslTYlA1-k2sxRq9f1dwSsh2N3pEJONbblmGYmAjGQPbCORHGAPsP58JFg9D9Sg3n-Gi4Mpue1_7cQ-x8CwO2ao5V6P-W0XnDxQoxaXYYeTaxOEhuy-NaLE8hjLCV7TfCRKllQF_efEiGNdmOGet1aiZrwr1d6kFg13ydRDaA' \
+| sed 's|{"subscriptionRequestStatus":1,"subscriptionReference":null,"streamBaseUrl":"https://mdw-cji.akamaized.net","hdnts":"|?hdnts=|' | sed 's|","smToken":null}||'> $HOME/andykimpe1.github.io/iptv/streams/be/abxplore.auth
 git add --all *
 git commit -a -m "update epg"
 git push origin main
