@@ -881,7 +881,7 @@ https://live-video-rtlplay.dpgmedia.net/e087512ad0c32643/out/v1/f6878bbf82344c32
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=USERAGENT
 https://mdw-cji.akamaized.net/ab3/dash/manifest.mpd
 #EXTINF:-1 tvg-id="ABXplore.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QCN3TmJiRZEeLruGMyzDH6X1f5Bs1JPncg&s" group-title="BE| BELGIQUE FHD HD",BE| ABXplore HD
-http://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1767236116~acl=/abxplore/dash/*~hmac=ecb22eb155c9f5762b750cd82830b20e6ed5848fa2c7ffddea5cd88acb2fb40a|User-Agent=USERAGENT
+http://mdw-cji.akamaized.net/abxplore/dash/manifest.mpdABXPLOREAUTH|User-Agent=USERAGENT
 #EXTINF:-1 tvg-id="RTSUn.ch" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 1
 https://www.andykimpe.ovh/rts1.php/index.m3u8|User-Agent=USERAGENT
 #EXTINF:-1 tvg-id="RTSDeux.ch" tvg-logo="https://static.teleboy.ch/shared/stations/305/icon320_light.png?v2023_48_0" group-title="CH| SUISSE FHD HD",CH| RTS 2
