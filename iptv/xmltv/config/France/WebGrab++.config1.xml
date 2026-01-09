@@ -144,11 +144,11 @@
     <channel update="i" site="sfr.fr" site_id="282" xmltv_id="CinePlusPremier.fr">FR| Cine+ OCS FHD (app.molotov.tv)</channel>
     <channel update="i" site="sfr.fr" site_id="1776" xmltv_id="TREK">TREK</channel>
     <channel update="i" site="sfr.fr" site_id="730" xmltv_id="OCS Max">OCS Max</channel>
-    <channel update="i" site="telenet.tv.be" site_id="launehd##MM08C" xmltv_id="LaUne.be">BE| La Une HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="ladeuxhd##MM08E" xmltv_id="Tipik.be">BE| Tipik HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="latrois##MM281" xmltv_id="LaTrois.be">BE| La Trois HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="rtltvihd##MM11F" xmltv_id="RTLTVI.be">BE| RTL TVI HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="clubrtlhd##MM11E" xmltv_id="ClubRTL.be">BE| Club RTL HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="plugrtl##MM07A" xmltv_id="PlugRTL.be">BE| Plug RTL HD</channel>
-    <channel update="i" site="telenet.tv.be" site_id="ab3##MM0D2" xmltv_id="AB3.be">BE| AB3 HD</channel>
+    <channel update="i" site="rtbf.be" site_id="laune" xmltv_id="LaUne.be">BE| La Une HD</channel>
+    <channel update="i" site="rtbf.be" site_id="tipik" xmltv_id="Tipik.be">BE| Tipik HD</channel>
+    <channel update="i" site="rtbf.be" site_id="latrois" xmltv_id="LaTrois.be">BE| La Trois HD</channel>
+    <channel update="i" site="tv.telepro.be" site_id="rtl-tvi-168" xmltv_id="RTLTVI.be">BE| RTL TVI HD</channel>
+    <channel update="i" site="tv.telepro.be" site_id="rtl-club-50" xmltv_id="ClubRTL.be">BE| Club RTL HD</channel>
+    <channel update="i" site="tv.telepro.be" site_id="rtl-plug-377" xmltv_id="PlugRTL.be">BE| Plug RTL HD</channel>
+    <channel update="i" site="tv.telepro.be" site_id="ab3-channel-254" xmltv_id="AB3.be">BE| AB3 HD</channel>
 </settings>
