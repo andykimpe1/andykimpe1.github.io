@@ -154,13 +154,17 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$SERIECLUB/index.mpd/Manifest?start=LIVE
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afdb17c886334904b28d80ba03d0b28e:1cd013cf83a7073dea87815478dfe06c
 https://live-up.akamaized.net/public/ab1/ab1.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (vavoo.to blocage DNS)
 plugin://plugin.video.vavooto/?name=CANAL%2B
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (vavoo.to blocage DNS)
 plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3779.png" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-33.png" group-title="FR| CINEMA",FR| CANAL+ CINEMA (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/21.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3779.png" group-title="FR| CINEMA",FR| CANAL+ BOX OFFICE (vavoo.to blocage DNS pas d'autre source)
 plugin://plugin.video.vavooto/?name=CANAL%2B+BOX+OFFICE
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1562.png" group-title="FR| CINEMA",FR| Paramount Network FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -172,8 +176,8 @@ https://live-up.akamaized.net/public/paramountchannel/paramountchannel.isml/mast
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|856228f3d93fdf9ef3c730bd07ed13b6:7c71db4f8db60a06b24208da3a0bfd1f
 https://live-up.akamaized.net/public/paramountchanneldecale/paramountchanneldecale.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA",FR| Polar+ (vavoo.to)
-plugin://plugin.video.vavooto/?name=POLAR%2B
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-2326.png" group-title="FR| CINEMA",FR| Polar+ (vavoo.to blocage DNS pas d'autre source)
+https://vavoo.to/play/2370188978/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUr6cid6HzP2mEdQ4-25sQFqSklhsSA3BuZw/png" group-title="FR| CINEMA",FR| FranceTV Séries FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -229,10 +233,14 @@ https://live-up.akamaized.net/public/action/action.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|272d5a37e00060f34c6850dfa5097df3:8b7f271ab3e4cff950474be7c1e8e307
 https://live-up.akamaized.net/public/drivein/drivein.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (vavoo.to blocage DNS)
 plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" group-title="FR| JEUNESSES",FR| CANAL+ KIDS (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/95.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (vavoo.to blocage DNS)
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-58.png" group-title="FR| JEUNESSES",FR| Disney Channel (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/72.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2334.png" group-title="FR| JEUNESSES",FR| Warner TV FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=Accept=*/*&Origin=https://tv.sfr.fr&Referer=https://tv.sfr.fr/&User-Agent=USERAGENT
@@ -323,8 +331,10 @@ https://live-up.akamaized.net/public/gong/gong.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c0d802aba9a34e8eb14472bb3d35c594:bb1c4ac879a88ddb5a3f1fbdd91ac2c0
 https://live-up.akamaized.net/public/gongmax/gongmax.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" group-title="FR| INFOS",FR| CANAL+ DOCS (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/43.m3u8
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOmono.png" group-title="FR| INFOS",FR| RMC Talk Info FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
@@ -520,10 +530,14 @@ https://live-up.akamaized.net/public/efrance/efrance.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f27b1b5e5fd5f62f530916bae5362b89:1bc7bb93949f48f75aa692a0df461afd
 https://live-up.akamaized.net/public/dreamworksfr/dreamworksfr.isml/master.m3u8?MOLOTOSIGN
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to)
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to)
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-439.png" group-title="FR| SPORTS",FR| EUROSPORT 2 (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/17.m3u8
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-1290.png" group-title="FR| SPORTS",FR| BEIN SPORT 1 FHD (tv.sfr.fr)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
@@ -594,19 +608,19 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest?start=
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
-#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vavoo.to)
-plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+1
-#EXTINF:-1 tvg-id="Ligue1Plus2.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 2 (vavoo.to)
-plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+2
-#EXTINF:-1 tvg-id="Ligue1Plus3.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 3 (vavoo.to)
-plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+3
-#EXTINF:-1 tvg-id="Ligue1Plus4.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 4 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vavoo.to blocage dns)
+https://vavoo.to/play/2117784948/index.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus2.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 2 (vavoo.to blocage dns)
+https://vavoo.to/play/1224881617/index.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus3.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 3 (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/22.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus4.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 4 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+4
-#EXTINF:-1 tvg-id="Ligue1Plus5.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 5 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus5.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 5 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+5
-#EXTINF:-1 tvg-id="Ligue1Plus6.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 6 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus6.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 6 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+6
-#EXTINF:-1 tvg-id="Ligue1Plus7.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 7 (vavoo.to)
+#EXTINF:-1 tvg-id="Ligue1Plus7.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 7 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+7
 #EXTINF:-1 tvg-id="Ligue1Plus8.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 8
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
@@ -614,12 +628,18 @@ https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
 #EXTINF:-1 tvg-id="Ligue1Plus10.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ 10
 https://andykimpe1.github.io/iptv/streams/fr/indisponible.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3504.png" group-title="FR| SPORTS",FR| CANAL+ SPORT 360 (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3504.png" group-title="FR| SPORTS",FR| CANAL+ SPORT 360 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+360
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORTS",FR| CANAL+ FOOT (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-3504.png" group-title="FR| SPORTS",FR| CANAL+ SPORT 360 (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORTS",FR| CANAL+ FOOT (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=FOOT%2B
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-35.png" group-title="FR| SPORTS",FR| CANAL+ SPORT (vavoo.to)
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="FR| SPORTS",FR| CANAL+ FOOT (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-35.png" group-title="FR| SPORTS",FR| CANAL+ SPORT (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-35.png" group-title="FR| SPORTS",FR| CANAL+ SPORT (witv)
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoU5Fcuwz9Ln8VNMBB5Jb56O3-DZXgSA3BuZw/png" group-title="FR| SPORTS",FR| Alerte Foot TV FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
