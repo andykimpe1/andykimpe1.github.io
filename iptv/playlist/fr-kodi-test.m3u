@@ -196,21 +196,37 @@ https://live-up.akamaized.net/public/francetvseries/francetvseries.isml/master.m
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7518fc22323da9c2094daa4816ee5d8c:0be70bf2a2f4917fa1bb01daadf7dee2
 https://live-up.akamaized.net/public/cineplusocs/cineplusocs.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUJhCp_2TjU9BLkg85nX2Sxws0XYoSA3BuZw/png" group-title="FR| CINEMA",FR| Cine+ OCS FHD (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/89.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-284.png" group-title="FR| CINEMA",FR| Cine+ Frisson FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|87abb25450fa11f0874a1aa947a74620:630564e2314ce7fb91aa831e1e1ebf03
 https://live-up.akamaized.net/public/cineplusfrisson/cineplusfrisson.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-284.png" group-title="FR| CINEMA",FR| Cine+ Frisson FHD (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/69.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-283.png" group-title="FR| CINEMA",FR| Cine+ Emotion FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9d333e1f907bec24d700dc6c7e2168af:6312490e6d4519a04e27c87ae2010bc9
 https://live-up.akamaized.net/public/cineplusemotion/cineplusemotion.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-283.png" group-title="FR| CINEMA",FR| Cine+ Emotion FHD (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/85.m3u8
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUfBukQGSeC56HwU2dB98ezNOkbw8SA3BuZw/png" group-title="FR| CINEMA",FR| Cine+ Family FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5e2a1439e68e982163f776c861b9a9c5:ddcb93c8a17544d80fb52c3279183e29
 https://live-up.akamaized.net/public/cineplusfamily/cineplusfamily.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUfBukQGSeC56HwU2dB98ezNOkbw8SA3BuZw/png" group-title="FR| CINEMA",FR| Cine+ Family FHD (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/86.m3u8
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-logo="https://fusion.molotov.tv/arts/i/150x150/Ch0SGwoUarR0p8gFAqiUrteDEfF_Uf2SkMsSA3BuZw/png" group-title="FR| CINEMA",FR| Cine+ Festival FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
@@ -221,6 +237,10 @@ https://live-up.akamaized.net/public/cineplusfestival/cineplusfestival.isml/mast
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d479b973a129faa761dd194ab4765603:4e9e07ab7b5e38dcc27adc9a51ba83f9
 https://live-up.akamaized.net/public/cineplusclassic/cineplusclassic.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-287.png" group-title="FR| CINEMA",FR| Cine+ Classic FHD (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/84.m3u8
 #EXTINF:-1 tvg-id="13eRue.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2.png" group-title="FR| CINEMA",FR| 13EME Rue FHD (app.molotov.tv)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
