@@ -157,6 +157,8 @@ https://live-up.akamaized.net/public/ab1/ab1.isml/master.m3u8?MOLOTOSIGN
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (vavoo.to blocage DNS)
 plugin://plugin.video.vavooto/?name=CANAL%2B
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FR| CINEMA;FR| SPORTS",FR| CANAL+ (witv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
 https://lansdrud.space:443/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FB/CHN43FB_900_29082023" group-title="FR| CINEMA",FR| CANAL+ GRAND ECRAN (vavoo.to)
 plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN
