@@ -651,7 +651,7 @@ https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest?start=
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699
 https://ncdn-live.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 #EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vstream lien 1)
-plugin://plugin.video.vstream/?site=elitegol&function=showHoster&title=Ligue+1+-+Lien+1&siteUrl=player%2F2%2F20&sMovieTitle=Ligue+1+&sDesc=Ligue+1+&sThumb=https%3A%2F%2Fwww.lensois.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fligue-1-1.jpg&sFav=showHoster
+plugin://plugin.video.vstream/?site=elitegol&function=showHoster&title=Ligue+1%2B+-+Lien+1&siteUrl=player%2F2%2F20&sMovieTitle=Ligue+1%2B&sDesc=Ligue+1%2B&sThumb=https%3A%2F%2Fwww.lensois.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fligue-1-1.jpg&sFav=showHoster
 #EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-logo="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" group-title="FR| SPORTS",FR| Ligue 1+ (vavoo.to blocage dns)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
