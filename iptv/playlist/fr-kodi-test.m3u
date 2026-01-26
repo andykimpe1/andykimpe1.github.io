@@ -564,6 +564,10 @@ https://live-up.akamaized.net/public/efrance/efrance.isml/master.m3u8?MOLOTOSIGN
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*&Origin=https://app.molotov.tv&Referer=https://app.molotov.tv/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f27b1b5e5fd5f62f530916bae5362b89:1bc7bb93949f48f75aa692a0df461afd
 https://live-up.akamaized.net/public/dreamworksfr/dreamworksfr.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/langfr-1280px-PlanetePlus_2011.svg.png" group-title="FR| DECOUVERTES",FR| Planete + (viamotionhsi.netplus.ch)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=USERAGENT&Accept=*/*
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (vavoo.to blocage dns)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-76.png" group-title="FR| SPORTS",FR| EUROSPORT 1 (witv)
